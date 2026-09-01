@@ -1,0 +1,2007 @@
+[
+  {
+    "id": "aqara-hub-m3",
+    "sku": "HM3-G01",
+    "brand": "aqara",
+    "sourceBrand": "Aqara",
+    "model": "Hub M3",
+    "category": "domotique",
+    "subcategory": "passerelles-hubs",
+    "i18n": {
+      "fr": {
+        "name": "Aqara Hub M3",
+        "tagline": "La passerelle Zigbee, Thread et Matter de votre maison.",
+        "description": "Passerelle domestique qui combine Zigbee 3.0, Thread (border router) et Wi-Fi pour relier jusqu'à 128 accessoires Aqara et exposer votre installation aux écosystèmes Apple, Google et Amazon via Matter. Port Ethernet, haut-parleur intégré pour les alertes et scénarios locaux qui continuent de fonctionner même sans connexion Internet.",
+        "highlights": [
+          "Zigbee 3.0 + Thread border router + Matter 1.0",
+          "Jusqu'à 128 accessoires Aqara raccordés",
+          "Port Ethernet et haut-parleur intégré pour les alertes",
+          "Scénarios locaux actifs sans Internet"
+        ],
+        "inTheBox": [
+          "Hub M3",
+          "Câble USB-C",
+          "Bloc secteur",
+          "Guide de démarrage"
+        ]
+      },
+      "en": {
+        "name": "Aqara Hub M3",
+        "tagline": "The Zigbee, Thread and Matter gateway for your home.",
+        "description": "Home gateway combining Zigbee 3.0, a Thread border router and Wi-Fi to connect up to 128 Aqara accessories and expose your setup to the Apple, Google and Amazon ecosystems through Matter. Ethernet port, a built-in speaker for alerts, and local scenes that keep running even without an internet connection.",
+        "highlights": [
+          "Zigbee 3.0 + Thread border router + Matter 1.0",
+          "Up to 128 connected Aqara accessories",
+          "Ethernet port and built-in speaker for alerts",
+          "Local scenes stay active without internet"
+        ],
+        "inTheBox": [
+          "Hub M3",
+          "USB-C cable",
+          "Power adapter",
+          "Quick start guide"
+        ]
+      },
+      "es": {
+        "name": "Aqara Hub M3",
+        "tagline": "La pasarela Zigbee, Thread y Matter de tu hogar.",
+        "description": "Pasarela doméstica que combina Zigbee 3.0, un border router Thread y Wi-Fi para conectar hasta 128 accesorios Aqara y exponer tu instalación a los ecosistemas Apple, Google y Amazon mediante Matter. Puerto Ethernet, altavoz integrado para alertas y escenas locales que siguen funcionando sin conexión a Internet.",
+        "highlights": [
+          "Zigbee 3.0 + border router Thread + Matter 1.0",
+          "Hasta 128 accesorios Aqara conectados",
+          "Puerto Ethernet y altavoz integrado para alertas",
+          "Escenas locales activas sin Internet"
+        ],
+        "inTheBox": [
+          "Hub M3",
+          "Cable USB-C",
+          "Adaptador de corriente",
+          "Guía de inicio rápido"
+        ]
+      },
+      "ar": {
+        "name": "Aqara Hub M3",
+        "tagline": "بوابة منزلك عبر Zigbee وThread وMatter.",
+        "description": "بوابة منزلية تجمع بين Zigbee 3.0 وموجه حدود Thread وWi-Fi لربط ما يصل إلى 128 جهاز Aqara وإتاحة تركيبك لأنظمة Apple وGoogle وAmazon عبر Matter. تتضمن منفذ إيثرنت ومكبر صوت مدمجاً للتنبيهات وسيناريوهات محلية تستمر بالعمل حتى دون اتصال بالإنترنت.",
+        "highlights": [
+          "Zigbee 3.0 وموجه حدود Thread وMatter 1.0",
+          "حتى 128 جهاز Aqara متصلاً",
+          "منفذ إيثرنت ومكبر صوت مدمج للتنبيهات",
+          "سيناريوهات محلية تعمل دون إنترنت"
+        ],
+        "inTheBox": [
+          "محور Hub M3",
+          "كابل USB-C",
+          "محول كهربائي",
+          "دليل البدء السريع"
+        ]
+      },
+      "zh": {
+        "name": "Aqara Hub M3 智能中枢",
+        "tagline": "融合 Zigbee、Thread 与 Matter 的智能家居网关。",
+        "description": "融合 Zigbee 3.0、Thread 边界路由器与 Wi-Fi 的家庭网关，可连接多达 128 个 Aqara 设备，并通过 Matter 将系统接入 Apple、Google 与 Amazon 生态。配备以太网接口和内置扬声器用于语音提醒，本地场景在断网时依然可正常运行。",
+        "highlights": [
+          "Zigbee 3.0 + Thread 边界路由器 + Matter 1.0",
+          "最多连接 128 个 Aqara 设备",
+          "以太网接口与内置扬声器提醒",
+          "本地场景断网仍可运行"
+        ],
+        "inTheBox": [
+          "Hub M3 主机",
+          "USB-C 数据线",
+          "电源适配器",
+          "快速入门指南"
+        ]
+      }
+    },
+    "attributes": {
+      "protocol": [
+        "zigbee",
+        "thread-matter",
+        "wifi"
+      ],
+      "placement": "interieur",
+      "power": [
+        "secteur"
+      ],
+      "compat": [
+        "matter",
+        "apple-home",
+        "google",
+        "alexa",
+        "app-marque",
+        "safer-platform"
+      ]
+    },
+    "specs": [
+      {
+        "key": "protocol",
+        "value": "Zigbee 3.0, Thread 1.3 (border router), Wi-Fi 2,4 GHz"
+      },
+      {
+        "key": "connectivity",
+        "value": {
+          "fr": "Ethernet RJ45, Bluetooth 5.1 pour l'appairage",
+          "en": "Ethernet RJ45, Bluetooth 5.1 for pairing",
+          "es": "Ethernet RJ45, Bluetooth 5.1 para el emparejamiento",
+          "ar": "إيثرنت RJ45، بلوتوث 5.1 للإقران",
+          "zh": "以太网RJ45接口，蓝牙5.1用于配对"
+        }
+      },
+      {
+        "key": "capacity",
+        "value": {
+          "fr": "Jusqu'à 128 accessoires Zigbee",
+          "en": "Up to 128 Zigbee accessories",
+          "es": "Hasta 128 accesorios Zigbee",
+          "ar": "حتى 128 جهاز Zigbee",
+          "zh": "最多支持128个Zigbee配件"
+        }
+      },
+      {
+        "key": "range",
+        "value": {
+          "fr": "Zigbee jusqu'à 30 m en intérieur",
+          "en": "Zigbee up to 30 m indoors",
+          "es": "Zigbee hasta 30 m en interiores",
+          "ar": "Zigbee حتى 30 م داخل المبنى",
+          "zh": "Zigbee室内最远30米"
+        }
+      },
+      {
+        "key": "power",
+        "value": "USB-C, 5 V / 2 A"
+      },
+      {
+        "key": "dimensions",
+        "value": "Ø 98 × 27 mm"
+      },
+      {
+        "key": "operatingTemp",
+        "value": "0 °C … 40 °C"
+      },
+      {
+        "key": "compatibility",
+        "value": "Apple HomeKit, Google Home, Amazon Alexa, Matter"
+      },
+      {
+        "key": "app",
+        "value": "Aqara Home"
+      }
+    ],
+    "pricing": {
+      "sourcePrice": 59.99,
+      "sourceCurrency": "USD"
+    },
+    "availability": "en-stock",
+    "install": {
+      "level": "simple",
+      "duration": "15 min",
+      "prerequisites": {
+        "fr": "Wi-Fi 2,4 GHz et prise secteur à proximité de l'emplacement central du logement.",
+        "en": "2.4 GHz Wi-Fi and a mains outlet near the home's central location.",
+        "es": "Wi-Fi de 2,4 GHz y toma de corriente cerca del punto central de la vivienda.",
+        "ar": "شبكة Wi-Fi بتردد 2.4 جيجاهرتز ومقبس كهرباء قرب النقطة المركزية للمسكن.",
+        "zh": "住宅中心位置附近需有 2.4 GHz Wi-Fi 和电源插座。"
+      }
+    },
+    "sourceUrl": "https://www.aqara.com/en/product/hub-m3",
+    "accent": "#6d28d9",
+    "symbol": "⌁",
+    "featured": true,
+    "solutions": [
+      "domotique/scenarios-intelligents",
+      "domotique/pilotage-energie"
+    ],
+    "related": [
+      "aqara-hub-m2",
+      "aqara-motion-sensor-p1",
+      "aqara-door-window-sensor-p2"
+    ]
+  },
+  {
+    "id": "aqara-hub-m2",
+    "sku": "ZHWG12LM",
+    "brand": "aqara",
+    "sourceBrand": "Aqara",
+    "model": "Hub M2",
+    "category": "domotique",
+    "subcategory": "passerelles-hubs",
+    "i18n": {
+      "fr": {
+        "name": "Aqara Hub M2",
+        "tagline": "La passerelle Zigbee compacte pour démarrer votre installation.",
+        "description": "Passerelle Wi-Fi et Zigbee 3.0 qui relie capteurs, prises et accessoires Aqara à votre réseau et à l'application. Elle exécute les automatisations locales, diffuse des sons d'alarme via son haut-parleur intégré et fait office d'émetteur infrarouge pour piloter climatiseurs et téléviseurs existants.",
+        "highlights": [
+          "Zigbee 3.0 vers Wi-Fi 2,4 GHz",
+          "Émetteur infrarouge intégré (clim, TV)",
+          "Haut-parleur pour sirène et alertes vocales",
+          "Compatible Apple HomeKit, Alexa et Google Home"
+        ],
+        "inTheBox": [
+          "Hub M2",
+          "Câble USB-C",
+          "Bloc secteur",
+          "Guide de démarrage"
+        ]
+      },
+      "en": {
+        "name": "Aqara Hub M2",
+        "tagline": "The compact Zigbee gateway to start your setup.",
+        "description": "Wi-Fi and Zigbee 3.0 gateway that connects Aqara sensors, plugs and accessories to your network and the app. It runs local automations, plays alarm sounds through its built-in speaker, and doubles as an infrared blaster to control existing air conditioners and TVs.",
+        "highlights": [
+          "Zigbee 3.0 to 2.4 GHz Wi-Fi bridge",
+          "Built-in IR blaster (AC, TV)",
+          "Speaker for siren and voice alerts",
+          "Works with Apple HomeKit, Alexa and Google Home"
+        ],
+        "inTheBox": [
+          "Hub M2",
+          "USB-C cable",
+          "Power adapter",
+          "Quick start guide"
+        ]
+      },
+      "es": {
+        "name": "Aqara Hub M2",
+        "tagline": "La pasarela Zigbee compacta para empezar tu instalación.",
+        "description": "Pasarela Wi-Fi y Zigbee 3.0 que conecta sensores, enchufes y accesorios Aqara a tu red y a la aplicación. Ejecuta automatizaciones locales, reproduce sonidos de alarma mediante su altavoz integrado y funciona como emisor infrarrojo para controlar aires acondicionados y televisores existentes.",
+        "highlights": [
+          "Puente Zigbee 3.0 a Wi-Fi de 2,4 GHz",
+          "Emisor infrarrojo integrado (aire acondicionado, TV)",
+          "Altavoz para sirena y alertas de voz",
+          "Compatible con Apple HomeKit, Alexa y Google Home"
+        ],
+        "inTheBox": [
+          "Hub M2",
+          "Cable USB-C",
+          "Adaptador de corriente",
+          "Guía de inicio rápido"
+        ]
+      },
+      "ar": {
+        "name": "Aqara Hub M2",
+        "tagline": "بوابة Zigbee مدمجة لبدء تركيبك الذكي.",
+        "description": "بوابة Wi-Fi وZigbee 3.0 تربط حساسات ومقابس وأجهزة Aqara بشبكتك وبالتطبيق. تنفّذ الأتمتة المحلية، وتصدر أصوات الإنذار عبر مكبر الصوت المدمج، وتعمل كباعث أشعة تحت حمراء للتحكم بمكيفات الهواء والتلفزيونات الحالية.",
+        "highlights": [
+          "جسر Zigbee 3.0 إلى Wi-Fi بتردد 2.4 جيجاهرتز",
+          "باعث أشعة تحت حمراء مدمج (تكييف، تلفزيون)",
+          "مكبر صوت للإنذار والتنبيهات الصوتية",
+          "يعمل مع Apple HomeKit وAlexa وGoogle Home"
+        ],
+        "inTheBox": [
+          "محور Hub M2",
+          "كابل USB-C",
+          "محول كهربائي",
+          "دليل البدء السريع"
+        ]
+      },
+      "zh": {
+        "name": "Aqara Hub M2 智能网关",
+        "tagline": "紧凑型 Zigbee 网关，轻松开启智能家居。",
+        "description": "融合 Wi-Fi 与 Zigbee 3.0 的网关，将 Aqara 传感器、插座与配件接入网络和应用。支持本地自动化场景，通过内置扬声器播放警报提示音，并可作为红外发射器控制现有空调与电视。",
+        "highlights": [
+          "Zigbee 3.0 转 2.4 GHz Wi-Fi 桥接",
+          "内置红外发射器（空调、电视）",
+          "扬声器支持警报与语音提醒",
+          "兼容 Apple HomeKit、Alexa 与 Google Home"
+        ],
+        "inTheBox": [
+          "Hub M2 主机",
+          "USB-C 数据线",
+          "电源适配器",
+          "快速入门指南"
+        ]
+      }
+    },
+    "attributes": {
+      "protocol": [
+        "zigbee",
+        "wifi"
+      ],
+      "placement": "interieur",
+      "power": [
+        "secteur"
+      ],
+      "compat": [
+        "apple-home",
+        "google",
+        "alexa",
+        "app-marque",
+        "safer-platform"
+      ]
+    },
+    "specs": [
+      {
+        "key": "protocol",
+        "value": "Zigbee 3.0, Wi-Fi 2,4 GHz"
+      },
+      {
+        "key": "connectivity",
+        "value": {
+          "fr": "Bluetooth pour l'appairage initial",
+          "en": "Bluetooth for initial pairing",
+          "es": "Bluetooth para el emparejamiento inicial",
+          "ar": "بلوتوث للإقران الأولي",
+          "zh": "蓝牙用于初次配对"
+        }
+      },
+      {
+        "key": "capacity",
+        "value": {
+          "fr": "Jusqu'à 128 accessoires Zigbee",
+          "en": "Up to 128 Zigbee accessories",
+          "es": "Hasta 128 accesorios Zigbee",
+          "ar": "حتى 128 جهاز Zigbee",
+          "zh": "最多支持128个Zigbee配件"
+        }
+      },
+      {
+        "key": "range",
+        "value": {
+          "fr": "Zigbee jusqu'à 25 m en intérieur",
+          "en": "Zigbee up to 25 m indoors",
+          "es": "Zigbee hasta 25 m en interiores",
+          "ar": "Zigbee حتى 25 م داخل المبنى",
+          "zh": "Zigbee室内最远25米"
+        }
+      },
+      {
+        "key": "power",
+        "value": "USB-C, 5 V / 1 A"
+      },
+      {
+        "key": "dimensions",
+        "value": "90 × 90 × 24 mm"
+      },
+      {
+        "key": "operatingTemp",
+        "value": "0 °C … 40 °C"
+      },
+      {
+        "key": "compatibility",
+        "value": "Apple HomeKit, Google Home, Amazon Alexa"
+      },
+      {
+        "key": "app",
+        "value": "Aqara Home"
+      }
+    ],
+    "pricing": {
+      "sourcePrice": 54.99,
+      "sourceCurrency": "USD"
+    },
+    "availability": "sur-commande",
+    "install": {
+      "level": "simple",
+      "duration": "15 min",
+      "prerequisites": {
+        "fr": "Wi-Fi 2,4 GHz et prise secteur à proximité de l'emplacement central du logement.",
+        "en": "2.4 GHz Wi-Fi and a mains outlet near the home's central location.",
+        "es": "Wi-Fi de 2,4 GHz y toma de corriente cerca del punto central de la vivienda.",
+        "ar": "شبكة Wi-Fi بتردد 2.4 جيجاهرتز ومقبس كهرباء قرب النقطة المركزية للمسكن.",
+        "zh": "住宅中心位置附近需有 2.4 GHz Wi-Fi 和电源插座。"
+      }
+    },
+    "sourceUrl": "https://www.aqara.com/en/product/hub-m2",
+    "accent": "#6d28d9",
+    "symbol": "⌁",
+    "solutions": [
+      "domotique/scenarios-intelligents"
+    ],
+    "related": [
+      "aqara-hub-m3",
+      "aqara-temperature-humidity-sensor-t1"
+    ]
+  },
+  {
+    "id": "aqara-camera-hub-g3",
+    "sku": "CH-H03",
+    "brand": "aqara",
+    "sourceBrand": "Aqara",
+    "model": "Camera Hub G3",
+    "category": "video",
+    "subcategory": "cameras-interieures",
+    "i18n": {
+      "fr": {
+        "name": "Aqara Camera Hub G3",
+        "tagline": "Une caméra motorisée qui est aussi votre passerelle Zigbee.",
+        "description": "Caméra intérieure 2K motorisée à 360° qui reconnaît visages et gestes, suit les mouvements et sert en même temps de passerelle Zigbee pour vos capteurs et accessoires Aqara. Vision nocturne couleur, sirène intégrée, audio bidirectionnel et stockage local sur carte microSD jusqu'à 512 Go.",
+        "highlights": [
+          "Rotation motorisée 360° horizontale, 100° verticale",
+          "Reconnaissance faciale et gestuelle, suivi de mouvement",
+          "Passerelle Zigbee 3.0 intégrée (jusqu'à 128 accessoires)",
+          "Stockage local microSD jusqu'à 512 Go, pas d'abonnement obligatoire"
+        ],
+        "inTheBox": [
+          "Caméra Camera Hub G3",
+          "Support et visserie",
+          "Câble USB-C",
+          "Guide de démarrage"
+        ]
+      },
+      "en": {
+        "name": "Aqara Camera Hub G3",
+        "tagline": "A pan-tilt camera that doubles as your Zigbee gateway.",
+        "description": "Indoor 2K pan-tilt camera with 360° coverage that recognises faces and gestures, tracks motion, and doubles as a Zigbee gateway for your Aqara sensors and accessories. Colour night vision, built-in siren, two-way audio and local microSD storage up to 512 GB.",
+        "highlights": [
+          "360° horizontal / 100° vertical motorised rotation",
+          "Face and gesture recognition, motion tracking",
+          "Built-in Zigbee 3.0 gateway (up to 128 accessories)",
+          "Local microSD storage up to 512 GB, no subscription required"
+        ],
+        "inTheBox": [
+          "Camera Hub G3",
+          "Mount and screws",
+          "USB-C cable",
+          "Quick start guide"
+        ]
+      },
+      "es": {
+        "name": "Aqara Camera Hub G3",
+        "tagline": "Una cámara motorizada que también es tu pasarela Zigbee.",
+        "description": "Cámara interior 2K motorizada con cobertura de 360° que reconoce rostros y gestos, sigue el movimiento y funciona además como pasarela Zigbee para tus sensores y accesorios Aqara. Visión nocturna en color, sirena integrada, audio bidireccional y almacenamiento local en microSD hasta 512 GB.",
+        "highlights": [
+          "Rotación motorizada 360° horizontal, 100° vertical",
+          "Reconocimiento facial y de gestos, seguimiento de movimiento",
+          "Pasarela Zigbee 3.0 integrada (hasta 128 accesorios)",
+          "Almacenamiento local microSD hasta 512 GB, sin suscripción obligatoria"
+        ],
+        "inTheBox": [
+          "Cámara Camera Hub G3",
+          "Soporte y tornillos",
+          "Cable USB-C",
+          "Guía de inicio rápido"
+        ]
+      },
+      "ar": {
+        "name": "Aqara Camera Hub G3",
+        "tagline": "كاميرا دوّارة تعمل أيضاً كبوابة Zigbee.",
+        "description": "كاميرا داخلية بدقة 2K ودوران 360° تتعرف على الوجوه والإيماءات وتتتبع الحركة، وتعمل في الوقت نفسه كبوابة Zigbee لحساسات وأجهزة Aqara. رؤية ليلية ملوّنة، صفارة إنذار مدمجة، صوت ثنائي الاتجاه وتخزين محلي على بطاقة microSD حتى 512 جيجابايت.",
+        "highlights": [
+          "دوران آلي 360° أفقياً و100° عمودياً",
+          "تعرف على الوجوه والإيماءات وتتبع الحركة",
+          "بوابة Zigbee 3.0 مدمجة (حتى 128 جهازاً)",
+          "تخزين محلي microSD حتى 512 جيجابايت دون اشتراك إلزامي"
+        ],
+        "inTheBox": [
+          "كاميرا Camera Hub G3",
+          "حامل وبراغي",
+          "كابل USB-C",
+          "دليل البدء السريع"
+        ]
+      },
+      "zh": {
+        "name": "Aqara Camera Hub G3 云台摄像机",
+        "tagline": "既是云台摄像机，也是 Zigbee 网关。",
+        "description": "室内 2K 云台摄像机，支持 360° 旋转，可识别人脸与手势并追踪移动目标，同时作为 Zigbee 网关连接 Aqara 传感器与配件。配备彩色夜视、内置警报器、双向语音，本地 microSD 存储最高支持 512GB，无需强制订阅。",
+        "highlights": [
+          "360° 水平 / 100° 垂直电动旋转",
+          "人脸与手势识别，移动目标追踪",
+          "内置 Zigbee 3.0 网关（最多 128 台设备）",
+          "本地 microSD 存储最高 512GB，无需订阅"
+        ],
+        "inTheBox": [
+          "Camera Hub G3 摄像机",
+          "支架与螺丝",
+          "USB-C 数据线",
+          "快速入门指南"
+        ]
+      }
+    },
+    "attributes": {
+      "protocol": [
+        "wifi",
+        "zigbee"
+      ],
+      "placement": "interieur",
+      "power": [
+        "secteur"
+      ],
+      "compat": [
+        "matter",
+        "apple-home",
+        "google",
+        "alexa",
+        "app-marque",
+        "safer-platform"
+      ],
+      "resolution": "2k"
+    },
+    "specs": [
+      {
+        "key": "resolution",
+        "value": "2K QHD (2 560 × 1 440, 3 MP)"
+      },
+      {
+        "key": "ptz",
+        "value": {
+          "fr": "360° horizontal, 100° vertical, motorisé",
+          "en": "360° horizontal, 100° vertical, motorized",
+          "es": "360° horizontal, 100° vertical, motorizado",
+          "ar": "360° أفقي، 100° رأسي، بمحرك",
+          "zh": "水平360°，垂直100°，电动云台"
+        }
+      },
+      {
+        "key": "nightVision",
+        "value": {
+          "fr": "Couleur, illuminateur infrarouge",
+          "en": "Color, infrared illuminator",
+          "es": "Color, iluminador infrarrojo",
+          "ar": "رؤية ليلية ملونة، إضاءة بالأشعة تحت الحمراء",
+          "zh": "彩色夜视，红外补光灯"
+        }
+      },
+      {
+        "key": "ai",
+        "value": {
+          "fr": "Reconnaissance faciale, gestuelle, suivi de mouvement",
+          "en": "Face recognition, gesture control, motion tracking",
+          "es": "Reconocimiento facial, gestos, seguimiento de movimiento",
+          "ar": "التعرف على الوجه، التحكم بالإيماءات، تتبع الحركة",
+          "zh": "人脸识别、手势控制、移动追踪"
+        }
+      },
+      {
+        "key": "twoWayAudio",
+        "value": {
+          "fr": "Micro et haut-parleur intégrés",
+          "en": "Built-in microphone and speaker",
+          "es": "Micrófono y altavoz integrados",
+          "ar": "ميكروفون وسماعة مدمجان",
+          "zh": "内置麦克风和扬声器"
+        }
+      },
+      {
+        "key": "siren",
+        "value": {
+          "fr": "Sirène locale intégrée",
+          "en": "Built-in local siren",
+          "es": "Sirena local integrada",
+          "ar": "صفارة إنذار محلية مدمجة",
+          "zh": "内置本地警报器"
+        }
+      },
+      {
+        "key": "storage",
+        "value": {
+          "fr": "microSD jusqu'à 512 Go, Aqara Cloud en option",
+          "en": "microSD up to 512 GB, Aqara Cloud optional",
+          "es": "microSD hasta 512 GB, Aqara Cloud opcional",
+          "ar": "بطاقة microSD حتى 512 غيغابايت، سحابة Aqara Cloud اختيارية",
+          "zh": "microSD最大512GB，可选Aqara云存储"
+        }
+      },
+      {
+        "key": "connectivity",
+        "value": "Wi-Fi 2,4 GHz + passerelle Zigbee 3.0"
+      },
+      {
+        "key": "power",
+        "value": "USB-C, 5 V / 2 A"
+      }
+    ],
+    "pricing": {
+      "sourcePrice": 99.99,
+      "sourceCurrency": "USD"
+    },
+    "availability": "sur-commande",
+    "install": {
+      "level": "simple",
+      "duration": "15 min",
+      "prerequisites": {
+        "fr": "Wi-Fi 2,4 GHz et prise secteur à hauteur de vue dans la pièce à surveiller.",
+        "en": "2.4 GHz Wi-Fi and a mains outlet at eye level in the room to monitor.",
+        "es": "Wi-Fi de 2,4 GHz y toma de corriente a la altura de la vista en la sala a vigilar.",
+        "ar": "شبكة Wi-Fi بتردد 2.4 جيجاهرتز ومقبس كهرباء بارتفاع مناسب في الغرفة المراد مراقبتها.",
+        "zh": "待监控房间需有 2.4 GHz Wi-Fi 及视线高度的电源插座。"
+      }
+    },
+    "sourceUrl": "https://www.aqara.com/en/product/camera-hub-g3",
+    "accent": "#6d28d9",
+    "symbol": "◉",
+    "solutions": [
+      "video-intelligente/verification-video",
+      "domotique/scenarios-intelligents"
+    ],
+    "related": [
+      "aqara-hub-m3",
+      "aqara-video-doorbell-g4",
+      "aqara-motion-sensor-p1"
+    ]
+  },
+  {
+    "id": "aqara-video-doorbell-g4",
+    "sku": "SVD-C03",
+    "brand": "aqara",
+    "sourceBrand": "Aqara",
+    "model": "Video Doorbell G4",
+    "category": "video",
+    "subcategory": "sonnettes-video",
+    "i18n": {
+      "fr": {
+        "name": "Aqara Video Doorbell G4",
+        "tagline": "Voit, parle et déverrouille votre porte, avant même d'ouvrir.",
+        "description": "Sonnette vidéo 2K avec passerelle Zigbee intégrée qui reconnaît les visages, dialogue avec le visiteur en audio bidirectionnel et peut piloter une serrure connectée Aqara pour ouvrir à distance. Fonctionne sur batterie rechargeable ou en filaire sur une installation de sonnette existante.",
+        "highlights": [
+          "Image 2K avec vision nocturne infrarouge",
+          "Reconnaissance faciale et détection de colis",
+          "Pilotage à distance d'une serrure Aqara compatible",
+          "Batterie rechargeable ou raccordement filaire existant"
+        ],
+        "inTheBox": [
+          "Sonnette Video Doorbell G4",
+          "Support d'angle et visserie",
+          "Câble USB-C",
+          "Carillon intérieur",
+          "Guide de démarrage"
+        ]
+      },
+      "en": {
+        "name": "Aqara Video Doorbell G4",
+        "tagline": "Sees, talks and unlocks your door, before you even open it.",
+        "description": "2K video doorbell with a built-in Zigbee gateway that recognises faces, talks to visitors over two-way audio, and can trigger a compatible Aqara smart lock to open remotely. Runs on a rechargeable battery or wired into an existing doorbell installation.",
+        "highlights": [
+          "2K image with infrared night vision",
+          "Face recognition and package detection",
+          "Remote control of a compatible Aqara smart lock",
+          "Rechargeable battery or existing wired install"
+        ],
+        "inTheBox": [
+          "Video Doorbell G4",
+          "Angle mount and screws",
+          "USB-C cable",
+          "Indoor chime",
+          "Quick start guide"
+        ]
+      },
+      "es": {
+        "name": "Aqara Video Doorbell G4",
+        "tagline": "Ve, habla y abre tu puerta, incluso antes de que la abras tú.",
+        "description": "Videoportero 2K con pasarela Zigbee integrada que reconoce rostros, habla con el visitante mediante audio bidireccional y puede accionar una cerradura Aqara compatible para abrir a distancia. Funciona con batería recargable o cableado sobre una instalación de timbre existente.",
+        "highlights": [
+          "Imagen 2K con visión nocturna infrarroja",
+          "Reconocimiento facial y detección de paquetes",
+          "Control remoto de una cerradura Aqara compatible",
+          "Batería recargable o cableado existente"
+        ],
+        "inTheBox": [
+          "Video Doorbell G4",
+          "Soporte angular y tornillos",
+          "Cable USB-C",
+          "Timbre interior",
+          "Guía de inicio rápido"
+        ]
+      },
+      "ar": {
+        "name": "Aqara Video Doorbell G4",
+        "tagline": "ترى وتتحدث وتفتح بابك قبل أن تصل إليه.",
+        "description": "جرس باب فيديو بدقة 2K مزوّد ببوابة Zigbee مدمجة، يتعرف على الوجوه ويتحدث مع الزائر بصوت ثنائي الاتجاه، ويمكنه فتح قفل Aqara ذكي متوافق عن بُعد. يعمل ببطارية قابلة لإعادة الشحن أو بالتوصيل السلكي على تركيب جرس موجود.",
+        "highlights": [
+          "صورة 2K مع رؤية ليلية بالأشعة تحت الحمراء",
+          "تعرف على الوجوه وكشف الطرود",
+          "التحكم عن بُعد بقفل Aqara ذكي متوافق",
+          "بطارية قابلة لإعادة الشحن أو توصيل سلكي حالي"
+        ],
+        "inTheBox": [
+          "جرس Video Doorbell G4",
+          "حامل زاوي وبراغي",
+          "كابل USB-C",
+          "جرس داخلي",
+          "دليل البدء السريع"
+        ]
+      },
+      "zh": {
+        "name": "Aqara Video Doorbell G4 视频门铃",
+        "tagline": "开门之前，先看清、说清、开好门。",
+        "description": "内置 Zigbee 网关的 2K 视频门铃，可识别访客人脸，通过双向语音与来访者交流，并能远程触发兼容的 Aqara 智能锁开门。支持可充电电池供电，也可接入现有门铃布线使用有线供电。",
+        "highlights": [
+          "2K 画质及红外夜视",
+          "人脸识别与包裹检测",
+          "远程控制兼容的 Aqara 智能锁",
+          "可充电电池或沿用现有有线布线"
+        ],
+        "inTheBox": [
+          "Video Doorbell G4 门铃",
+          "角度支架与螺丝",
+          "USB-C 数据线",
+          "室内门铃响铃器",
+          "快速入门指南"
+        ]
+      }
+    },
+    "attributes": {
+      "protocol": [
+        "wifi",
+        "zigbee"
+      ],
+      "placement": "exterieur",
+      "power": [
+        "batterie",
+        "secteur"
+      ],
+      "compat": [
+        "apple-home",
+        "google",
+        "alexa",
+        "app-marque",
+        "safer-platform"
+      ],
+      "resolution": "2k"
+    },
+    "specs": [
+      {
+        "key": "resolution",
+        "value": "2K (1 600 × 1 200)"
+      },
+      {
+        "key": "fieldOfView",
+        "value": "162° diagonal"
+      },
+      {
+        "key": "nightVision",
+        "value": {
+          "fr": "Infrarouge noir et blanc",
+          "en": "Black-and-white infrared",
+          "es": "Infrarrojo blanco y negro",
+          "ar": "أشعة تحت حمراء بالأبيض والأسود",
+          "zh": "黑白红外夜视"
+        }
+      },
+      {
+        "key": "ai",
+        "value": {
+          "fr": "Reconnaissance faciale, détection de colis et de visiteurs",
+          "en": "Face recognition, package and visitor detection",
+          "es": "Reconocimiento facial, detección de paquetes y visitantes",
+          "ar": "التعرف على الوجه، كشف الطرود والزوار",
+          "zh": "人脸识别、包裹和访客侦测"
+        }
+      },
+      {
+        "key": "twoWayAudio",
+        "value": {
+          "fr": "Micro et haut-parleur intégrés",
+          "en": "Built-in microphone and speaker",
+          "es": "Micrófono y altavoz integrados",
+          "ar": "ميكروفون وسماعة مدمجان",
+          "zh": "内置麦克风和扬声器"
+        }
+      },
+      {
+        "key": "battery",
+        "value": {
+          "fr": "5 200 mAh rechargeable, ou filaire 16-24 V",
+          "en": "5,200 mAh rechargeable, or wired 16-24 V",
+          "es": "5200 mAh recargable, o cableado 16-24 V",
+          "ar": "5200 مللي أمبير قابلة لإعادة الشحن، أو سلكي 16-24 فولت",
+          "zh": "5200毫安时可充电，或16-24V有线供电"
+        }
+      },
+      {
+        "key": "storage",
+        "value": {
+          "fr": "microSD jusqu'à 512 Go, Aqara Cloud en option",
+          "en": "microSD up to 512 GB, Aqara Cloud optional",
+          "es": "microSD hasta 512 GB, Aqara Cloud opcional",
+          "ar": "بطاقة microSD حتى 512 غيغابايت، سحابة Aqara Cloud اختيارية",
+          "zh": "microSD最大512GB，可选Aqara云存储"
+        }
+      },
+      {
+        "key": "weatherproof",
+        "value": "IP65"
+      },
+      {
+        "key": "operatingTemp",
+        "value": "-20 °C … 50 °C"
+      }
+    ],
+    "pricing": {
+      "sourcePrice": 199.99,
+      "sourceCurrency": "USD"
+    },
+    "availability": "sur-commande",
+    "install": {
+      "level": "standard",
+      "duration": "45 min",
+      "prerequisites": {
+        "fr": "Wi-Fi 2,4 GHz au niveau de la porte d'entrée ; câblage existant de sonnette recommandé pour l'usage filaire.",
+        "en": "2.4 GHz Wi-Fi at the front door; existing doorbell wiring recommended for wired use.",
+        "es": "Wi-Fi de 2,4 GHz junto a la puerta principal; cableado de timbre existente recomendado para uso cableado.",
+        "ar": "شبكة Wi-Fi بتردد 2.4 جيجاهرتز عند الباب الرئيسي؛ يُفضَّل وجود توصيل جرس سلكي حالي للاستخدام السلكي.",
+        "zh": "前门处需有 2.4 GHz Wi-Fi；如需有线供电，建议已有门铃布线。"
+      }
+    },
+    "sourceUrl": "https://www.aqara.com/en/product/video-doorbell-g4",
+    "accent": "#6d28d9",
+    "symbol": "◎",
+    "solutions": [
+      "video-intelligente/sonnette-video",
+      "controle-acces/gestion-visiteurs"
+    ],
+    "related": [
+      "aqara-smart-lock-u200",
+      "aqara-camera-hub-g3"
+    ]
+  },
+  {
+    "id": "aqara-door-window-sensor-p2",
+    "sku": "MCCGQ14LM",
+    "brand": "aqara",
+    "sourceBrand": "Aqara",
+    "model": "Door and Window Sensor P2",
+    "category": "alarme",
+    "subcategory": "detecteurs-ouverture",
+    "i18n": {
+      "fr": {
+        "name": "Aqara Door and Window Sensor P2",
+        "tagline": "Un capteur Thread qui se passe de hub dédié.",
+        "description": "Détecteur d'ouverture Thread et Matter qui signale instantanément l'ouverture d'une porte ou d'une fenêtre, sans nécessiter de passerelle Aqara propriétaire dès qu'un routeur Thread Matter est présent. Boîtier discret à coller, capteur de vibration anti-sabotage et pile longue durée jusqu'à 5 ans.",
+        "highlights": [
+          "Compatible Matter 1.2 via Thread, sans hub Aqara obligatoire",
+          "Alerte instantanée d'ouverture et de vibration",
+          "Pose adhésive en quelques minutes",
+          "Autonomie de pile jusqu'à 5 ans"
+        ],
+        "inTheBox": [
+          "Détecteur P2",
+          "Aimant complémentaire",
+          "Pile CR1632",
+          "Adhésif double face",
+          "Guide de démarrage"
+        ]
+      },
+      "en": {
+        "name": "Aqara Door and Window Sensor P2",
+        "tagline": "A Thread sensor that skips the proprietary hub.",
+        "description": "Thread and Matter door/window sensor that instantly reports an opening, no proprietary Aqara gateway required as long as a Thread border router is present. Discreet stick-on housing, tamper vibration detection and a battery life of up to 5 years.",
+        "highlights": [
+          "Matter 1.2 over Thread, no Aqara hub required",
+          "Instant opening and vibration alerts",
+          "Adhesive install in minutes",
+          "Battery life up to 5 years"
+        ],
+        "inTheBox": [
+          "P2 sensor",
+          "Companion magnet",
+          "CR1632 battery",
+          "Double-sided adhesive pad",
+          "Quick start guide"
+        ]
+      },
+      "es": {
+        "name": "Aqara Door and Window Sensor P2",
+        "tagline": "Un sensor Thread que prescinde del hub propietario.",
+        "description": "Sensor de apertura Thread y Matter que notifica al instante la apertura de una puerta o ventana, sin necesitar una pasarela Aqara propia si hay un border router Thread disponible. Carcasa discreta adhesiva, detección de vibración antisabotaje y autonomía de pila de hasta 5 años.",
+        "highlights": [
+          "Matter 1.2 sobre Thread, sin hub Aqara obligatorio",
+          "Alerta instantánea de apertura y vibración",
+          "Instalación adhesiva en minutos",
+          "Autonomía de pila de hasta 5 años"
+        ],
+        "inTheBox": [
+          "Sensor P2",
+          "Imán complementario",
+          "Pila CR1632",
+          "Adhesivo de doble cara",
+          "Guía de inicio rápido"
+        ]
+      },
+      "ar": {
+        "name": "Aqara Door and Window Sensor P2",
+        "tagline": "حساس Thread يعمل دون بوابة خاصة.",
+        "description": "حساس فتح للأبواب والنوافذ يعمل عبر Thread وMatter، يُبلغ فوراً عند فتح الباب أو النافذة دون الحاجة إلى بوابة Aqara خاصة طالما توجد موجه حدود Thread. هيكل لاصق أنيق، وكشف اهتزاز مضاد للعبث، وعمر بطارية يصل إلى 5 سنوات.",
+        "highlights": [
+          "متوافق مع Matter 1.2 عبر Thread دون بوابة Aqara إلزامية",
+          "تنبيه فوري عند الفتح أو الاهتزاز",
+          "تركيب لاصق في دقائق معدودة",
+          "عمر بطارية يصل إلى 5 سنوات"
+        ],
+        "inTheBox": [
+          "حساس P2",
+          "مغناطيس مرافق",
+          "بطارية CR1632",
+          "شريط لاصق مزدوج الوجه",
+          "دليل البدء السريع"
+        ]
+      },
+      "zh": {
+        "name": "Aqara P2 门窗传感器",
+        "tagline": "无需专属网关的 Thread 门窗传感器。",
+        "description": "支持 Thread 与 Matter 的门窗传感器，只要存在 Thread 边界路由器即可即时上报门窗开启，无需专属 Aqara 网关。外壳小巧可粘贴安装，具备防拆振动检测，电池续航最长可达 5 年。",
+        "highlights": [
+          "通过 Thread 支持 Matter 1.2，无需 Aqara 专属网关",
+          "开启与振动即时告警",
+          "粘贴安装仅需数分钟",
+          "电池续航最长 5 年"
+        ],
+        "inTheBox": [
+          "P2 传感器",
+          "配套磁铁",
+          "CR1632 电池",
+          "双面胶",
+          "快速入门指南"
+        ]
+      }
+    },
+    "attributes": {
+      "protocol": [
+        "thread-matter"
+      ],
+      "placement": "interieur-exterieur",
+      "power": [
+        "pile"
+      ],
+      "compat": [
+        "matter",
+        "apple-home",
+        "google",
+        "alexa",
+        "app-marque",
+        "safer-platform"
+      ]
+    },
+    "specs": [
+      {
+        "key": "protocol",
+        "value": "Thread 1.3, Matter 1.2"
+      },
+      {
+        "key": "detectionType",
+        "value": {
+          "fr": "Magnétique + vibration anti-sabotage",
+          "en": "Magnetic + anti-tamper vibration",
+          "es": "Magnético + vibración antisabotaje",
+          "ar": "مغناطيسي + استشعار اهتزاز مضاد للعبث",
+          "zh": "磁感应+防拆振动侦测"
+        }
+      },
+      {
+        "key": "range",
+        "value": {
+          "fr": "Détection à moins de 2 cm entre les deux éléments",
+          "en": "Detection within 2 cm between the two parts",
+          "es": "Detección a menos de 2 cm entre ambos elementos",
+          "ar": "الكشف على مسافة أقل من 2 سم بين الجزأين",
+          "zh": "两部件间距小于2厘米即可侦测"
+        }
+      },
+      {
+        "key": "battery",
+        "value": {
+          "fr": "CR1632, jusqu'à 5 ans d'autonomie",
+          "en": "CR1632, up to 5 years battery life",
+          "es": "CR1632, hasta 5 años de autonomía",
+          "ar": "CR1632، حتى 5 سنوات من عمر البطارية",
+          "zh": "CR1632电池，续航最长5年"
+        }
+      },
+      {
+        "key": "dimensions",
+        "value": "42 × 15 × 12 mm"
+      },
+      {
+        "key": "mounting",
+        "value": {
+          "fr": "Adhésif 3M ou vis",
+          "en": "3M adhesive or screws",
+          "es": "Adhesivo 3M o tornillos",
+          "ar": "لاصق 3M أو براغي",
+          "zh": "3M胶贴或螺丝固定"
+        }
+      },
+      {
+        "key": "operatingTemp",
+        "value": "-10 °C … 45 °C"
+      },
+      {
+        "key": "compatibility",
+        "value": {
+          "fr": "Tout contrôleur Matter via border router Thread",
+          "en": "Any Matter controller via Thread border router",
+          "es": "Cualquier controlador Matter vía border router Thread",
+          "ar": "أي وحدة تحكم Matter عبر موجه حدودي Thread",
+          "zh": "通过Thread边界路由器兼容任意Matter控制器"
+        }
+      }
+    ],
+    "pricing": {
+      "sourcePrice": 19.99,
+      "sourceCurrency": "USD"
+    },
+    "availability": "en-stock",
+    "install": {
+      "level": "simple",
+      "duration": "5 min",
+      "prerequisites": {
+        "fr": "Un border router Thread (Hub M3 ou équivalent) ou une passerelle Aqara Zigbee à proximité.",
+        "en": "A Thread border router (Hub M3 or equivalent) or an Aqara Zigbee gateway nearby.",
+        "es": "Un border router Thread (Hub M3 o equivalente) o una pasarela Aqara Zigbee cercana.",
+        "ar": "موجه حدود Thread (Hub M3 أو ما يعادله) أو بوابة Aqara Zigbee قريبة.",
+        "zh": "附近需有 Thread 边界路由器（Hub M3 或同类设备）或 Aqara Zigbee 网关。"
+      }
+    },
+    "sourceUrl": "https://www.aqara.com/en/product/door-and-window-sensor-p2",
+    "accent": "#6d28d9",
+    "symbol": "▣",
+    "solutions": [
+      "alarmes-connectees/detection-intrusion"
+    ],
+    "related": [
+      "aqara-hub-m3",
+      "aqara-motion-sensor-p1",
+      "aqara-smart-lock-u200"
+    ]
+  },
+  {
+    "id": "aqara-motion-sensor-p1",
+    "sku": "RTCGQ14LM",
+    "brand": "aqara",
+    "sourceBrand": "Aqara",
+    "model": "Motion Sensor P1",
+    "category": "alarme",
+    "subcategory": "detecteurs-mouvement",
+    "i18n": {
+      "fr": {
+        "name": "Aqara Motion Sensor P1",
+        "tagline": "Un détecteur qui distingue mouvement et lumière ambiante.",
+        "description": "Détecteur de mouvement Zigbee 3.0 avec capteur de luminosité intégré, capable de déclencher un éclairage uniquement lorsqu'il fait sombre. Grand angle de détection de 170°, portée jusqu'à 7 mètres et boîtier compact orientable pour couloirs, salons et accès secondaires.",
+        "highlights": [
+          "Détection PIR jusqu'à 7 mètres, angle 170°",
+          "Capteur de luminosité intégré",
+          "Trois niveaux de sensibilité réglables",
+          "Autonomie de pile jusqu'à 5 ans"
+        ],
+        "inTheBox": [
+          "Détecteur P1",
+          "Support magnétique orientable",
+          "Pile CR2450",
+          "Adhésif double face",
+          "Guide de démarrage"
+        ]
+      },
+      "en": {
+        "name": "Aqara Motion Sensor P1",
+        "tagline": "A sensor that tells motion from ambient light.",
+        "description": "Zigbee 3.0 motion sensor with a built-in light sensor, able to trigger lighting only when it's dark. Wide 170° detection angle, range up to 7 metres, and a compact adjustable housing suited to hallways, living rooms and secondary entrances.",
+        "highlights": [
+          "PIR detection up to 7 metres, 170° angle",
+          "Built-in ambient light sensor",
+          "Three adjustable sensitivity levels",
+          "Battery life up to 5 years"
+        ],
+        "inTheBox": [
+          "P1 sensor",
+          "Adjustable magnetic mount",
+          "CR2450 battery",
+          "Double-sided adhesive pad",
+          "Quick start guide"
+        ]
+      },
+      "es": {
+        "name": "Aqara Motion Sensor P1",
+        "tagline": "Un sensor que distingue el movimiento de la luz ambiental.",
+        "description": "Sensor de movimiento Zigbee 3.0 con sensor de luminosidad integrado, capaz de activar la iluminación solo cuando está oscuro. Amplio ángulo de detección de 170°, alcance de hasta 7 metros y carcasa compacta orientable ideal para pasillos, salones y accesos secundarios.",
+        "highlights": [
+          "Detección PIR hasta 7 metros, ángulo de 170°",
+          "Sensor de luminosidad ambiental integrado",
+          "Tres niveles de sensibilidad ajustables",
+          "Autonomía de pila de hasta 5 años"
+        ],
+        "inTheBox": [
+          "Sensor P1",
+          "Soporte magnético orientable",
+          "Pila CR2450",
+          "Adhesivo de doble cara",
+          "Guía de inicio rápido"
+        ]
+      },
+      "ar": {
+        "name": "Aqara Motion Sensor P1",
+        "tagline": "حساس يفرّق بين الحركة والضوء المحيط.",
+        "description": "حساس حركة Zigbee 3.0 مزوّد بمستشعر إضاءة مدمج، قادر على تشغيل الإنارة فقط عند الظلام. زاوية كشف واسعة تبلغ 170° ومدى يصل إلى 7 أمتار، وهيكل مدمج قابل للتوجيه يناسب الممرات والصالات والمداخل الثانوية.",
+        "highlights": [
+          "كشف بالأشعة تحت الحمراء حتى 7 أمتار بزاوية 170°",
+          "مستشعر إضاءة محيطة مدمج",
+          "ثلاثة مستويات حساسية قابلة للضبط",
+          "عمر بطارية يصل إلى 5 سنوات"
+        ],
+        "inTheBox": [
+          "حساس P1",
+          "حامل مغناطيسي قابل للتوجيه",
+          "بطارية CR2450",
+          "شريط لاصق مزدوج الوجه",
+          "دليل البدء السريع"
+        ]
+      },
+      "zh": {
+        "name": "Aqara P1 人体传感器",
+        "tagline": "能分辨移动与环境光线的传感器。",
+        "description": "内置光照传感器的 Zigbee 3.0 人体移动传感器，可实现仅在暗处才触发照明。检测角度广达 170°，感应距离最远 7 米，机身小巧可调节角度，适合走廊、客厅及次要出入口。",
+        "highlights": [
+          "PIR 检测距离最远 7 米，角度 170°",
+          "内置环境光照传感器",
+          "三档灵敏度可调",
+          "电池续航最长 5 年"
+        ],
+        "inTheBox": [
+          "P1 传感器",
+          "可调节磁吸支架",
+          "CR2450 电池",
+          "双面胶",
+          "快速入门指南"
+        ]
+      }
+    },
+    "attributes": {
+      "protocol": [
+        "zigbee"
+      ],
+      "placement": "interieur",
+      "power": [
+        "pile"
+      ],
+      "compat": [
+        "apple-home",
+        "google",
+        "alexa",
+        "app-marque",
+        "safer-platform"
+      ]
+    },
+    "specs": [
+      {
+        "key": "protocol",
+        "value": "Zigbee 3.0"
+      },
+      {
+        "key": "detectionRange",
+        "value": "≤ 7 m"
+      },
+      {
+        "key": "fieldOfView",
+        "value": "170°"
+      },
+      {
+        "key": "sensitivity",
+        "value": {
+          "fr": "3 niveaux réglables",
+          "en": "3 adjustable levels",
+          "es": "3 niveles ajustables",
+          "ar": "3 مستويات قابلة للتعديل",
+          "zh": "3档灵敏度可调"
+        }
+      },
+      {
+        "key": "sensors",
+        "value": {
+          "fr": "PIR + capteur de luminosité",
+          "en": "PIR + light sensor",
+          "es": "PIR + sensor de luminosidad",
+          "ar": "PIR + مستشعر إضاءة",
+          "zh": "PIR人体传感器+光照传感器"
+        }
+      },
+      {
+        "key": "battery",
+        "value": {
+          "fr": "CR2450, jusqu'à 5 ans d'autonomie",
+          "en": "CR2450, up to 5 years battery life",
+          "es": "CR2450, hasta 5 años de autonomía",
+          "ar": "CR2450، حتى 5 سنوات من عمر البطارية",
+          "zh": "CR2450电池，续航最长5年"
+        }
+      },
+      {
+        "key": "dimensions",
+        "value": "36 × 36 × 32 mm"
+      },
+      {
+        "key": "operatingTemp",
+        "value": "-10 °C … 45 °C"
+      }
+    ],
+    "pricing": {
+      "sourcePrice": 19.99,
+      "sourceCurrency": "USD"
+    },
+    "availability": "en-stock",
+    "install": {
+      "level": "simple",
+      "duration": "5 min",
+      "prerequisites": {
+        "fr": "Une passerelle Aqara Zigbee (Hub M2/M3) déjà installée.",
+        "en": "An Aqara Zigbee gateway (Hub M2/M3) already installed.",
+        "es": "Una pasarela Aqara Zigbee (Hub M2/M3) ya instalada.",
+        "ar": "بوابة Aqara Zigbee (Hub M2/M3) مثبّتة مسبقاً.",
+        "zh": "需已安装 Aqara Zigbee 网关（Hub M2/M3）。"
+      }
+    },
+    "sourceUrl": "https://www.aqara.com/en/product/motion-sensor-p1",
+    "accent": "#6d28d9",
+    "symbol": "▣",
+    "solutions": [
+      "alarmes-connectees/detection-intrusion"
+    ],
+    "related": [
+      "aqara-hub-m3",
+      "aqara-door-window-sensor-p2",
+      "aqara-camera-hub-g3"
+    ]
+  },
+  {
+    "id": "aqara-water-leak-sensor",
+    "sku": "SJCGQ13LM",
+    "brand": "aqara",
+    "sourceBrand": "Aqara",
+    "model": "Water Leak Sensor",
+    "category": "alarme",
+    "subcategory": "detecteurs-fuite",
+    "i18n": {
+      "fr": {
+        "name": "Aqara Water Leak Sensor",
+        "tagline": "Le premier signe d'une fuite, avant les dégâts des eaux.",
+        "description": "Détecteur de fuite d'eau Zigbee étanche IP67 à poser au sol sous un ballon d'eau chaude, un lave-linge ou une arrivée d'eau. Ses électrodes détectent la moindre présence d'eau et déclenchent une alerte immédiate à l'application, avec une sirène locale de 100 dB en option.",
+        "highlights": [
+          "Détection immédiate au contact de l'eau",
+          "Boîtier étanche IP67, résiste à l'immersion",
+          "Alerte instantanée à l'application et par sirène",
+          "Pile longue durée avec alerte de niveau bas"
+        ],
+        "inTheBox": [
+          "Détecteur Water Leak Sensor",
+          "Pile CR2032",
+          "Guide de démarrage"
+        ]
+      },
+      "en": {
+        "name": "Aqara Water Leak Sensor",
+        "tagline": "The first sign of a leak, before the water damage.",
+        "description": "IP67 waterproof Zigbee leak sensor placed on the floor beneath a water heater, washing machine or water inlet. Its electrodes detect the slightest presence of water and trigger an immediate app alert, with an optional 100 dB local siren.",
+        "highlights": [
+          "Instant detection on contact with water",
+          "IP67 waterproof housing, withstands immersion",
+          "Instant alert to the app and local siren",
+          "Long-life battery with low-battery alert"
+        ],
+        "inTheBox": [
+          "Water Leak Sensor",
+          "CR2032 battery",
+          "Quick start guide"
+        ]
+      },
+      "es": {
+        "name": "Aqara Water Leak Sensor",
+        "tagline": "La primera señal de una fuga, antes del daño por agua.",
+        "description": "Sensor de fugas Zigbee con protección IP67 que se coloca en el suelo bajo un calentador, una lavadora o una entrada de agua. Sus electrodos detectan la mínima presencia de agua y activan una alerta inmediata en la aplicación, con sirena local de 100 dB opcional.",
+        "highlights": [
+          "Detección inmediata al contacto con el agua",
+          "Carcasa impermeable IP67, resiste la inmersión",
+          "Alerta instantánea en la app y sirena local",
+          "Pila de larga duración con aviso de nivel bajo"
+        ],
+        "inTheBox": [
+          "Sensor Water Leak Sensor",
+          "Pila CR2032",
+          "Guía de inicio rápido"
+        ]
+      },
+      "ar": {
+        "name": "Aqara Water Leak Sensor",
+        "tagline": "أول إشارة لتسرب المياه، قبل حدوث الأضرار.",
+        "description": "حساس تسرب مياه بمعيار حماية IP67 عبر Zigbee، يُوضع على الأرض أسفل سخان الماء أو الغسالة أو مصدر المياه. تكشف أقطابه أدنى وجود للماء وتُطلق تنبيهاً فورياً إلى التطبيق، مع صفارة إنذار محلية اختيارية بقوة 100 ديسيبل.",
+        "highlights": [
+          "كشف فوري عند ملامسة الماء",
+          "هيكل مقاوم للماء IP67 يتحمل الغمر",
+          "تنبيه فوري إلى التطبيق وصفارة إنذار محلية",
+          "بطارية طويلة العمر مع تنبيه انخفاض الشحن"
+        ],
+        "inTheBox": [
+          "حساس Water Leak Sensor",
+          "بطارية CR2032",
+          "دليل البدء السريع"
+        ]
+      },
+      "zh": {
+        "name": "Aqara 水浸传感器",
+        "tagline": "在水患发生前，第一时间发出警报。",
+        "description": "具备 IP67 防水等级的 Zigbee 水浸传感器，可放置于热水器、洗衣机或进水口下方地面。电极一旦接触到水即刻检测并向应用发送即时告警，可选配 100 分贝本地警报器。",
+        "highlights": [
+          "接触到水即刻检测",
+          "IP67 防水外壳，可承受浸泡",
+          "应用即时告警及本地警报器",
+          "长效电池并支持低电量提醒"
+        ],
+        "inTheBox": [
+          "Water Leak Sensor 水浸传感器",
+          "CR2032 电池",
+          "快速入门指南"
+        ]
+      }
+    },
+    "attributes": {
+      "protocol": [
+        "zigbee"
+      ],
+      "placement": "interieur",
+      "power": [
+        "pile"
+      ],
+      "compat": [
+        "apple-home",
+        "google",
+        "alexa",
+        "app-marque",
+        "safer-platform"
+      ]
+    },
+    "specs": [
+      {
+        "key": "protocol",
+        "value": "Zigbee 3.0"
+      },
+      {
+        "key": "detectionType",
+        "value": {
+          "fr": "Électrodes de contact avec l'eau",
+          "en": "Water contact electrodes",
+          "es": "Electrodos de contacto con agua",
+          "ar": "أقطاب استشعار ملامسة الماء",
+          "zh": "水浸接触电极"
+        }
+      },
+      {
+        "key": "weatherproof",
+        "value": "IP67"
+      },
+      {
+        "key": "siren",
+        "value": "100 dB, activable localement"
+      },
+      {
+        "key": "battery",
+        "value": {
+          "fr": "CR2032, jusqu'à 2 ans d'autonomie",
+          "en": "CR2032, up to 2 years battery life",
+          "es": "CR2032, hasta 2 años de autonomía",
+          "ar": "CR2032، حتى سنتين من عمر البطارية",
+          "zh": "CR2032电池，续航最长2年"
+        }
+      },
+      {
+        "key": "dimensions",
+        "value": "38 × 38 × 10 mm"
+      },
+      {
+        "key": "operatingTemp",
+        "value": "0 °C … 45 °C"
+      }
+    ],
+    "pricing": {
+      "sourcePrice": 19.99,
+      "sourceCurrency": "USD"
+    },
+    "availability": "en-stock",
+    "install": {
+      "level": "simple",
+      "duration": "5 min",
+      "prerequisites": {
+        "fr": "Une passerelle Aqara Zigbee (Hub M2/M3) déjà installée.",
+        "en": "An Aqara Zigbee gateway (Hub M2/M3) already installed.",
+        "es": "Una pasarela Aqara Zigbee (Hub M2/M3) ya instalada.",
+        "ar": "بوابة Aqara Zigbee (Hub M2/M3) مثبّتة مسبقاً.",
+        "zh": "需已安装 Aqara Zigbee 网关（Hub M2/M3）。"
+      }
+    },
+    "sourceUrl": "https://www.aqara.com/en/product/water-leak-sensor",
+    "accent": "#6d28d9",
+    "symbol": "♨",
+    "solutions": [
+      "domotique/detection-fuites"
+    ],
+    "related": [
+      "aqara-hub-m3",
+      "aqara-temperature-humidity-sensor-t1"
+    ]
+  },
+  {
+    "id": "aqara-temperature-humidity-sensor-t1",
+    "sku": "WSDCGQ12LM",
+    "brand": "aqara",
+    "sourceBrand": "Aqara",
+    "model": "Temperature and Humidity Sensor T1",
+    "category": "domotique",
+    "subcategory": "capteurs-climat",
+    "i18n": {
+      "fr": {
+        "name": "Aqara Temperature and Humidity Sensor T1",
+        "tagline": "Surveillez l'ambiance de chaque pièce en temps réel.",
+        "description": "Capteur Zigbee 3.0 compact qui mesure en continu la température et l'humidité d'une pièce et remonte les données toutes les 5 minutes vers l'application. Il déclenche des automatisations (climatisation, ventilation, déshumidificateur) dès qu'un seuil est franchi, utile en saison des pluies pour protéger le matériel électronique.",
+        "highlights": [
+          "Mesure température et humidité en continu",
+          "Rapport toutes les 5 minutes vers l'application",
+          "Déclenche automatiquement climatisation ou ventilation",
+          "Boîtier compact, pose murale ou sur meuble"
+        ],
+        "inTheBox": [
+          "Capteur T1",
+          "Pile CR2032",
+          "Adhésif double face",
+          "Guide de démarrage"
+        ]
+      },
+      "en": {
+        "name": "Aqara Temperature and Humidity Sensor T1",
+        "tagline": "Watch every room's climate in real time.",
+        "description": "Compact Zigbee 3.0 sensor that continuously measures a room's temperature and humidity and reports data to the app every 5 minutes. It triggers automations (air conditioning, ventilation, dehumidifier) once a threshold is crossed, useful during the rainy season to protect electronics.",
+        "highlights": [
+          "Continuous temperature and humidity readings",
+          "Reports to the app every 5 minutes",
+          "Automatically triggers AC or ventilation",
+          "Compact housing, wall or shelf mount"
+        ],
+        "inTheBox": [
+          "T1 sensor",
+          "CR2032 battery",
+          "Double-sided adhesive pad",
+          "Quick start guide"
+        ]
+      },
+      "es": {
+        "name": "Aqara Temperature and Humidity Sensor T1",
+        "tagline": "Vigila el clima de cada habitación en tiempo real.",
+        "description": "Sensor Zigbee 3.0 compacto que mide continuamente la temperatura y la humedad de una habitación y envía los datos a la aplicación cada 5 minutos. Activa automatizaciones (aire acondicionado, ventilación, deshumidificador) al superar un umbral, útil en temporada de lluvias para proteger equipos electrónicos.",
+        "highlights": [
+          "Medición continua de temperatura y humedad",
+          "Reporte a la app cada 5 minutos",
+          "Activa automáticamente aire acondicionado o ventilación",
+          "Carcasa compacta, montaje en pared o mueble"
+        ],
+        "inTheBox": [
+          "Sensor T1",
+          "Pila CR2032",
+          "Adhesivo de doble cara",
+          "Guía de inicio rápido"
+        ]
+      },
+      "ar": {
+        "name": "Aqara Temperature and Humidity Sensor T1",
+        "tagline": "راقب أجواء كل غرفة لحظة بلحظة.",
+        "description": "حساس Zigbee 3.0 مدمج يقيس درجة الحرارة والرطوبة بشكل مستمر في الغرفة ويرسل البيانات إلى التطبيق كل 5 دقائق. يُفعّل الأتمتة (تكييف الهواء، التهوية، مزيل الرطوبة) فور تجاوز عتبة معيّنة، مفيد في موسم الأمطار لحماية الأجهزة الإلكترونية.",
+        "highlights": [
+          "قياس مستمر لدرجة الحرارة والرطوبة",
+          "إرسال البيانات إلى التطبيق كل 5 دقائق",
+          "تفعيل تلقائي لتكييف الهواء أو التهوية",
+          "هيكل مدمج، تركيب على الجدار أو الأثاث"
+        ],
+        "inTheBox": [
+          "حساس T1",
+          "بطارية CR2032",
+          "شريط لاصق مزدوج الوجه",
+          "دليل البدء السريع"
+        ]
+      },
+      "zh": {
+        "name": "Aqara T1 温湿度传感器",
+        "tagline": "实时掌握每个房间的温湿度状况。",
+        "description": "小巧的 Zigbee 3.0 传感器，持续测量房间的温度与湿度，并每 5 分钟向应用上报一次数据。一旦超过设定阈值即可触发自动化（空调、通风、除湿机），在雨季有助于保护电子设备。",
+        "highlights": [
+          "持续测量温度与湿度",
+          "每 5 分钟向应用上报一次",
+          "自动触发空调或通风",
+          "外壳小巧，可壁挂或桌面放置"
+        ],
+        "inTheBox": [
+          "T1 传感器",
+          "CR2032 电池",
+          "双面胶",
+          "快速入门指南"
+        ]
+      }
+    },
+    "attributes": {
+      "protocol": [
+        "zigbee"
+      ],
+      "placement": "interieur",
+      "power": [
+        "pile"
+      ],
+      "compat": [
+        "apple-home",
+        "google",
+        "alexa",
+        "app-marque",
+        "safer-platform"
+      ]
+    },
+    "specs": [
+      {
+        "key": "protocol",
+        "value": "Zigbee 3.0"
+      },
+      {
+        "key": "sensors",
+        "value": {
+          "fr": "Température et humidité",
+          "en": "Temperature and humidity",
+          "es": "Temperatura y humedad",
+          "ar": "درجة الحرارة والرطوبة",
+          "zh": "温度和湿度"
+        }
+      },
+      {
+        "key": "range",
+        "value": "-20 °C … 60 °C, 0 … 100 % HR"
+      },
+      {
+        "key": "battery",
+        "value": {
+          "fr": "CR2032, jusqu'à 5 ans d'autonomie",
+          "en": "CR2032, up to 5 years battery life",
+          "es": "CR2032, hasta 5 años de autonomía",
+          "ar": "CR2032، حتى 5 سنوات من عمر البطارية",
+          "zh": "CR2032电池，续航最长5年"
+        }
+      },
+      {
+        "key": "dimensions",
+        "value": "36 × 36 × 8 mm"
+      },
+      {
+        "key": "weight",
+        "value": "10 g"
+      },
+      {
+        "key": "operatingTemp",
+        "value": "-20 °C … 60 °C"
+      }
+    ],
+    "pricing": {
+      "sourcePrice": 15.99,
+      "sourceCurrency": "USD"
+    },
+    "availability": "sur-commande",
+    "install": {
+      "level": "simple",
+      "duration": "5 min",
+      "prerequisites": {
+        "fr": "Une passerelle Aqara Zigbee (Hub M2/M3) déjà installée.",
+        "en": "An Aqara Zigbee gateway (Hub M2/M3) already installed.",
+        "es": "Una pasarela Aqara Zigbee (Hub M2/M3) ya instalada.",
+        "ar": "بوابة Aqara Zigbee (Hub M2/M3) مثبّتة مسبقاً.",
+        "zh": "需已安装 Aqara Zigbee 网关（Hub M2/M3）。"
+      }
+    },
+    "sourceUrl": "https://www.aqara.com/en/product/temperature-and-humidity-sensor-t1",
+    "accent": "#6d28d9",
+    "symbol": "☼",
+    "solutions": [
+      "domotique/pilotage-energie"
+    ],
+    "related": [
+      "aqara-hub-m2",
+      "aqara-water-leak-sensor"
+    ]
+  },
+  {
+    "id": "aqara-smart-lock-u200",
+    "sku": "ZNMS17LM",
+    "brand": "aqara",
+    "sourceBrand": "Aqara",
+    "model": "Smart Lock U200",
+    "category": "acces",
+    "subcategory": "serrures-connectees",
+    "i18n": {
+      "fr": {
+        "name": "Aqara Smart Lock U200",
+        "tagline": "Empreinte, code, carte ou clé : quatre façons d'entrer.",
+        "description": "Serrure connectée Bluetooth, Zigbee et Matter qui remplace un cylindre standard et s'ouvre par empreinte digitale, code, carte NFC ou application, avec clé mécanique de secours. Elle conserve un journal d'accès horodaté, envoie une alerte en cas de tentative de forçage et peut s'intégrer aux scénarios de la sonnette G4.",
+        "highlights": [
+          "Empreinte, code, carte NFC et application",
+          "Matter et Zigbee, exposée à Apple, Google et Alexa via hub",
+          "Journal des accès horodaté jusqu'à 200 entrées",
+          "Clé mécanique de secours incluse"
+        ],
+        "inTheBox": [
+          "Serrure Smart Lock U200",
+          "Cylindre et clés mécaniques de secours",
+          "2 cartes NFC",
+          "Piles AA ×4",
+          "Guide de démarrage"
+        ]
+      },
+      "en": {
+        "name": "Aqara Smart Lock U200",
+        "tagline": "Fingerprint, code, card or key: four ways in.",
+        "description": "Bluetooth, Zigbee and Matter smart lock that replaces a standard cylinder and opens by fingerprint, code, NFC card or app, with a mechanical backup key. It keeps a time-stamped access log, sends an alert on a forced-entry attempt, and can integrate with the G4 doorbell's scenes.",
+        "highlights": [
+          "Fingerprint, code, NFC card and app",
+          "Matter and Zigbee, exposed to Apple, Google and Alexa via a hub",
+          "Time-stamped access log for up to 200 entries",
+          "Mechanical backup key included"
+        ],
+        "inTheBox": [
+          "Smart Lock U200",
+          "Mechanical backup cylinder and keys",
+          "2 NFC cards",
+          "4 × AA batteries",
+          "Quick start guide"
+        ]
+      },
+      "es": {
+        "name": "Aqara Smart Lock U200",
+        "tagline": "Huella, código, tarjeta o llave: cuatro formas de entrar.",
+        "description": "Cerradura inteligente Bluetooth, Zigbee y Matter que sustituye un cilindro estándar y se abre con huella dactilar, código, tarjeta NFC o app, con llave mecánica de emergencia. Mantiene un registro de accesos con hora, envía una alerta ante un intento de forzado y puede integrarse con las escenas del videoportero G4.",
+        "highlights": [
+          "Huella, código, tarjeta NFC y app",
+          "Matter y Zigbee, expuesta a Apple, Google y Alexa vía hub",
+          "Registro de accesos con hora hasta 200 entradas",
+          "Llave mecánica de emergencia incluida"
+        ],
+        "inTheBox": [
+          "Cerradura Smart Lock U200",
+          "Cilindro y llaves mecánicas de emergencia",
+          "2 tarjetas NFC",
+          "4 pilas AA",
+          "Guía de inicio rápido"
+        ]
+      },
+      "ar": {
+        "name": "Aqara Smart Lock U200",
+        "tagline": "بصمة، رمز، بطاقة أو مفتاح: أربع طرق للدخول.",
+        "description": "قفل ذكي يعمل عبر Bluetooth وZigbee وMatter، يحل محل الأسطوانة القياسية ويُفتح بالبصمة أو الرمز أو بطاقة NFC أو التطبيق، مع مفتاح ميكانيكي احتياطي. يحتفظ بسجل دخول موثّق بالوقت، ويرسل تنبيهاً عند محاولة الاقتحام، ويمكن دمجه مع سيناريوهات جرس الباب G4.",
+        "highlights": [
+          "بصمة، رمز، بطاقة NFC وتطبيق",
+          "Matter وZigbee، متاح لـApple وGoogle وAlexa عبر بوابة",
+          "سجل دخول موثّق بالوقت حتى 200 إدخال",
+          "مفتاح ميكانيكي احتياطي مرفق"
+        ],
+        "inTheBox": [
+          "قفل Smart Lock U200",
+          "أسطوانة ومفاتيح ميكانيكية احتياطية",
+          "بطاقتا NFC",
+          "4 بطاريات AA",
+          "دليل البدء السريع"
+        ]
+      },
+      "zh": {
+        "name": "Aqara U200 智能门锁",
+        "tagline": "指纹、密码、卡片或钥匙，四种开门方式。",
+        "description": "支持 Bluetooth、Zigbee 与 Matter 的智能门锁，可替换标准锁芯，通过指纹、密码、NFC 卡或应用开锁，并配备机械应急钥匙。具备带时间戳的开锁记录、强行开锁即时告警，并可与 G4 视频门铃场景联动。",
+        "highlights": [
+          "指纹、密码、NFC 卡与应用开锁",
+          "支持 Matter 与 Zigbee，可通过网关接入 Apple、Google 与 Alexa",
+          "带时间戳的开锁记录，最多 200 条",
+          "配备机械应急钥匙"
+        ],
+        "inTheBox": [
+          "Smart Lock U200 门锁",
+          "机械应急锁芯与钥匙",
+          "NFC 卡 × 2",
+          "AA 电池 × 4",
+          "快速入门指南"
+        ]
+      }
+    },
+    "attributes": {
+      "protocol": [
+        "bluetooth",
+        "zigbee",
+        "thread-matter"
+      ],
+      "placement": "exterieur",
+      "power": [
+        "pile"
+      ],
+      "compat": [
+        "matter",
+        "apple-home",
+        "app-marque",
+        "safer-platform"
+      ]
+    },
+    "specs": [
+      {
+        "key": "protocol",
+        "value": "Bluetooth 5.1, Zigbee 3.0, Matter 1.2"
+      },
+      {
+        "key": "unlockMethods",
+        "value": {
+          "fr": "Empreinte, code, carte NFC, application, clé",
+          "en": "Fingerprint, code, NFC card, app, key",
+          "es": "Huella, código, tarjeta NFC, app, llave",
+          "ar": "بصمة، رمز، بطاقة NFC، تطبيق، مفتاح",
+          "zh": "指纹、密码、NFC卡、App、钥匙"
+        }
+      },
+      {
+        "key": "lockType",
+        "value": {
+          "fr": "Cylindre à remplacement, mono ou double face",
+          "en": "Replacement cylinder, single or double-sided",
+          "es": "Cilindro de sustitución, de una o dos caras",
+          "ar": "أسطوانة قابلة للاستبدال، وجه واحد أو وجهين",
+          "zh": "可更换锁芯，单面或双面"
+        }
+      },
+      {
+        "key": "users",
+        "value": {
+          "fr": "Jusqu'à 200 utilisateurs",
+          "en": "Up to 200 users",
+          "es": "Hasta 200 usuarios",
+          "ar": "حتى 200 مستخدم",
+          "zh": "最多支持200个用户"
+        }
+      },
+      {
+        "key": "log",
+        "value": {
+          "fr": "Journal horodaté, 200 événements",
+          "en": "Timestamped log, 200 events",
+          "es": "Registro con marca de tiempo, 200 eventos",
+          "ar": "سجل موثق بالوقت، 200 حدث",
+          "zh": "带时间戳日志，200条事件"
+        }
+      },
+      {
+        "key": "battery",
+        "value": {
+          "fr": "4 × AA, jusqu'à 8 mois d'autonomie",
+          "en": "4× AA, up to 8 months battery life",
+          "es": "4 × AA, hasta 8 meses de autonomía",
+          "ar": "4 بطاريات AA، حتى 8 أشهر من عمر البطارية",
+          "zh": "4节AA电池，续航最长8个月"
+        }
+      },
+      {
+        "key": "weatherproof",
+        "value": {
+          "fr": "IP65 (module extérieur)",
+          "en": "IP65 (outdoor module)",
+          "es": "IP65 (módulo exterior)",
+          "ar": "IP65 (الوحدة الخارجية)",
+          "zh": "IP65（室外模块）"
+        }
+      },
+      {
+        "key": "operatingTemp",
+        "value": "-20 °C … 60 °C"
+      }
+    ],
+    "pricing": {
+      "sourcePrice": 259.99,
+      "sourceCurrency": "USD"
+    },
+    "availability": "sur-devis",
+    "install": {
+      "level": "standard",
+      "duration": "45 min",
+      "prerequisites": {
+        "fr": "Porte équipée d'un cylindre européen standard ; passerelle Aqara ou border router Thread pour le pilotage à distance.",
+        "en": "Door fitted with a standard Euro cylinder; an Aqara gateway or Thread border router for remote control.",
+        "es": "Puerta con cilindro europeo estándar; pasarela Aqara o border router Thread para el control remoto.",
+        "ar": "باب مزوّد بأسطوانة أوروبية قياسية؛ بوابة Aqara أو موجه حدود Thread للتحكم عن بُعد.",
+        "zh": "门需配备标准欧式锁芯；需有 Aqara 网关或 Thread 边界路由器以支持远程控制。"
+      }
+    },
+    "sourceUrl": "https://www.aqara.com/en/product/smart-lock-u200",
+    "accent": "#6d28d9",
+    "symbol": "⌂",
+    "solutions": [
+      "controle-acces/serrures-intelligentes"
+    ],
+    "related": [
+      "aqara-video-doorbell-g4",
+      "aqara-door-window-sensor-p2"
+    ]
+  },
+  {
+    "id": "aqara-curtain-driver-e1",
+    "sku": "ZNCLDJ14LM",
+    "brand": "aqara",
+    "sourceBrand": "Aqara",
+    "model": "Curtain Driver E1",
+    "category": "domotique",
+    "subcategory": "volets-rideaux",
+    "i18n": {
+      "fr": {
+        "name": "Aqara Curtain Driver E1",
+        "tagline": "Vos rideaux s'ouvrent seuls, au bon moment.",
+        "description": "Module Zigbee qui motorise un rail de rideau existant pour l'ouvrir et le fermer depuis l'application, un bouton mural ou un scénario lié au lever et au coucher du soleil. Batterie rechargeable intégrée avec panneau solaire en option, calibrage automatique des fins de course et fonctionnement manuel toujours disponible.",
+        "highlights": [
+          "Ouverture et fermeture programmées selon l'heure ou le soleil",
+          "Batterie rechargeable, panneau solaire en option",
+          "Calibrage automatique des fins de course",
+          "Fonctionnement manuel toujours possible"
+        ],
+        "inTheBox": [
+          "Module moteur Curtain Driver E1",
+          "Chariot compatible rail existant",
+          "Câble USB-C",
+          "Guide de démarrage"
+        ]
+      },
+      "en": {
+        "name": "Aqara Curtain Driver E1",
+        "tagline": "Curtains that open on their own, right on time.",
+        "description": "Zigbee module that motorises an existing curtain track to open and close it from the app, a wall button, or a schedule tied to sunrise and sunset. Built-in rechargeable battery with an optional solar panel, automatic end-of-travel calibration, and manual operation always available.",
+        "highlights": [
+          "Open / close scheduled by time or sun position",
+          "Rechargeable battery, optional solar panel",
+          "Automatic end-of-travel calibration",
+          "Manual operation always available"
+        ],
+        "inTheBox": [
+          "Curtain Driver E1 motor module",
+          "Carriage compatible with existing track",
+          "USB-C cable",
+          "Quick start guide"
+        ]
+      },
+      "es": {
+        "name": "Aqara Curtain Driver E1",
+        "tagline": "Tus cortinas se abren solas, en el momento justo.",
+        "description": "Módulo Zigbee que motoriza un riel de cortina existente para abrirla y cerrarla desde la app, un botón de pared o un horario ligado al amanecer y al atardecer. Batería recargable integrada con panel solar opcional, calibración automática de los finales de carrera y funcionamiento manual siempre disponible.",
+        "highlights": [
+          "Apertura y cierre programados por hora o posición solar",
+          "Batería recargable, panel solar opcional",
+          "Calibración automática de finales de carrera",
+          "Funcionamiento manual siempre disponible"
+        ],
+        "inTheBox": [
+          "Módulo motor Curtain Driver E1",
+          "Carro compatible con riel existente",
+          "Cable USB-C",
+          "Guía de inicio rápido"
+        ]
+      },
+      "ar": {
+        "name": "Aqara Curtain Driver E1",
+        "tagline": "ستائرك تفتح من تلقاء نفسها في الوقت المناسب.",
+        "description": "وحدة Zigbee تُحرّك سكة ستارة موجودة لفتحها وإغلاقها من التطبيق أو زر جداري أو جدول زمني مرتبط بشروق الشمس وغروبها. بطارية قابلة لإعادة الشحن مدمجة مع لوحة شمسية اختيارية، ومعايرة تلقائية لنهايات المسار، وتشغيل يدوي متاح دائماً.",
+        "highlights": [
+          "فتح وإغلاق مجدولان حسب الوقت أو وضع الشمس",
+          "بطارية قابلة لإعادة الشحن، لوحة شمسية اختيارية",
+          "معايرة تلقائية لنهايات المسار",
+          "تشغيل يدوي متاح دائماً"
+        ],
+        "inTheBox": [
+          "وحدة محرك Curtain Driver E1",
+          "عربة متوافقة مع السكة الحالية",
+          "كابل USB-C",
+          "دليل البدء السريع"
+        ]
+      },
+      "zh": {
+        "name": "Aqara E1 窗帘电机",
+        "tagline": "让窗帘按时自动开合。",
+        "description": "Zigbee 电机模块，可为现有窗帘轨道加装电动控制，通过应用、墙壁按钮或与日出日落联动的场景来开合窗帘。内置可充电电池，可选配太阳能板，支持行程自动校准，并始终保留手动操作方式。",
+        "highlights": [
+          "按时间或日照自动开合窗帘",
+          "内置可充电电池，可选太阳能板",
+          "自动校准行程终点",
+          "始终支持手动操作"
+        ],
+        "inTheBox": [
+          "Curtain Driver E1 电机模块",
+          "适配现有轨道的滑轮",
+          "USB-C 数据线",
+          "快速入门指南"
+        ]
+      }
+    },
+    "attributes": {
+      "protocol": [
+        "zigbee"
+      ],
+      "placement": "interieur",
+      "power": [
+        "batterie",
+        "solaire"
+      ],
+      "compat": [
+        "apple-home",
+        "google",
+        "alexa",
+        "app-marque",
+        "safer-platform"
+      ]
+    },
+    "specs": [
+      {
+        "key": "protocol",
+        "value": "Zigbee 3.0"
+      },
+      {
+        "key": "motorPower",
+        "value": "Moteur silencieux < 45 dB"
+      },
+      {
+        "key": "maxWeight",
+        "value": {
+          "fr": "Rail jusqu'à 15 kg",
+          "en": "Rail up to 15 kg",
+          "es": "Riel hasta 15 kg",
+          "ar": "سكة حتى 15 كجم",
+          "zh": "轨道最大承重15千克"
+        }
+      },
+      {
+        "key": "battery",
+        "value": {
+          "fr": "Rechargeable intégrée, autonomie ~4 mois",
+          "en": "Built-in rechargeable, ~4 months battery life",
+          "es": "Recargable integrada, autonomía de ~4 meses",
+          "ar": "بطارية مدمجة قابلة لإعادة الشحن، عمر بطارية ~4 أشهر",
+          "zh": "内置可充电电池，续航约4个月"
+        }
+      },
+      {
+        "key": "solar",
+        "value": {
+          "fr": "Panneau solaire Aqara en option",
+          "en": "Optional Aqara solar panel",
+          "es": "Panel solar Aqara opcional",
+          "ar": "لوح شمسي Aqara اختياري",
+          "zh": "可选配Aqara太阳能板"
+        }
+      },
+      {
+        "key": "chargeTime",
+        "value": {
+          "fr": "Charge complète en 3 h (USB-C)",
+          "en": "Full charge in 3 h (USB-C)",
+          "es": "Carga completa en 3 h (USB-C)",
+          "ar": "شحن كامل خلال 3 ساعات (USB-C)",
+          "zh": "3小时充满（USB-C）"
+        }
+      },
+      {
+        "key": "openingTime",
+        "value": {
+          "fr": "Réglable selon la longueur du rail",
+          "en": "Adjustable based on rail length",
+          "es": "Ajustable según la longitud del riel",
+          "ar": "قابل للتعديل حسب طول السكة",
+          "zh": "可根据轨道长度调节"
+        }
+      },
+      {
+        "key": "operatingTemp",
+        "value": "-10 °C … 45 °C"
+      }
+    ],
+    "pricing": {
+      "sourcePrice": 69.99,
+      "sourceCurrency": "USD"
+    },
+    "availability": "sur-commande",
+    "install": {
+      "level": "standard",
+      "duration": "30 min",
+      "prerequisites": {
+        "fr": "Rail de rideau existant compatible ; passerelle Aqara Zigbee à proximité.",
+        "en": "An existing compatible curtain track; an Aqara Zigbee gateway nearby.",
+        "es": "Riel de cortina existente compatible; pasarela Aqara Zigbee cercana.",
+        "ar": "سكة ستارة حالية متوافقة؛ بوابة Aqara Zigbee قريبة.",
+        "zh": "需有兼容的现有窗帘轨道；附近需有 Aqara Zigbee 网关。"
+      }
+    },
+    "sourceUrl": "https://www.aqara.com/en/product/curtain-driver-e1",
+    "accent": "#6d28d9",
+    "symbol": "↗",
+    "solutions": [
+      "domotique/scenarios-intelligents",
+      "domotique/pilotage-energie"
+    ],
+    "related": [
+      "aqara-hub-m3",
+      "aqara-temperature-humidity-sensor-t1"
+    ]
+  }
+]

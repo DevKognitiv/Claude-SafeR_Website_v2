@@ -76,3 +76,22 @@ CREATE TABLE IF NOT EXISTS partner_reviews (
 );
 CREATE INDEX IF NOT EXISTS idx_reviews_partner ON partner_reviews(partner_id, created_at);
 PRAGMA optimize;
+
+-- Leads (diagnostic, projets collectifs, contact, rappels)
+CREATE TABLE IF NOT EXISTS leads (
+  id TEXT PRIMARY KEY,
+  type TEXT NOT NULL,
+  name TEXT NOT NULL,
+  phone TEXT NOT NULL,
+  email TEXT,
+  organization TEXT,
+  subject TEXT,
+  message TEXT,
+  locale TEXT,
+  source TEXT,
+  payload_json TEXT NOT NULL DEFAULT '{}',
+  status TEXT NOT NULL DEFAULT 'new' CHECK (status IN ('new','contacted','qualified','closed')),
+  created_at TEXT NOT NULL
+);
+CREATE INDEX IF NOT EXISTS idx_leads_status_created ON leads(status, created_at);
+CREATE INDEX IF NOT EXISTS idx_leads_type ON leads(type);

@@ -1,0 +1,31 @@
+name: CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+jobs:
+  quality:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci
+      - name: Type check
+        run: npx tsc --noEmit
+      - name: Lint
+        run: npm run lint
+      - name: Catalogue integrity (Tuya → SafeR rule, pricing, sources)
+        run: npm run catalog:test
+      - name: Translations (missing / orphan keys, hard-coded copy)
+        run: npm run i18n:check
+      - name: Crawler unit tests
+        working-directory: crawler
+        run: npm ci --omit=optional && npm test
+      - name: Production build
+        run: npm run build

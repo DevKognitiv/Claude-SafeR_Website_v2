@@ -1,0 +1,1458 @@
+[
+  {
+    "id": "sonoff-zbbridge-p",
+    "sku": "ZBBRIDGE-P",
+    "brand": "sonoff",
+    "sourceBrand": "SONOFF",
+    "model": "Zigbee Bridge Pro",
+    "category": "domotique",
+    "subcategory": "passerelles-hubs",
+    "i18n": {
+      "fr": {
+        "name": "SONOFF Zigbee Bridge Pro",
+        "tagline": "La passerelle Zigbee abordable pour votre écosystème eWeLink.",
+        "description": "Passerelle Zigbee 3.0 vers Wi-Fi qui relie capteurs, prises et interrupteurs SONOFF à l'application eWeLink et permet des automatisations locales via le mode LAN. Compacte, alimentée par simple prise secteur, elle fait le pont entre vos appareils Zigbee et Alexa ou Google Home.",
+        "highlights": [
+          "Zigbee 3.0 vers Wi-Fi 2,4 GHz",
+          "Automatisations locales en mode LAN, sans cloud",
+          "Jusqu'à 128 appareils Zigbee raccordés",
+          "Exposée à Alexa et Google Home via eWeLink"
+        ],
+        "inTheBox": [
+          "Passerelle Zigbee Bridge Pro",
+          "Bloc secteur",
+          "Guide de démarrage"
+        ]
+      },
+      "en": {
+        "name": "SONOFF Zigbee Bridge Pro",
+        "tagline": "The affordable Zigbee gateway for your eWeLink ecosystem.",
+        "description": "Zigbee 3.0 to Wi-Fi gateway that connects SONOFF sensors, plugs and switches to the eWeLink app and enables local automations through LAN mode. Compact and mains-powered, it bridges your Zigbee devices to Alexa or Google Home.",
+        "highlights": [
+          "Zigbee 3.0 to 2.4 GHz Wi-Fi bridge",
+          "Local LAN-mode automations, no cloud required",
+          "Up to 128 connected Zigbee devices",
+          "Exposed to Alexa and Google Home via eWeLink"
+        ],
+        "inTheBox": [
+          "Zigbee Bridge Pro gateway",
+          "Power adapter",
+          "Quick start guide"
+        ]
+      },
+      "es": {
+        "name": "SONOFF Zigbee Bridge Pro",
+        "tagline": "La pasarela Zigbee asequible para tu ecosistema eWeLink.",
+        "description": "Pasarela Zigbee 3.0 a Wi-Fi que conecta sensores, enchufes e interruptores SONOFF a la app eWeLink y permite automatizaciones locales mediante el modo LAN. Compacta y alimentada por toma de corriente, conecta tus dispositivos Zigbee con Alexa o Google Home.",
+        "highlights": [
+          "Puente Zigbee 3.0 a Wi-Fi de 2,4 GHz",
+          "Automatizaciones locales en modo LAN, sin nube",
+          "Hasta 128 dispositivos Zigbee conectados",
+          "Expuesta a Alexa y Google Home vía eWeLink"
+        ],
+        "inTheBox": [
+          "Pasarela Zigbee Bridge Pro",
+          "Adaptador de corriente",
+          "Guía de inicio rápido"
+        ]
+      },
+      "ar": {
+        "name": "SONOFF Zigbee Bridge Pro",
+        "tagline": "بوابة Zigbee اقتصادية لمنظومة eWeLink.",
+        "description": "بوابة Zigbee 3.0 إلى Wi-Fi تربط حساسات ومقابس ومفاتيح SONOFF بتطبيق eWeLink وتتيح أتمتة محلية عبر وضع LAN. مدمجة وتعمل بمقبس كهرباء عادي، وتربط أجهزتك عبر Zigbee بـAlexa أو Google Home.",
+        "highlights": [
+          "جسر Zigbee 3.0 إلى Wi-Fi بتردد 2.4 جيجاهرتز",
+          "أتمتة محلية بوضع LAN دون الحاجة للسحابة",
+          "حتى 128 جهاز Zigbee متصلاً",
+          "متاحة لـAlexa وGoogle Home عبر eWeLink"
+        ],
+        "inTheBox": [
+          "بوابة Zigbee Bridge Pro",
+          "محول كهربائي",
+          "دليل البدء السريع"
+        ]
+      },
+      "zh": {
+        "name": "SONOFF Zigbee Bridge Pro 网关",
+        "tagline": "面向 eWeLink 生态的高性价比 Zigbee 网关。",
+        "description": "Zigbee 3.0 转 Wi-Fi 网关，将 SONOFF 传感器、插座与开关接入 eWeLink 应用，并支持局域网模式下的本地自动化。体积小巧，接入市电即可使用，可将 Zigbee 设备接入 Alexa 或 Google Home。",
+        "highlights": [
+          "Zigbee 3.0 转 2.4 GHz Wi-Fi 桥接",
+          "局域网模式本地自动化，无需依赖云端",
+          "最多连接 128 个 Zigbee 设备",
+          "通过 eWeLink 接入 Alexa 与 Google Home"
+        ],
+        "inTheBox": [
+          "Zigbee Bridge Pro 网关",
+          "电源适配器",
+          "快速入门指南"
+        ]
+      }
+    },
+    "attributes": {
+      "protocol": [
+        "zigbee",
+        "wifi"
+      ],
+      "placement": "interieur",
+      "power": [
+        "secteur"
+      ],
+      "compat": [
+        "alexa",
+        "google",
+        "app-marque",
+        "safer-platform"
+      ]
+    },
+    "specs": [
+      {
+        "key": "protocol",
+        "value": "Zigbee 3.0, Wi-Fi 2,4 GHz"
+      },
+      {
+        "key": "capacity",
+        "value": {
+          "fr": "Jusqu'à 128 appareils Zigbee",
+          "en": "Up to 128 Zigbee devices",
+          "es": "Hasta 128 dispositivos Zigbee",
+          "ar": "حتى 128 جهاز Zigbee",
+          "zh": "最多支持128个Zigbee设备"
+        }
+      },
+      {
+        "key": "range",
+        "value": {
+          "fr": "Zigbee jusqu'à 20 m en intérieur",
+          "en": "Zigbee up to 20 m indoors",
+          "es": "Zigbee hasta 20 m en interior",
+          "ar": "Zigbee حتى 20 م داخل المبنى",
+          "zh": "Zigbee室内距离最长20米"
+        }
+      },
+      {
+        "key": "power",
+        "value": "Micro-USB, 5 V / 1 A"
+      },
+      {
+        "key": "dimensions",
+        "value": "72 × 72 × 21 mm"
+      },
+      {
+        "key": "operatingTemp",
+        "value": "0 °C … 40 °C"
+      },
+      {
+        "key": "compatibility",
+        "value": "Amazon Alexa, Google Home"
+      },
+      {
+        "key": "app",
+        "value": "eWeLink"
+      }
+    ],
+    "pricing": {
+      "sourcePrice": 19.99,
+      "sourceCurrency": "USD"
+    },
+    "availability": "en-stock",
+    "install": {
+      "level": "simple",
+      "duration": "10 min",
+      "prerequisites": {
+        "fr": "Wi-Fi 2,4 GHz et prise secteur à proximité de l'emplacement central du logement.",
+        "en": "2.4 GHz Wi-Fi and a mains outlet near the home's central location.",
+        "es": "Wi-Fi de 2,4 GHz y toma de corriente cerca del punto central de la vivienda.",
+        "ar": "شبكة Wi-Fi بتردد 2.4 جيجاهرتز ومقبس كهرباء قرب النقطة المركزية للمسكن.",
+        "zh": "住宅中心位置附近需有 2.4 GHz Wi-Fi 和电源插座。"
+      }
+    },
+    "sourceUrl": "https://sonoff.tech/product/gateway-and-sensor/zbbridge-p/",
+    "accent": "#f59e0b",
+    "symbol": "⌁",
+    "featured": true,
+    "solutions": [
+      "domotique/scenarios-intelligents",
+      "domotique/pilotage-energie"
+    ],
+    "related": [
+      "sonoff-snzb-02d",
+      "sonoff-snzb-04p",
+      "sonoff-ihost"
+    ]
+  },
+  {
+    "id": "sonoff-ihost",
+    "sku": "IHOST",
+    "brand": "sonoff",
+    "sourceBrand": "SONOFF",
+    "model": "iHost Smart Home Hub",
+    "category": "domotique",
+    "subcategory": "passerelles-hubs",
+    "i18n": {
+      "fr": {
+        "name": "SONOFF iHost Smart Home Hub",
+        "tagline": "Un hub local, sans dépendance au cloud pour fonctionner.",
+        "description": "Hub domotique local basé sur Home Assistant OS, qui pilote vos appareils Zigbee, Wi-Fi et RF433 sans envoyer vos données vers un cloud tiers. Les automatisations tournent directement sur l'appareil, restent actives sans Internet, et l'écosystème NS Panel/eWeLink reste accessible en option pour le pilotage à distance.",
+        "highlights": [
+          "Fonctionne intégralement en local, données conservées chez vous",
+          "Automatisations actives sans connexion Internet",
+          "Compatible Zigbee, Wi-Fi, RF433 et Matter",
+          "Interface web complète type Home Assistant"
+        ],
+        "inTheBox": [
+          "Hub iHost",
+          "Bloc secteur",
+          "Guide de démarrage"
+        ]
+      },
+      "en": {
+        "name": "SONOFF iHost Smart Home Hub",
+        "tagline": "A local hub that doesn't need the cloud to work.",
+        "description": "Local smart home hub built on Home Assistant OS, controlling your Zigbee, Wi-Fi and RF433 devices without sending data to a third-party cloud. Automations run directly on the device, stay active without internet, and the NS Panel/eWeLink ecosystem remains available for optional remote control.",
+        "highlights": [
+          "Runs fully locally, your data stays with you",
+          "Automations stay active without internet",
+          "Compatible with Zigbee, Wi-Fi, RF433 and Matter",
+          "Full Home Assistant-style web interface"
+        ],
+        "inTheBox": [
+          "iHost hub",
+          "Power adapter",
+          "Quick start guide"
+        ]
+      },
+      "es": {
+        "name": "SONOFF iHost Smart Home Hub",
+        "tagline": "Un hub local que no depende de la nube para funcionar.",
+        "description": "Hub doméstico local basado en Home Assistant OS, que controla tus dispositivos Zigbee, Wi-Fi y RF433 sin enviar datos a una nube externa. Las automatizaciones se ejecutan directamente en el dispositivo, permanecen activas sin Internet, y el ecosistema NS Panel/eWeLink sigue disponible de forma opcional para el control remoto.",
+        "highlights": [
+          "Funciona totalmente en local, tus datos permanecen contigo",
+          "Automatizaciones activas sin conexión a Internet",
+          "Compatible con Zigbee, Wi-Fi, RF433 y Matter",
+          "Interfaz web completa tipo Home Assistant"
+        ],
+        "inTheBox": [
+          "Hub iHost",
+          "Adaptador de corriente",
+          "Guía de inicio rápido"
+        ]
+      },
+      "ar": {
+        "name": "SONOFF iHost Smart Home Hub",
+        "tagline": "محور محلي لا يحتاج إلى السحابة ليعمل.",
+        "description": "محور منزلي محلي مبني على Home Assistant OS، يتحكم بأجهزتك عبر Zigbee وWi-Fi وRF433 دون إرسال بياناتك إلى سحابة خارجية. تعمل الأتمتة مباشرة على الجهاز وتبقى فعّالة دون إنترنت، ويبقى نظام NS Panel/eWeLink متاحاً اختيارياً للتحكم عن بُعد.",
+        "highlights": [
+          "يعمل بالكامل محلياً، وبياناتك تبقى لديك",
+          "أتمتة فعّالة دون اتصال بالإنترنت",
+          "متوافق مع Zigbee وWi-Fi وRF433 وMatter",
+          "واجهة ويب كاملة على غرار Home Assistant"
+        ],
+        "inTheBox": [
+          "محور iHost",
+          "محول كهربائي",
+          "دليل البدء السريع"
+        ]
+      },
+      "zh": {
+        "name": "SONOFF iHost 智能家居中枢",
+        "tagline": "无需依赖云端即可运行的本地中枢。",
+        "description": "基于 Home Assistant OS 的本地智能家居中枢，可控制 Zigbee、Wi-Fi 与 RF433 设备，数据无需上传第三方云端。自动化场景直接在设备本地运行，断网仍可正常工作，同时保留 NS Panel/eWeLink 生态以便选用远程控制。",
+        "highlights": [
+          "完全本地运行，数据留在本地",
+          "断网状态下自动化仍可运行",
+          "兼容 Zigbee、Wi-Fi、RF433 与 Matter",
+          "提供完整的类 Home Assistant 网页界面"
+        ],
+        "inTheBox": [
+          "iHost 中枢",
+          "电源适配器",
+          "快速入门指南"
+        ]
+      }
+    },
+    "attributes": {
+      "protocol": [
+        "zigbee",
+        "wifi",
+        "rf-proprietaire"
+      ],
+      "placement": "interieur",
+      "power": [
+        "secteur"
+      ],
+      "compat": [
+        "matter",
+        "apple-home",
+        "app-marque",
+        "safer-platform"
+      ]
+    },
+    "specs": [
+      {
+        "key": "protocol",
+        "value": "Zigbee 3.0, Wi-Fi 2,4 GHz, RF433"
+      },
+      {
+        "key": "connectivity",
+        "value": {
+          "fr": "Ethernet RJ45, USB pour extensions",
+          "en": "Ethernet RJ45, USB for extensions",
+          "es": "Ethernet RJ45, USB para extensiones",
+          "ar": "Ethernet RJ45، USB للإضافات",
+          "zh": "以太网RJ45接口，USB扩展"
+        }
+      },
+      {
+        "key": "storage",
+        "value": {
+          "fr": "8 Go eMMC embarqué",
+          "en": "8 GB onboard eMMC",
+          "es": "8 GB eMMC integrado",
+          "ar": "8 جيجابايت eMMC مدمج",
+          "zh": "内置8GB eMMC存储"
+        }
+      },
+      {
+        "key": "capacity",
+        "value": {
+          "fr": "Centaines d'appareils selon protocole",
+          "en": "Hundreds of devices, depending on protocol",
+          "es": "Cientos de dispositivos según el protocolo",
+          "ar": "مئات الأجهزة حسب البروتوكول",
+          "zh": "数百台设备（视协议而定）"
+        }
+      },
+      {
+        "key": "power",
+        "value": "USB-C, 5 V / 2 A"
+      },
+      {
+        "key": "dimensions",
+        "value": "104 × 104 × 24 mm"
+      },
+      {
+        "key": "operatingTemp",
+        "value": "0 °C … 40 °C"
+      },
+      {
+        "key": "compatibility",
+        "value": "Matter, Apple HomeKit (via extension)"
+      }
+    ],
+    "pricing": {
+      "sourcePrice": 59.99,
+      "sourceCurrency": "USD"
+    },
+    "availability": "sur-commande",
+    "install": {
+      "level": "standard",
+      "duration": "30 min",
+      "prerequisites": {
+        "fr": "Réseau Ethernet ou Wi-Fi 2,4 GHz et prise secteur à proximité du point central du logement.",
+        "en": "Ethernet or 2.4 GHz Wi-Fi network and a mains outlet near the home's central point.",
+        "es": "Red Ethernet o Wi-Fi de 2,4 GHz y toma de corriente cerca del punto central de la vivienda.",
+        "ar": "شبكة إيثرنت أو Wi-Fi بتردد 2.4 جيجاهرتز ومقبس كهرباء قرب النقطة المركزية للمسكن.",
+        "zh": "住宅中心位置附近需有以太网或 2.4 GHz Wi-Fi 及电源插座。"
+      }
+    },
+    "sourceUrl": "https://sonoff.tech/product/smart-home-security/ihost/",
+    "accent": "#f59e0b",
+    "symbol": "⌁",
+    "solutions": [
+      "domotique/scenarios-intelligents",
+      "domotique/pilotage-energie"
+    ],
+    "related": [
+      "sonoff-zbbridge-p",
+      "sonoff-minir4m"
+    ]
+  },
+  {
+    "id": "sonoff-minir4m",
+    "sku": "MINIR4M",
+    "brand": "sonoff",
+    "sourceBrand": "SONOFF",
+    "model": "MINI R4M",
+    "category": "domotique",
+    "subcategory": "prises-interrupteurs",
+    "i18n": {
+      "fr": {
+        "name": "SONOFF MINI R4M",
+        "tagline": "Le module Wi-Fi Matter qui se cache derrière votre interrupteur.",
+        "description": "Module de commutation Wi-Fi compatible Matter à installer derrière un interrupteur mural existant pour rendre un éclairage ou un appareil 230 V pilotable à distance sans en changer l'apparence. Il conserve la commande manuelle du bouton mural, mesure la consommation électrique et se déclenche par scénario ou vocalement.",
+        "highlights": [
+          "Compatible Matter, exposé à Alexa, Google et Apple Home",
+          "Mesure de consommation en temps réel",
+          "Bouton mural existant toujours actif",
+          "Format compact 16 A pour boîtier d'encastrement"
+        ],
+        "inTheBox": [
+          "Module MINI R4M",
+          "Bornes de raccordement",
+          "Guide de démarrage"
+        ]
+      },
+      "en": {
+        "name": "SONOFF MINI R4M",
+        "tagline": "The Wi-Fi Matter module hiding behind your wall switch.",
+        "description": "Wi-Fi switching module with Matter support, fitted behind an existing wall switch to make a light or 230 V appliance remotely controllable without changing its look. It keeps the wall button working, measures power consumption, and can be triggered by scene or voice.",
+        "highlights": [
+          "Matter compatible, exposed to Alexa, Google and Apple Home",
+          "Real-time power consumption metering",
+          "Existing wall button keeps working",
+          "Compact 16 A design for a flush-mount box"
+        ],
+        "inTheBox": [
+          "MINI R4M module",
+          "Connection terminals",
+          "Quick start guide"
+        ]
+      },
+      "es": {
+        "name": "SONOFF MINI R4M",
+        "tagline": "El módulo Wi-Fi Matter que se esconde tras tu interruptor.",
+        "description": "Módulo de conmutación Wi-Fi compatible con Matter, instalado detrás de un interruptor de pared existente para controlar a distancia una luz o un aparato de 230 V sin cambiar su aspecto. Mantiene activo el botón de pared, mide el consumo eléctrico y puede activarse por escena o por voz.",
+        "highlights": [
+          "Compatible con Matter, expuesto a Alexa, Google y Apple Home",
+          "Medición de consumo en tiempo real",
+          "El interruptor de pared existente sigue funcionando",
+          "Formato compacto de 16 A para caja empotrada"
+        ],
+        "inTheBox": [
+          "Módulo MINI R4M",
+          "Bornes de conexión",
+          "Guía de inicio rápido"
+        ]
+      },
+      "ar": {
+        "name": "SONOFF MINI R4M",
+        "tagline": "وحدة Wi-Fi متوافقة مع Matter تختفي خلف مفتاحك الجداري.",
+        "description": "وحدة تبديل عبر Wi-Fi متوافقة مع Matter، تُركَّب خلف مفتاح جداري موجود لجعل إنارة أو جهاز 230 فولت قابلاً للتحكم عن بُعد دون تغيير مظهره. تبقي زر الحائط الحالي فعّالاً، وتقيس استهلاك الكهرباء، ويمكن تشغيلها بسيناريو أو بالصوت.",
+        "highlights": [
+          "متوافقة مع Matter، متاحة لـAlexa وGoogle وApple Home",
+          "قياس استهلاك الكهرباء لحظياً",
+          "زر الحائط الحالي يبقى فعّالاً",
+          "تصميم مدمج بقدرة 16 أمبير لعلبة التركيب"
+        ],
+        "inTheBox": [
+          "وحدة MINI R4M",
+          "أطراف توصيل",
+          "دليل البدء السريع"
+        ]
+      },
+      "zh": {
+        "name": "SONOFF MINI R4M",
+        "tagline": "藏在墙壁开关后的 Wi-Fi Matter 模块。",
+        "description": "支持 Matter 的 Wi-Fi 开关模块，安装于现有墙壁开关后方，即可在不改变外观的情况下远程控制照明或 230V 电器。原有墙壁按键继续可用，同时支持实时用电量监测，可通过场景或语音触发。",
+        "highlights": [
+          "支持 Matter，可接入 Alexa、Google 与 Apple Home",
+          "实时用电量监测",
+          "原有墙壁开关按键继续可用",
+          "16A 紧凑设计，适合暗盒安装"
+        ],
+        "inTheBox": [
+          "MINI R4M 模块",
+          "接线端子",
+          "快速入门指南"
+        ]
+      }
+    },
+    "attributes": {
+      "protocol": [
+        "wifi"
+      ],
+      "placement": "interieur",
+      "power": [
+        "secteur"
+      ],
+      "compat": [
+        "matter",
+        "alexa",
+        "google",
+        "app-marque",
+        "safer-platform"
+      ]
+    },
+    "specs": [
+      {
+        "key": "protocol",
+        "value": "Wi-Fi 2,4 GHz, Matter 1.2"
+      },
+      {
+        "key": "load",
+        "value": "16 A / 230 V, ≤ 3 680 W"
+      },
+      {
+        "key": "energyMonitoring",
+        "value": {
+          "fr": "Tension, courant, puissance en temps réel",
+          "en": "Voltage, current, power in real time",
+          "es": "Tensión, corriente, potencia en tiempo real",
+          "ar": "الجهد والتيار والطاقة في الوقت الفعلي",
+          "zh": "电压、电流、功率实时监测"
+        }
+      },
+      {
+        "key": "voltage",
+        "value": "100–240 V AC, 50/60 Hz"
+      },
+      {
+        "key": "dimensions",
+        "value": "36 × 33 × 16 mm"
+      },
+      {
+        "key": "operatingTemp",
+        "value": "-10 °C … 40 °C"
+      },
+      {
+        "key": "compatibility",
+        "value": "Amazon Alexa, Google Home, Apple Home (Matter)"
+      },
+      {
+        "key": "app",
+        "value": "eWeLink"
+      }
+    ],
+    "pricing": {
+      "sourcePrice": 14.99,
+      "sourceCurrency": "USD"
+    },
+    "availability": "sur-commande",
+    "install": {
+      "level": "standard",
+      "duration": "30 min",
+      "prerequisites": {
+        "fr": "Coupure du disjoncteur avant intervention ; boîtier d'encastrement avec fil neutre disponible ; Wi-Fi 2,4 GHz.",
+        "en": "Breaker switched off before work; flush-mount box with a neutral wire available; 2.4 GHz Wi-Fi.",
+        "es": "Corte del automático antes de intervenir; caja empotrada con cable neutro disponible; Wi-Fi de 2,4 GHz.",
+        "ar": "فصل القاطع الكهربائي قبل التركيب؛ علبة تركيب بها سلك محايد متاح؛ شبكة Wi-Fi بتردد 2.4 جيجاهرتز.",
+        "zh": "施工前需断开断路器；暗盒内需有零线；需 2.4 GHz Wi-Fi。"
+      }
+    },
+    "sourceUrl": "https://sonoff.tech/product/diy-smart-switch/minir4m/",
+    "accent": "#f59e0b",
+    "symbol": "⚡",
+    "solutions": [
+      "domotique/scenarios-intelligents",
+      "domotique/pilotage-energie"
+    ],
+    "related": [
+      "sonoff-s60tpf",
+      "sonoff-tx-ultimate",
+      "sonoff-powr320d"
+    ]
+  },
+  {
+    "id": "sonoff-s60tpf",
+    "sku": "S60TPF",
+    "brand": "sonoff",
+    "sourceBrand": "SONOFF",
+    "model": "S60 Smart Plug (S60TPF)",
+    "category": "domotique",
+    "subcategory": "prises-interrupteurs",
+    "i18n": {
+      "fr": {
+        "name": "SONOFF S60 Smart Plug",
+        "tagline": "Une prise connectée qui mesure vraiment ce qu'elle consomme.",
+        "description": "Prise connectée Wi-Fi 16 A compatible Matter, qui allume, éteint et programme n'importe quel appareil tout en affichant sa consommation électrique en temps réel dans l'application. Utile pour surveiller un climatiseur, un ballon d'eau chaude ou un réfrigérateur et détecter une surconsommation.",
+        "highlights": [
+          "16 A / 3 680 W avec mesure de consommation en temps réel",
+          "Compatible Matter, exposée à Alexa et Google Home",
+          "Programmation horaire et minuterie",
+          "Protection surtension, surchauffe et surintensité"
+        ],
+        "inTheBox": [
+          "Prise S60 Smart Plug",
+          "Guide de démarrage"
+        ]
+      },
+      "en": {
+        "name": "SONOFF S60 Smart Plug",
+        "tagline": "A smart plug that actually tells you what it's using.",
+        "description": "16 A Matter-compatible Wi-Fi smart plug that turns any appliance on, off and on a schedule while showing its real-time power consumption in the app. Useful for monitoring an air conditioner, water heater or fridge and catching overconsumption.",
+        "highlights": [
+          "16 A / 3,680 W with real-time power metering",
+          "Matter compatible, exposed to Alexa and Google Home",
+          "Scheduling and timer",
+          "Surge, overheat and overcurrent protection"
+        ],
+        "inTheBox": [
+          "S60 Smart Plug",
+          "Quick start guide"
+        ]
+      },
+      "es": {
+        "name": "SONOFF S60 Smart Plug",
+        "tagline": "Un enchufe inteligente que realmente mide su consumo.",
+        "description": "Enchufe inteligente Wi-Fi de 16 A compatible con Matter, que enciende, apaga y programa cualquier aparato mientras muestra su consumo eléctrico en tiempo real en la app. Útil para vigilar un aire acondicionado, un calentador o un refrigerador y detectar un consumo excesivo.",
+        "highlights": [
+          "16 A / 3.680 W con medición de consumo en tiempo real",
+          "Compatible con Matter, expuesto a Alexa y Google Home",
+          "Programación horaria y temporizador",
+          "Protección contra sobretensión, sobrecalentamiento y sobrecorriente"
+        ],
+        "inTheBox": [
+          "Enchufe S60 Smart Plug",
+          "Guía de inicio rápido"
+        ]
+      },
+      "ar": {
+        "name": "SONOFF S60 Smart Plug",
+        "tagline": "مقبس ذكي يقيس فعلاً ما يستهلكه.",
+        "description": "مقبس ذكي عبر Wi-Fi بقدرة 16 أمبير ومتوافق مع Matter، يُشغّل ويُطفئ ويجدول أي جهاز مع عرض استهلاكه الكهربائي لحظياً في التطبيق. مفيد لمراقبة مكيف الهواء أو سخان الماء أو الثلاجة واكتشاف الاستهلاك الزائد.",
+        "highlights": [
+          "16 أمبير / 3680 واط مع قياس استهلاك لحظي",
+          "متوافق مع Matter، متاح لـAlexa وGoogle Home",
+          "جدولة زمنية ومؤقت",
+          "حماية من التيار الزائد والسخونة الزائدة والتوتر الزائد"
+        ],
+        "inTheBox": [
+          "مقبس S60 Smart Plug",
+          "دليل البدء السريع"
+        ]
+      },
+      "zh": {
+        "name": "SONOFF S60 智能插座",
+        "tagline": "真正能告诉你用了多少电的智能插座。",
+        "description": "支持 Matter 的 16A Wi-Fi 智能插座，可开关并定时任意电器，同时在应用中实时显示用电量。适合监测空调、热水器或冰箱，及时发现异常耗电。",
+        "highlights": [
+          "16A / 3680W，支持实时用电量监测",
+          "支持 Matter，可接入 Alexa 与 Google Home",
+          "定时与倒计时功能",
+          "过压、过热与过流保护"
+        ],
+        "inTheBox": [
+          "S60 智能插座",
+          "快速入门指南"
+        ]
+      }
+    },
+    "attributes": {
+      "protocol": [
+        "wifi"
+      ],
+      "placement": "interieur",
+      "power": [
+        "secteur"
+      ],
+      "compat": [
+        "matter",
+        "alexa",
+        "google",
+        "app-marque",
+        "safer-platform"
+      ]
+    },
+    "specs": [
+      {
+        "key": "protocol",
+        "value": "Wi-Fi 2,4 GHz, Matter 1.2"
+      },
+      {
+        "key": "load",
+        "value": "16 A / 230 V, ≤ 3 680 W"
+      },
+      {
+        "key": "energyMonitoring",
+        "value": {
+          "fr": "Tension, courant, puissance en temps réel",
+          "en": "Voltage, current, power in real time",
+          "es": "Tensión, corriente, potencia en tiempo real",
+          "ar": "الجهد والتيار والطاقة في الوقت الفعلي",
+          "zh": "电压、电流、功率实时监测"
+        }
+      },
+      {
+        "key": "dimensions",
+        "value": "50 × 50 × 82 mm"
+      },
+      {
+        "key": "operatingTemp",
+        "value": "-10 °C … 40 °C"
+      },
+      {
+        "key": "compatibility",
+        "value": "Amazon Alexa, Google Home (Matter)"
+      },
+      {
+        "key": "app",
+        "value": "eWeLink"
+      }
+    ],
+    "pricing": {
+      "sourcePrice": 16.99,
+      "sourceCurrency": "USD"
+    },
+    "availability": "en-stock",
+    "install": {
+      "level": "simple",
+      "duration": "5 min",
+      "prerequisites": {
+        "fr": "Prise secteur standard et Wi-Fi 2,4 GHz à proximité.",
+        "en": "Standard mains outlet and 2.4 GHz Wi-Fi nearby.",
+        "es": "Toma de corriente estándar y Wi-Fi de 2,4 GHz cercanos.",
+        "ar": "مقبس كهرباء قياسي وشبكة Wi-Fi بتردد 2.4 جيجاهرتز قريبة.",
+        "zh": "需有标准电源插座及附近的 2.4 GHz Wi-Fi。"
+      }
+    },
+    "sourceUrl": "https://sonoff.tech/product/diy-smart-switch/s60tpf/",
+    "accent": "#f59e0b",
+    "symbol": "⚡",
+    "solutions": [
+      "domotique/pilotage-energie"
+    ],
+    "related": [
+      "sonoff-minir4m",
+      "sonoff-powr320d"
+    ]
+  },
+  {
+    "id": "sonoff-tx-ultimate",
+    "sku": "TXU1C",
+    "brand": "sonoff",
+    "sourceBrand": "SONOFF",
+    "model": "TX Ultimate",
+    "category": "domotique",
+    "subcategory": "eclairage",
+    "i18n": {
+      "fr": {
+        "name": "SONOFF TX Ultimate",
+        "tagline": "Un interrupteur mural tactile qui remplace l'ancien, en mieux.",
+        "description": "Interrupteur mural tactile Wi-Fi qui remplace un interrupteur d'éclairage classique et se pilote au doigt, à la voix ou depuis l'application. Écran tactile rétroéclairé, fil neutre requis, mesure de consommation intégrée et automatisations horaires pour l'éclairage de chaque pièce.",
+        "highlights": [
+          "Écran tactile rétroéclairé, jusqu'à 3 boutons",
+          "Pilotage local et via l'application eWeLink",
+          "Mesure de consommation intégrée",
+          "Compatible Alexa et Google Home"
+        ],
+        "inTheBox": [
+          "Interrupteur TX Ultimate",
+          "Plaque de finition",
+          "Bornes de raccordement",
+          "Guide de démarrage"
+        ]
+      },
+      "en": {
+        "name": "SONOFF TX Ultimate",
+        "tagline": "A touch wall switch that replaces the old one, for the better.",
+        "description": "Wi-Fi touch wall switch that replaces a standard light switch and is controlled by touch, voice or the app. Backlit touchscreen, requires a neutral wire, built-in power metering, and time-based automations for each room's lighting.",
+        "highlights": [
+          "Backlit touchscreen, up to 3 gangs",
+          "Local and eWeLink app control",
+          "Built-in power consumption metering",
+          "Works with Alexa and Google Home"
+        ],
+        "inTheBox": [
+          "TX Ultimate switch",
+          "Finishing plate",
+          "Connection terminals",
+          "Quick start guide"
+        ]
+      },
+      "es": {
+        "name": "SONOFF TX Ultimate",
+        "tagline": "Un interruptor de pared táctil que sustituye al anterior, mejor.",
+        "description": "Interruptor de pared táctil Wi-Fi que sustituye un interruptor de luz estándar y se controla con el dedo, por voz o desde la app. Pantalla táctil retroiluminada, requiere cable neutro, medición de consumo integrada y automatizaciones horarias para la iluminación de cada habitación.",
+        "highlights": [
+          "Pantalla táctil retroiluminada, hasta 3 botones",
+          "Control local y desde la app eWeLink",
+          "Medición de consumo integrada",
+          "Compatible con Alexa y Google Home"
+        ],
+        "inTheBox": [
+          "Interruptor TX Ultimate",
+          "Placa de acabado",
+          "Bornes de conexión",
+          "Guía de inicio rápido"
+        ]
+      },
+      "ar": {
+        "name": "SONOFF TX Ultimate",
+        "tagline": "مفتاح جداري باللمس يحل محل القديم بأداء أفضل.",
+        "description": "مفتاح جداري لمسي عبر Wi-Fi يحل محل مفتاح إنارة تقليدي ويُتحكم به باللمس أو الصوت أو من التطبيق. شاشة لمس مضاءة من الخلف، يتطلب سلكاً محايداً، قياس استهلاك مدمج، وأتمتة زمنية لإنارة كل غرفة.",
+        "highlights": [
+          "شاشة لمس مضاءة من الخلف، حتى 3 أزرار",
+          "تحكم محلي ومن تطبيق eWeLink",
+          "قياس استهلاك مدمج",
+          "متوافق مع Alexa وGoogle Home"
+        ],
+        "inTheBox": [
+          "مفتاح TX Ultimate",
+          "لوحة تشطيب",
+          "أطراف توصيل",
+          "دليل البدء السريع"
+        ]
+      },
+      "zh": {
+        "name": "SONOFF TX Ultimate 触控开关",
+        "tagline": "更好用的墙壁触控开关，替换旧开关的最佳之选。",
+        "description": "Wi-Fi 触控墙壁开关，可替换传统照明开关，支持触摸、语音或应用控制。配备背光触控屏，需要零线，内置用电量监测，并可为每个房间设置定时照明自动化。",
+        "highlights": [
+          "背光触控屏，最多支持 3 键",
+          "支持本地及 eWeLink 应用控制",
+          "内置用电量监测",
+          "兼容 Alexa 与 Google Home"
+        ],
+        "inTheBox": [
+          "TX Ultimate 开关",
+          "装饰面板",
+          "接线端子",
+          "快速入门指南"
+        ]
+      }
+    },
+    "attributes": {
+      "protocol": [
+        "wifi"
+      ],
+      "placement": "interieur",
+      "power": [
+        "secteur"
+      ],
+      "compat": [
+        "alexa",
+        "google",
+        "app-marque",
+        "safer-platform"
+      ]
+    },
+    "specs": [
+      {
+        "key": "protocol",
+        "value": "Wi-Fi 2,4 GHz"
+      },
+      {
+        "key": "load",
+        "value": {
+          "fr": "10 A / 230 V par canal, 3 canaux max",
+          "en": "10 A / 230 V per channel, up to 3 channels",
+          "es": "10 A / 230 V por canal, hasta 3 canales",
+          "ar": "10 أمبير / 230 فولت لكل قناة، حتى 3 قنوات",
+          "zh": "10A/230V每路，最多3路"
+        }
+      },
+      {
+        "key": "display",
+        "value": {
+          "fr": "Écran tactile rétroéclairé",
+          "en": "Backlit touchscreen",
+          "es": "Pantalla táctil retroiluminada",
+          "ar": "شاشة لمس مضاءة خلفيًا",
+          "zh": "背光触摸屏"
+        }
+      },
+      {
+        "key": "energyMonitoring",
+        "value": {
+          "fr": "Mesure de consommation par canal",
+          "en": "Per-channel consumption measurement",
+          "es": "Medición de consumo por canal",
+          "ar": "قياس الاستهلاك لكل قناة",
+          "zh": "分路用电测量"
+        }
+      },
+      {
+        "key": "voltage",
+        "value": "100–240 V AC, fil neutre requis"
+      },
+      {
+        "key": "dimensions",
+        "value": "86 × 86 × 35 mm (norme 86)"
+      },
+      {
+        "key": "operatingTemp",
+        "value": "-10 °C … 40 °C"
+      },
+      {
+        "key": "compatibility",
+        "value": "Amazon Alexa, Google Home"
+      }
+    ],
+    "pricing": {
+      "sourcePrice": 25.99,
+      "sourceCurrency": "USD"
+    },
+    "availability": "sur-commande",
+    "install": {
+      "level": "expert",
+      "duration": "1 h",
+      "prerequisites": {
+        "fr": "Coupure du disjoncteur avant intervention ; boîtier avec fil neutre ; installation par un partenaire certifié recommandée.",
+        "en": "Breaker switched off before work; box with a neutral wire; certified partner install recommended.",
+        "es": "Corte del automático antes de intervenir; caja con cable neutro; instalación por un partner certificado recomendada.",
+        "ar": "فصل القاطع الكهربائي قبل التركيب؛ علبة بها سلك محايد؛ يُنصح بالتركيب عبر شريك معتمد.",
+        "zh": "施工前需断开断路器；接线盒内需有零线；建议由认证合作方安装。"
+      }
+    },
+    "sourceUrl": "https://sonoff.tech/product/smart-switches-and-modules/tx-ultimate/",
+    "accent": "#f59e0b",
+    "symbol": "✚",
+    "solutions": [
+      "domotique/scenarios-intelligents"
+    ],
+    "related": [
+      "sonoff-minir4m",
+      "sonoff-s60tpf"
+    ]
+  },
+  {
+    "id": "sonoff-snzb-02d",
+    "sku": "SNZB-02D",
+    "brand": "sonoff",
+    "sourceBrand": "SONOFF",
+    "model": "SNZB-02D",
+    "category": "domotique",
+    "subcategory": "capteurs-climat",
+    "i18n": {
+      "fr": {
+        "name": "SONOFF SNZB-02D",
+        "tagline": "Température et humidité affichées en clair, en un coup d'œil.",
+        "description": "Capteur Zigbee de température et d'humidité avec écran e-paper toujours lisible, qui remonte les mesures à l'application eWeLink et déclenche des scénarios (climatisation, ventilation) dès qu'un seuil est franchi. Boîtier compact à poser ou coller, pile longue durée.",
+        "highlights": [
+          "Écran e-paper lisible en permanence",
+          "Mesure température et humidité en continu",
+          "Déclenche des scénarios sur seuil configurable",
+          "Pile longue durée avec alerte de niveau bas"
+        ],
+        "inTheBox": [
+          "Capteur SNZB-02D",
+          "Pile AAA",
+          "Support avec adhésif",
+          "Guide de démarrage"
+        ]
+      },
+      "en": {
+        "name": "SONOFF SNZB-02D",
+        "tagline": "Temperature and humidity shown clearly, at a glance.",
+        "description": "Zigbee temperature and humidity sensor with an always-readable e-paper display, reporting readings to the eWeLink app and triggering scenes (air conditioning, ventilation) once a threshold is crossed. Compact housing for standing or sticking, long battery life.",
+        "highlights": [
+          "Always-readable e-paper display",
+          "Continuous temperature and humidity readings",
+          "Triggers scenes on a configurable threshold",
+          "Long-life battery with low-battery alert"
+        ],
+        "inTheBox": [
+          "SNZB-02D sensor",
+          "AAA battery",
+          "Adhesive stand",
+          "Quick start guide"
+        ]
+      },
+      "es": {
+        "name": "SONOFF SNZB-02D",
+        "tagline": "Temperatura y humedad claras, de un vistazo.",
+        "description": "Sensor Zigbee de temperatura y humedad con pantalla e-paper siempre legible, que envía las mediciones a la app eWeLink y activa escenas (aire acondicionado, ventilación) al superar un umbral. Carcasa compacta para colocar o pegar, con pila de larga duración.",
+        "highlights": [
+          "Pantalla e-paper siempre legible",
+          "Medición continua de temperatura y humedad",
+          "Activa escenas según un umbral configurable",
+          "Pila de larga duración con aviso de nivel bajo"
+        ],
+        "inTheBox": [
+          "Sensor SNZB-02D",
+          "Pila AAA",
+          "Soporte con adhesivo",
+          "Guía de inicio rápido"
+        ]
+      },
+      "ar": {
+        "name": "SONOFF SNZB-02D",
+        "tagline": "درجة الحرارة والرطوبة بوضوح على شاشة دائمة القراءة.",
+        "description": "حساس درجة حرارة ورطوبة عبر Zigbee بشاشة e-paper قابلة للقراءة دائماً، يرسل القياسات إلى تطبيق eWeLink ويُفعّل السيناريوهات (تكييف، تهوية) عند تجاوز عتبة معيّنة. هيكل مدمج يمكن وضعه أو لصقه، ببطارية طويلة العمر.",
+        "highlights": [
+          "شاشة e-paper قابلة للقراءة دائماً",
+          "قياس مستمر لدرجة الحرارة والرطوبة",
+          "تفعيل سيناريوهات عند عتبة قابلة للضبط",
+          "بطارية طويلة العمر مع تنبيه انخفاض الشحن"
+        ],
+        "inTheBox": [
+          "حساس SNZB-02D",
+          "بطارية AAA",
+          "حامل لاصق",
+          "دليل البدء السريع"
+        ]
+      },
+      "zh": {
+        "name": "SONOFF SNZB-02D",
+        "tagline": "温湿度一目了然，随时可见。",
+        "description": "配备常亮墨水屏的 Zigbee 温湿度传感器，将测量数据上报至 eWeLink 应用，并在超过设定阈值时触发场景（空调、通风）。外壳小巧，可摆放或粘贴安装，电池续航持久。",
+        "highlights": [
+          "墨水屏常亮显示",
+          "持续测量温度与湿度",
+          "按可设定阈值触发场景",
+          "长效电池并支持低电量提醒"
+        ],
+        "inTheBox": [
+          "SNZB-02D 传感器",
+          "AAA 电池",
+          "粘贴支架",
+          "快速入门指南"
+        ]
+      }
+    },
+    "attributes": {
+      "protocol": [
+        "zigbee"
+      ],
+      "placement": "interieur",
+      "power": [
+        "pile"
+      ],
+      "compat": [
+        "alexa",
+        "google",
+        "app-marque",
+        "safer-platform"
+      ]
+    },
+    "specs": [
+      {
+        "key": "protocol",
+        "value": "Zigbee 3.0"
+      },
+      {
+        "key": "sensors",
+        "value": {
+          "fr": "Température et humidité",
+          "en": "Temperature and humidity",
+          "es": "Temperatura y humedad",
+          "ar": "درجة الحرارة والرطوبة",
+          "zh": "温湿度"
+        }
+      },
+      {
+        "key": "display",
+        "value": {
+          "fr": "Écran e-paper",
+          "en": "E-paper display",
+          "es": "Pantalla e-paper",
+          "ar": "شاشة ورق إلكتروني (e-paper)",
+          "zh": "电子纸屏幕"
+        }
+      },
+      {
+        "key": "range",
+        "value": "-40 °C … 60 °C, 0 … 99,9 % HR"
+      },
+      {
+        "key": "battery",
+        "value": {
+          "fr": "1 × AAA, jusqu'à 2 ans d'autonomie",
+          "en": "1× AAA, up to 2 years battery life",
+          "es": "1× AAA, hasta 2 años de autonomía",
+          "ar": "1× AAA، عمر بطارية يصل إلى سنتين",
+          "zh": "1节AAA电池，续航长达2年"
+        }
+      },
+      {
+        "key": "dimensions",
+        "value": "58 × 42 × 15 mm"
+      },
+      {
+        "key": "operatingTemp",
+        "value": "-20 °C … 55 °C"
+      }
+    ],
+    "pricing": {
+      "sourcePrice": 12.99,
+      "sourceCurrency": "USD"
+    },
+    "availability": "sur-commande",
+    "install": {
+      "level": "simple",
+      "duration": "5 min",
+      "prerequisites": {
+        "fr": "Une passerelle Zigbee SONOFF (ZBBridge-P) déjà installée.",
+        "en": "A SONOFF Zigbee gateway (ZBBridge-P) already installed.",
+        "es": "Una pasarela Zigbee SONOFF (ZBBridge-P) ya instalada.",
+        "ar": "بوابة Zigbee من SONOFF (ZBBridge-P) مثبّتة مسبقاً.",
+        "zh": "需已安装 SONOFF Zigbee 网关（ZBBridge-P）。"
+      }
+    },
+    "sourceUrl": "https://sonoff.tech/product/gateway-and-sensor/snzb-02d/",
+    "accent": "#f59e0b",
+    "symbol": "☼",
+    "solutions": [
+      "domotique/pilotage-energie"
+    ],
+    "related": [
+      "sonoff-zbbridge-p",
+      "sonoff-snzb-04p"
+    ]
+  },
+  {
+    "id": "sonoff-snzb-04p",
+    "sku": "SNZB-04P",
+    "brand": "sonoff",
+    "sourceBrand": "SONOFF",
+    "model": "SNZB-04P",
+    "category": "alarme",
+    "subcategory": "detecteurs-ouverture",
+    "i18n": {
+      "fr": {
+        "name": "SONOFF SNZB-04P",
+        "tagline": "Sait immédiatement quand une porte ou une fenêtre s'ouvre.",
+        "description": "Détecteur d'ouverture Zigbee 3.0 à poser sur porte, fenêtre ou portillon, qui signale instantanément toute ouverture à l'application eWeLink et à la passerelle SONOFF. Boîtier discret à coller, portée radio optimisée et pile longue durée jusqu'à 3 ans.",
+        "highlights": [
+          "Alerte instantanée à l'ouverture",
+          "Pose adhésive en quelques minutes",
+          "Portée radio Zigbee renforcée",
+          "Pile longue durée jusqu'à 3 ans"
+        ],
+        "inTheBox": [
+          "Détecteur SNZB-04P",
+          "Aimant complémentaire",
+          "Pile CR1632",
+          "Adhésif double face",
+          "Guide de démarrage"
+        ]
+      },
+      "en": {
+        "name": "SONOFF SNZB-04P",
+        "tagline": "Knows the instant a door or window opens.",
+        "description": "Zigbee 3.0 door/window sensor for doors, windows or gates, reporting any opening instantly to the eWeLink app and SONOFF gateway. Discreet stick-on housing, optimised radio range and a battery life of up to 3 years.",
+        "highlights": [
+          "Instant alert on opening",
+          "Adhesive install in minutes",
+          "Enhanced Zigbee radio range",
+          "Battery life up to 3 years"
+        ],
+        "inTheBox": [
+          "SNZB-04P sensor",
+          "Companion magnet",
+          "CR1632 battery",
+          "Double-sided adhesive pad",
+          "Quick start guide"
+        ]
+      },
+      "es": {
+        "name": "SONOFF SNZB-04P",
+        "tagline": "Sabe al instante cuándo se abre una puerta o ventana.",
+        "description": "Sensor de apertura Zigbee 3.0 para puertas, ventanas o portones, que notifica al instante cualquier apertura a la app eWeLink y a la pasarela SONOFF. Carcasa discreta adhesiva, alcance de radio optimizado y autonomía de pila de hasta 3 años.",
+        "highlights": [
+          "Alerta instantánea de apertura",
+          "Instalación adhesiva en minutos",
+          "Alcance de radio Zigbee mejorado",
+          "Autonomía de pila de hasta 3 años"
+        ],
+        "inTheBox": [
+          "Sensor SNZB-04P",
+          "Imán complementario",
+          "Pila CR1632",
+          "Adhesivo de doble cara",
+          "Guía de inicio rápido"
+        ]
+      },
+      "ar": {
+        "name": "SONOFF SNZB-04P",
+        "tagline": "يعرف فوراً متى يُفتح باب أو نافذة.",
+        "description": "حساس فتح عبر Zigbee 3.0 للأبواب والنوافذ والبوابات الصغيرة، يُبلغ فوراً عن أي فتح إلى تطبيق eWeLink وبوابة SONOFF. هيكل لاصق أنيق، ومدى راديوي محسّن، وعمر بطارية يصل إلى 3 سنوات.",
+        "highlights": [
+          "تنبيه فوري عند الفتح",
+          "تركيب لاصق في دقائق معدودة",
+          "مدى راديوي Zigbee محسّن",
+          "عمر بطارية يصل إلى 3 سنوات"
+        ],
+        "inTheBox": [
+          "حساس SNZB-04P",
+          "مغناطيس مرافق",
+          "بطارية CR1632",
+          "شريط لاصق مزدوج الوجه",
+          "دليل البدء السريع"
+        ]
+      },
+      "zh": {
+        "name": "SONOFF SNZB-04P",
+        "tagline": "门窗一开，立刻知晓。",
+        "description": "适用于门、窗或小门的 Zigbee 3.0 门窗传感器，可即时将开启状态上报至 eWeLink 应用及 SONOFF 网关。外壳小巧可粘贴安装，射频距离经过优化，电池续航最长可达 3 年。",
+        "highlights": [
+          "开启即时告警",
+          "粘贴安装仅需数分钟",
+          "增强型 Zigbee 射频距离",
+          "电池续航最长 3 年"
+        ],
+        "inTheBox": [
+          "SNZB-04P 传感器",
+          "配套磁铁",
+          "CR1632 电池",
+          "双面胶",
+          "快速入门指南"
+        ]
+      }
+    },
+    "attributes": {
+      "protocol": [
+        "zigbee"
+      ],
+      "placement": "interieur-exterieur",
+      "power": [
+        "pile"
+      ],
+      "compat": [
+        "alexa",
+        "google",
+        "app-marque",
+        "safer-platform"
+      ]
+    },
+    "specs": [
+      {
+        "key": "protocol",
+        "value": "Zigbee 3.0"
+      },
+      {
+        "key": "detectionType",
+        "value": {
+          "fr": "Magnétique",
+          "en": "Magnetic",
+          "es": "Magnético",
+          "ar": "مغناطيسي",
+          "zh": "磁性"
+        }
+      },
+      {
+        "key": "range",
+        "value": {
+          "fr": "Détection à moins de 2 cm entre les deux éléments",
+          "en": "Detection within 2 cm between the two parts",
+          "es": "Detección a menos de 2 cm entre ambos elementos",
+          "ar": "الكشف على مسافة أقل من 2 سم بين الجزأين",
+          "zh": "两部件间距小于2cm即触发检测"
+        }
+      },
+      {
+        "key": "battery",
+        "value": {
+          "fr": "CR1632, jusqu'à 3 ans d'autonomie",
+          "en": "CR1632, up to 3 years battery life",
+          "es": "CR1632, hasta 3 años de autonomía",
+          "ar": "CR1632، عمر بطارية يصل إلى 3 سنوات",
+          "zh": "CR1632电池，续航长达3年"
+        }
+      },
+      {
+        "key": "dimensions",
+        "value": "40 × 14 × 12 mm"
+      },
+      {
+        "key": "mounting",
+        "value": {
+          "fr": "Adhésif ou vis",
+          "en": "Adhesive or screws",
+          "es": "Adhesivo o tornillos",
+          "ar": "لاصق أو براغي",
+          "zh": "粘贴或螺丝固定"
+        }
+      },
+      {
+        "key": "operatingTemp",
+        "value": "-10 °C … 50 °C"
+      }
+    ],
+    "pricing": {
+      "sourcePrice": 10.99,
+      "sourceCurrency": "USD"
+    },
+    "availability": "sur-commande",
+    "install": {
+      "level": "simple",
+      "duration": "5 min",
+      "prerequisites": {
+        "fr": "Une passerelle Zigbee SONOFF (ZBBridge-P) déjà installée.",
+        "en": "A SONOFF Zigbee gateway (ZBBridge-P) already installed.",
+        "es": "Una pasarela Zigbee SONOFF (ZBBridge-P) ya instalada.",
+        "ar": "بوابة Zigbee من SONOFF (ZBBridge-P) مثبّتة مسبقاً.",
+        "zh": "需已安装 SONOFF Zigbee 网关（ZBBridge-P）。"
+      }
+    },
+    "sourceUrl": "https://sonoff.tech/product/gateway-and-sensor/snzb-04p/",
+    "accent": "#f59e0b",
+    "symbol": "▣",
+    "solutions": [
+      "alarmes-connectees/detection-intrusion"
+    ],
+    "related": [
+      "sonoff-zbbridge-p",
+      "sonoff-snzb-02d"
+    ]
+  },
+  {
+    "id": "sonoff-powr320d",
+    "sku": "POWR320D",
+    "brand": "sonoff",
+    "sourceBrand": "SONOFF",
+    "model": "POWR320D",
+    "category": "domotique",
+    "subcategory": "prises-interrupteurs",
+    "i18n": {
+      "fr": {
+        "name": "SONOFF POWR320D",
+        "tagline": "20 A de puissance pilotée, avec la consommation sous les yeux.",
+        "description": "Module de commutation Wi-Fi haute puissance (20 A) avec écran e-paper affichant en direct la tension, le courant et la consommation électrique. Conçu pour un climatiseur, un chauffe-eau ou tout gros appareil, il protège contre les surtensions, surintensités et surchauffes et se pilote depuis l'application eWeLink.",
+        "highlights": [
+          "20 A / 4 400 W avec mesure précise de consommation",
+          "Écran e-paper intégré, lisible sans application",
+          "Protections surtension, surintensité et surchauffe",
+          "Programmation horaire depuis eWeLink"
+        ],
+        "inTheBox": [
+          "Module POWR320D",
+          "Bornes de raccordement",
+          "Guide de démarrage"
+        ]
+      },
+      "en": {
+        "name": "SONOFF POWR320D",
+        "tagline": "20 A of controlled power, with consumption right in front of you.",
+        "description": "High-power (20 A) Wi-Fi switching module with an e-paper display showing live voltage, current and power consumption. Built for an air conditioner, water heater or any large appliance, it protects against surges, overcurrent and overheating and is controlled from the eWeLink app.",
+        "highlights": [
+          "20 A / 4,400 W with precise consumption metering",
+          "Built-in e-paper display, readable without the app",
+          "Surge, overcurrent and overheat protection",
+          "Scheduling from the eWeLink app"
+        ],
+        "inTheBox": [
+          "POWR320D module",
+          "Connection terminals",
+          "Quick start guide"
+        ]
+      },
+      "es": {
+        "name": "SONOFF POWR320D",
+        "tagline": "20 A de potencia controlada, con el consumo a la vista.",
+        "description": "Módulo de conmutación Wi-Fi de alta potencia (20 A) con pantalla e-paper que muestra en directo la tensión, la corriente y el consumo eléctrico. Diseñado para un aire acondicionado, un calentador o cualquier aparato de gran potencia, protege contra sobretensiones, sobrecorrientes y sobrecalentamiento, y se controla desde la app eWeLink.",
+        "highlights": [
+          "20 A / 4.400 W con medición precisa del consumo",
+          "Pantalla e-paper integrada, legible sin la app",
+          "Protección contra sobretensión, sobrecorriente y sobrecalentamiento",
+          "Programación horaria desde eWeLink"
+        ],
+        "inTheBox": [
+          "Módulo POWR320D",
+          "Bornes de conexión",
+          "Guía de inicio rápido"
+        ]
+      },
+      "ar": {
+        "name": "SONOFF POWR320D",
+        "tagline": "20 أمبير من الطاقة المتحكم بها، مع استهلاك واضح أمام عينيك.",
+        "description": "وحدة تبديل عالية القدرة (20 أمبير) عبر Wi-Fi، مزوّدة بشاشة e-paper تعرض الجهد والتيار والاستهلاك الكهربائي مباشرة. مصممة لمكيف الهواء أو سخان الماء أو أي جهاز كبير، وتحمي من التوتر الزائد والتيار الزائد والسخونة الزائدة، وتُتحكم بها من تطبيق eWeLink.",
+        "highlights": [
+          "20 أمبير / 4400 واط مع قياس استهلاك دقيق",
+          "شاشة e-paper مدمجة يمكن قراءتها دون التطبيق",
+          "حماية من التوتر الزائد والتيار الزائد والسخونة الزائدة",
+          "جدولة زمنية من تطبيق eWeLink"
+        ],
+        "inTheBox": [
+          "وحدة POWR320D",
+          "أطراف توصيل",
+          "دليل البدء السريع"
+        ]
+      },
+      "zh": {
+        "name": "SONOFF POWR320D",
+        "tagline": "20A 大功率可控，用电量一目了然。",
+        "description": "大功率（20A）Wi-Fi 开关模块，配备墨水屏实时显示电压、电流与用电量。专为空调、热水器等大功率电器设计，具备过压、过流与过热保护，并可通过 eWeLink 应用进行控制。",
+        "highlights": [
+          "20A / 4400W，精准用电量监测",
+          "内置墨水屏，无需应用即可读取",
+          "过压、过流与过热保护",
+          "支持 eWeLink 应用定时控制"
+        ],
+        "inTheBox": [
+          "POWR320D 模块",
+          "接线端子",
+          "快速入门指南"
+        ]
+      }
+    },
+    "attributes": {
+      "protocol": [
+        "wifi"
+      ],
+      "placement": "interieur",
+      "power": [
+        "secteur"
+      ],
+      "compat": [
+        "alexa",
+        "google",
+        "app-marque",
+        "safer-platform"
+      ]
+    },
+    "specs": [
+      {
+        "key": "protocol",
+        "value": "Wi-Fi 2,4 GHz"
+      },
+      {
+        "key": "load",
+        "value": "20 A / 230 V, ≤ 4 400 W"
+      },
+      {
+        "key": "energyMonitoring",
+        "value": {
+          "fr": "Tension, courant, puissance en temps réel",
+          "en": "Voltage, current, power in real time",
+          "es": "Tensión, corriente, potencia en tiempo real",
+          "ar": "الجهد والتيار والطاقة في الوقت الفعلي",
+          "zh": "电压、电流、功率实时监测"
+        }
+      },
+      {
+        "key": "display",
+        "value": {
+          "fr": "Écran e-paper intégré",
+          "en": "Built-in e-paper display",
+          "es": "Pantalla e-paper integrada",
+          "ar": "شاشة ورق إلكتروني مدمجة",
+          "zh": "内置电子纸屏幕"
+        }
+      },
+      {
+        "key": "voltage",
+        "value": "100–240 V AC, 50/60 Hz"
+      },
+      {
+        "key": "dimensions",
+        "value": "88 × 55 × 27 mm"
+      },
+      {
+        "key": "operatingTemp",
+        "value": "-10 °C … 40 °C"
+      },
+      {
+        "key": "compatibility",
+        "value": "Amazon Alexa, Google Home"
+      }
+    ],
+    "pricing": {
+      "sourcePrice": 25.99,
+      "sourceCurrency": "USD"
+    },
+    "availability": "sur-commande",
+    "install": {
+      "level": "standard",
+      "duration": "30 min",
+      "prerequisites": {
+        "fr": "Coupure du disjoncteur avant intervention ; câblage adapté à 20 A ; Wi-Fi 2,4 GHz.",
+        "en": "Breaker switched off before work; wiring rated for 20 A; 2.4 GHz Wi-Fi.",
+        "es": "Corte del automático antes de intervenir; cableado apto para 20 A; Wi-Fi de 2,4 GHz.",
+        "ar": "فصل القاطع الكهربائي قبل التركيب؛ أسلاك مناسبة لتيار 20 أمبير؛ شبكة Wi-Fi بتردد 2.4 جيجاهرتز.",
+        "zh": "施工前需断开断路器；需使用适配 20A 的线路；需 2.4 GHz Wi-Fi。"
+      }
+    },
+    "sourceUrl": "https://sonoff.tech/product/diy-smart-switch/powr320d/",
+    "accent": "#f59e0b",
+    "symbol": "⚡",
+    "solutions": [
+      "domotique/pilotage-energie"
+    ],
+    "related": [
+      "sonoff-s60tpf",
+      "sonoff-minir4m"
+    ]
+  }
+]

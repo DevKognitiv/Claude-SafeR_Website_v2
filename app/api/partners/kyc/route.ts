@@ -19,14 +19,14 @@ export async function POST(request: Request) {
   if (!allowedTypes.has(file.type) || file.size === 0 || file.size > maxBytes) return Response.json({ error: 'Formats acceptés : PDF, JPG ou PNG, 5 Mo maximum.' }, { status: 400 });
 
   await ensurePartnerSchema();
-  const database = getPartnerDatabase();
+  const database = await getPartnerDatabase();
   const partner = await database.prepare('SELECT id FROM partners WHERE user_id = ? LIMIT 1').bind(user.id).first<{ id: string }>();
   if (!partner) return Response.json({ error: 'Créez d’abord votre profil partenaire.' }, { status: 409 });
 
   const extension = file.type === 'application/pdf' ? 'pdf' : file.type === 'image/png' ? 'png' : 'jpg';
   const documentId = crypto.randomUUID();
   const objectKey = `partners/${partner.id}/${documentId}.${extension}`;
-  await getKycBucket().put(objectKey, file.stream(), {
+  await (await getKycBucket()).put(objectKey, file.stream(), {
     httpMetadata: { contentType: file.type },
     customMetadata: { partnerId: partner.id, documentType: 'identity', uploadedAt: new Date().toISOString() }
   });

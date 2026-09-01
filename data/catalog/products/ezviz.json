@@ -1,0 +1,585 @@
+[
+  {
+    "id": "ezviz-c6n",
+    "sku": "EZ-C6N",
+    "brand": "ezviz",
+    "sourceBrand": "EZVIZ",
+    "model": "C6N",
+    "category": "video",
+    "subcategory": "cameras-interieures",
+    "i18n": {
+      "fr": {
+        "name": "EZVIZ C6N",
+        "tagline": "La caméra motorisée d’intérieur qui suit toute la pièce.",
+        "description": "Caméra intérieure Wi-Fi à rotation 360° et inclinaison 96°, image Full HD nette et détection intelligente des personnes. Suivi automatique du mouvement et audio bidirectionnel pour surveiller un salon, une entrée ou un enfant à distance.",
+        "highlights": ["Rotation 360° et inclinaison 96° motorisées", "Image Full HD nette de jour comme de nuit", "Détection de personnes avec suivi automatique", "Audio bidirectionnel intégré"],
+        "inTheBox": ["Caméra C6N", "Socle de pose", "Câble d’alimentation USB", "Guide de démarrage"]
+      },
+      "en": {
+        "name": "EZVIZ C6N",
+        "tagline": "The motorised indoor camera that covers the whole room.",
+        "description": "Indoor Wi-Fi camera with 360° pan and 96° tilt, sharp Full HD image and smart people detection. Automatic motion tracking and two-way audio to watch over a living room, entrance or child remotely.",
+        "highlights": ["Motorised 360° pan and 96° tilt", "Sharp Full HD image day and night", "People detection with auto-tracking", "Built-in two-way audio"],
+        "inTheBox": ["C6N camera", "Tabletop stand", "USB power cable", "Quick start guide"]
+      },
+      "es": {
+        "name": "EZVIZ C6N",
+        "tagline": "La cámara interior motorizada que cubre toda la habitación.",
+        "description": "Cámara interior Wi-Fi con rotación de 360° e inclinación de 96°, imagen Full HD nítida y detección inteligente de personas. Seguimiento automático del movimiento y audio bidireccional para vigilar un salón, una entrada o a un niño a distancia.",
+        "highlights": ["Rotación 360° e inclinación 96° motorizadas", "Imagen Full HD nítida de día y de noche", "Detección de personas con seguimiento automático", "Audio bidireccional integrado"],
+        "inTheBox": ["Cámara C6N", "Soporte de mesa", "Cable de alimentación USB", "Guía de inicio rápido"]
+      },
+      "ar": {
+        "name": "EZVIZ C6N",
+        "tagline": "كاميرا داخلية محورية تغطي الغرفة بالكامل.",
+        "description": "كاميرا داخلية Wi-Fi بدوران 360° وإمالة 96°، وصورة Full HD واضحة، وكشف ذكي للأشخاص. تتبع تلقائي للحركة وصوت ثنائي الاتجاه لمراقبة صالة أو مدخل أو طفل عن بُعد.",
+        "highlights": ["دوران محوري 360° وإمالة 96°", "صورة Full HD واضحة نهاراً وليلاً", "كشف الأشخاص مع تتبع تلقائي", "صوت ثنائي الاتجاه مدمج"],
+        "inTheBox": ["كاميرا C6N", "قاعدة تثبيت", "كابل تغذية USB", "دليل البدء السريع"]
+      },
+      "zh": {
+        "name": "EZVIZ C6N",
+        "tagline": "云台室内摄像机，全屋无死角覆盖。",
+        "description": "室内 Wi-Fi 摄像机，支持 360° 水平旋转和 96° 俯仰，画质清晰全高清，并可智能检测人员。自动移动追踪与双向语音，适合远程监控客厅、玄关或儿童。",
+        "highlights": ["360° 水平旋转与 96° 俯仰", "清晰全高清画质，全天候可用", "人形检测与自动追踪", "内置双向语音"],
+        "inTheBox": ["C6N 摄像机", "桌面底座", "USB 电源线", "快速入门指南"]
+      }
+    },
+    "attributes": { "protocol": ["wifi"], "placement": "interieur", "power": ["secteur"], "compat": ["alexa", "google", "app-marque", "safer-platform"], "resolution": "1080p" },
+    "specs": [
+      { "key": "resolution", "value": "1080p Full HD (2 MP)" },
+      { "key": "ptz", "value": "Panoramique 360°, inclinaison 96°" },
+      { "key": "nightVision", "value": { "fr": "Noir et blanc, IR 10 m", "en": "Black and white, 10 m IR", "es": "Blanco y negro, IR 10 m", "ar": "أبيض وأسود، أشعة تحت حمراء 10 م", "zh": "黑白，10 米红外" } },
+      { "key": "ai", "value": { "fr": "Détection de personnes, suivi automatique", "en": "People detection, auto-tracking", "es": "Detección de personas, seguimiento automático", "ar": "كشف الأشخاص، تتبع تلقائي", "zh": "人形检测，自动追踪" } },
+      { "key": "connectivity", "value": "Wi-Fi 2,4 GHz" },
+      { "key": "twoWayAudio", "value": { "fr": "Microphone et haut-parleur intégrés", "en": "Built-in microphone and speaker", "es": "Micrófono y altavoz integrados", "ar": "ميكروفون ومكبر صوت مدمجان", "zh": "内置麦克风与扬声器" } },
+      { "key": "storage", "value": "microSD ≤ 256 Go, EZVIZ Cloud" }
+    ],
+    "pricing": { "sourcePrice": 39.99, "sourceCurrency": "EUR" },
+    "availability": "en-stock",
+    "install": { "level": "simple", "duration": "15 min", "prerequisites": { "fr": "Prise secteur et Wi-Fi 2,4 GHz à proximité.", "en": "Mains socket and 2.4 GHz Wi-Fi nearby.", "es": "Toma de corriente y Wi-Fi de 2,4 GHz cerca.", "ar": "مأخذ كهربائي وشبكة Wi-Fi بتردد 2.4 جيجاهرتز قريبة.", "zh": "附近需有电源插座及 2.4 GHz Wi-Fi。" } },
+    "sourceUrl": "https://www.ezviz.com/product/c6n/38377",
+    "accent": "#1f8ef1",
+    "symbol": "◎",
+    "solutions": ["video-intelligente/verification-video"],
+    "related": ["ezviz-db2", "ezviz-t31"]
+  },
+  {
+    "id": "ezviz-ty1",
+    "sku": "EZ-TY1",
+    "brand": "ezviz",
+    "sourceBrand": "EZVIZ",
+    "model": "TY1",
+    "category": "video",
+    "subcategory": "cameras-exterieures",
+    "i18n": {
+      "fr": {
+        "name": "EZVIZ TY1",
+        "tagline": "Caméra extérieure sans fil, sans câblage ni prise à proximité.",
+        "description": "Caméra extérieure sur batterie entièrement sans fil, résistante aux intempéries, avec vision nocturne et détection de mouvement par PIR. Installation en quelques minutes sur une façade ou un portail, sans câblage ni raccordement électrique.",
+        "highlights": ["Installation 100 % sans fil, aucune prise nécessaire", "Détection de mouvement par capteur PIR", "Vision nocturne infrarouge", "Étanchéité IP65 pour un usage extérieur"],
+        "inTheBox": ["Caméra TY1", "Support de fixation", "Câble de charge USB", "Visserie", "Guide de démarrage"]
+      },
+      "en": {
+        "name": "EZVIZ TY1",
+        "tagline": "Wire-free outdoor camera, no cabling or nearby socket needed.",
+        "description": "Fully wire-free battery outdoor camera, weatherproof, with night vision and PIR motion detection. Installs in minutes on a façade or gate, with no cabling or electrical connection required.",
+        "highlights": ["100% wire-free installation, no socket needed", "PIR sensor motion detection", "Infrared night vision", "IP65 weatherproof for outdoor use"],
+        "inTheBox": ["TY1 camera", "Mounting bracket", "USB charging cable", "Screws", "Quick start guide"]
+      },
+      "es": {
+        "name": "EZVIZ TY1",
+        "tagline": "Cámara exterior inalámbrica, sin cableado ni toma cercana.",
+        "description": "Cámara exterior con batería totalmente inalámbrica, resistente a la intemperie, con visión nocturna y detección de movimiento por PIR. Se instala en minutos en una fachada o portón, sin cableado ni conexión eléctrica.",
+        "highlights": ["Instalación 100% inalámbrica, sin toma necesaria", "Detección de movimiento por sensor PIR", "Visión nocturna infrarroja", "Resistencia IP65 para uso exterior"],
+        "inTheBox": ["Cámara TY1", "Soporte de fijación", "Cable de carga USB", "Tornillería", "Guía de inicio rápido"]
+      },
+      "ar": {
+        "name": "EZVIZ TY1",
+        "tagline": "كاميرا خارجية لاسلكية بالكامل، دون أسلاك أو مأخذ قريب.",
+        "description": "كاميرا خارجية بالبطارية لاسلكية بالكامل، مقاومة للعوامل الجوية، مع رؤية ليلية وكشف حركة بحساس PIR. تُركَّب في دقائق على واجهة أو بوابة، دون أسلاك أو توصيل كهربائي.",
+        "highlights": ["تركيب لاسلكي 100%، دون حاجة لمأخذ", "كشف الحركة بحساس PIR", "رؤية ليلية بالأشعة تحت الحمراء", "مقاومة للماء IP65 للاستخدام الخارجي"],
+        "inTheBox": ["كاميرا TY1", "حامل تثبيت", "كابل شحن USB", "براغي", "دليل البدء السريع"]
+      },
+      "zh": {
+        "name": "EZVIZ TY1",
+        "tagline": "无线户外摄像机，无需布线或附近插座。",
+        "description": "完全无线的电池户外摄像机，防风雨设计，具备夜视功能和 PIR 移动侦测。几分钟内即可安装于外墙或大门，无需布线或电气连接。",
+        "highlights": ["100% 无线安装，无需插座", "PIR 传感器移动侦测", "红外夜视", "IP65 防水，适合户外使用"],
+        "inTheBox": ["TY1 摄像机", "安装支架", "USB 充电线", "螺丝", "快速入门指南"]
+      }
+    },
+    "attributes": { "protocol": ["wifi"], "placement": "exterieur", "power": ["batterie"], "compat": ["alexa", "google", "app-marque", "safer-platform"], "resolution": "1080p" },
+    "specs": [
+      { "key": "resolution", "value": "1080p Full HD (2 MP)" },
+      { "key": "detectionType", "value": "PIR infrarouge passif" },
+      { "key": "nightVision", "value": { "fr": "Infrarouge, portée 8 m", "en": "Infrared, 8 m range", "es": "Infrarrojo, alcance de 8 m", "ar": "أشعة تحت حمراء، مدى 8 م", "zh": "红外，探测距离 8 米" } },
+      { "key": "connectivity", "value": "Wi-Fi 2,4 GHz" },
+      { "key": "battery", "value": { "fr": "Rechargeable, jusqu’à 4 mois d’autonomie", "en": "Rechargeable, up to 4 months of runtime", "es": "Recargable, hasta 4 meses de autonomía", "ar": "قابلة لإعادة الشحن، عمر يصل إلى 4 أشهر", "zh": "可充电，续航最长 4 个月" } },
+      { "key": "storage", "value": "microSD ≤ 256 Go, EZVIZ Cloud" },
+      { "key": "weatherproof", "value": "IP65" }
+    ],
+    "pricing": { "sourcePrice": 49.99, "sourceCurrency": "EUR" },
+    "availability": "sur-commande",
+    "install": { "level": "simple", "duration": "20 min", "prerequisites": { "fr": "Wi-Fi 2,4 GHz couvrant l’emplacement.", "en": "2.4 GHz Wi-Fi coverage at the location.", "es": "Cobertura Wi-Fi de 2,4 GHz en el lugar.", "ar": "تغطية Wi-Fi بتردد 2.4 جيجاهرتز في الموقع.", "zh": "安装位置需有 2.4 GHz Wi-Fi 覆盖。" } },
+    "sourceUrl": "https://www.ezviz.com/product/ty1/45852",
+    "accent": "#1f8ef1",
+    "symbol": "◈",
+    "solutions": ["video-intelligente/cameras-exterieures", "video-intelligente/verification-video"],
+    "related": ["ezviz-eb8-4g", "ezviz-cb3"]
+  },
+  {
+    "id": "ezviz-c8w-pro",
+    "sku": "EZ-C8WPRO",
+    "brand": "ezviz",
+    "sourceBrand": "EZVIZ",
+    "model": "C8W Pro",
+    "category": "video",
+    "subcategory": "cameras-ptz",
+    "i18n": {
+      "fr": {
+        "name": "EZVIZ C8W Pro",
+        "tagline": "Caméra motorisée extérieure 4 MP, vision couleur et suivi actif.",
+        "description": "Caméra extérieure Wi-Fi motorisée avec rotation 355° et inclinaison 90°, image 4 MP nette et vision nocturne couleur intégrée. Détection intelligente des personnes et véhicules avec suivi actif du mouvement, pour couvrir une cour ou un parking sans zone morte.",
+        "highlights": ["Rotation 355° et inclinaison 90° motorisées", "Image 4 MP avec vision nocturne couleur", "Détection IA personnes / véhicules et suivi actif", "Étanchéité IP66 pour usage extérieur"],
+        "inTheBox": ["Caméra C8W Pro", "Support de fixation", "Câble d’alimentation", "Visserie", "Guide de démarrage"]
+      },
+      "en": {
+        "name": "EZVIZ C8W Pro",
+        "tagline": "Motorised outdoor 4 MP camera with colour vision and active tracking.",
+        "description": "Motorised Wi-Fi outdoor camera with 355° pan and 90° tilt, sharp 4 MP image and built-in colour night vision. Smart detection of people and vehicles with active motion tracking, to cover a yard or car park with no blind spot.",
+        "highlights": ["Motorised 355° pan and 90° tilt", "Sharp 4 MP image with colour night vision", "AI detection of people / vehicles with active tracking", "IP66 weatherproof for outdoor use"],
+        "inTheBox": ["C8W Pro camera", "Mounting bracket", "Power cable", "Screws", "Quick start guide"]
+      },
+      "es": {
+        "name": "EZVIZ C8W Pro",
+        "tagline": "Cámara exterior motorizada de 4 MP, visión en color y seguimiento activo.",
+        "description": "Cámara exterior Wi-Fi motorizada con rotación de 355° e inclinación de 90°, imagen nítida de 4 MP y visión nocturna en color integrada. Detección inteligente de personas y vehículos con seguimiento activo del movimiento, para cubrir un patio o un aparcamiento sin zonas muertas.",
+        "highlights": ["Rotación 355° e inclinación 90° motorizadas", "Imagen nítida de 4 MP con visión nocturna en color", "Detección IA de personas / vehículos con seguimiento activo", "Resistencia IP66 para uso exterior"],
+        "inTheBox": ["Cámara C8W Pro", "Soporte de fijación", "Cable de alimentación", "Tornillería", "Guía de inicio rápido"]
+      },
+      "ar": {
+        "name": "EZVIZ C8W Pro",
+        "tagline": "كاميرا خارجية محورية بدقة 4 ميجابكسل، رؤية ملوّنة وتتبع نشط.",
+        "description": "كاميرا خارجية Wi-Fi محورية بدوران 355° وإمالة 90°، وصورة واضحة 4 ميجابكسل ورؤية ليلية ملوّنة مدمجة. كشف ذكي للأشخاص والمركبات مع تتبع نشط للحركة، لتغطية فناء أو موقف سيارات دون نقاط عمياء.",
+        "highlights": ["دوران محوري 355° وإمالة 90°", "صورة واضحة 4 ميجابكسل مع رؤية ليلية ملوّنة", "كشف ذكي للأشخاص والمركبات مع تتبع نشط", "مقاومة للماء IP66 للاستخدام الخارجي"],
+        "inTheBox": ["كاميرا C8W Pro", "حامل تثبيت", "كابل تغذية", "براغي", "دليل البدء السريع"]
+      },
+      "zh": {
+        "name": "EZVIZ C8W Pro",
+        "tagline": "4MP 户外云台摄像机，彩色画质与主动追踪。",
+        "description": "户外 Wi-Fi 云台摄像机，支持 355° 水平旋转和 90° 俯仰，画质清晰 4MP，并内置彩色夜视。可智能检测人员和车辆并主动追踪移动目标，覆盖庭院或停车场，不留盲区。",
+        "highlights": ["355° 水平旋转与 90° 俯仰", "清晰 4MP 画质，内置彩色夜视", "AI 检测人员 / 车辆并主动追踪", "IP66 防水，适合户外使用"],
+        "inTheBox": ["C8W Pro 摄像机", "安装支架", "电源线", "螺丝", "快速入门指南"]
+      }
+    },
+    "attributes": { "protocol": ["wifi"], "placement": "exterieur", "power": ["secteur"], "compat": ["alexa", "google", "app-marque", "safer-platform"], "resolution": "2k" },
+    "specs": [
+      { "key": "resolution", "value": "4 MP (2560 × 1440)" },
+      { "key": "ptz", "value": "Panoramique 355°, inclinaison 90°" },
+      { "key": "nightVision", "value": { "fr": "Couleur, IR 30 m", "en": "Colour, 30 m IR", "es": "Color, IR 30 m", "ar": "ملوّن، أشعة تحت حمراء 30 م", "zh": "彩色，30 米红外" } },
+      { "key": "ai", "value": { "fr": "Personnes, véhicules, suivi actif", "en": "People, vehicles, active tracking", "es": "Personas, vehículos, seguimiento activo", "ar": "أشخاص، مركبات، تتبع نشط", "zh": "人员、车辆，主动追踪" } },
+      { "key": "connectivity", "value": "Wi-Fi 2,4 / 5 GHz" },
+      { "key": "storage", "value": "microSD ≤ 512 Go, EZVIZ Cloud" },
+      { "key": "weatherproof", "value": "IP66" },
+      { "key": "operatingTemp", "value": "-30 °C … 60 °C" }
+    ],
+    "pricing": { "sourcePrice": 89.99, "sourceCurrency": "EUR" },
+    "availability": "sur-commande",
+    "install": { "level": "standard", "duration": "45 min", "prerequisites": { "fr": "Prise secteur à proximité, Wi-Fi 2,4 ou 5 GHz couvrant l’emplacement.", "en": "Mains socket nearby, 2.4 or 5 GHz Wi-Fi coverage at the location.", "es": "Toma de corriente cerca, cobertura Wi-Fi de 2,4 o 5 GHz en el lugar.", "ar": "مأخذ كهربائي قريب، وتغطية Wi-Fi بتردد 2.4 أو 5 جيجاهرتز.", "zh": "附近需有电源插座，安装位置需有 2.4 或 5 GHz Wi-Fi 覆盖。" } },
+    "sourceUrl": "https://www.ezviz.com/product/c8w-pro/49102",
+    "accent": "#1f8ef1",
+    "symbol": "↗",
+    "solutions": ["video-intelligente/cameras-exterieures", "video-intelligente/verification-video"],
+    "related": ["ezviz-h8c", "ezviz-eb8-4g"]
+  },
+  {
+    "id": "ezviz-h8c",
+    "sku": "EZ-H8C",
+    "brand": "ezviz",
+    "sourceBrand": "EZVIZ",
+    "model": "H8c",
+    "category": "video",
+    "subcategory": "cameras-ptz",
+    "i18n": {
+      "fr": {
+        "name": "EZVIZ H8c",
+        "tagline": "Caméra motorisée 2K, polyvalente intérieur et extérieur.",
+        "description": "Caméra motorisée Wi-Fi 2K à rotation 355° et inclinaison 60°, adaptée aussi bien à un couloir intérieur qu’à une véranda ou une entrée couverte. Vision nocturne couleur, détection de personnes et sirène intégrée pour dissuader les intrusions.",
+        "highlights": ["Rotation 355° et inclinaison 60° motorisées", "Image 2K nette de jour comme de nuit", "Vision nocturne couleur et détection de personnes", "Sirène et projecteur dissuasifs intégrés"],
+        "inTheBox": ["Caméra H8c", "Support de fixation", "Câble d’alimentation", "Visserie", "Guide de démarrage"]
+      },
+      "en": {
+        "name": "EZVIZ H8c",
+        "tagline": "Motorised 2K camera, versatile for indoor and outdoor use.",
+        "description": "Motorised Wi-Fi 2K camera with 355° pan and 60° tilt, suited to an indoor hallway as much as a covered porch or entrance. Colour night vision, people detection and a built-in siren to deter intrusions.",
+        "highlights": ["Motorised 355° pan and 60° tilt", "Sharp 2K image day and night", "Colour night vision and people detection", "Built-in deterrent siren and spotlight"],
+        "inTheBox": ["H8c camera", "Mounting bracket", "Power cable", "Screws", "Quick start guide"]
+      },
+      "es": {
+        "name": "EZVIZ H8c",
+        "tagline": "Cámara motorizada 2K, versátil para interior y exterior.",
+        "description": "Cámara motorizada Wi-Fi 2K con rotación de 355° e inclinación de 60°, adecuada tanto para un pasillo interior como para un porche cubierto o una entrada. Visión nocturna en color, detección de personas y sirena integrada para disuadir intrusiones.",
+        "highlights": ["Rotación 355° e inclinación 60° motorizadas", "Imagen 2K nítida de día y de noche", "Visión nocturna en color y detección de personas", "Sirena y foco disuasorios integrados"],
+        "inTheBox": ["Cámara H8c", "Soporte de fijación", "Cable de alimentación", "Tornillería", "Guía de inicio rápido"]
+      },
+      "ar": {
+        "name": "EZVIZ H8c",
+        "tagline": "كاميرا محورية بدقة 2K، متعددة الاستخدامات داخلياً وخارجياً.",
+        "description": "كاميرا محورية Wi-Fi بدقة 2K ودوران 355° وإمالة 60°، مناسبة لممر داخلي أو شرفة مغطاة أو مدخل. رؤية ليلية ملوّنة، وكشف للأشخاص، وصفارة إنذار مدمجة لردع التسلل.",
+        "highlights": ["دوران محوري 355° وإمالة 60°", "صورة 2K واضحة نهاراً وليلاً", "رؤية ليلية ملوّنة وكشف الأشخاص", "صفارة إنذار وكشّاف رادع مدمجان"],
+        "inTheBox": ["كاميرا H8c", "حامل تثبيت", "كابل تغذية", "براغي", "دليل البدء السريع"]
+      },
+      "zh": {
+        "name": "EZVIZ H8c",
+        "tagline": "2K 云台摄像机，室内外皆宜。",
+        "description": "2K Wi-Fi 云台摄像机，支持 355° 水平旋转和 60° 俯仰，适合室内走廊、有遮盖的门廊或入口使用。彩色夜视与人形检测，并内置警报器与补光灯以震慑入侵。",
+        "highlights": ["355° 水平旋转与 60° 俯仰", "清晰 2K 画质，全天候可用", "彩色夜视与人形检测", "内置警报器与震慑补光灯"],
+        "inTheBox": ["H8c 摄像机", "安装支架", "电源线", "螺丝", "快速入门指南"]
+      }
+    },
+    "attributes": { "protocol": ["wifi"], "placement": "interieur-exterieur", "power": ["secteur"], "compat": ["alexa", "google", "app-marque", "safer-platform"], "resolution": "2k" },
+    "specs": [
+      { "key": "resolution", "value": "2K (3 MP)" },
+      { "key": "ptz", "value": "Panoramique 355°, inclinaison 60°" },
+      { "key": "nightVision", "value": { "fr": "Couleur, IR 15 m", "en": "Colour, 15 m IR", "es": "Color, IR 15 m", "ar": "ملوّن، أشعة تحت حمراء 15 م", "zh": "彩色，15 米红外" } },
+      { "key": "ai", "value": { "fr": "Détection de personnes", "en": "People detection", "es": "Detección de personas", "ar": "كشف الأشخاص", "zh": "人形检测" } },
+      { "key": "siren", "value": { "fr": "Sirène 100 dB et projecteur dissuasifs", "en": "Deterrent 100 dB siren and spotlight", "es": "Sirena de 100 dB y foco disuasorios", "ar": "صفارة إنذار 100 ديسيبل وكشّاف رادعان", "zh": "100 分贝警报器与震慑补光灯" } },
+      { "key": "connectivity", "value": "Wi-Fi 2,4 GHz" },
+      { "key": "storage", "value": "microSD ≤ 256 Go, EZVIZ Cloud" },
+      { "key": "weatherproof", "value": "IP65" }
+    ],
+    "pricing": { "sourcePrice": 59.99, "sourceCurrency": "EUR" },
+    "availability": "sur-commande",
+    "install": { "level": "standard", "duration": "30 min", "prerequisites": { "fr": "Prise secteur à proximité, Wi-Fi 2,4 GHz couvrant l’emplacement.", "en": "Mains socket nearby, 2.4 GHz Wi-Fi coverage at the location.", "es": "Toma de corriente cerca, cobertura Wi-Fi de 2,4 GHz en el lugar.", "ar": "مأخذ كهربائي قريب، وتغطية Wi-Fi بتردد 2.4 جيجاهرتز.", "zh": "附近需有电源插座，安装位置需有 2.4 GHz Wi-Fi 覆盖。" } },
+    "sourceUrl": "https://www.ezviz.com/product/h8c/47210",
+    "accent": "#1f8ef1",
+    "symbol": "▣",
+    "solutions": ["video-intelligente/cameras-exterieures", "video-intelligente/verification-video"],
+    "related": ["ezviz-c8w-pro", "ezviz-cb3"]
+  },
+  {
+    "id": "ezviz-eb8-4g",
+    "sku": "EZ-EB84G",
+    "brand": "ezviz",
+    "sourceBrand": "EZVIZ",
+    "model": "EB8 4G",
+    "category": "video",
+    "subcategory": "cameras-exterieures",
+    "i18n": {
+      "fr": {
+        "name": "EZVIZ EB8 4G",
+        "tagline": "Surveillance sur batterie et carte SIM, indépendante du réseau électrique et du Wi-Fi.",
+        "description": "Caméra extérieure sur batterie avec module 4G intégré, pensée pour les emplacements sans Wi-Fi ni prise électrique : portail isolé, chantier, terrain. Image 2K couleur de nuit, détection intelligente des personnes et véhicules, et autonomie prolongée grâce à un mode basse consommation piloté par IA.",
+        "highlights": ["Carte SIM 4G intégrée, aucun Wi-Fi requis", "Image 2K couleur avec vision nocturne", "Détection IA personnes / véhicules", "Autonomie batterie optimisée par IA, solaire compatible"],
+        "inTheBox": ["Caméra EB8 4G", "Support de fixation", "Câble de charge USB-C", "Emplacement carte SIM", "Guide de démarrage"]
+      },
+      "en": {
+        "name": "EZVIZ EB8 4G",
+        "tagline": "Battery and SIM-card surveillance, independent of mains power and Wi-Fi.",
+        "description": "Battery outdoor camera with a built-in 4G module, designed for locations without Wi-Fi or a power outlet: a remote gate, a job site, open land. 2K colour night vision, AI detection of people and vehicles, and extended runtime thanks to an AI-driven low-power mode.",
+        "highlights": ["Built-in 4G SIM card, no Wi-Fi required", "2K colour image with night vision", "AI detection of people / vehicles", "AI-optimised battery runtime, solar compatible"],
+        "inTheBox": ["EB8 4G camera", "Mounting bracket", "USB-C charging cable", "SIM card slot", "Quick start guide"]
+      },
+      "es": {
+        "name": "EZVIZ EB8 4G",
+        "tagline": "Vigilancia con batería y tarjeta SIM, independiente de la red eléctrica y del Wi-Fi.",
+        "description": "Cámara exterior con batería y módulo 4G integrado, pensada para lugares sin Wi-Fi ni toma eléctrica: un portón aislado, una obra, un terreno. Imagen 2K en color con visión nocturna, detección IA de personas y vehículos, y autonomía prolongada gracias a un modo de bajo consumo gestionado por IA.",
+        "highlights": ["Tarjeta SIM 4G integrada, sin Wi-Fi necesario", "Imagen 2K en color con visión nocturna", "Detección IA de personas / vehículos", "Autonomía de batería optimizada por IA, compatible con solar"],
+        "inTheBox": ["Cámara EB8 4G", "Soporte de fijación", "Cable de carga USB-C", "Ranura para tarjeta SIM", "Guía de inicio rápido"]
+      },
+      "ar": {
+        "name": "EZVIZ EB8 4G",
+        "tagline": "مراقبة بالبطارية وشريحة SIM، دون الحاجة لكهرباء أو Wi-Fi.",
+        "description": "كاميرا خارجية بالبطارية مع وحدة 4G مدمجة، مصممة للمواقع التي تفتقر إلى Wi-Fi أو مأخذ كهربائي: بوابة معزولة، ورشة، أرض مفتوحة. صورة 2K ملوّنة مع رؤية ليلية، وكشف ذكي للأشخاص والمركبات، وعمر بطارية ممتد بفضل وضع استهلاك منخفض يديره الذكاء الاصطناعي.",
+        "highlights": ["شريحة SIM بتقنية 4G مدمجة، دون حاجة لـ Wi-Fi", "صورة 2K ملوّنة مع رؤية ليلية", "كشف ذكي للأشخاص والمركبات", "عمر بطارية محسّن بالذكاء الاصطناعي، متوافق مع الطاقة الشمسية"],
+        "inTheBox": ["كاميرا EB8 4G", "حامل تثبيت", "كابل شحن USB-C", "فتحة شريحة SIM", "دليل البدء السريع"]
+      },
+      "zh": {
+        "name": "EZVIZ EB8 4G",
+        "tagline": "电池与 SIM 卡监控，无需市电或 Wi-Fi。",
+        "description": "内置 4G 模块的电池户外摄像机，专为没有 Wi-Fi 或电源插座的场所设计：偏远大门、工地或空旷地块。2K 彩色夜视画质，AI 检测人员与车辆，并通过 AI 驱动的低功耗模式延长续航。",
+        "highlights": ["内置 4G SIM 卡，无需 Wi-Fi", "2K 彩色画质，配备夜视", "AI 检测人员 / 车辆", "AI 优化电池续航，支持太阳能"],
+        "inTheBox": ["EB8 4G 摄像机", "安装支架", "USB-C 充电线", "SIM 卡插槽", "快速入门指南"]
+      }
+    },
+    "attributes": { "protocol": ["4g-lte"], "placement": "exterieur", "power": ["batterie", "solaire"], "compat": ["app-marque", "safer-platform"], "resolution": "2k" },
+    "specs": [
+      { "key": "resolution", "value": "2K (2560 × 1440)" },
+      { "key": "sim", "value": "1 emplacement nano-SIM 4G" },
+      { "key": "nightVision", "value": { "fr": "Couleur, IR 10 m", "en": "Colour, 10 m IR", "es": "Color, IR 10 m", "ar": "ملوّن، أشعة تحت حمراء 10 م", "zh": "彩色，10 米红外" } },
+      { "key": "ai", "value": { "fr": "Personnes, véhicules", "en": "People, vehicles", "es": "Personas, vehículos", "ar": "أشخاص، مركبات", "zh": "人员、车辆" } },
+      { "key": "battery", "value": { "fr": "Rechargeable, mode basse consommation IA, solaire en option", "en": "Rechargeable, AI low-power mode, solar optional", "es": "Recargable, modo de bajo consumo IA, solar opcional", "ar": "قابلة لإعادة الشحن، وضع استهلاك منخفض بالذكاء الاصطناعي، طاقة شمسية اختيارية", "zh": "可充电，AI 低功耗模式，太阳能可选" } },
+      { "key": "storage", "value": "microSD ≤ 256 Go, EZVIZ Cloud" },
+      { "key": "weatherproof", "value": "IP65" },
+      { "key": "operatingTemp", "value": "-20 °C … 60 °C" }
+    ],
+    "pricing": { "sourcePrice": 159.99, "sourceCurrency": "EUR" },
+    "availability": "sur-commande",
+    "install": { "level": "simple", "duration": "20 min", "prerequisites": { "fr": "Carte SIM 4G active avec forfait data, exposition solaire recommandée.", "en": "Active 4G SIM card with a data plan, sun exposure recommended.", "es": "Tarjeta SIM 4G activa con plan de datos, se recomienda exposición solar.", "ar": "شريحة SIM بتقنية 4G نشطة مع باقة بيانات، ويُفضَّل التعرّض للشمس.", "zh": "需有已开通数据套餐的 4G SIM 卡，建议有充足日照。" } },
+    "sourceUrl": "https://www.ezviz.com/product/eb8-4g/51063",
+    "accent": "#1f8ef1",
+    "symbol": "⚡",
+    "featured": true,
+    "solutions": ["video-intelligente/cameras-exterieures", "video-intelligente/verification-video"],
+    "related": ["ezviz-c8w-pro", "ezviz-ty1", "ezviz-cb3"]
+  },
+  {
+    "id": "ezviz-cb3",
+    "sku": "EZ-CB3",
+    "brand": "ezviz",
+    "sourceBrand": "EZVIZ",
+    "model": "CB3",
+    "category": "video",
+    "subcategory": "cameras-exterieures",
+    "i18n": {
+      "fr": {
+        "name": "EZVIZ CB3",
+        "tagline": "Caméra sur batterie 2K, simple à poser où que ce soit.",
+        "description": "Caméra extérieure sur batterie 2K entièrement sans fil, avec vision nocturne couleur et détection intelligente des personnes. Autonomie de plusieurs mois par charge, idéale pour une entrée secondaire, un jardin ou un abri sans câblage disponible.",
+        "highlights": ["Image 2K nette de jour comme de nuit", "Vision nocturne couleur avec projecteur", "Détection de personnes par IA", "Autonomie batterie de plusieurs mois"],
+        "inTheBox": ["Caméra CB3", "Support de fixation", "Câble de charge USB-C", "Visserie", "Guide de démarrage"]
+      },
+      "en": {
+        "name": "EZVIZ CB3",
+        "tagline": "2K battery camera, simple to mount anywhere.",
+        "description": "Fully wire-free 2K battery outdoor camera, with colour night vision and smart people detection. Several months of runtime per charge, ideal for a side entrance, a garden or a shed with no cabling available.",
+        "highlights": ["Sharp 2K image day and night", "Colour night vision with spotlight", "AI people detection", "Several months of battery runtime"],
+        "inTheBox": ["CB3 camera", "Mounting bracket", "USB-C charging cable", "Screws", "Quick start guide"]
+      },
+      "es": {
+        "name": "EZVIZ CB3",
+        "tagline": "Cámara con batería 2K, fácil de instalar en cualquier lugar.",
+        "description": "Cámara exterior con batería 2K totalmente inalámbrica, con visión nocturna en color y detección inteligente de personas. Autonomía de varios meses por carga, ideal para una entrada secundaria, un jardín o un cobertizo sin cableado disponible.",
+        "highlights": ["Imagen 2K nítida de día y de noche", "Visión nocturna en color con foco", "Detección de personas por IA", "Autonomía de batería de varios meses"],
+        "inTheBox": ["Cámara CB3", "Soporte de fijación", "Cable de carga USB-C", "Tornillería", "Guía de inicio rápido"]
+      },
+      "ar": {
+        "name": "EZVIZ CB3",
+        "tagline": "كاميرا بطارية 2K، سهلة التركيب في أي مكان.",
+        "description": "كاميرا خارجية بالبطارية بدقة 2K لاسلكية بالكامل، مع رؤية ليلية ملوّنة وكشف ذكي للأشخاص. عمر بطارية يمتد لعدة أشهر بشحنة واحدة، مثالية لمدخل جانبي أو حديقة أو مخزن دون أسلاك متاحة.",
+        "highlights": ["صورة 2K واضحة نهاراً وليلاً", "رؤية ليلية ملوّنة مع كشّاف", "كشف الأشخاص بالذكاء الاصطناعي", "عمر بطارية يمتد لعدة أشهر"],
+        "inTheBox": ["كاميرا CB3", "حامل تثبيت", "كابل شحن USB-C", "براغي", "دليل البدء السريع"]
+      },
+      "zh": {
+        "name": "EZVIZ CB3",
+        "tagline": "2K 电池摄像机，可随处轻松安装。",
+        "description": "完全无线的 2K 电池户外摄像机，具备彩色夜视和智能人形检测。单次充电可续航数月，非常适合侧门、花园或没有布线条件的储物间。",
+        "highlights": ["清晰 2K 画质，全天候可用", "彩色夜视配备补光灯", "AI 人形检测", "电池续航长达数月"],
+        "inTheBox": ["CB3 摄像机", "安装支架", "USB-C 充电线", "螺丝", "快速入门指南"]
+      }
+    },
+    "attributes": { "protocol": ["wifi"], "placement": "exterieur", "power": ["batterie"], "compat": ["alexa", "google", "app-marque", "safer-platform"], "resolution": "2k" },
+    "specs": [
+      { "key": "resolution", "value": "2K (2560 × 1440)" },
+      { "key": "nightVision", "value": { "fr": "Couleur avec projecteur intégré", "en": "Colour with built-in spotlight", "es": "Color con foco integrado", "ar": "ملوّن مع كشّاف مدمج", "zh": "彩色，内置补光灯" } },
+      { "key": "ai", "value": { "fr": "Détection de personnes", "en": "People detection", "es": "Detección de personas", "ar": "كشف الأشخاص", "zh": "人形检测" } },
+      { "key": "connectivity", "value": "Wi-Fi 2,4 GHz" },
+      { "key": "battery", "value": { "fr": "Rechargeable, plusieurs mois d’autonomie", "en": "Rechargeable, several months of runtime", "es": "Recargable, varios meses de autonomía", "ar": "قابلة لإعادة الشحن، عمر يمتد لعدة أشهر", "zh": "可充电，续航数月" } },
+      { "key": "storage", "value": "microSD ≤ 256 Go, EZVIZ Cloud" },
+      { "key": "weatherproof", "value": "IP65" }
+    ],
+    "pricing": { "sourcePrice": 69.99, "sourceCurrency": "EUR" },
+    "availability": "sur-commande",
+    "install": { "level": "simple", "duration": "20 min", "prerequisites": { "fr": "Wi-Fi 2,4 GHz couvrant l’emplacement.", "en": "2.4 GHz Wi-Fi coverage at the location.", "es": "Cobertura Wi-Fi de 2,4 GHz en el lugar.", "ar": "تغطية Wi-Fi بتردد 2.4 جيجاهرتز في الموقع.", "zh": "安装位置需有 2.4 GHz Wi-Fi 覆盖。" } },
+    "sourceUrl": "https://www.ezviz.com/product/cb3/44980",
+    "accent": "#1f8ef1",
+    "symbol": "◈",
+    "solutions": ["video-intelligente/cameras-exterieures", "video-intelligente/verification-video"],
+    "related": ["ezviz-ty1", "ezviz-eb8-4g"]
+  },
+  {
+    "id": "ezviz-db2",
+    "sku": "EZ-DB2",
+    "brand": "ezviz",
+    "sourceBrand": "EZVIZ",
+    "model": "DB2",
+    "category": "video",
+    "subcategory": "sonnettes-video",
+    "i18n": {
+      "fr": {
+        "name": "EZVIZ DB2",
+        "tagline": "Sonnette vidéo sur batterie, sans fil ni transformateur.",
+        "description": "Sonnette vidéo sur batterie en Full HD avec vision grand-angle 180°, vision nocturne couleur et détection intelligente des personnes. Installation entièrement sans fil sur un mur ou un cadre de porte, sans raccordement électrique préalable.",
+        "highlights": ["Image Full HD avec vue grand-angle 180°", "Vision nocturne couleur", "Détection de personnes et alertes de mouvement", "Installation sans fil sur batterie"],
+        "inTheBox": ["Sonnette DB2", "Plaque de montage inclinée", "Câble de charge USB", "Visserie et chevilles", "Guide de démarrage"]
+      },
+      "en": {
+        "name": "EZVIZ DB2",
+        "tagline": "Battery video doorbell, no wiring or transformer needed.",
+        "description": "Battery-powered Full HD video doorbell with a 180° wide-angle view, colour night vision and smart people detection. Fully wire-free installation on a wall or door frame, with no prior electrical connection needed.",
+        "highlights": ["Full HD image with 180° wide-angle view", "Colour night vision", "People detection and motion alerts", "Wire-free battery installation"],
+        "inTheBox": ["DB2 doorbell", "Angled mounting plate", "USB charging cable", "Screws and wall plugs", "Quick start guide"]
+      },
+      "es": {
+        "name": "EZVIZ DB2",
+        "tagline": "Timbre con vídeo a batería, sin cableado ni transformador.",
+        "description": "Timbre con vídeo a batería en Full HD con vista gran angular de 180°, visión nocturna en color y detección inteligente de personas. Instalación totalmente inalámbrica en una pared o marco de puerta, sin conexión eléctrica previa.",
+        "highlights": ["Imagen Full HD con vista gran angular de 180°", "Visión nocturna en color", "Detección de personas y alertas de movimiento", "Instalación inalámbrica con batería"],
+        "inTheBox": ["Timbre DB2", "Placa de montaje inclinada", "Cable de carga USB", "Tornillos y tacos", "Guía de inicio rápido"]
+      },
+      "ar": {
+        "name": "EZVIZ DB2",
+        "tagline": "جرس فيديو بالبطارية، دون أسلاك أو محول.",
+        "description": "جرس باب فيديو يعمل بالبطارية بدقة Full HD ورؤية واسعة الزاوية 180°، ورؤية ليلية ملوّنة وكشف ذكي للأشخاص. تركيب لاسلكي بالكامل على حائط أو إطار باب، دون توصيل كهربائي مسبق.",
+        "highlights": ["صورة Full HD برؤية واسعة 180°", "رؤية ليلية ملوّنة", "كشف الأشخاص وتنبيهات الحركة", "تركيب لاسلكي بالبطارية"],
+        "inTheBox": ["جرس DB2", "لوحة تثبيت مائلة", "كابل شحن USB", "براغي وقواعد تثبيت", "دليل البدء السريع"]
+      },
+      "zh": {
+        "name": "EZVIZ DB2",
+        "tagline": "电池视频门铃，无需接线或变压器。",
+        "description": "电池供电的全高清视频门铃，具备 180° 广角视野、彩色夜视和智能人形检测。完全无线安装于墙面或门框，无需事先电气连接。",
+        "highlights": ["全高清画质，180° 广角视野", "彩色夜视", "人形检测与移动提醒", "无线电池安装"],
+        "inTheBox": ["DB2 门铃", "倾角安装板", "USB 充电线", "螺丝与膨胀塞", "快速入门指南"]
+      }
+    },
+    "attributes": { "protocol": ["wifi"], "placement": "exterieur", "power": ["batterie"], "compat": ["alexa", "google", "app-marque", "safer-platform"], "resolution": "1080p" },
+    "specs": [
+      { "key": "resolution", "value": "1080p Full HD (2 MP)" },
+      { "key": "fieldOfView", "value": "180° horizontal" },
+      { "key": "nightVision", "value": { "fr": "Couleur, IR 5 m", "en": "Colour, 5 m IR", "es": "Color, IR 5 m", "ar": "ملوّن، أشعة تحت حمراء 5 م", "zh": "彩色，5 米红外" } },
+      { "key": "ai", "value": { "fr": "Détection de personnes", "en": "People detection", "es": "Detección de personas", "ar": "كشف الأشخاص", "zh": "人形检测" } },
+      { "key": "twoWayAudio", "value": "Audio bidirectionnel" },
+      { "key": "battery", "value": { "fr": "Rechargeable, jusqu’à 4 mois d’autonomie", "en": "Rechargeable, up to 4 months of runtime", "es": "Recargable, hasta 4 meses de autonomía", "ar": "قابلة لإعادة الشحن، عمر يصل إلى 4 أشهر", "zh": "可充电，续航最长 4 个月" } },
+      { "key": "chime", "value": { "fr": "Carillon Wi-Fi en option", "en": "Wi-Fi chime optional", "es": "Carillón Wi-Fi opcional", "ar": "جرس Wi-Fi اختياري", "zh": "Wi-Fi 门铃提示器可选" } },
+      { "key": "storage", "value": "microSD ≤ 256 Go, EZVIZ Cloud" }
+    ],
+    "pricing": { "sourcePrice": 99.99, "sourceCurrency": "EUR" },
+    "availability": "en-stock",
+    "install": { "level": "simple", "duration": "30 min", "prerequisites": { "fr": "Wi-Fi 2,4 GHz couvrant l’entrée, batterie chargée avant la pose.", "en": "2.4 GHz Wi-Fi coverage at the entrance, battery charged before mounting.", "es": "Cobertura Wi-Fi de 2,4 GHz en la entrada, batería cargada antes de instalar.", "ar": "تغطية Wi-Fi بتردد 2.4 جيجاهرتز عند المدخل، وشحن البطارية قبل التركيب.", "zh": "入口处需有 2.4 GHz Wi-Fi 覆盖，安装前需充满电池。" } },
+    "sourceUrl": "https://www.ezviz.com/product/db2/43765",
+    "accent": "#1f8ef1",
+    "symbol": "⌇",
+    "solutions": ["video-intelligente/sonnette-video", "controle-acces/gestion-visiteurs"],
+    "related": ["ezviz-c6n", "ezviz-dl05"]
+  },
+  {
+    "id": "ezviz-dl05",
+    "sku": "EZ-DL05",
+    "brand": "ezviz",
+    "sourceBrand": "EZVIZ",
+    "model": "DL05",
+    "category": "acces",
+    "subcategory": "serrures-connectees",
+    "i18n": {
+      "fr": {
+        "name": "EZVIZ DL05",
+        "tagline": "Serrure connectée avec caméra intégrée pour voir qui entre.",
+        "description": "Serrure connectée à empreinte digitale, code et application, dotée d’une caméra grand-angle intégrée qui filme chaque ouverture de porte. Verrouillage automatique, journal d’accès horodaté et alerte en cas de tentative d’effraction.",
+        "highlights": ["Ouverture par empreinte, code ou application", "Caméra grand-angle intégrée sur chaque accès", "Verrouillage automatique et anti-arrachement", "Journal d’accès et alertes en temps réel"],
+        "inTheBox": ["Serrure DL05", "Cylindre et plaques de fixation", "Piles", "Cartes de reprogrammation", "Guide de démarrage"]
+      },
+      "en": {
+        "name": "EZVIZ DL05",
+        "tagline": "Smart lock with a built-in camera to see who's coming in.",
+        "description": "Smart lock with fingerprint, code and app unlocking, featuring a built-in wide-angle camera that records every door opening. Auto-lock, a timestamped access log and alerts on break-in attempts.",
+        "highlights": ["Unlock by fingerprint, code or app", "Built-in wide-angle camera on every access", "Auto-lock and anti-pry protection", "Access log and real-time alerts"],
+        "inTheBox": ["DL05 lock", "Cylinder and mounting plates", "Batteries", "Reprogramming cards", "Quick start guide"]
+      },
+      "es": {
+        "name": "EZVIZ DL05",
+        "tagline": "Cerradura conectada con cámara integrada para ver quién entra.",
+        "description": "Cerradura conectada con apertura por huella, código y aplicación, con una cámara gran angular integrada que graba cada apertura de puerta. Bloqueo automático, registro de accesos con hora y alertas ante intentos de forzado.",
+        "highlights": ["Apertura por huella, código o aplicación", "Cámara gran angular integrada en cada acceso", "Bloqueo automático y protección antiforzado", "Registro de accesos y alertas en tiempo real"],
+        "inTheBox": ["Cerradura DL05", "Cilindro y placas de fijación", "Pilas", "Tarjetas de reprogramación", "Guía de inicio rápido"]
+      },
+      "ar": {
+        "name": "EZVIZ DL05",
+        "tagline": "قفل ذكي بكاميرا مدمجة لمعرفة من يدخل.",
+        "description": "قفل ذكي بفتح عبر البصمة أو الرمز أو التطبيق، مزوّد بكاميرا واسعة الزاوية مدمجة تسجل كل عملية فتح للباب. إغلاق تلقائي وسجل دخول موقّت زمنياً وتنبيهات عند محاولات الاقتحام.",
+        "highlights": ["فتح ببصمة الإصبع أو الرمز أو التطبيق", "كاميرا واسعة الزاوية مدمجة عند كل دخول", "إغلاق تلقائي وحماية من الانتزاع", "سجل دخول وتنبيهات فورية"],
+        "inTheBox": ["قفل DL05", "أسطوانة ولوحات تثبيت", "بطاريات", "بطاقات إعادة برمجة", "دليل البدء السريع"]
+      },
+      "zh": {
+        "name": "EZVIZ DL05",
+        "tagline": "内置摄像头的智能门锁，看清每次进出。",
+        "description": "智能门锁支持指纹、密码和 App 开锁，内置广角摄像头可记录每次开门。支持自动落锁、带时间戳的出入日志，并在检测到撬锁尝试时发出提醒。",
+        "highlights": ["指纹、密码或 App 开锁", "每次开门均由内置广角摄像头记录", "自动落锁与防撬保护", "出入日志与实时提醒"],
+        "inTheBox": ["DL05 门锁", "锁芯与安装底板", "电池", "重新编程卡", "快速入门指南"]
+      }
+    },
+    "attributes": { "protocol": ["bluetooth"], "placement": "exterieur", "power": ["pile"], "compat": ["app-marque", "safer-platform"] },
+    "specs": [
+      { "key": "unlockMethods", "value": { "fr": "Empreinte digitale, code, application, clé mécanique de secours", "en": "Fingerprint, code, app, mechanical backup key", "es": "Huella dactilar, código, aplicación, llave mecánica de respaldo", "ar": "بصمة الإصبع، الرمز، التطبيق، مفتاح ميكانيكي احتياطي", "zh": "指纹、密码、App、机械备用钥匙" } },
+      { "key": "lockType", "value": { "fr": "Verrouillage automatique motorisé", "en": "Motorised auto-lock", "es": "Bloqueo automático motorizado", "ar": "إغلاق تلقائي آلي", "zh": "电动自动落锁" } },
+      { "key": "resolution", "value": { "fr": "Caméra intégrée 1080p", "en": "Built-in 1080p camera", "es": "Cámara integrada 1080p", "ar": "كاميرا مدمجة 1080p", "zh": "内置 1080p 摄像头" } },
+      { "key": "users", "value": { "fr": "Jusqu’à 20 utilisateurs", "en": "Up to 20 users", "es": "Hasta 20 usuarios", "ar": "حتى 20 مستخدماً", "zh": "最多 20 位用户" } },
+      { "key": "log", "value": { "fr": "Journal des accès horodaté avec image", "en": "Timestamped access log with image", "es": "Registro de accesos con hora e imagen", "ar": "سجل دخول موقّت زمنياً مع صورة", "zh": "带时间戳与照片的出入日志" } },
+      { "key": "battery", "value": { "fr": "4 piles AA, jusqu’à 5 mois", "en": "4x AA batteries, up to 5 months", "es": "4 pilas AA, hasta 5 meses", "ar": "4 بطاريات AA، حتى 5 أشهر", "zh": "4 节 AA 电池，续航最长 5 个月" } },
+      { "key": "tamper", "value": "Alarme anti-arrachement" },
+      { "key": "connectivity", "value": { "fr": "Bluetooth, pont Wi-Fi en option", "en": "Bluetooth, Wi-Fi bridge optional", "es": "Bluetooth, puente Wi-Fi opcional", "ar": "بلوتوث، جسر Wi-Fi اختياري", "zh": "蓝牙，Wi-Fi 桥接器可选" } }
+    ],
+    "pricing": { "sourcePrice": 199.99, "sourceCurrency": "EUR" },
+    "availability": "sur-commande",
+    "install": { "level": "expert", "duration": "1 h", "prerequisites": { "fr": "Porte compatible cylindre standard, épaisseur 35-55 mm, alignement vérifié par un partenaire.", "en": "Door compatible with a standard cylinder, 35-55 mm thickness, alignment checked by a partner.", "es": "Puerta compatible con cilindro estándar, grosor de 35-55 mm, alineación verificada por un partner.", "ar": "باب متوافق مع أسطوانة قياسية، سماكة 35-55 مم، ويتحقق شريك من المحاذاة.", "zh": "需为兼容标准锁芯的门，厚度 35-55 毫米，需由合作伙伴检查对位。" } },
+    "sourceUrl": "https://www.ezviz.com/product/dl05/52140",
+    "accent": "#1f8ef1",
+    "symbol": "⌁",
+    "warrantyMonths": 24,
+    "solutions": ["controle-acces/serrures-intelligentes"],
+    "related": ["ezviz-db2"]
+  },
+  {
+    "id": "ezviz-t31",
+    "sku": "EZ-T31",
+    "brand": "ezviz",
+    "sourceBrand": "EZVIZ",
+    "model": "T31",
+    "category": "domotique",
+    "subcategory": "prises-interrupteurs",
+    "i18n": {
+      "fr": {
+        "name": "EZVIZ T31",
+        "tagline": "Prise connectée pour piloter climatiseurs, lampes ou pompes à distance.",
+        "description": "Prise intelligente Wi-Fi avec mesure de consommation, programmation horaire et pilotage à distance depuis l’application. Compatible Alexa et Google Home, elle permet de couper un climatiseur, une pompe ou un éclairage même en cas d’absence prolongée.",
+        "highlights": ["Pilotage à distance via l’application EZVIZ", "Mesure de consommation électrique en temps réel", "Programmation horaire et minuterie", "Compatible Amazon Alexa et Google Home"],
+        "inTheBox": ["Prise connectée T31", "Guide de démarrage"]
+      },
+      "en": {
+        "name": "EZVIZ T31",
+        "tagline": "A smart plug to control air conditioners, lamps or pumps remotely.",
+        "description": "Wi-Fi smart plug with energy monitoring, scheduling and remote control from the app. Alexa and Google Home compatible, it lets you switch off an air conditioner, a pump or lighting even during a long absence.",
+        "highlights": ["Remote control via the EZVIZ app", "Real-time energy consumption monitoring", "Scheduling and timer", "Compatible with Amazon Alexa and Google Home"],
+        "inTheBox": ["T31 smart plug", "Quick start guide"]
+      },
+      "es": {
+        "name": "EZVIZ T31",
+        "tagline": "Enchufe conectado para controlar aires acondicionados, lámparas o bombas a distancia.",
+        "description": "Enchufe inteligente Wi-Fi con medición de consumo, programación horaria y control remoto desde la aplicación. Compatible con Alexa y Google Home, permite apagar un aire acondicionado, una bomba o una luz incluso durante una ausencia prolongada.",
+        "highlights": ["Control remoto mediante la aplicación EZVIZ", "Medición de consumo eléctrico en tiempo real", "Programación horaria y temporizador", "Compatible con Amazon Alexa y Google Home"],
+        "inTheBox": ["Enchufe conectado T31", "Guía de inicio rápido"]
+      },
+      "ar": {
+        "name": "EZVIZ T31",
+        "tagline": "مقبس ذكي للتحكم بمكيفات الهواء أو المصابيح أو المضخات عن بُعد.",
+        "description": "مقبس ذكي بتقنية Wi-Fi مع قياس الاستهلاك والجدولة الزمنية والتحكم عن بُعد من التطبيق. متوافق مع Alexa وGoogle Home، ويتيح إيقاف مكيف هواء أو مضخة أو إضاءة حتى أثناء غياب طويل.",
+        "highlights": ["تحكم عن بُعد عبر تطبيق EZVIZ", "قياس استهلاك الكهرباء في الوقت الفعلي", "جدولة زمنية ومؤقت", "متوافق مع Amazon Alexa وGoogle Home"],
+        "inTheBox": ["مقبس ذكي T31", "دليل البدء السريع"]
+      },
+      "zh": {
+        "name": "EZVIZ T31",
+        "tagline": "智能插座，远程控制空调、灯具或水泵。",
+        "description": "Wi-Fi 智能插座，具备用电监测、定时计划和 App 远程控制功能。兼容 Alexa 与 Google Home，即使长时间外出也能关闭空调、水泵或照明设备。",
+        "highlights": ["通过 EZVIZ App 远程控制", "实时用电量监测", "定时计划与倒计时", "兼容 Amazon Alexa 与 Google Home"],
+        "inTheBox": ["T31 智能插座", "快速入门指南"]
+      }
+    },
+    "attributes": { "protocol": ["wifi"], "placement": "interieur", "power": ["secteur"], "compat": ["alexa", "google", "app-marque", "safer-platform"] },
+    "specs": [
+      { "key": "load", "value": "≤ 16 A, 3 680 W" },
+      { "key": "voltage", "value": "220-240 V, 50 Hz" },
+      { "key": "energyMonitoring", "value": { "fr": "Mesure de consommation en temps réel", "en": "Real-time consumption monitoring", "es": "Medición de consumo en tiempo real", "ar": "قياس الاستهلاك في الوقت الفعلي", "zh": "实时用电量监测" } },
+      { "key": "connectivity", "value": "Wi-Fi 2,4 GHz" },
+      { "key": "app", "value": "Application EZVIZ, programmation horaire" },
+      { "key": "dimensions", "value": "68 × 45 × 45 mm" }
+    ],
+    "pricing": { "sourcePrice": 14.99, "sourceCurrency": "EUR" },
+    "availability": "en-stock",
+    "warrantyMonths": 12,
+    "install": { "level": "simple", "duration": "5 min", "prerequisites": { "fr": "Prise secteur 220-240 V et Wi-Fi 2,4 GHz à proximité.", "en": "220-240 V mains socket and 2.4 GHz Wi-Fi nearby.", "es": "Toma de corriente de 220-240 V y Wi-Fi de 2,4 GHz cerca.", "ar": "مأخذ كهربائي 220-240 فولت وشبكة Wi-Fi بتردد 2.4 جيجاهرتز قريبة.", "zh": "附近需有 220-240V 电源插座及 2.4 GHz Wi-Fi。" } },
+    "sourceUrl": "https://www.ezviz.com/product/t31/40522",
+    "accent": "#1f8ef1",
+    "symbol": "✚",
+    "solutions": ["domotique/pilotage-energie", "domotique/scenarios-intelligents"],
+    "related": ["ezviz-c6n"]
+  }
+]

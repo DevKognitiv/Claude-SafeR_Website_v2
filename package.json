@@ -9,7 +9,13 @@
     "dev": "vinext dev",
     "build": "vinext build",
     "start": "vinext start",
-    "lint": "eslint . --ignore-pattern dist --ignore-pattern .next"
+    "lint": "eslint . --ignore-pattern dist --ignore-pattern .next",
+    "catalog:build": "node scripts/build-catalog.mjs",
+    "catalog:test": "node --test scripts/test-catalog.mjs",
+    "catalog:crawl": "npm --prefix crawler run crawl && node scripts/build-catalog.mjs",
+    "i18n:check": "node scripts/check-i18n.mjs",
+    "typecheck": "tsc --noEmit",
+    "audit:site": "node scripts/audit-site.mjs"
   },
   "dependencies": {
     "next": "16.2.6",
@@ -28,6 +34,7 @@
     "@vitejs/plugin-rsc": "0.5.26",
     "eslint": "9.39.4",
     "eslint-config-next": "16.2.6",
+    "playwright": "^1.50.1",
     "react-server-dom-webpack": "19.2.6",
     "tailwindcss": "4.2.1",
     "typescript": "5.9.3",

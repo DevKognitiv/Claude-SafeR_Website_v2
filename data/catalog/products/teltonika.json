@@ -1,0 +1,555 @@
+[
+  {
+    "id": "teltonika-rut241",
+    "sku": "RUT241",
+    "brand": "teltonika",
+    "sourceBrand": "Teltonika Networks",
+    "model": "RUT241",
+    "category": "energie",
+    "subcategory": "routeurs-4g",
+    "i18n": {
+      "fr": {
+        "name": "Teltonika RUT241",
+        "tagline": "Routeur 4G robuste avec basculement automatique.",
+        "description": "Routeur industriel 4G LTE Cat 4 avec Wi-Fi intégré, conçu pour maintenir la connexion Internet d'un site résidentiel ou commercial même en cas de coupure de la ligne fixe. Le basculement automatique WAN/4G et la gestion à distance via Teltonika RMS garantissent une continuité de service fiable.",
+        "highlights": [
+          "LTE Cat 4 jusqu'à 150 Mbps en réception",
+          "Basculement automatique WAN vers 4G",
+          "Wi-Fi 2,4 GHz intégré",
+          "Gestion à distance via RMS"
+        ],
+        "inTheBox": [
+          "Routeur RUT241",
+          "Antennes LTE et Wi-Fi",
+          "Bloc d'alimentation 9-30V",
+          "Guide d'installation rapide"
+        ]
+      },
+      "en": {
+        "name": "Teltonika RUT241",
+        "tagline": "Rugged 4G router with automatic WAN failover.",
+        "description": "Industrial LTE Cat 4 router with built-in Wi-Fi, designed to keep a home or small business online even if the fixed line drops. Automatic WAN-to-4G failover and remote management via Teltonika RMS deliver reliable, continuous connectivity.",
+        "highlights": [
+          "LTE Cat 4 up to 150 Mbps download",
+          "Automatic WAN to 4G failover",
+          "Built-in 2.4 GHz Wi-Fi",
+          "Remote management via RMS"
+        ],
+        "inTheBox": [
+          "RUT241 router",
+          "LTE and Wi-Fi antennas",
+          "9-30V power adapter",
+          "Quick start guide"
+        ]
+      },
+      "es": {
+        "name": "Teltonika RUT241",
+        "tagline": "Router 4G robusto con conmutación automática WAN.",
+        "description": "Router industrial LTE Cat 4 con Wi-Fi integrado, diseñado para mantener conectado a Internet un hogar o pequeño negocio incluso si falla la línea fija. La conmutación automática WAN a 4G y la gestión remota mediante Teltonika RMS garantizan una conectividad fiable y continua.",
+        "highlights": [
+          "LTE Cat 4 hasta 150 Mbps de bajada",
+          "Conmutación automática WAN a 4G",
+          "Wi-Fi 2,4 GHz integrado",
+          "Gestión remota mediante RMS"
+        ],
+        "inTheBox": [
+          "Router RUT241",
+          "Antenas LTE y Wi-Fi",
+          "Fuente de alimentación 9-30V",
+          "Guía de inicio rápido"
+        ]
+      },
+      "ar": {
+        "name": "Teltonika RUT241",
+        "tagline": "راوتر 4G متين مع تحويل تلقائي للاتصال.",
+        "description": "راوتر صناعي بتقنية LTE Cat 4 مزوّد بشبكة Wi-Fi مدمجة، مصمم للحفاظ على اتصال الإنترنت في منزل أو نشاط تجاري صغير حتى عند انقطاع الخط الأرضي. يوفر التحويل التلقائي من WAN إلى 4G والإدارة عن بُعد عبر منصة Teltonika RMS اتصالاً موثوقًا ومستمرًا.",
+        "highlights": [
+          "LTE Cat 4 حتى 150 ميجابت/ثانية تنزيلاً",
+          "تحويل تلقائي من WAN إلى 4G",
+          "شبكة Wi-Fi 2.4 جيجاهرتز مدمجة",
+          "إدارة عن بُعد عبر RMS"
+        ],
+        "inTheBox": [
+          "راوتر RUT241",
+          "هوائيات LTE وWi-Fi",
+          "محول تغذية 9-30 فولت",
+          "دليل البدء السريع"
+        ]
+      },
+      "zh": {
+        "name": "Teltonika RUT241",
+        "tagline": "坚固型4G路由器，支持自动故障切换。",
+        "description": "工业级 LTE Cat 4 路由器，内置 Wi-Fi，专为在固网中断时仍能保持家庭或小型商铺网络连接而设计。自动从有线 WAN 切换至 4G，并可通过 Teltonika RMS 平台远程管理，确保连接持续可靠。",
+        "highlights": [
+          "LTE Cat 4，下行最高150Mbps",
+          "WAN自动切换至4G",
+          "内置2.4GHz Wi-Fi",
+          "通过RMS远程管理"
+        ],
+        "inTheBox": [
+          "RUT241路由器",
+          "LTE与Wi-Fi天线",
+          "9-30V电源适配器",
+          "快速安装指南"
+        ]
+      }
+    },
+    "attributes": {
+      "protocol": [
+        "4g-lte",
+        "wifi"
+      ],
+      "placement": "interieur",
+      "power": [
+        "secteur"
+      ],
+      "compat": [
+        "app-marque",
+        "safer-platform"
+      ]
+    },
+    "specs": [
+      {
+        "key": "connectivity",
+        "value": "LTE Cat 4, 150/50 Mbps"
+      },
+      {
+        "key": "sim",
+        "value": {
+          "fr": "1 SIM (nano) + eSIM en option",
+          "en": "1 SIM (nano) + optional eSIM",
+          "es": "1 SIM (nano) + eSIM opcional",
+          "ar": "1 SIM (نانو) + eSIM اختياري",
+          "zh": "1个SIM卡槽（nano）+ 可选eSIM"
+        }
+      },
+      {
+        "key": "wifi",
+        "value": "802.11 b/g/n, 2,4 GHz"
+      },
+      {
+        "key": "wan",
+        "value": "1 port WAN/LAN Ethernet 10/100"
+      },
+      {
+        "key": "lan",
+        "value": "3 ports LAN Ethernet 10/100"
+      },
+      {
+        "key": "antennas",
+        "value": "2× LTE externes, 1× Wi-Fi"
+      },
+      {
+        "key": "voltage",
+        "value": "9-30 V DC"
+      },
+      {
+        "key": "operatingTemp",
+        "value": "-40 °C … 75 °C"
+      },
+      {
+        "key": "compatibility",
+        "value": {
+          "fr": "Gestion et supervision via Teltonika RMS, API pour intégration SafeR",
+          "en": "Management and monitoring via Teltonika RMS, API for SafeR integration",
+          "es": "Gestión y supervisión mediante Teltonika RMS, API para integración con SafeR",
+          "ar": "الإدارة والمراقبة عبر Teltonika RMS، وواجهة برمجة API للتكامل مع SafeR",
+          "zh": "通过Teltonika RMS管理监控，提供API用于集成SafeR平台"
+        }
+      }
+    ],
+    "pricing": {
+      "sourcePrice": 139,
+      "sourceCurrency": "EUR"
+    },
+    "availability": "en-stock",
+    "install": {
+      "level": "simple",
+      "duration": "20 min",
+      "prerequisites": {
+        "fr": "Carte SIM data activée avec forfait 4G, prise secteur à proximité.",
+        "en": "Activated data SIM card with a 4G plan, nearby mains outlet.",
+        "es": "Tarjeta SIM de datos activada con plan 4G, toma de red cercana.",
+        "ar": "بطاقة SIM بيانات مفعّلة مع باقة 4G، ومقبس كهربائي قريب.",
+        "zh": "需已激活的 4G 数据 SIM 卡，附近需有市电插座。"
+      }
+    },
+    "sourceUrl": "https://www.teltonika-networks.com/products/routers/rut241",
+    "accent": "#2563eb",
+    "symbol": "⌁",
+    "featured": true,
+    "related": [
+      "teltonika-rut956",
+      "teltonika-rutx11"
+    ]
+  },
+  {
+    "id": "teltonika-rut956",
+    "sku": "RUT956",
+    "brand": "teltonika",
+    "sourceBrand": "Teltonika Networks",
+    "model": "RUT956",
+    "category": "energie",
+    "subcategory": "routeurs-4g",
+    "i18n": {
+      "fr": {
+        "name": "Teltonika RUT956",
+        "tagline": "Routeur 4G double SIM avec GPS et ports série.",
+        "description": "Routeur industriel LTE Cat 4 à double carte SIM pour basculement automatique entre opérateurs, avec GPS/GNSS intégré et ports RS232/RS485 pour piloter des équipements industriels ou des portails motorisés. Idéal pour un site nécessitant une continuité réseau maximale.",
+        "highlights": [
+          "Double SIM avec basculement automatique",
+          "GPS/GNSS intégré pour la géolocalisation",
+          "Ports RS232 et RS485",
+          "Wi-Fi 2,4 GHz et gestion RMS"
+        ],
+        "inTheBox": [
+          "Routeur RUT956",
+          "Antennes LTE, Wi-Fi et GNSS",
+          "Bloc d'alimentation 9-30V",
+          "Guide d'installation rapide"
+        ]
+      },
+      "en": {
+        "name": "Teltonika RUT956",
+        "tagline": "Dual-SIM 4G router with GPS and serial ports.",
+        "description": "Industrial LTE Cat 4 router with dual SIM for automatic carrier failover, built-in GPS/GNSS, and RS232/RS485 ports to drive industrial equipment or motorised gates. Ideal for a site that needs maximum network continuity.",
+        "highlights": [
+          "Dual SIM with automatic failover",
+          "Built-in GPS/GNSS for location tracking",
+          "RS232 and RS485 ports",
+          "2.4 GHz Wi-Fi and RMS management"
+        ],
+        "inTheBox": [
+          "RUT956 router",
+          "LTE, Wi-Fi and GNSS antennas",
+          "9-30V power adapter",
+          "Quick start guide"
+        ]
+      },
+      "es": {
+        "name": "Teltonika RUT956",
+        "tagline": "Router 4G doble SIM con GPS y puertos serie.",
+        "description": "Router industrial LTE Cat 4 con doble SIM para conmutación automática entre operadores, GPS/GNSS integrado y puertos RS232/RS485 para controlar equipos industriales o portones motorizados. Ideal para un sitio que necesita máxima continuidad de red.",
+        "highlights": [
+          "Doble SIM con conmutación automática",
+          "GPS/GNSS integrado para geolocalización",
+          "Puertos RS232 y RS485",
+          "Wi-Fi 2,4 GHz y gestión RMS"
+        ],
+        "inTheBox": [
+          "Router RUT956",
+          "Antenas LTE, Wi-Fi y GNSS",
+          "Fuente de alimentación 9-30V",
+          "Guía de inicio rápido"
+        ]
+      },
+      "ar": {
+        "name": "Teltonika RUT956",
+        "tagline": "راوتر 4G بشريحتين وGPS ومنافذ تسلسلية.",
+        "description": "راوتر صناعي بتقنية LTE Cat 4 بشريحتي SIM للتحويل التلقائي بين المشغلين، مزوّد بنظام GPS/GNSS مدمج ومنفذي RS232 وRS485 للتحكم بمعدات صناعية أو بوابات آلية. مثالي للمواقع التي تتطلب أقصى استمرارية للشبكة.",
+        "highlights": [
+          "شريحتان SIM مع تحويل تلقائي",
+          "GPS/GNSS مدمج لتحديد الموقع",
+          "منفذا RS232 وRS485",
+          "Wi-Fi 2.4 جيجاهرتز وإدارة عبر RMS"
+        ],
+        "inTheBox": [
+          "راوتر RUT956",
+          "هوائيات LTE وWi-Fi وGNSS",
+          "محول تغذية 9-30 فولت",
+          "دليل البدء السريع"
+        ]
+      },
+      "zh": {
+        "name": "Teltonika RUT956",
+        "tagline": "双卡4G路由器，内置GPS与串口。",
+        "description": "工业级 LTE Cat 4 双卡路由器，支持运营商自动切换，内置 GPS/GNSS 定位，并配备 RS232 和 RS485 串口，可用于控制工业设备或电动大门。适合需要最高网络连续性的场所。",
+        "highlights": [
+          "双卡SIM自动切换",
+          "内置GPS/GNSS定位",
+          "RS232与RS485串口",
+          "2.4GHz Wi-Fi及RMS远程管理"
+        ],
+        "inTheBox": [
+          "RUT956路由器",
+          "LTE、Wi-Fi及GNSS天线",
+          "9-30V电源适配器",
+          "快速安装指南"
+        ]
+      }
+    },
+    "attributes": {
+      "protocol": [
+        "4g-lte",
+        "wifi"
+      ],
+      "placement": "interieur",
+      "power": [
+        "secteur"
+      ],
+      "compat": [
+        "app-marque",
+        "safer-platform"
+      ]
+    },
+    "specs": [
+      {
+        "key": "connectivity",
+        "value": "LTE Cat 4, 150/50 Mbps"
+      },
+      {
+        "key": "sim",
+        "value": "2× SIM (nano), basculement automatique"
+      },
+      {
+        "key": "wifi",
+        "value": "802.11 b/g/n, 2,4 GHz"
+      },
+      {
+        "key": "ports",
+        "value": {
+          "fr": "RS232, RS485, entrées/sorties numériques",
+          "en": "RS232, RS485, digital inputs/outputs",
+          "es": "RS232, RS485, entradas/salidas digitales",
+          "ar": "RS232، RS485، مداخل/مخارج رقمية",
+          "zh": "RS232、RS485、数字输入/输出"
+        }
+      },
+      {
+        "key": "lan",
+        "value": "4 ports LAN/WAN Ethernet 10/100"
+      },
+      {
+        "key": "other",
+        "value": {
+          "fr": "GPS/GNSS intégré",
+          "en": "Built-in GPS/GNSS",
+          "es": "GPS/GNSS integrado",
+          "ar": "GPS/GNSS مدمج",
+          "zh": "内置GPS/GNSS"
+        }
+      },
+      {
+        "key": "voltage",
+        "value": "9-30 V DC"
+      },
+      {
+        "key": "operatingTemp",
+        "value": "-40 °C … 75 °C"
+      },
+      {
+        "key": "compatibility",
+        "value": {
+          "fr": "Gestion et supervision via Teltonika RMS, API pour intégration SafeR",
+          "en": "Management and monitoring via Teltonika RMS, API for SafeR integration",
+          "es": "Gestión y supervisión mediante Teltonika RMS, API para integración con SafeR",
+          "ar": "الإدارة والمراقبة عبر Teltonika RMS، وواجهة برمجة API للتكامل مع SafeR",
+          "zh": "通过Teltonika RMS管理监控，提供API用于集成SafeR平台"
+        }
+      }
+    ],
+    "pricing": {
+      "sourcePrice": 269,
+      "sourceCurrency": "EUR"
+    },
+    "availability": "sur-commande",
+    "install": {
+      "level": "standard",
+      "duration": "30 min",
+      "prerequisites": {
+        "fr": "Deux cartes SIM data activées (opérateurs distincts recommandés), prise secteur à proximité.",
+        "en": "Two activated data SIM cards (different carriers recommended), nearby mains outlet.",
+        "es": "Dos tarjetas SIM de datos activadas (se recomiendan operadores distintos), toma de red cercana.",
+        "ar": "بطاقتا SIM بيانات مفعّلتان (يُفضّل من مشغلين مختلفين)، ومقبس كهربائي قريب.",
+        "zh": "需两张已激活的数据 SIM 卡（建议使用不同运营商），附近需有市电插座。"
+      }
+    },
+    "sourceUrl": "https://www.teltonika-networks.com/products/routers/rut956",
+    "accent": "#2563eb",
+    "symbol": "⌁",
+    "related": [
+      "teltonika-rut241",
+      "teltonika-rutx11"
+    ]
+  },
+  {
+    "id": "teltonika-rutx11",
+    "sku": "RUTX11",
+    "brand": "teltonika",
+    "sourceBrand": "Teltonika Networks",
+    "model": "RUTX11",
+    "category": "energie",
+    "subcategory": "routeurs-4g",
+    "i18n": {
+      "fr": {
+        "name": "Teltonika RUTX11",
+        "tagline": "Routeur 4G Cat 6 double SIM, Wi-Fi 5 et Bluetooth.",
+        "description": "Routeur industriel LTE Cat 6 haut débit avec double SIM, Wi-Fi 5 double bande et Bluetooth Low Energy pour la supervision de capteurs à proximité. Quatre ports Gigabit Ethernet et un GPS intégré en font une passerelle réseau complète pour un site exigeant.",
+        "highlights": [
+          "LTE Cat 6 jusqu'à 300 Mbps en réception",
+          "Wi-Fi 5 double bande 2,4 / 5 GHz",
+          "4 ports Gigabit Ethernet",
+          "Bluetooth Low Energy et GPS intégrés"
+        ],
+        "inTheBox": [
+          "Routeur RUTX11",
+          "Antennes LTE et Wi-Fi",
+          "Bloc d'alimentation 9-30V",
+          "Guide d'installation rapide"
+        ]
+      },
+      "en": {
+        "name": "Teltonika RUTX11",
+        "tagline": "LTE Cat 6 dual-SIM router with Wi-Fi 5 and Bluetooth.",
+        "description": "High-throughput industrial LTE Cat 6 router with dual SIM, dual-band Wi-Fi 5 and Bluetooth Low Energy for nearby sensor monitoring. Four Gigabit Ethernet ports and built-in GPS make it a complete network gateway for a demanding site.",
+        "highlights": [
+          "LTE Cat 6 up to 300 Mbps download",
+          "Dual-band 2.4 / 5 GHz Wi-Fi 5",
+          "4 Gigabit Ethernet ports",
+          "Built-in Bluetooth Low Energy and GPS"
+        ],
+        "inTheBox": [
+          "RUTX11 router",
+          "LTE and Wi-Fi antennas",
+          "9-30V power adapter",
+          "Quick start guide"
+        ]
+      },
+      "es": {
+        "name": "Teltonika RUTX11",
+        "tagline": "Router 4G Cat 6 doble SIM con Wi-Fi 5 y Bluetooth.",
+        "description": "Router industrial LTE Cat 6 de alto rendimiento con doble SIM, Wi-Fi 5 de doble banda y Bluetooth Low Energy para supervisar sensores cercanos. Cuatro puertos Gigabit Ethernet y GPS integrado lo convierten en una pasarela de red completa para un sitio exigente.",
+        "highlights": [
+          "LTE Cat 6 hasta 300 Mbps de bajada",
+          "Wi-Fi 5 de doble banda 2,4 / 5 GHz",
+          "4 puertos Gigabit Ethernet",
+          "Bluetooth Low Energy y GPS integrados"
+        ],
+        "inTheBox": [
+          "Router RUTX11",
+          "Antenas LTE y Wi-Fi",
+          "Fuente de alimentación 9-30V",
+          "Guía de inicio rápido"
+        ]
+      },
+      "ar": {
+        "name": "Teltonika RUTX11",
+        "tagline": "راوتر 4G فئة Cat 6 بشريحتين وWi-Fi 5 وBluetooth.",
+        "description": "راوتر صناعي عالي الأداء بتقنية LTE Cat 6 بشريحتي SIM وشبكة Wi-Fi 5 ثنائية النطاق وBluetooth Low Energy لمراقبة الحساسات القريبة. أربعة منافذ إيثرنت جيجابت وGPS مدمج يجعلانه بوابة شبكية متكاملة لموقع متطلّب.",
+        "highlights": [
+          "LTE Cat 6 حتى 300 ميجابت/ثانية تنزيلاً",
+          "Wi-Fi 5 ثنائي النطاق 2.4 / 5 جيجاهرتز",
+          "4 منافذ إيثرنت جيجابت",
+          "Bluetooth Low Energy وGPS مدمجان"
+        ],
+        "inTheBox": [
+          "راوتر RUTX11",
+          "هوائيات LTE وWi-Fi",
+          "محول تغذية 9-30 فولت",
+          "دليل البدء السريع"
+        ]
+      },
+      "zh": {
+        "name": "Teltonika RUTX11",
+        "tagline": "LTE Cat 6双卡路由器，配备Wi-Fi 5与蓝牙。",
+        "description": "高性能工业级 LTE Cat 6 路由器，支持双卡、双频 Wi-Fi 5 及低功耗蓝牙，可用于就近监测传感器。四个千兆以太网口与内置 GPS 使其成为高要求场所的完整网络网关。",
+        "highlights": [
+          "LTE Cat 6，下行最高300Mbps",
+          "双频2.4/5GHz Wi-Fi 5",
+          "4个千兆以太网口",
+          "内置低功耗蓝牙与GPS"
+        ],
+        "inTheBox": [
+          "RUTX11路由器",
+          "LTE与Wi-Fi天线",
+          "9-30V电源适配器",
+          "快速安装指南"
+        ]
+      }
+    },
+    "attributes": {
+      "protocol": [
+        "4g-lte",
+        "wifi",
+        "bluetooth"
+      ],
+      "placement": "interieur",
+      "power": [
+        "secteur"
+      ],
+      "compat": [
+        "app-marque",
+        "safer-platform"
+      ]
+    },
+    "specs": [
+      {
+        "key": "connectivity",
+        "value": "LTE Cat 6, 300/50 Mbps"
+      },
+      {
+        "key": "sim",
+        "value": "2× SIM (nano), basculement automatique"
+      },
+      {
+        "key": "wifi",
+        "value": "802.11ac double bande 2,4 / 5 GHz"
+      },
+      {
+        "key": "lan",
+        "value": "4 ports Gigabit Ethernet"
+      },
+      {
+        "key": "other",
+        "value": {
+          "fr": "Bluetooth Low Energy, GPS/GNSS intégré",
+          "en": "Bluetooth Low Energy, built-in GPS/GNSS",
+          "es": "Bluetooth Low Energy, GPS/GNSS integrado",
+          "ar": "Bluetooth Low Energy، GPS/GNSS مدمج",
+          "zh": "低功耗蓝牙，内置GPS/GNSS"
+        }
+      },
+      {
+        "key": "voltage",
+        "value": "9-30 V DC"
+      },
+      {
+        "key": "operatingTemp",
+        "value": "-40 °C … 75 °C"
+      },
+      {
+        "key": "compatibility",
+        "value": {
+          "fr": "Gestion et supervision via Teltonika RMS, API pour intégration SafeR",
+          "en": "Management and monitoring via Teltonika RMS, API for SafeR integration",
+          "es": "Gestión y supervisión mediante Teltonika RMS, API para integración con SafeR",
+          "ar": "الإدارة والمراقبة عبر Teltonika RMS، وواجهة برمجة API للتكامل مع SafeR",
+          "zh": "通过Teltonika RMS管理监控，提供API用于集成SafeR平台"
+        }
+      }
+    ],
+    "pricing": {
+      "sourcePrice": 229,
+      "sourceCurrency": "EUR"
+    },
+    "availability": "sur-commande",
+    "install": {
+      "level": "standard",
+      "duration": "30 min",
+      "prerequisites": {
+        "fr": "Carte(s) SIM data activée(s), prise secteur à proximité.",
+        "en": "Activated data SIM card(s), nearby mains outlet.",
+        "es": "Tarjeta(s) SIM de datos activada(s), toma de red cercana.",
+        "ar": "بطاقة/بطاقات SIM بيانات مفعّلة، ومقبس كهربائي قريب.",
+        "zh": "需已激活的数据 SIM 卡，附近需有市电插座。"
+      }
+    },
+    "sourceUrl": "https://www.teltonika-networks.com/products/routers/rutx11",
+    "accent": "#2563eb",
+    "symbol": "⌁",
+    "related": [
+      "teltonika-rut241",
+      "teltonika-rut956"
+    ]
+  }
+]

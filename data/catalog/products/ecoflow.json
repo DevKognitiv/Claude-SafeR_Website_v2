@@ -1,0 +1,541 @@
+[
+  {
+    "id": "ecoflow-river-2",
+    "sku": "RIVER2",
+    "brand": "ecoflow",
+    "sourceBrand": "EcoFlow",
+    "model": "RIVER 2",
+    "category": "energie",
+    "subcategory": "alimentation-secours",
+    "i18n": {
+      "fr": {
+        "name": "EcoFlow RIVER 2",
+        "tagline": "Batterie de secours 256 Wh, recharge complète en 1h.",
+        "description": "Station d'alimentation portable 256 Wh à batterie LiFePO4, offrant jusqu'à 300 W en sortie (600 W en pointe) pour alimenter routeur, ventilateur ou petits appareils lors d'une coupure secteur. La recharge rapide X-Stream atteint 100 % en environ une heure, et l'application EcoFlow permet un suivi à distance via Wi-Fi et Bluetooth.",
+        "highlights": [
+          "Batterie LiFePO4 256 Wh, 300 W en sortie",
+          "Recharge complète en environ 1 heure",
+          "Suivi à distance via appli Wi-Fi/Bluetooth",
+          "Format compact et léger (3,5 kg)"
+        ],
+        "inTheBox": [
+          "Station RIVER 2",
+          "Câble secteur (AC)",
+          "Câble allume-cigare (DC)",
+          "Guide d'utilisation"
+        ]
+      },
+      "en": {
+        "name": "EcoFlow RIVER 2",
+        "tagline": "256 Wh backup power station, full charge in 1 hour.",
+        "description": "Portable 256 Wh LiFePO4 power station delivering up to 300 W of output (600 W surge) to keep a router, fan or small appliances running during a mains outage. X-Stream fast charging reaches 100% in about an hour, and the EcoFlow app enables remote monitoring over Wi-Fi and Bluetooth.",
+        "highlights": [
+          "256 Wh LiFePO4 battery, 300 W output",
+          "Full recharge in about 1 hour",
+          "Remote monitoring via Wi-Fi/Bluetooth app",
+          "Compact and lightweight (3.5 kg)"
+        ],
+        "inTheBox": [
+          "RIVER 2 power station",
+          "AC charging cable",
+          "Car charging cable (DC)",
+          "User guide"
+        ]
+      },
+      "es": {
+        "name": "EcoFlow RIVER 2",
+        "tagline": "Estación de respaldo 256 Wh, carga completa en 1 hora.",
+        "description": "Estación de energía portátil de 256 Wh con batería LiFePO4, con hasta 300 W de salida (600 W de pico) para alimentar un router, un ventilador o pequeños aparatos durante un corte de red. La carga rápida X-Stream alcanza el 100 % en aproximadamente una hora, y la app EcoFlow permite el seguimiento remoto por Wi-Fi y Bluetooth.",
+        "highlights": [
+          "Batería LiFePO4 de 256 Wh, 300 W de salida",
+          "Carga completa en aproximadamente 1 hora",
+          "Seguimiento remoto vía app Wi-Fi/Bluetooth",
+          "Formato compacto y ligero (3,5 kg)"
+        ],
+        "inTheBox": [
+          "Estación RIVER 2",
+          "Cable de carga AC",
+          "Cable de carga para coche (DC)",
+          "Guía de uso"
+        ]
+      },
+      "ar": {
+        "name": "EcoFlow RIVER 2",
+        "tagline": "محطة طاقة احتياطية 256 وات ساعة، شحن كامل خلال ساعة.",
+        "description": "محطة طاقة محمولة سعة 256 وات ساعة ببطارية LiFePO4، توفر حتى 300 واط في الإخراج (600 واط عند الذروة) لتشغيل الراوتر أو المروحة أو الأجهزة الصغيرة أثناء انقطاع الكهرباء. تصل تقنية الشحن السريع X-Stream إلى 100% خلال نحو ساعة واحدة، ويتيح تطبيق EcoFlow متابعة عن بُعد عبر Wi-Fi وBluetooth.",
+        "highlights": [
+          "بطارية LiFePO4 سعة 256 وات ساعة، إخراج 300 واط",
+          "شحن كامل خلال نحو ساعة واحدة",
+          "متابعة عن بُعد عبر تطبيق Wi-Fi/Bluetooth",
+          "تصميم مدمج وخفيف (3.5 كجم)"
+        ],
+        "inTheBox": [
+          "محطة RIVER 2",
+          "كابل شحن AC",
+          "كابل شحن للسيارة (DC)",
+          "دليل الاستخدام"
+        ]
+      },
+      "zh": {
+        "name": "EcoFlow RIVER 2",
+        "tagline": "256Wh应急电源，1小时充满。",
+        "description": "便携式 256Wh LiFePO4 磷酸铁锂电源，最高输出功率 300W（峰值 600W），可在市电中断时为路由器、风扇或小型电器供电。X-Stream 快充技术约 1 小时即可充满，并可通过 EcoFlow App 经 Wi-Fi 与蓝牙远程监控。",
+        "highlights": [
+          "256Wh磷酸铁锂电池，输出300W",
+          "约1小时快速充满",
+          "支持Wi-Fi/蓝牙App远程监控",
+          "紧凑轻便，仅3.5公斤"
+        ],
+        "inTheBox": [
+          "RIVER 2电源",
+          "AC充电线",
+          "车载充电线(DC)",
+          "使用指南"
+        ]
+      }
+    },
+    "attributes": {
+      "protocol": [
+        "wifi",
+        "bluetooth"
+      ],
+      "placement": "interieur-exterieur",
+      "power": [
+        "batterie"
+      ],
+      "compat": [
+        "app-marque",
+        "safer-platform"
+      ]
+    },
+    "specs": [
+      {
+        "key": "capacityWh",
+        "value": "256 Wh"
+      },
+      {
+        "key": "outputPower",
+        "value": "300 W (600 W en pointe)"
+      },
+      {
+        "key": "battery",
+        "value": "LiFePO4, 3 000 cycles @ 80 %"
+      },
+      {
+        "key": "chargeTime",
+        "value": "≈ 1 h (0-100 %, X-Stream)"
+      },
+      {
+        "key": "inputs",
+        "value": {
+          "fr": "AC, DC 12V, solaire 110 W max",
+          "en": "AC, DC 12V, solar ≤ 110 W",
+          "es": "AC, DC 12V, solar ≤ 110 W",
+          "ar": "تيار متردد (AC)، تيار مستمر (DC) 12 فولت، طاقة شمسية حتى 110 واط",
+          "zh": "交流电(AC)、12V直流电(DC)、太阳能输入≤110W"
+        }
+      },
+      {
+        "key": "outputs",
+        "value": "2× AC, 2× USB-A, 1× USB-C, 1× DC"
+      },
+      {
+        "key": "connectivity",
+        "value": "Wi-Fi + Bluetooth (app EcoFlow)"
+      },
+      {
+        "key": "weight",
+        "value": "3,5 kg"
+      }
+    ],
+    "pricing": {
+      "sourcePrice": 199,
+      "sourceCurrency": "USD"
+    },
+    "availability": "en-stock",
+    "install": {
+      "level": "simple",
+      "duration": "5 min",
+      "prerequisites": {
+        "fr": "Aucun câblage requis ; recharge secteur, solaire ou véhicule selon besoin.",
+        "en": "No wiring required; charge from mains, solar or vehicle as needed.",
+        "es": "No requiere cableado; se recarga desde la red, solar o el vehículo según necesidad.",
+        "ar": "لا حاجة لأي توصيلات؛ يُشحن عبر الكهرباء أو الطاقة الشمسية أو المركبة حسب الحاجة.",
+        "zh": "无需布线；可通过市电、太阳能或车载电源按需充电。"
+      }
+    },
+    "sourceUrl": "https://www.ecoflow.com/us/river-2-portable-power-station",
+    "accent": "#16a34a",
+    "symbol": "⚡",
+    "featured": true,
+    "related": [
+      "ecoflow-delta-2",
+      "ecoflow-110w-solar-panel"
+    ]
+  },
+  {
+    "id": "ecoflow-delta-2",
+    "sku": "DELTA2",
+    "brand": "ecoflow",
+    "sourceBrand": "EcoFlow",
+    "model": "DELTA 2",
+    "category": "energie",
+    "subcategory": "alimentation-secours",
+    "i18n": {
+      "fr": {
+        "name": "EcoFlow DELTA 2",
+        "tagline": "Alimentation de secours 1024 Wh, 1800 W en sortie.",
+        "description": "Station d'alimentation portable 1024 Wh à batterie LiFePO4, capable de délivrer 1800 W en continu (2200 W avec X-Boost) pour maintenir climatiseur d'appoint, réfrigérateur ou équipements de sécurité pendant une coupure. La charge rapide atteint 80 % en 50 minutes, avec pilotage à distance via l'application EcoFlow.",
+        "highlights": [
+          "1024 Wh, 1800 W en sortie (2200 W X-Boost)",
+          "Charge à 80 % en 50 minutes",
+          "6 prises secteur, USB et DC",
+          "Pilotage à distance Wi-Fi/Bluetooth"
+        ],
+        "inTheBox": [
+          "Station DELTA 2",
+          "Câble secteur (AC)",
+          "Câble allume-cigare (DC)",
+          "Guide d'utilisation"
+        ]
+      },
+      "en": {
+        "name": "EcoFlow DELTA 2",
+        "tagline": "1024 Wh backup power station, 1800 W output.",
+        "description": "Portable 1024 Wh LiFePO4 power station delivering 1800 W continuous output (2200 W with X-Boost) to keep a portable AC unit, fridge or security equipment running through an outage. Fast charging reaches 80% in 50 minutes, with remote control via the EcoFlow app.",
+        "highlights": [
+          "1024 Wh, 1800 W output (2200 W X-Boost)",
+          "80% charge in 50 minutes",
+          "6 AC outlets plus USB and DC",
+          "Remote Wi-Fi/Bluetooth control"
+        ],
+        "inTheBox": [
+          "DELTA 2 power station",
+          "AC charging cable",
+          "Car charging cable (DC)",
+          "User guide"
+        ]
+      },
+      "es": {
+        "name": "EcoFlow DELTA 2",
+        "tagline": "Estación de respaldo 1024 Wh, 1800 W de salida.",
+        "description": "Estación de energía portátil de 1024 Wh con batería LiFePO4, capaz de entregar 1800 W continuos (2200 W con X-Boost) para mantener un aire acondicionado portátil, un frigorífico o equipos de seguridad durante un corte. La carga rápida alcanza el 80 % en 50 minutos, con control remoto mediante la app EcoFlow.",
+        "highlights": [
+          "1024 Wh, 1800 W de salida (2200 W X-Boost)",
+          "Carga al 80 % en 50 minutos",
+          "6 tomas de corriente, USB y DC",
+          "Control remoto Wi-Fi/Bluetooth"
+        ],
+        "inTheBox": [
+          "Estación DELTA 2",
+          "Cable de carga AC",
+          "Cable de carga para coche (DC)",
+          "Guía de uso"
+        ]
+      },
+      "ar": {
+        "name": "EcoFlow DELTA 2",
+        "tagline": "محطة طاقة احتياطية 1024 وات ساعة، إخراج 1800 واط.",
+        "description": "محطة طاقة محمولة سعة 1024 وات ساعة ببطارية LiFePO4، توفر إخراجًا مستمرًا يصل إلى 1800 واط (2200 واط مع X-Boost) لتشغيل مكيف محمول أو ثلاجة أو معدات أمنية أثناء انقطاع الكهرباء. يصل الشحن السريع إلى 80% خلال 50 دقيقة، مع تحكم عن بُعد عبر تطبيق EcoFlow.",
+        "highlights": [
+          "1024 وات ساعة، إخراج 1800 واط (2200 واط X-Boost)",
+          "شحن إلى 80% خلال 50 دقيقة",
+          "6 مآخذ كهربائية إضافة إلى USB وDC",
+          "تحكم عن بُعد عبر Wi-Fi/Bluetooth"
+        ],
+        "inTheBox": [
+          "محطة DELTA 2",
+          "كابل شحن AC",
+          "كابل شحن للسيارة (DC)",
+          "دليل الاستخدام"
+        ]
+      },
+      "zh": {
+        "name": "EcoFlow DELTA 2",
+        "tagline": "1024Wh应急电源，输出功率1800W。",
+        "description": "便携式 1024Wh 磷酸铁锂电源，可持续输出 1800W（X-Boost 模式下达 2200W），停电时可为便携空调、冰箱或安防设备供电。快充 50 分钟即可充至 80%，并支持通过 EcoFlow App 远程控制。",
+        "highlights": [
+          "1024Wh，输出1800W（X-Boost达2200W）",
+          "50分钟快充至80%",
+          "6个交流插座及USB、DC接口",
+          "支持Wi-Fi/蓝牙远程控制"
+        ],
+        "inTheBox": [
+          "DELTA 2电源",
+          "AC充电线",
+          "车载充电线(DC)",
+          "使用指南"
+        ]
+      }
+    },
+    "attributes": {
+      "protocol": [
+        "wifi",
+        "bluetooth"
+      ],
+      "placement": "interieur-exterieur",
+      "power": [
+        "batterie"
+      ],
+      "compat": [
+        "app-marque",
+        "safer-platform"
+      ]
+    },
+    "specs": [
+      {
+        "key": "capacityWh",
+        "value": "1024 Wh"
+      },
+      {
+        "key": "outputPower",
+        "value": "1800 W (2200 W X-Boost)"
+      },
+      {
+        "key": "battery",
+        "value": "LiFePO4, 3 000 cycles @ 80 %"
+      },
+      {
+        "key": "chargeTime",
+        "value": {
+          "fr": "80 % en 50 min (secteur)",
+          "en": "80% in 50 min (mains)",
+          "es": "80 % en 50 min (red eléctrica)",
+          "ar": "80% خلال 50 دقيقة (من الكهرباء)",
+          "zh": "50分钟充至80%（市电）"
+        }
+      },
+      {
+        "key": "inputs",
+        "value": {
+          "fr": "AC, DC 12/24V, solaire 500 W max",
+          "en": "AC, DC 12/24V, solar ≤ 500 W",
+          "es": "AC, DC 12/24V, solar ≤ 500 W",
+          "ar": "تيار متردد (AC)، تيار مستمر (DC) 12/24 فولت، طاقة شمسية حتى 500 واط",
+          "zh": "交流电(AC)、12/24V直流电(DC)、太阳能输入≤500W"
+        }
+      },
+      {
+        "key": "outputs",
+        "value": "6× AC, 2× USB-A, 2× USB-C, 1× DC"
+      },
+      {
+        "key": "connectivity",
+        "value": "Wi-Fi + Bluetooth (app EcoFlow)"
+      },
+      {
+        "key": "weight",
+        "value": "12 kg"
+      }
+    ],
+    "pricing": {
+      "sourcePrice": 999,
+      "sourceCurrency": "USD"
+    },
+    "availability": "sur-commande",
+    "install": {
+      "level": "simple",
+      "duration": "10 min",
+      "prerequisites": {
+        "fr": "Aucun câblage fixe requis ; recharge secteur, solaire ou véhicule selon besoin.",
+        "en": "No fixed wiring required; charge from mains, solar or vehicle as needed.",
+        "es": "No requiere cableado fijo; se recarga desde la red, solar o el vehículo según necesidad.",
+        "ar": "لا حاجة لأي توصيلات ثابتة؛ يُشحن عبر الكهرباء أو الطاقة الشمسية أو المركبة حسب الحاجة.",
+        "zh": "无需固定布线；可通过市电、太阳能或车载电源按需充电。"
+      }
+    },
+    "sourceUrl": "https://www.ecoflow.com/us/delta-2-portable-power-station",
+    "accent": "#16a34a",
+    "symbol": "⚡",
+    "related": [
+      "ecoflow-river-2",
+      "ecoflow-110w-solar-panel"
+    ]
+  },
+  {
+    "id": "ecoflow-110w-solar-panel",
+    "sku": "EFSOLAR110N",
+    "brand": "ecoflow",
+    "sourceBrand": "EcoFlow",
+    "model": "110W Solar Panel",
+    "category": "energie",
+    "subcategory": "solaire",
+    "i18n": {
+      "fr": {
+        "name": "EcoFlow Panneau solaire 110 W",
+        "tagline": "Panneau solaire portable 110 W, pliable et étanche IP67.",
+        "description": "Panneau solaire monocristallin portable de 110 W, pliable avec béquille intégrée pour orienter la surface vers le soleil. Étanche IP67 et doté d'un rendement de conversion jusqu'à 22 %, il recharge directement les stations EcoFlow compatibles pour prolonger l'autonomie pendant les coupures de courant.",
+        "highlights": [
+          "Puissance crête 110 W, rendement jusqu'à 22 %",
+          "Pliable, béquille d'orientation intégrée",
+          "Étanche IP67",
+          "Compatible stations EcoFlow via connecteur solaire"
+        ],
+        "inTheBox": [
+          "Panneau solaire 110 W",
+          "Câble de connexion solaire",
+          "Sacoche de transport",
+          "Guide d'utilisation"
+        ]
+      },
+      "en": {
+        "name": "EcoFlow 110W Solar Panel",
+        "tagline": "110 W portable solar panel, foldable and IP67 waterproof.",
+        "description": "Portable 110 W monocrystalline solar panel that folds flat with a built-in kickstand to angle it toward the sun. Waterproof to IP67 with up to 22% conversion efficiency, it charges compatible EcoFlow stations directly to extend backup runtime during outages.",
+        "highlights": [
+          "110 W peak output, up to 22% efficiency",
+          "Foldable with a built-in kickstand",
+          "IP67 waterproof",
+          "Charges EcoFlow stations via solar connector"
+        ],
+        "inTheBox": [
+          "110 W solar panel",
+          "Solar connection cable",
+          "Carrying case",
+          "User guide"
+        ]
+      },
+      "es": {
+        "name": "EcoFlow Panel solar 110 W",
+        "tagline": "Panel solar portátil 110 W, plegable y resistente al agua IP67.",
+        "description": "Panel solar monocristalino portátil de 110 W, plegable con soporte integrado para orientarlo hacia el sol. Resistente al agua IP67 y con un rendimiento de conversión de hasta el 22 %, recarga directamente las estaciones EcoFlow compatibles para prolongar la autonomía durante los cortes de luz.",
+        "highlights": [
+          "Potencia máxima 110 W, rendimiento hasta 22 %",
+          "Plegable, con soporte de orientación integrado",
+          "Resistente al agua IP67",
+          "Compatible con estaciones EcoFlow mediante conector solar"
+        ],
+        "inTheBox": [
+          "Panel solar 110 W",
+          "Cable de conexión solar",
+          "Bolsa de transporte",
+          "Guía de uso"
+        ]
+      },
+      "ar": {
+        "name": "EcoFlow لوح شمسي 110 واط",
+        "tagline": "لوح شمسي محمول 110 واط، قابل للطي ومقاوم للماء IP67.",
+        "description": "لوح شمسي أحادي البلورة محمول بقدرة 110 واط، قابل للطي مع حامل مدمج لتوجيهه نحو الشمس. مقاوم للماء بمعيار IP67 وبكفاءة تحويل تصل إلى 22%، ويشحن محطات EcoFlow المتوافقة مباشرة لإطالة مدة التشغيل أثناء انقطاع الكهرباء.",
+        "highlights": [
+          "قدرة قصوى 110 واط، كفاءة تصل إلى 22%",
+          "قابل للطي مع حامل توجيه مدمج",
+          "مقاوم للماء IP67",
+          "متوافق مع محطات EcoFlow عبر موصل شمسي"
+        ],
+        "inTheBox": [
+          "لوح شمسي 110 واط",
+          "كابل توصيل شمسي",
+          "حقيبة حمل",
+          "دليل الاستخدام"
+        ]
+      },
+      "zh": {
+        "name": "EcoFlow 110W太阳能板",
+        "tagline": "110W便携太阳能板，可折叠，IP67防水。",
+        "description": "110W 单晶硅便携太阳能板，可折叠收纳，内置支架便于朝向太阳调整角度。防水等级达 IP67，转换效率最高 22%，可直接为兼容的 EcoFlow 电源充电，延长停电期间的续航时间。",
+        "highlights": [
+          "峰值功率110W，效率最高22%",
+          "可折叠，内置调节支架",
+          "IP67防水",
+          "通过太阳能接口兼容EcoFlow电源"
+        ],
+        "inTheBox": [
+          "110W太阳能板",
+          "太阳能连接线",
+          "便携收纳包",
+          "使用指南"
+        ]
+      }
+    },
+    "attributes": {
+      "protocol": [
+        "wifi"
+      ],
+      "placement": "exterieur",
+      "power": [
+        "solaire"
+      ],
+      "compat": [
+        "app-marque",
+        "safer-platform"
+      ]
+    },
+    "specs": [
+      {
+        "key": "panelPower",
+        "value": {
+          "fr": "110 W crête",
+          "en": "110 W peak",
+          "es": "110 W pico",
+          "ar": "110 واط ذروة",
+          "zh": "峰值功率110W"
+        }
+      },
+      {
+        "key": "outputs",
+        "value": "Connecteur solaire EcoFlow (adaptateur MC4 disponible)"
+      },
+      {
+        "key": "weatherproof",
+        "value": "IP67"
+      },
+      {
+        "key": "material",
+        "value": {
+          "fr": "Panneau monocristallin, châssis PET renforcé",
+          "en": "Monocrystalline panel, reinforced PET frame",
+          "es": "Panel monocristalino, chasis de PET reforzado",
+          "ar": "لوح أحادي البلورة، هيكل PET معزز",
+          "zh": "单晶硅面板，加强型PET边框"
+        }
+      },
+      {
+        "key": "dimensions",
+        "value": {
+          "fr": "Plié 54 × 43 × 4 cm",
+          "en": "Folded 54 × 43 × 4 cm",
+          "es": "Plegado 54 × 43 × 4 cm",
+          "ar": "مطوي 54 × 43 × 4 سم",
+          "zh": "折叠尺寸54×43×4厘米"
+        }
+      },
+      {
+        "key": "weight",
+        "value": "3,4 kg"
+      },
+      {
+        "key": "other",
+        "value": {
+          "fr": "Rendement de conversion jusqu'à 22 %",
+          "en": "Conversion efficiency up to 22%",
+          "es": "Eficiencia de conversión de hasta el 22 %",
+          "ar": "كفاءة تحويل تصل إلى 22%",
+          "zh": "转换效率最高22%"
+        }
+      }
+    ],
+    "pricing": {
+      "sourcePrice": 219,
+      "sourceCurrency": "USD"
+    },
+    "availability": "sur-commande",
+    "install": {
+      "level": "simple",
+      "duration": "10 min",
+      "prerequisites": {
+        "fr": "Exposition solaire directe, station EcoFlow ou onduleur solaire compatible à proximité.",
+        "en": "Direct sunlight exposure, a compatible EcoFlow station or solar inverter nearby.",
+        "es": "Exposición solar directa, estación EcoFlow o inversor solar compatible cerca.",
+        "ar": "تعرّض مباشر لأشعة الشمس، ومحطة EcoFlow أو عاكس شمسي متوافق في مكان قريب.",
+        "zh": "需直接日照，附近需有兼容的 EcoFlow 电源或太阳能逆变器。"
+      }
+    },
+    "sourceUrl": "https://www.ecoflow.com/us/110w-solar-panel",
+    "accent": "#16a34a",
+    "symbol": "☼",
+    "related": [
+      "ecoflow-river-2",
+      "ecoflow-delta-2"
+    ]
+  }
+]

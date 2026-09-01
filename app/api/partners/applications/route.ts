@@ -44,7 +44,7 @@ export async function POST(request: Request) {
   if (professionalType === 'company' && !companyRegistration) return Response.json({ error: 'Le numéro RCCM ou l’identifiant d’entreprise est requis.' }, { status: 400 });
 
   await ensurePartnerSchema();
-  const database = getPartnerDatabase();
+  const database = await getPartnerDatabase();
   const existing = await database.prepare('SELECT id FROM partners WHERE user_id = ? LIMIT 1').bind(user.id).first<{ id: string }>();
   const id = existing?.id || crypto.randomUUID();
   const now = new Date().toISOString();

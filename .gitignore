@@ -36,3 +36,8 @@ next-env.d.ts
 /.wrangler/
 /outputs/
 /work/
+.i18n-cache/
+crawler/node_modules/
+crawler/storage/
+.data/
+audit/

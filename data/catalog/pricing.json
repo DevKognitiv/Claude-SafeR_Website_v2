@@ -1,0 +1,12 @@
+{
+  "_comment": "Prix SafeR (FCFA) = prix public source × taux de change × coefficient (import, transport, douane, marge, garantie locale), arrondi. Modifiable à tout moment ; un prix 'manualXof' sur un produit remplace toujours le calcul.",
+  "currency": "XOF",
+  "rates": { "XOF": 1, "EUR": 655.957, "USD": 600, "GBP": 770, "CNY": 84 },
+  "coefficient": 1.8,
+  "brandCoefficients": { "safer": 2.2, "sonoff": 2.0, "aqara": 1.9, "hikvision": 1.7, "dahua": 1.7 },
+  "roundTo": 500,
+  "minimumXof": 4500,
+  "serviceMonthlyXof": { "video": 4900, "alarme": 6900, "acces": 3900, "domotique": 2900, "energie": 1900 },
+  "serviceMonthlyBySubcategory": { "centrales": 14900, "passerelles-hubs": 4900, "enregistreurs-kits": 9900 },
+  "warrantyMonths": { "default": 24, "alimentation-secours": 12, "solaire": 24 }
+}

@@ -1,8 +1,9 @@
 'use client';
 
-import Link from 'next/link';
+import Link from '@/components/Link';
 import { useEffect, useRef, useState } from 'react';
 import { productFamilies } from '@/lib/products';
+import { useDictionary } from '@/lib/i18n/client';
 
 type NetworkInformation = { saveData?: boolean; effectiveType?: string };
 
@@ -12,7 +13,9 @@ export default function ProductShowcase({ compact = false }: { compact?: boolean
   const [lowBandwidth, setLowBandwidth] = useState(false);
   const [mediaFailed, setMediaFailed] = useState(false);
   const videoRef = useRef<HTMLVideoElement>(null);
-  const slide = productFamilies[active];
+  const d = useDictionary();
+  const sc = d.solutions.showcase;
+  const slide = { ...productFamilies[active], ...sc.families[productFamilies[active].id] };
   const Heading = compact ? 'h1' : 'h2';
 
   useEffect(() => {
@@ -47,9 +50,9 @@ export default function ProductShowcase({ compact = false }: { compact?: boolean
   };
 
   return (
-    <section aria-label="Showroom vidéo des équipements SafeR" className={`product-showcase relative overflow-hidden bg-black text-white ${compact ? 'rounded-[34px]' : ''}`}>
+    <section aria-label={sc.aria} className={`product-showcase relative overflow-hidden bg-black text-white ${compact ? 'rounded-[34px]' : ''}`}>
       <div className={`relative ${compact ? 'min-h-[680px]' : 'min-h-[760px] lg:min-h-[820px]'}`}>
-        <img src={slide.poster} alt="Famille ivoirienne dans une maison intelligente SafeR à Abidjan" className="absolute inset-0 h-full w-full object-cover object-center" />
+        <img src={slide.poster} alt={sc.posterAlt} className="absolute inset-0 h-full w-full object-cover object-center" />
         {!lowBandwidth && !mediaFailed && (
           <video
             ref={videoRef}
@@ -73,12 +76,12 @@ export default function ProductShowcase({ compact = false }: { compact?: boolean
         <div className={`relative mx-auto flex max-w-7xl flex-col px-5 ${compact ? 'min-h-[680px] py-10' : 'min-h-[760px] py-16 lg:min-h-[820px] lg:px-8 lg:py-20'}`}>
           <div className="flex flex-wrap items-center justify-between gap-4">
             <div className="inline-flex items-center gap-2 rounded-full border border-white/18 bg-black/35 px-4 py-2 text-[11px] font-bold uppercase tracking-[.16em] text-[#bcecff] backdrop-blur-md">
-              <span className="size-1.5 rounded-full bg-[#52c6ff]" /> Showroom SafeR · Abidjan
+              <span className="size-1.5 rounded-full bg-[#52c6ff]" /> {sc.label}
             </div>
             <button
               type="button"
               onClick={() => setPlaying((value) => !value)}
-              aria-label={playing ? 'Mettre le diaporama en pause' : 'Relancer le diaporama'}
+              aria-label={playing ? sc.pause : sc.play}
               className="grid size-11 place-items-center rounded-full border border-white/20 bg-black/35 text-sm backdrop-blur-md transition hover:border-[#52c6ff] focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[#52c6ff]"
             >
               <span aria-hidden="true">{playing ? 'Ⅱ' : '▶'}</span>
@@ -94,18 +97,18 @@ export default function ProductShowcase({ compact = false }: { compact?: boolean
               {slide.features.map((feature) => <span key={feature} className="rounded-full border border-white/16 bg-black/32 px-3.5 py-2 text-xs text-white/82 backdrop-blur-md">{feature}</span>)}
             </div>
             {compact && <div className="mt-8 grid max-w-2xl gap-3 rounded-[22px] border border-white/14 bg-black/48 p-4 text-xs backdrop-blur-lg sm:grid-cols-2">
-              <div><span className="block uppercase tracking-[.12em] text-white/48">Référence SafeR</span><strong className="mt-1 block text-sm text-white">{slide.safeRReference}</strong></div>
-              <div><span className="block uppercase tracking-[.12em] text-white/48">Base technologique</span><strong className="mt-1 block text-sm text-white">{slide.sourceEcosystem} · {slide.sourceReference}</strong></div>
+              <div><span className="block uppercase tracking-[.12em] text-white/48">{sc.reference}</span><strong className="mt-1 block text-sm text-white">{slide.safeRReference}</strong></div>
+              <div><span className="block uppercase tracking-[.12em] text-white/48">{sc.base}</span><strong className="mt-1 block text-sm text-white">{slide.sourceEcosystem} · {slide.sourceReference}</strong></div>
             </div>}
             <div className="mt-8 flex flex-col gap-3 sm:flex-row">
-              <Link href="/diagnostic" className="rounded-full bg-[#4556f5] px-6 py-3.5 text-center text-sm font-bold text-white transition hover:bg-[#52c6ff] hover:text-black">Configurer avec SafeR</Link>
-              {!compact && <Link href="/produits" className="rounded-full border border-white/18 px-6 py-3.5 text-center text-sm font-bold text-white transition hover:bg-white/10">Explorer le catalogue</Link>}
+              <Link href={`/store?q=${encodeURIComponent(slide.storeSku)}`} className="rounded-full bg-[#4556f5] px-6 py-3.5 text-center text-sm font-bold text-white transition hover:bg-[#52c6ff] hover:text-black">{sc.configure}</Link>
+              {!compact && <Link href="/produits" className="rounded-full border border-white/18 px-6 py-3.5 text-center text-sm font-bold text-white transition hover:bg-white/10">{sc.explore}</Link>}
             </div>
           </div>
 
           <div>
-            <p className="mb-4 text-xs text-white/55">{slide.context}{lowBandwidth ? ' · aperçu optimisé pour votre connexion' : ''}</p>
-            <div className="grid gap-2 sm:grid-cols-5" role="tablist" aria-label="Familles d’équipements SafeR">
+            <p className="mb-4 text-xs text-white/55">{slide.context}{lowBandwidth ? sc.lowBandwidth : ''}</p>
+            <div className="grid gap-2 sm:grid-cols-5" role="tablist" aria-label={sc.tablist}>
               {productFamilies.map((item, index) => (
                 <button
                   key={item.id}
@@ -115,7 +118,7 @@ export default function ProductShowcase({ compact = false }: { compact?: boolean
                   onClick={() => selectSlide(index)}
                   className={`min-w-0 rounded-2xl border px-4 py-3 text-left transition focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[#52c6ff] ${index === active ? 'border-[#52c6ff] bg-[#52c6ff] text-black' : 'border-white/14 bg-black/40 text-white hover:border-white/35'}`}
                 >
-                  <span className={`block text-[10px] uppercase tracking-[.12em] ${index === active ? 'text-black/55' : 'text-white/45'}`}>{item.category}</span>
+                  <span className={`block text-[10px] uppercase tracking-[.12em] ${index === active ? 'text-black/55' : 'text-white/45'}`}>{sc.families[item.id].category}</span>
                   <span className="mt-1 block truncate text-xs font-bold">{item.safeRName}</span>
                 </button>
               ))}

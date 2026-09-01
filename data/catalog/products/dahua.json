@@ -1,0 +1,396 @@
+[
+  {
+    "id": "dahua-ipc-hdw2441t-s",
+    "sku": "IPC-HDW2441T-S",
+    "brand": "dahua",
+    "sourceBrand": "Dahua",
+    "model": "IPC-HDW2441T-S",
+    "category": "video",
+    "subcategory": "cameras-exterieures",
+    "i18n": {
+      "fr": {
+        "name": "Dahua IPC-HDW2441T-S",
+        "tagline": "Caméra WizSense 4 MP, IA embarquée contre les fausses alertes.",
+        "description": "Caméra dôme extérieure 4 MP de la gamme WizSense, dotée d'une intelligence artificielle embarquée qui distingue personnes et véhicules pour limiter les fausses alarmes. Alimentée en PoE, elle offre une vision infrarouge jusqu'à 30 m et résiste aux intempéries grâce à son boîtier IP67.",
+        "highlights": ["IA WizSense : personnes / véhicules", "Vision infrarouge jusqu'à 30 m", "Boîtier IP67 tout temps", "Alimentation PoE simplifiée"],
+        "inTheBox": ["Caméra WizSense IPC-HDW2441T-S", "Gabarit de perçage", "Visserie et chevilles", "Guide d'installation rapide"]
+      },
+      "en": {
+        "name": "Dahua IPC-HDW2441T-S",
+        "tagline": "WizSense 4 MP camera, onboard AI against false alarms.",
+        "description": "4 MP outdoor dome camera from the WizSense range, with onboard AI that tells people and vehicles apart to cut false alarms. PoE powered, it delivers infrared night vision up to 30 m and stands up to the weather with an IP67 housing.",
+        "highlights": ["WizSense AI: people / vehicles", "Infrared night vision up to 30 m", "IP67 all-weather housing", "Simplified PoE power"],
+        "inTheBox": ["WizSense IPC-HDW2441T-S camera", "Drilling template", "Screws and wall plugs", "Quick start guide"]
+      },
+      "es": {
+        "name": "Dahua IPC-HDW2441T-S",
+        "tagline": "Cámara WizSense 4 MP, IA integrada contra falsas alarmas.",
+        "description": "Cámara domo exterior de 4 MP de la gama WizSense, con inteligencia artificial integrada que distingue personas y vehículos para reducir las falsas alarmas. Alimentada por PoE, ofrece visión nocturna infrarroja de hasta 30 m y resiste la intemperie con su carcasa IP67.",
+        "highlights": ["IA WizSense: personas / vehículos", "Visión nocturna infrarroja hasta 30 m", "Carcasa IP67 para toda condición", "Alimentación PoE simplificada"],
+        "inTheBox": ["Cámara WizSense IPC-HDW2441T-S", "Plantilla de perforación", "Tornillos y tacos", "Guía de inicio rápido"]
+      },
+      "ar": {
+        "name": "Dahua IPC-HDW2441T-S",
+        "tagline": "كاميرا WizSense بدقة 4 ميجابكسل بذكاء اصطناعي مدمج.",
+        "description": "كاميرا قبة خارجية بدقة 4 ميجابكسل من سلسلة WizSense، مزوّدة بذكاء اصطناعي مدمج يميّز الأشخاص عن المركبات لتقليل الإنذارات الكاذبة. تعمل بتغذية PoE، وتوفر رؤية ليلية بالأشعة تحت الحمراء حتى 30 مترًا، ومقاومة للعوامل الجوية بهيكل IP67.",
+        "highlights": ["ذكاء WizSense: أشخاص / مركبات", "رؤية ليلية بالأشعة تحت الحمراء حتى 30 م", "هيكل IP67 لكل الظروف الجوية", "تغذية PoE مبسّطة"],
+        "inTheBox": ["كاميرا WizSense طراز IPC-HDW2441T-S", "قالب الثقب", "براغي ووصلات تثبيت", "دليل البدء السريع"]
+      },
+      "zh": {
+        "name": "Dahua IPC-HDW2441T-S",
+        "tagline": "WizSense 400万像素摄像机，内置AI减少误报。",
+        "description": "400 万像素户外半球摄像机，隶属 WizSense 系列，内置人工智能可区分人员与车辆，减少误报。PoE 供电，红外夜视距离最远 30 米，IP67 外壳全天候可靠工作。",
+        "highlights": ["WizSense AI：人员/车辆区分", "红外夜视距离达 30 米", "IP67 全天候外壳", "PoE 供电简化布线"],
+        "inTheBox": ["WizSense IPC-HDW2441T-S摄像机", "开孔模板", "螺丝与膨胀塞", "快速安装指南"]
+      }
+    },
+    "attributes": { "protocol": ["filaire-poe"], "placement": "exterieur", "power": ["poe"], "compat": ["app-marque", "safer-platform"], "resolution": "2k" },
+    "specs": [
+      { "key": "resolution", "value": "4 MP (2688 × 1520)" },
+      { "key": "lens", "value": "2.8 mm fixe" },
+      { "key": "nightVision", "value": "IR ≤ 30 m" },
+      { "key": "ai", "value": { "fr": "WizSense : personnes / véhicules", "en": "WizSense: people / vehicles", "es": "WizSense: personas / vehículos", "ar": "WizSense: أشخاص / مركبات", "zh": "WizSense：人员 / 车辆" } },
+      { "key": "connectivity", "value": "Ethernet PoE 802.3af" },
+      { "key": "storage", "value": "microSD ≤ 256 Go" },
+      { "key": "weatherproof", "value": "IP67" },
+      { "key": "operatingTemp", "value": "-30 °C … 60 °C" },
+      { "key": "compatibility", "value": { "fr": "ONVIF Profile S, intégration NVR/VMS tiers", "en": "ONVIF Profile S, third-party NVR/VMS integration", "es": "ONVIF Profile S, integración con NVR/VMS de terceros", "ar": "ONVIF Profile S، تكامل مع NVR/VMS من جهات أخرى", "zh": "ONVIF Profile S，支持第三方 NVR/VMS 集成" } }
+    ],
+    "pricing": { "sourcePrice": 119.99, "sourceCurrency": "USD" },
+    "availability": "en-stock",
+    "install": { "level": "standard", "duration": "60 min", "prerequisites": { "fr": "Câblage Ethernet CAT5e/6 vers un switch ou NVR PoE ; support de fixation stable en façade.", "en": "CAT5e/6 Ethernet cabling to a PoE switch or NVR; stable wall or ceiling mount.", "es": "Cableado Ethernet CAT5e/6 hasta un switch o NVR PoE; soporte de fijación estable.", "ar": "توصيل كابل إيثرنت CAT5e/6 إلى مفتاح شبكة أو مسجل PoE؛ سطح تثبيت ثابت.", "zh": "需铺设 CAT5e/6 网线至 PoE 交换机或 NVR；安装面需稳固。" } },
+    "sourceUrl": "https://www.dahuasecurity.com/products/All-Products/Network-Cameras/WizSense-Series/2-Series/4MP/IPC-HDW2441T-S",
+    "accent": "#c1121f",
+    "symbol": "◉",
+    "featured": true,
+    "solutions": ["video-intelligente/cameras-exterieures", "video-intelligente/verification-video"],
+    "related": ["dahua-ipc-hfw2441s-s", "dahua-nvr4108hs-8p-4ks2"]
+  },
+  {
+    "id": "dahua-ipc-hfw2441s-s",
+    "sku": "IPC-HFW2441S-S",
+    "brand": "dahua",
+    "sourceBrand": "Dahua",
+    "model": "IPC-HFW2441S-S",
+    "category": "video",
+    "subcategory": "cameras-exterieures",
+    "i18n": {
+      "fr": {
+        "name": "Dahua IPC-HFW2441S-S",
+        "tagline": "Bullet WizSense 4 MP, IR longue portée 40 m.",
+        "description": "Caméra bullet extérieure 4 MP WizSense avec IA embarquée pour distinguer personnes et véhicules et réduire les fausses alertes. Sa portée infrarouge de 40 m couvre efficacement une allée ou un grand jardin ; alimentation PoE et boîtier IP67 pour une installation durable.",
+        "highlights": ["IA WizSense : personnes / véhicules", "Vision infrarouge longue portée 40 m", "Boîtier IP67 tout temps", "Alimentation PoE"],
+        "inTheBox": ["Caméra bullet IPC-HFW2441S-S", "Support de fixation", "Visserie", "Guide d'installation rapide"]
+      },
+      "en": {
+        "name": "Dahua IPC-HFW2441S-S",
+        "tagline": "WizSense 4 MP bullet, long-range 40 m infrared.",
+        "description": "4 MP outdoor bullet camera from the WizSense range with onboard AI to tell people and vehicles apart and cut false alerts. Its 40 m infrared range effectively covers a driveway or large garden; PoE powered with an IP67 housing for lasting installs.",
+        "highlights": ["WizSense AI: people / vehicles", "Long-range 40 m infrared vision", "IP67 all-weather housing", "PoE powered"],
+        "inTheBox": ["IPC-HFW2441S-S bullet camera", "Mounting bracket", "Screws", "Quick start guide"]
+      },
+      "es": {
+        "name": "Dahua IPC-HFW2441S-S",
+        "tagline": "Bullet WizSense 4 MP, infrarrojo de largo alcance 40 m.",
+        "description": "Cámara bullet exterior de 4 MP de la gama WizSense con IA integrada para distinguir personas y vehículos y reducir falsas alarmas. Su alcance infrarrojo de 40 m cubre eficazmente un camino o un jardín amplio; alimentación PoE y carcasa IP67 para una instalación duradera.",
+        "highlights": ["IA WizSense: personas / vehículos", "Visión infrarroja de largo alcance 40 m", "Carcasa IP67 para toda condición", "Alimentación PoE"],
+        "inTheBox": ["Cámara bullet IPC-HFW2441S-S", "Soporte de fijación", "Tornillería", "Guía de inicio rápido"]
+      },
+      "ar": {
+        "name": "Dahua IPC-HFW2441S-S",
+        "tagline": "بولت WizSense 4 ميجابكسل، أشعة تحت حمراء بمدى 40 م.",
+        "description": "كاميرا بولت خارجية بدقة 4 ميجابكسل من سلسلة WizSense بذكاء اصطناعي مدمج يميّز الأشخاص عن المركبات لتقليل الإنذارات الكاذبة. يغطي مداها بالأشعة تحت الحمراء 40 مترًا ممرًا أو حديقة واسعة بفعالية، وتعمل بتغذية PoE وهيكل IP67 لتركيب يدوم طويلاً.",
+        "highlights": ["ذكاء WizSense: أشخاص / مركبات", "رؤية ليلية بمدى 40 م", "هيكل IP67 لكل الظروف الجوية", "تغذية PoE"],
+        "inTheBox": ["كاميرا بولت IPC-HFW2441S-S", "حامل تثبيت", "براغي", "دليل البدء السريع"]
+      },
+      "zh": {
+        "name": "Dahua IPC-HFW2441S-S",
+        "tagline": "WizSense 400万像素枪机，40米远红外。",
+        "description": "400 万像素户外枪机，隶属 WizSense 系列，内置 AI 区分人员与车辆，减少误报。40 米红外夜视范围可有效覆盖车道或大型庭院；PoE 供电，IP67 外壳适合长期安装。",
+        "highlights": ["WizSense AI：人员/车辆区分", "40米远距离红外夜视", "IP67 全天候外壳", "PoE 供电"],
+        "inTheBox": ["IPC-HFW2441S-S 枪机", "安装支架", "螺丝配件", "快速安装指南"]
+      }
+    },
+    "attributes": { "protocol": ["filaire-poe"], "placement": "exterieur", "power": ["poe"], "compat": ["app-marque", "safer-platform"], "resolution": "2k" },
+    "specs": [
+      { "key": "resolution", "value": "4 MP (2688 × 1520)" },
+      { "key": "lens", "value": "2.8 mm fixe" },
+      { "key": "nightVision", "value": "IR ≤ 40 m" },
+      { "key": "ai", "value": { "fr": "WizSense : personnes / véhicules", "en": "WizSense: people / vehicles", "es": "WizSense: personas / vehículos", "ar": "WizSense: أشخاص / مركبات", "zh": "WizSense：人员 / 车辆" } },
+      { "key": "connectivity", "value": "Ethernet PoE 802.3af" },
+      { "key": "storage", "value": "microSD ≤ 256 Go" },
+      { "key": "weatherproof", "value": "IP67" },
+      { "key": "operatingTemp", "value": "-40 °C … 60 °C" },
+      { "key": "compatibility", "value": { "fr": "ONVIF Profile S, intégration NVR/VMS tiers", "en": "ONVIF Profile S, third-party NVR/VMS integration", "es": "ONVIF Profile S, integración con NVR/VMS de terceros", "ar": "ONVIF Profile S، تكامل مع NVR/VMS من جهات أخرى", "zh": "ONVIF Profile S，支持第三方 NVR/VMS 集成" } }
+    ],
+    "pricing": { "sourcePrice": 99.99, "sourceCurrency": "USD" },
+    "availability": "en-stock",
+    "install": { "level": "standard", "duration": "60 min", "prerequisites": { "fr": "Câblage Ethernet CAT5e/6 vers un switch ou NVR PoE ; support de fixation stable en façade.", "en": "CAT5e/6 Ethernet cabling to a PoE switch or NVR; stable wall or ceiling mount.", "es": "Cableado Ethernet CAT5e/6 hasta un switch o NVR PoE; soporte de fijación estable.", "ar": "توصيل كابل إيثرنت CAT5e/6 إلى مفتاح شبكة أو مسجل PoE؛ سطح تثبيت ثابت.", "zh": "需铺设 CAT5e/6 网线至 PoE 交换机或 NVR；安装面需稳固。" } },
+    "sourceUrl": "https://www.dahuasecurity.com/products/network-products/network-cameras/WizSense-Series/2-Series/4MP/IPC-HFW2441S-S",
+    "accent": "#c1121f",
+    "symbol": "◉",
+    "solutions": ["video-intelligente/cameras-exterieures", "video-intelligente/verification-video"],
+    "related": ["dahua-ipc-hdw2441t-s", "dahua-sd2a500-gn-a-pv"]
+  },
+  {
+    "id": "dahua-sd2a500-gn-a-pv",
+    "sku": "SD2A500-GN-A-PV",
+    "brand": "dahua",
+    "sourceBrand": "Dahua",
+    "model": "SD2A500-GN-A-PV",
+    "category": "video",
+    "subcategory": "cameras-ptz",
+    "i18n": {
+      "fr": {
+        "name": "Dahua SD2A500-GN-A-PV",
+        "tagline": "Mini PTZ Wi-Fi 5 MP, zoom 4x et détection active.",
+        "description": "Caméra PTZ compacte 5 MP compatible Wi-Fi et PoE, avec zoom optique 4x, rotation panoramique 355° et inclinaison 90° pour couvrir une cour ou un jardin. La fonction Active Deterrence déclenche sirène et flash blanc dès qu'une intrusion est détectée, avec image couleur Full-Color de nuit.",
+        "highlights": ["Rotation 355°, zoom optique 4x", "Wi-Fi et PoE au choix", "Sirène + flash Active Deterrence", "Couleur nocturne Full-Color"],
+        "inTheBox": ["Caméra PTZ SD2A500-GN-A-PV", "Support de fixation", "Visserie", "Guide d'installation rapide"]
+      },
+      "en": {
+        "name": "Dahua SD2A500-GN-A-PV",
+        "tagline": "Mini Wi-Fi PTZ 5 MP with 4x zoom and active deterrence.",
+        "description": "Compact 5 MP PTZ camera with Wi-Fi or PoE connectivity, 4x optical zoom, 355° pan and 90° tilt to cover a courtyard or garden. Active Deterrence triggers a siren and white strobe as soon as an intrusion is detected, with Full-Color night imaging.",
+        "highlights": ["355° pan, 4x optical zoom", "Wi-Fi or PoE connectivity", "Siren + strobe Active Deterrence", "Full-Color night imaging"],
+        "inTheBox": ["SD2A500-GN-A-PV PTZ camera", "Mounting bracket", "Screws", "Quick start guide"]
+      },
+      "es": {
+        "name": "Dahua SD2A500-GN-A-PV",
+        "tagline": "Mini PTZ Wi-Fi 5 MP con zoom 4x y disuasión activa.",
+        "description": "Cámara PTZ compacta de 5 MP con conectividad Wi-Fi o PoE, zoom óptico 4x, giro panorámico de 355° e inclinación de 90° para cubrir un patio o jardín. La función Active Deterrence activa sirena y flash blanco ante una intrusión, con imagen a color Full-Color de noche.",
+        "highlights": ["Giro de 355°, zoom óptico 4x", "Conectividad Wi-Fi o PoE", "Sirena + flash Active Deterrence", "Color nocturno Full-Color"],
+        "inTheBox": ["Cámara PTZ SD2A500-GN-A-PV", "Soporte de fijación", "Tornillería", "Guía de inicio rápido"]
+      },
+      "ar": {
+        "name": "Dahua SD2A500-GN-A-PV",
+        "tagline": "PTZ صغيرة لاسلكية 5 ميجابكسل بتقريب 4x وردع فعّال.",
+        "description": "كاميرا PTZ مدمجة بدقة 5 ميجابكسل بتوصيل Wi-Fi أو PoE، وتقريب بصري 4x، ودوران أفقي 355° وإمالة 90° لتغطية فناء أو حديقة. تُفعّل خاصية Active Deterrence صافرة الإنذار والوميض الأبيض فور رصد تسلل، مع صورة ملوّنة Full-Color ليلًا.",
+        "highlights": ["دوران 355°، تقريب بصري 4x", "توصيل Wi-Fi أو PoE", "صافرة إنذار ووميض Active Deterrence", "ألوان ليلية Full-Color"],
+        "inTheBox": ["كاميرا PTZ طراز SD2A500-GN-A-PV", "حامل تثبيت", "براغي", "دليل البدء السريع"]
+      },
+      "zh": {
+        "name": "Dahua SD2A500-GN-A-PV",
+        "tagline": "迷你无线PTZ 500万像素，4倍变焦主动威慑。",
+        "description": "紧凑型 500 万像素 PTZ 摄像机，支持 Wi-Fi 或 PoE 连接，4 倍光学变焦，355° 水平旋转与 90° 俯仰，可覆盖庭院或花园。一旦检测到入侵，Active Deterrence 主动威慑功能即触发警号与白光警示，并支持夜间 Full-Color 全彩成像。",
+        "highlights": ["355°旋转，4倍光学变焦", "支持Wi-Fi或PoE连接", "警号+白光主动威慑", "夜间Full-Color全彩"],
+        "inTheBox": ["SD2A500-GN-A-PV PTZ摄像机", "安装支架", "螺丝配件", "快速安装指南"]
+      }
+    },
+    "attributes": { "protocol": ["wifi", "filaire-poe"], "placement": "exterieur", "power": ["poe"], "compat": ["app-marque", "safer-platform"], "resolution": "3k" },
+    "specs": [
+      { "key": "resolution", "value": "5 MP (2880 × 1620)" },
+      { "key": "ptz", "value": "Pan 355°, tilt 90°" },
+      { "key": "zoom", "value": "Optique 4x" },
+      { "key": "nightVision", "value": { "fr": "Full-Color, IR jusqu'à 20 m", "en": "Full-Color, IR up to 20 m", "es": "Full-Color, IR hasta 20 m", "ar": "Full-Color، أشعة تحت حمراء حتى 20 م", "zh": "Full-Color 全彩，红外最远 20 米" } },
+      { "key": "connectivity", "value": "Wi-Fi 2,4 GHz + Ethernet PoE" },
+      { "key": "siren", "value": { "fr": "Sirène + flash Active Deterrence", "en": "Siren + Active Deterrence strobe", "es": "Sirena + flash Active Deterrence", "ar": "صفارة إنذار + وميض Active Deterrence", "zh": "警号 + Active Deterrence 主动威慑警示灯" } },
+      { "key": "weatherproof", "value": "IP66" },
+      { "key": "operatingTemp", "value": "-30 °C … 60 °C" },
+      { "key": "compatibility", "value": { "fr": "ONVIF Profile S/T, intégration NVR/VMS tiers", "en": "ONVIF Profile S/T, third-party NVR/VMS integration", "es": "ONVIF Profile S/T, integración con NVR/VMS de terceros", "ar": "ONVIF Profile S/T، تكامل مع NVR/VMS من جهات أخرى", "zh": "ONVIF Profile S/T，支持第三方 NVR/VMS 集成" } }
+    ],
+    "pricing": { "sourcePrice": 259.99, "sourceCurrency": "USD" },
+    "availability": "sur-commande",
+    "install": { "level": "standard", "duration": "60 min", "prerequisites": { "fr": "Wi-Fi 2,4 GHz ou câblage PoE selon le mode choisi ; support de fixation stable en façade.", "en": "2.4 GHz Wi-Fi or PoE cabling depending on the chosen mode; stable wall mount.", "es": "Wi-Fi de 2,4 GHz o cableado PoE según el modo elegido; soporte de fijación estable.", "ar": "Wi-Fi بتردد 2.4 جيجاهرتز أو توصيل PoE حسب الوضع المختار؛ سطح تثبيت ثابت.", "zh": "根据所选模式需要 2.4GHz Wi-Fi 或 PoE 布线；安装面需稳固。" } },
+    "sourceUrl": "https://www.dahuasecurity.com/es/products/All-Products/PTZ-Cameras/Lite-Series/SD2/5-MP/SD2A500-GN-A-PV",
+    "accent": "#c1121f",
+    "symbol": "↗",
+    "solutions": ["video-intelligente/cameras-exterieures", "video-intelligente/verification-video"],
+    "related": ["dahua-ipc-hdw2441t-s", "dahua-nvr4108hs-8p-4ks2"]
+  },
+  {
+    "id": "dahua-nvr4108hs-8p-4ks2",
+    "sku": "NVR4108HS-8P-4KS2",
+    "brand": "dahua",
+    "sourceBrand": "Dahua",
+    "model": "NVR4108HS-8P-4KS2",
+    "category": "video",
+    "subcategory": "enregistreurs-kits",
+    "i18n": {
+      "fr": {
+        "name": "Dahua NVR4108HS-8P-4KS2",
+        "tagline": "NVR Lite 8 canaux PoE, sortie 4K, jusqu'à 12 To.",
+        "description": "Enregistreur réseau économique 8 canaux avec 8 ports PoE intégrés, décodage H.265 et sortie HDMI 4K. Il accepte un disque dur SATA jusqu'à 12 To et propose l'accès mobile via l'application gDMSS/DMSS pour surveiller le site à distance.",
+        "highlights": ["8 canaux, 8 ports PoE intégrés", "Sortie vidéo HDMI 4K", "1 baie HDD SATA jusqu'à 12 To", "Accès mobile DMSS"],
+        "inTheBox": ["Enregistreur NVR4108HS-8P-4KS2", "Souris USB", "Câble d'alimentation", "Guide d'installation rapide"]
+      },
+      "en": {
+        "name": "Dahua NVR4108HS-8P-4KS2",
+        "tagline": "Lite 8-channel PoE NVR, 4K output, up to 12 TB.",
+        "description": "Budget-friendly 8-channel network recorder with 8 built-in PoE ports, H.265 decoding and 4K HDMI output. It takes one SATA hard drive up to 12 TB and offers mobile access via the DMSS app for remote site monitoring.",
+        "highlights": ["8 channels, 8 built-in PoE ports", "4K HDMI video output", "1 SATA HDD bay up to 12 TB", "DMSS mobile access"],
+        "inTheBox": ["NVR4108HS-8P-4KS2 recorder", "USB mouse", "Power cable", "Quick start guide"]
+      },
+      "es": {
+        "name": "Dahua NVR4108HS-8P-4KS2",
+        "tagline": "NVR Lite 8 canales PoE, salida 4K, hasta 12 TB.",
+        "description": "Grabador de red económico de 8 canales con 8 puertos PoE integrados, decodificación H.265 y salida HDMI 4K. Acepta un disco duro SATA de hasta 12 TB y ofrece acceso móvil mediante la app DMSS para vigilar el sitio a distancia.",
+        "highlights": ["8 canales, 8 puertos PoE integrados", "Salida de vídeo HDMI 4K", "1 bahía HDD SATA hasta 12 TB", "Acceso móvil DMSS"],
+        "inTheBox": ["Grabador NVR4108HS-8P-4KS2", "Ratón USB", "Cable de alimentación", "Guía de inicio rápido"]
+      },
+      "ar": {
+        "name": "Dahua NVR4108HS-8P-4KS2",
+        "tagline": "NVR اقتصادي بـ8 قنوات PoE، مخرج 4K، حتى 12 تيرابايت.",
+        "description": "مسجل شبكي اقتصادي بـ8 قنوات مزوّد بـ8 منافذ PoE مدمجة، وفك تشفير H.265، ومخرج HDMI بدقة 4K. يستوعب قرصًا صلبًا SATA واحدًا حتى 12 تيرابايت، ويوفر وصولًا عبر الهاتف من خلال تطبيق DMSS للمراقبة عن بُعد.",
+        "highlights": ["8 قنوات، 8 منافذ PoE مدمجة", "مخرج فيديو HDMI بدقة 4K", "قرص SATA واحد حتى 12 تيرابايت", "وصول عبر الهاتف عبر تطبيق DMSS"],
+        "inTheBox": ["مسجل NVR4108HS-8P-4KS2", "فأرة USB", "كابل تغذية", "دليل البدء السريع"]
+      },
+      "zh": {
+        "name": "Dahua NVR4108HS-8P-4KS2",
+        "tagline": "Lite系列8路PoE录像机，4K输出，最高12TB。",
+        "description": "经济型 8 路网络录像机，内置 8 个 PoE 端口，支持 H.265 解码与 4K HDMI 输出。可安装一块最大 12TB 的 SATA 硬盘，并可通过 DMSS 应用实现远程移动查看。",
+        "highlights": ["8路通道，内置8个PoE端口", "4K HDMI视频输出", "1个SATA硬盘位，最高12TB", "支持DMSS移动访问"],
+        "inTheBox": ["NVR4108HS-8P-4KS2录像机", "USB鼠标", "电源线", "快速安装指南"]
+      }
+    },
+    "attributes": { "protocol": ["filaire-poe"], "placement": "interieur", "power": ["secteur"], "compat": ["app-marque", "safer-platform"] },
+    "specs": [
+      { "key": "channels", "value": "8 canaux IP" },
+      { "key": "ports", "value": "8× PoE + 1 WAN, 2 USB, HDMI/VGA" },
+      { "key": "storage", "value": { "fr": "1 baie SATA, 12 To max", "en": "1 SATA bay, up to 12 TB", "es": "1 bahía SATA, hasta 12 TB", "ar": "خانة SATA واحدة، حتى 12 تيرابايت", "zh": "1 个 SATA 硬盘位，最高 12TB" } },
+      { "key": "videoCodec", "value": "H.265 / H.264" },
+      { "key": "resolution", "value": { "fr": "Jusqu'à 6 MP par canal en entrée", "en": "Up to 6 MP per input channel", "es": "Hasta 6 MP por canal de entrada", "ar": "حتى 6 ميجابكسل لكل قناة إدخال", "zh": "每路输入最高支持 6MP" } },
+      { "key": "app", "value": "gDMSS / DMSS" },
+      { "key": "compatibility", "value": { "fr": "ONVIF Profile S, caméras tierces compatibles", "en": "ONVIF Profile S, compatible with third-party cameras", "es": "ONVIF Profile S, compatible con cámaras de terceros", "ar": "ONVIF Profile S، متوافق مع كاميرات من جهات أخرى", "zh": "ONVIF Profile S，兼容第三方摄像机" } },
+      { "key": "other", "value": "Sortie HDMI 4K" }
+    ],
+    "pricing": { "sourcePrice": 259.99, "sourceCurrency": "USD" },
+    "availability": "sur-devis",
+    "install": { "level": "expert", "duration": "90 min", "prerequisites": { "fr": "Meuble technique ventilé, arrivée secteur 220V et câblage Ethernet vers les caméras PoE.", "en": "Ventilated equipment cabinet, 220V mains supply, and Ethernet cabling to the PoE cameras.", "es": "Mueble técnico ventilado, alimentación de red de 220V y cableado Ethernet hasta las cámaras PoE.", "ar": "خزانة معدات جيدة التهوية، تغذية كهربائية 220 فولت، وتوصيل كابلات إيثرنت إلى كاميرات PoE.", "zh": "需通风设备柜、220V 市电电源，以及连接 PoE 摄像机的以太网布线。" } },
+    "sourceUrl": "https://www.dahuasecurity.com/products/productDetail/8261",
+    "accent": "#c1121f",
+    "symbol": "▣",
+    "solutions": ["video-intelligente/cameras-exterieures", "video-intelligente/verification-video"],
+    "related": ["dahua-ipc-hdw2441t-s", "dahua-ipc-hfw2441s-s"]
+  },
+  {
+    "id": "dahua-vto2202f-p",
+    "sku": "VTO2202F-P",
+    "brand": "dahua",
+    "sourceBrand": "Dahua",
+    "model": "VTO2202F-P",
+    "category": "acces",
+    "subcategory": "interphones",
+    "i18n": {
+      "fr": {
+        "name": "Dahua VTO2202F-P",
+        "tagline": "Poste de rue vidéo IP compact, bouton unique et PoE.",
+        "description": "Poste de rue vidéo IP à bouton d'appel unique pour un portail ou une entrée résidentielle, avec caméra grand angle, vision nocturne infrarouge et audio bidirectionnel. Alimenté en PoE, résistant aux intempéries (IP65), il s'associe à un moniteur intérieur ou à l'application mobile Dahua.",
+        "highlights": ["Caméra grand angle avec vision nocturne", "Audio bidirectionnel intégré", "Bouton d'appel unique, format compact", "IP65, alimentation PoE"],
+        "inTheBox": ["Poste de rue VTO2202F-P", "Support de fixation en saillie", "Visserie", "Guide d'installation rapide"]
+      },
+      "en": {
+        "name": "Dahua VTO2202F-P",
+        "tagline": "Compact IP video door station, single button, PoE.",
+        "description": "Single-button IP video door station for a gate or residential entrance, with a wide-angle camera, infrared night vision and two-way audio. PoE powered and weatherproof (IP65), it pairs with an indoor monitor or the Dahua mobile app.",
+        "highlights": ["Wide-angle camera with night vision", "Built-in two-way audio", "Single call button, compact design", "IP65, PoE powered"],
+        "inTheBox": ["VTO2202F-P door station", "Surface mount bracket", "Screws", "Quick start guide"]
+      },
+      "es": {
+        "name": "Dahua VTO2202F-P",
+        "tagline": "Placa de calle IP compacta, botón único y PoE.",
+        "description": "Placa de calle de vídeo IP con botón de llamada único para un portón o entrada residencial, con cámara gran angular, visión nocturna infrarroja y audio bidireccional. Alimentada por PoE y resistente a la intemperie (IP65), se empareja con un monitor interior o la app móvil Dahua.",
+        "highlights": ["Cámara gran angular con visión nocturna", "Audio bidireccional integrado", "Botón de llamada único, diseño compacto", "IP65, alimentación PoE"],
+        "inTheBox": ["Placa de calle VTO2202F-P", "Soporte de superficie", "Tornillería", "Guía de inicio rápido"]
+      },
+      "ar": {
+        "name": "Dahua VTO2202F-P",
+        "tagline": "وحدة باب فيديو IP مدمجة بزر واحد وتغذية PoE.",
+        "description": "وحدة باب فيديو IP بزر اتصال واحد للبوابة أو المدخل السكني، بكاميرا واسعة الزاوية ورؤية ليلية بالأشعة تحت الحمراء وصوت ثنائي الاتجاه. تعمل بتغذية PoE ومقاومة للعوامل الجوية بمعيار IP65، وتقترن بشاشة داخلية أو تطبيق Dahua للهاتف.",
+        "highlights": ["كاميرا واسعة الزاوية مع رؤية ليلية", "صوت ثنائي الاتجاه مدمج", "زر اتصال واحد، تصميم مدمج", "IP65، تغذية PoE"],
+        "inTheBox": ["وحدة الباب VTO2202F-P", "حامل تثبيت سطحي", "براغي", "دليل البدء السريع"]
+      },
+      "zh": {
+        "name": "Dahua VTO2202F-P",
+        "tagline": "紧凑型IP可视门口机，单键呼叫，PoE供电。",
+        "description": "单键呼叫 IP 可视对讲门口机，适用于大门或住宅入口，配备广角摄像头、红外夜视与双向语音功能。PoE 供电，防护等级达 IP65，可与室内显示屏或大华手机应用配套使用。",
+        "highlights": ["广角摄像头带夜视功能", "内置双向语音对讲", "单键呼叫，设计紧凑", "IP65防护，PoE供电"],
+        "inTheBox": ["VTO2202F-P门口机", "明装支架", "螺丝配件", "快速安装指南"]
+      }
+    },
+    "attributes": { "protocol": ["filaire-poe"], "placement": "exterieur", "power": ["poe"], "compat": ["app-marque", "safer-platform"] },
+    "specs": [
+      { "key": "resolution", "value": "2 MP grand angle" },
+      { "key": "nightVision", "value": { "fr": "IR intégré", "en": "Built-in IR", "es": "IR integrado", "ar": "أشعة تحت حمراء مدمجة", "zh": "内置红外" } },
+      { "key": "twoWayAudio", "value": "Audio bidirectionnel" },
+      { "key": "unlockMethods", "value": { "fr": "Bouton d'appel, contact sec gâche/portail", "en": "Call button, dry contact for lock release/gate", "es": "Botón de llamada, contacto seco para abrepuertas/portón", "ar": "زر اتصال، تلامس جاف لفتح القفل/البوابة", "zh": "呼叫按钮，干接点用于开锁/大门" } },
+      { "key": "app", "value": "gDMSS / DMSS" },
+      { "key": "weatherproof", "value": "IP65" },
+      { "key": "connectivity", "value": "Ethernet PoE 802.3af" },
+      { "key": "compatibility", "value": { "fr": "ONVIF, intégration NVR/plateforme tiers", "en": "ONVIF, third-party NVR/platform integration", "es": "ONVIF, integración con NVR/plataforma de terceros", "ar": "ONVIF، تكامل مع NVR/منصة من جهات أخرى", "zh": "ONVIF，支持第三方 NVR/平台集成" } }
+    ],
+    "pricing": { "sourcePrice": 149.99, "sourceCurrency": "USD" },
+    "availability": "sur-commande",
+    "install": { "level": "expert", "duration": "90 min", "prerequisites": { "fr": "Câblage PoE jusqu'au poste de rue et alimentation secteur pour le moniteur intérieur.", "en": "PoE cabling to the door station and mains power for the indoor monitor.", "es": "Cableado PoE hasta la placa de calle y alimentación de red para el monitor interior.", "ar": "توصيل كابل PoE إلى وحدة الباب وتغذية كهربائية للشاشة الداخلية.", "zh": "需将 PoE 线缆铺设至门口机，并为室内显示屏提供市电供电。" } },
+    "sourceUrl": "https://www.dahuasecurity.com/products/All-Products/Video-Intercoms/IP-Products/Outdoor-Stations/VTO2202F-P",
+    "accent": "#c1121f",
+    "symbol": "⌇",
+    "solutions": ["controle-acces/gestion-visiteurs"],
+    "related": ["dahua-h4c"]
+  },
+  {
+    "id": "dahua-h4c",
+    "sku": "H4C",
+    "brand": "dahua",
+    "sourceBrand": "Dahua",
+    "model": "Hero H4C",
+    "category": "video",
+    "subcategory": "cameras-interieures",
+    "i18n": {
+      "fr": {
+        "name": "Dahua Hero H4C",
+        "tagline": "Caméra intérieure Wi-Fi Hero, motorisée et suivi IA.",
+        "description": "Caméra intérieure Wi-Fi de la gamme Hero avec rotation pan & tilt, détection intelligente des personnes et suivi automatique du mouvement. L'audio bidirectionnel et la sirène intégrée permettent d'interagir à distance, avec stockage sur carte microSD ou cloud Dahua.",
+        "highlights": ["Rotation pan & tilt motorisée", "Détection et suivi intelligents", "Audio bidirectionnel et sirène", "Stockage microSD ou cloud"],
+        "inTheBox": ["Caméra Hero H4C", "Câble d'alimentation USB", "Support de fixation", "Guide d'installation rapide"]
+      },
+      "en": {
+        "name": "Dahua Hero H4C",
+        "tagline": "Hero Wi-Fi indoor camera with pan-tilt and AI tracking.",
+        "description": "Wi-Fi indoor camera from the Hero range with motorised pan and tilt, smart people detection and automatic motion tracking. Two-way audio and a built-in siren let you interact remotely, with storage on a microSD card or the Dahua cloud.",
+        "highlights": ["Motorised pan and tilt", "Smart detection and tracking", "Two-way audio and built-in siren", "microSD or cloud storage"],
+        "inTheBox": ["Hero H4C camera", "USB power cable", "Mounting stand", "Quick start guide"]
+      },
+      "es": {
+        "name": "Dahua Hero H4C",
+        "tagline": "Cámara interior Wi-Fi Hero con motor y seguimiento IA.",
+        "description": "Cámara interior Wi-Fi de la gama Hero con giro motorizado pan & tilt, detección inteligente de personas y seguimiento automático del movimiento. El audio bidireccional y la sirena integrada permiten interactuar a distancia, con almacenamiento en tarjeta microSD o nube Dahua.",
+        "highlights": ["Giro motorizado pan & tilt", "Detección y seguimiento inteligentes", "Audio bidireccional y sirena", "Almacenamiento microSD o nube"],
+        "inTheBox": ["Cámara Hero H4C", "Cable de alimentación USB", "Soporte de fijación", "Guía de inicio rápido"]
+      },
+      "ar": {
+        "name": "Dahua Hero H4C",
+        "tagline": "كاميرا داخلية لاسلكية Hero بدوران آلي وتتبع ذكي.",
+        "description": "كاميرا داخلية لاسلكية من سلسلة Hero بدوران أفقي وعمودي آلي وكشف ذكي للأشخاص وتتبع تلقائي للحركة. يتيح الصوت ثنائي الاتجاه وصافرة الإنذار المدمجة التفاعل عن بُعد، مع التخزين على بطاقة microSD أو سحابة Dahua.",
+        "highlights": ["دوران آلي أفقي وعمودي", "كشف وتتبع ذكيان", "صوت ثنائي الاتجاه وصافرة إنذار", "تخزين على microSD أو السحابة"],
+        "inTheBox": ["كاميرا Hero H4C", "كابل تغذية USB", "حامل تثبيت", "دليل البدء السريع"]
+      },
+      "zh": {
+        "name": "Dahua Hero H4C",
+        "tagline": "Hero系列室内WiFi云台摄像机，AI智能追踪。",
+        "description": "Hero 系列室内 Wi-Fi 摄像机，配备电动云台，支持智能人形检测与自动运动追踪。双向语音与内置警号可实现远程互动，支持 microSD 卡或大华云存储。",
+        "highlights": ["电动云台水平/垂直转动", "智能检测与追踪", "双向语音与内置警号", "支持microSD卡或云存储"],
+        "inTheBox": ["Hero H4C摄像机", "USB电源线", "安装底座", "快速安装指南"]
+      }
+    },
+    "attributes": { "protocol": ["wifi"], "placement": "interieur", "power": ["secteur"], "compat": ["app-marque", "safer-platform"], "resolution": "1080p" },
+    "specs": [
+      { "key": "resolution", "value": "2 MP (1920 × 1080)" },
+      { "key": "ptz", "value": { "fr": "Pan 355°, tilt 90° motorisé", "en": "Motorised 355° pan, 90° tilt", "es": "Pan 355°, tilt 90° motorizado", "ar": "دوران أفقي 355°، إمالة 90° آلية", "zh": "355° 水平旋转，90° 俯仰，电动" } },
+      { "key": "ai", "value": { "fr": "Détection de personnes, suivi automatique", "en": "People detection, auto-tracking", "es": "Detección de personas, seguimiento automático", "ar": "كشف الأشخاص، تتبع تلقائي", "zh": "人形检测，自动追踪" } },
+      { "key": "twoWayAudio", "value": "Audio bidirectionnel" },
+      { "key": "siren", "value": { "fr": "Sirène intégrée à distance", "en": "Remote-triggered built-in siren", "es": "Sirena integrada activable a distancia", "ar": "صفارة إنذار مدمجة يمكن تفعيلها عن بُعد", "zh": "内置警号，可远程触发" } },
+      { "key": "storage", "value": { "fr": "microSD 256 Go max, cloud Dahua en option", "en": "microSD up to 256 GB, Dahua cloud optional", "es": "microSD hasta 256 GB, nube Dahua opcional", "ar": "microSD حتى 256 جيجابايت، سحابة Dahua اختيارية", "zh": "microSD 最高 256GB，大华云存储可选" } },
+      { "key": "connectivity", "value": "Wi-Fi 2,4 GHz" },
+      { "key": "app", "value": "gDMSS / DMSS" }
+    ],
+    "pricing": { "sourcePrice": 59.99, "sourceCurrency": "USD" },
+    "availability": "en-stock",
+    "install": { "level": "simple", "duration": "15 min", "prerequisites": { "fr": "Wi-Fi 2,4 GHz couvrant l'emplacement, prise secteur à proximité pour l'alimentation USB.", "en": "2.4 GHz Wi-Fi coverage at the location, nearby mains outlet for USB power.", "es": "Cobertura Wi-Fi de 2,4 GHz en el lugar, toma de red cercana para la alimentación USB.", "ar": "تغطية Wi-Fi بتردد 2.4 جيجاهرتز في الموقع، ومقبس كهربائي قريب لتغذية USB.", "zh": "安装位置需有 2.4GHz Wi-Fi 覆盖，附近需有市电插座供 USB 供电。" } },
+    "sourceUrl": "https://www.dahuasecurity.com/products/All-Products/Network-Cameras/Wireless-Series/Indoor-Camera/Hero-Series/H4C",
+    "accent": "#c1121f",
+    "symbol": "◎",
+    "solutions": ["video-intelligente/verification-video"],
+    "related": ["dahua-vto2202f-p"]
+  }
+]

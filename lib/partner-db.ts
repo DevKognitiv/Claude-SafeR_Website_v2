@@ -1,5 +1,16 @@
-import { env } from 'cloudflare:workers';
 import { partnerSchemaStatements } from '@/db/schema';
+
+type Bindings = { DB?: D1Database; KYC_FILES?: R2Bucket };
+let bindingsPromise: Promise<Bindings> | null = null;
+
+/** Cloudflare bindings (D1, R2) — resolved lazily so the module also loads on a plain Node server. */
+async function bindings(): Promise<Bindings> {
+  if (!bindingsPromise) {
+    const specifier = 'cloudflare:workers';
+    bindingsPromise = import(/* @vite-ignore */ specifier).then((mod: { env?: Bindings }) => mod.env ?? {}).catch(() => ({}));
+  }
+  return bindingsPromise;
+}
 
 export type PartnerRecord = {
   id: string;
@@ -26,19 +37,21 @@ export type PartnerRecord = {
 
 let schemaPromise: Promise<void> | null = null;
 
-export function getPartnerDatabase() {
-  if (!env.DB) throw new Error('La base partenaires SafeR n’est pas disponible.');
-  return env.DB;
+export async function getPartnerDatabase(): Promise<D1Database> {
+  const { DB } = await bindings();
+  if (!DB) throw new Error('La base partenaires SafeR n’est pas disponible.');
+  return DB;
 }
 
-export function getKycBucket() {
-  if (!env.KYC_FILES) throw new Error('Le stockage KYC SafeR n’est pas disponible.');
-  return env.KYC_FILES;
+export async function getKycBucket(): Promise<R2Bucket> {
+  const { KYC_FILES } = await bindings();
+  if (!KYC_FILES) throw new Error('Le stockage KYC SafeR n’est pas disponible.');
+  return KYC_FILES;
 }
 
 export async function ensurePartnerSchema() {
   if (!schemaPromise) {
-    const database = getPartnerDatabase();
+    const database = await getPartnerDatabase();
     schemaPromise = database.batch(partnerSchemaStatements.map((statement) => database.prepare(statement))).then(() => undefined).catch((error) => {
       schemaPromise = null;
       throw error;
@@ -49,11 +62,11 @@ export async function ensurePartnerSchema() {
 
 export async function getPartnerByUserId(userId: string) {
   await ensurePartnerSchema();
-  return getPartnerDatabase().prepare('SELECT * FROM partners WHERE user_id = ? LIMIT 1').bind(userId).first<PartnerRecord>();
+  return (await getPartnerDatabase()).prepare('SELECT * FROM partners WHERE user_id = ? LIMIT 1').bind(userId).first<PartnerRecord>();
 }
 
 export async function countPartnerDocuments(partnerId: string) {
   await ensurePartnerSchema();
-  const row = await getPartnerDatabase().prepare('SELECT COUNT(*) AS count FROM kyc_documents WHERE partner_id = ?').bind(partnerId).first<{ count: number }>();
+  const row = await (await getPartnerDatabase()).prepare('SELECT COUNT(*) AS count FROM kyc_documents WHERE partner_id = ?').bind(partnerId).first<{ count: number }>();
   return Number(row?.count || 0);
 }

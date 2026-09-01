@@ -1,0 +1,88 @@
+name: Refresh SafeR catalogue (nightly 00:00 UTC)
+
+on:
+  schedule:
+    - cron: '0 0 * * *'   # 00:00 UTC every day
+  workflow_dispatch:
+    inputs:
+      browser:
+        description: 'Use Playwright for JS-rendered brands (Tuya Expo, Hikvision, Dahua)'
+        type: boolean
+        default: true
+      brands:
+        description: 'Comma-separated brand ids to limit the run (empty = all)'
+        type: string
+        default: ''
+
+permissions:
+  contents: write
+
+concurrency:
+  group: refresh-catalog
+  cancel-in-progress: false
+
+jobs:
+  crawl:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+          cache-dependency-path: |
+            package-lock.json
+            crawler/package-lock.json
+
+      - name: Install crawler dependencies
+        working-directory: crawler
+        run: npm ci --omit=optional
+
+      - name: Install Playwright (browser pass)
+        if: ${{ github.event_name == 'schedule' || inputs.browser }}
+        working-directory: crawler
+        run: |
+          npm install --no-save playwright@^1.50.0
+          npx playwright install --with-deps chromium
+
+      - name: Crawl official brand sources
+        working-directory: crawler
+        env:
+          CRAWL_BROWSER: ${{ (github.event_name == 'schedule' || inputs.browser) && '1' || '0' }}
+        run: |
+          ARGS=""
+          if [ -n "${{ inputs.brands }}" ]; then ARGS="--brand ${{ inputs.brands }}"; fi
+          node crawl.mjs $ARGS
+
+      - name: Rebuild catalogue (applies Tuya → SafeR / sf- rule) and run tests
+        run: |
+          node scripts/build-catalog.mjs
+          node --test scripts/test-catalog.mjs
+
+      - name: Publish crawl report to the job summary
+        if: always()
+        run: |
+          if [ -f crawler/reports/latest.json ]; then
+            node -e '
+              const r = require("./crawler/reports/latest.json");
+              const rows = Object.entries(r.brands).map(([b, v]) => `| ${b} | ${v.products} | ${v.ok} | ${v.priceUpdated} | ${v.browserRequired} | ${v.blocked} | ${v.failed} |`).join("\n");
+              const t = r.totals;
+              console.log(`## Catalogue SafeR — ${r.checkedAt}\n\n**${t.products} produits** · ok ${t.ok} (+${t.okNoPrice} sans prix) · prix mis à jour ${t.priceUpdated} · prix refusés ${t.priceRejected} · images ajoutées ${t.imageAdded} · navigateur requis ${t.browserRequired} · robots ${t.robotsBlocked} · injoignables ${t.unreachable}\n\n| Marque | Produits | OK | Prix maj | Navigateur | Robots | Échec |\n|---|---|---|---|---|---|---|\n${rows}`);
+            ' >> "$GITHUB_STEP_SUMMARY"
+          fi
+
+      - name: Commit updated catalogue
+        run: |
+          git config user.name "safer-catalog-bot"
+          git config user.email "catalog-bot@users.noreply.github.com"
+          git add data/catalog/products data/store-catalog.json crawler/reports
+          if git diff --cached --quiet; then
+            echo "Catalogue déjà à jour — rien à committer."
+          else
+            git commit -m "chore(catalog): nightly refresh $(date -u +%Y-%m-%dT%H:%MZ)"
+            git push
+          fi

@@ -1,0 +1,521 @@
+[
+  {
+    "id": "eufy-video-doorbell-e340",
+    "sku": "EF-T8214",
+    "brand": "eufy",
+    "sourceBrand": "eufy Security",
+    "model": "Video Doorbell E340",
+    "category": "video",
+    "subcategory": "sonnettes-video",
+    "i18n": {
+      "fr": {
+        "name": "eufy Video Doorbell E340",
+        "tagline": "Double caméra : le visage et le colis, dans un seul cadre.",
+        "description": "Sonnette vidéo à double caméra combinant une vue frontale et une vue plongeante pour voir le visiteur et le colis posé au sol en même temps. Stockage local sans abonnement, détection humaine par IA et audio bidirectionnel pour répondre depuis n’importe où.",
+        "highlights": ["Double caméra : vue frontale + vue plongeante colis", "Stockage local intégré, aucun abonnement requis", "Détection IA des personnes et alertes de colis", "Autonomie batterie jusqu’à 4-6 mois"],
+        "inTheBox": ["Sonnette Video Doorbell E340", "Plaque de montage inclinée", "Câble de charge USB-C", "Visserie et chevilles", "Guide de démarrage"]
+      },
+      "en": {
+        "name": "eufy Video Doorbell E340",
+        "tagline": "Dual camera: the face and the parcel, in one frame.",
+        "description": "Dual-camera video doorbell combining a front-facing view with a downward-angled view to see both the visitor and any parcel left on the ground. Local storage with no subscription, AI human detection and two-way audio to answer from anywhere.",
+        "highlights": ["Dual camera: front view + package view", "Built-in local storage, no subscription required", "AI person detection and package alerts", "Battery life up to 4-6 months"],
+        "inTheBox": ["Video Doorbell E340", "Angled mounting plate", "USB-C charging cable", "Screws and wall plugs", "Quick start guide"]
+      },
+      "es": {
+        "name": "eufy Video Doorbell E340",
+        "tagline": "Doble cámara: el rostro y el paquete, en un mismo encuadre.",
+        "description": "Timbre con vídeo de doble cámara que combina una vista frontal con una vista en ángulo hacia el suelo para ver al visitante y cualquier paquete a la vez. Almacenamiento local sin suscripción, detección humana por IA y audio bidireccional para responder desde cualquier lugar.",
+        "highlights": ["Doble cámara: vista frontal + vista de paquetes", "Almacenamiento local integrado, sin suscripción", "Detección IA de personas y alertas de paquetes", "Autonomía de batería de hasta 4-6 meses"],
+        "inTheBox": ["Timbre Video Doorbell E340", "Placa de montaje inclinada", "Cable de carga USB-C", "Tornillos y tacos", "Guía de inicio rápido"]
+      },
+      "ar": {
+        "name": "eufy Video Doorbell E340",
+        "tagline": "كاميرا مزدوجة: الوجه والطرد في إطار واحد.",
+        "description": "جرس باب فيديو بكاميرا مزدوجة يجمع بين رؤية أمامية ورؤية مائلة نحو الأرض لمشاهدة الزائر وأي طرد في آن واحد. تخزين محلي مدمج دون اشتراك، وكشف بشري بالذكاء الاصطناعي، وصوت ثنائي الاتجاه للرد من أي مكان.",
+        "highlights": ["كاميرا مزدوجة: رؤية أمامية + رؤية للطرود", "تخزين محلي مدمج دون اشتراك", "كشف الأشخاص بالذكاء الاصطناعي وتنبيهات الطرود", "عمر بطارية يصل إلى 4-6 أشهر"],
+        "inTheBox": ["جرس Video Doorbell E340", "لوحة تثبيت مائلة", "كابل شحن USB-C", "براغي وقواعد تثبيت", "دليل البدء السريع"]
+      },
+      "zh": {
+        "name": "eufy Video Doorbell E340",
+        "tagline": "双摄像头：人脸与包裹，尽在同一画面。",
+        "description": "双摄像头视频门铃，结合正面视角与俯视视角，可同时看到访客和放置在地面的包裹。内置本地存储，无需订阅，AI 人形检测和双向语音让您随时随地应答。",
+        "highlights": ["双摄像头：正面视角 + 包裹视角", "内置本地存储，无需订阅", "AI 人形检测与包裹提醒", "电池续航长达 4-6 个月"],
+        "inTheBox": ["Video Doorbell E340 门铃", "倾角安装板", "USB-C 充电线", "螺丝与膨胀塞", "快速入门指南"]
+      }
+    },
+    "attributes": { "protocol": ["wifi"], "placement": "exterieur", "power": ["batterie"], "compat": ["alexa", "google", "app-marque", "safer-platform"], "resolution": "2k" },
+    "specs": [
+      { "key": "resolution", "value": { "fr": "2K (caméra principale) + caméra colis 1600 × 1200", "en": "2K (main camera) + 1600 × 1200 package camera", "es": "2K (cámara principal) + cámara de paquetes 1600 × 1200", "ar": "2K (الكاميرا الرئيسية) + كاميرا الطرود 1600 × 1200", "zh": "2K（主摄像头）+ 1600×1200 包裹摄像头" } },
+      { "key": "fieldOfView", "value": "160° horizontal (vue principale)" },
+      { "key": "nightVision", "value": { "fr": "Couleur, IR intégré", "en": "Colour, built-in IR", "es": "Color, IR integrado", "ar": "ملوّن، أشعة تحت حمراء مدمجة", "zh": "彩色，内置红外" } },
+      { "key": "ai", "value": { "fr": "Détection de personnes, alertes de colis", "en": "People detection, package alerts", "es": "Detección de personas, alertas de paquetes", "ar": "كشف الأشخاص، تنبيهات الطرود", "zh": "人形检测，包裹提醒" } },
+      { "key": "twoWayAudio", "value": { "fr": "Audio bidirectionnel avec réduction de bruit", "en": "Two-way audio with noise reduction", "es": "Audio bidireccional con reducción de ruido", "ar": "صوت ثنائي الاتجاه مع تقليل الضوضاء", "zh": "双向语音，带降噪" } },
+      { "key": "localStorage", "value": { "fr": "8 Go intégrés, sans abonnement", "en": "8 GB built in, no subscription", "es": "8 GB integrados, sin suscripción", "ar": "8 جيجابايت مدمجة، دون اشتراك", "zh": "内置 8GB，无需订阅" } },
+      { "key": "battery", "value": { "fr": "Rechargeable, 4-6 mois d’autonomie", "en": "Rechargeable, 4-6 months of runtime", "es": "Recargable, 4-6 meses de autonomía", "ar": "قابلة لإعادة الشحن، عمر يصل إلى 4-6 أشهر", "zh": "可充电，续航 4-6 个月" } },
+      { "key": "weatherproof", "value": "IP65" }
+    ],
+    "pricing": { "sourcePrice": 219.99, "sourceCurrency": "USD" },
+    "availability": "en-stock",
+    "install": { "level": "standard", "duration": "45 min", "prerequisites": { "fr": "Câblage basse tension existant ou pose sans fil sur batterie, Wi-Fi à proximité.", "en": "Existing low-voltage wiring or wire-free battery mounting, Wi-Fi nearby.", "es": "Cableado de baja tensión existente o montaje inalámbrico con batería, Wi-Fi cerca.", "ar": "أسلاك منخفضة الجهد موجودة أو تركيب لاسلكي بالبطارية، وشبكة Wi-Fi قريبة.", "zh": "需有现有低压线路或采用无线电池安装方式，附近需有 Wi-Fi。" } },
+    "sourceUrl": "https://www.eufy.com/products/t8214",
+    "accent": "#0f766e",
+    "symbol": "⌇",
+    "featured": true,
+    "solutions": ["video-intelligente/sonnette-video", "controle-acces/gestion-visiteurs"],
+    "related": ["eufy-eufycam-3-s330", "eufy-smart-lock-c33"]
+  },
+  {
+    "id": "eufy-eufycam-3-s330",
+    "sku": "EF-T8863",
+    "brand": "eufy",
+    "sourceBrand": "eufy Security",
+    "model": "eufyCam 3 (S330) 2-Cam Kit + HomeBase 3",
+    "category": "video",
+    "subcategory": "enregistreurs-kits",
+    "i18n": {
+      "fr": {
+        "name": "eufy eufyCam 3 (S330) — kit 2 caméras",
+        "tagline": "Deux caméras 4K, une base intelligente, un stockage local sans limite d’abonnement.",
+        "description": "Kit de vidéosurveillance sans fil composé de deux caméras 4K étanches et de la station HomeBase 3, qui enregistre localement sur disque dur sans frais d’abonnement. Panneau solaire intégré pour une autonomie quasi illimitée et détection IA avancée des personnes, véhicules et animaux.",
+        "highlights": ["2 caméras 4K étanches IP67 avec panneau solaire intégré", "HomeBase 3 : stockage local, sans abonnement obligatoire", "Détection IA personnes / véhicules / animaux", "Autonomie solaire quasi continue en extérieur"],
+        "inTheBox": ["2 caméras eufyCam 3", "Station HomeBase 3", "2 supports de fixation", "Câbles USB-C et Ethernet", "Guide de démarrage"]
+      },
+      "en": {
+        "name": "eufy eufyCam 3 (S330) — 2-camera kit",
+        "tagline": "Two 4K cameras, one smart base, local storage without subscription limits.",
+        "description": "Wireless surveillance kit with two weatherproof 4K cameras and the HomeBase 3 station, which records locally to a hard drive with no subscription fees. Built-in solar panel for near-endless outdoor runtime and advanced AI detection of people, vehicles and animals.",
+        "highlights": ["Two IP67 weatherproof 4K cameras with built-in solar panel", "HomeBase 3: local storage, no subscription required", "AI detection of people / vehicles / animals", "Near-continuous solar-powered outdoor runtime"],
+        "inTheBox": ["2 eufyCam 3 cameras", "HomeBase 3 station", "2 mounting brackets", "USB-C and Ethernet cables", "Quick start guide"]
+      },
+      "es": {
+        "name": "eufy eufyCam 3 (S330) — kit de 2 cámaras",
+        "tagline": "Dos cámaras 4K, una base inteligente, almacenamiento local sin límites de suscripción.",
+        "description": "Kit de videovigilancia inalámbrico con dos cámaras 4K resistentes a la intemperie y la estación HomeBase 3, que graba localmente en disco duro sin cuotas de suscripción. Panel solar integrado para una autonomía casi ilimitada en exterior y detección IA avanzada de personas, vehículos y animales.",
+        "highlights": ["2 cámaras 4K IP67 con panel solar integrado", "HomeBase 3: almacenamiento local, sin suscripción obligatoria", "Detección IA de personas / vehículos / animales", "Autonomía solar casi continua en exterior"],
+        "inTheBox": ["2 cámaras eufyCam 3", "Estación HomeBase 3", "2 soportes de fijación", "Cables USB-C y Ethernet", "Guía de inicio rápido"]
+      },
+      "ar": {
+        "name": "eufy eufyCam 3 (S330) — طقم كاميرتين",
+        "tagline": "كاميرتان بدقة 4K، قاعدة ذكية، وتخزين محلي دون قيود اشتراك.",
+        "description": "طقم مراقبة لاسلكي يضم كاميرتين مقاومتين للعوامل الجوية بدقة 4K ومحطة HomeBase 3 التي تسجل محلياً على قرص صلب دون رسوم اشتراك. لوحة شمسية مدمجة لعمل شبه متواصل في الخارج وكشف ذكي متقدم للأشخاص والمركبات والحيوانات.",
+        "highlights": ["كاميرتان 4K مقاومتان للماء IP67 بلوحة شمسية مدمجة", "HomeBase 3: تخزين محلي دون اشتراك إلزامي", "كشف ذكي للأشخاص والمركبات والحيوانات", "عمل شبه متواصل بالطاقة الشمسية في الخارج"],
+        "inTheBox": ["كاميرتا eufyCam 3", "محطة HomeBase 3", "حاملا تثبيت", "كابلات USB-C وإيثرنت", "دليل البدء السريع"]
+      },
+      "zh": {
+        "name": "eufy eufyCam 3 (S330) 双摄套装",
+        "tagline": "两台 4K 摄像机，一个智能基站，本地存储无订阅限制。",
+        "description": "无线监控套装，包含两台防风雨 4K 摄像机和 HomeBase 3 基站，可本地录制至硬盘，无需订阅费用。内置太阳能板实现近乎不间断的户外续航，并具备先进的人员、车辆和动物 AI 检测能力。",
+        "highlights": ["两台 IP67 防水 4K 摄像机，内置太阳能板", "HomeBase 3：本地存储，无需强制订阅", "AI 检测人员 / 车辆 / 动物", "太阳能供电，户外近乎持续运行"],
+        "inTheBox": ["2 台 eufyCam 3 摄像机", "HomeBase 3 基站", "2 个安装支架", "USB-C 与以太网线", "快速入门指南"]
+      }
+    },
+    "attributes": { "protocol": ["rf-proprietaire", "wifi"], "placement": "interieur-exterieur", "power": ["batterie", "solaire"], "compat": ["alexa", "google", "apple-home", "app-marque", "safer-platform"], "resolution": "4k" },
+    "specs": [
+      { "key": "resolution", "value": "4K UHD (3840 × 2160)" },
+      { "key": "nightVision", "value": { "fr": "Couleur, IR jusqu’à 8 m", "en": "Colour, IR up to 8 m", "es": "Color, IR hasta 8 m", "ar": "ملوّن، أشعة تحت حمراء حتى 8 م", "zh": "彩色，红外最远 8 米" } },
+      { "key": "ai", "value": { "fr": "Personnes, véhicules, animaux, reconnaissance faciale", "en": "People, vehicles, animals, facial recognition", "es": "Personas, vehículos, animales, reconocimiento facial", "ar": "أشخاص، مركبات، حيوانات، تعرّف على الوجوه", "zh": "人员、车辆、动物，人脸识别" } },
+      { "key": "connectivity", "value": { "fr": "Radio propriétaire vers HomeBase 3, HomeBase en Wi-Fi/Ethernet", "en": "Proprietary radio link to HomeBase 3, HomeBase over Wi-Fi/Ethernet", "es": "Radio propietaria hacia HomeBase 3, HomeBase por Wi-Fi/Ethernet", "ar": "اتصال لاسلكي خاص إلى HomeBase 3، وHomeBase عبر Wi-Fi/إيثرنت", "zh": "专有无线连接至 HomeBase 3，HomeBase 支持 Wi-Fi/以太网" } },
+      { "key": "battery", "value": { "fr": "Rechargeable + panneau solaire intégré", "en": "Rechargeable + built-in solar panel", "es": "Recargable + panel solar integrado", "ar": "قابلة لإعادة الشحن + لوحة شمسية مدمجة", "zh": "可充电 + 内置太阳能板" } },
+      { "key": "localStorage", "value": { "fr": "HomeBase 3 : 16 Go intégrés, extensible 16 To", "en": "HomeBase 3: 16 GB built in, expandable to 16 TB", "es": "HomeBase 3: 16 GB integrados, ampliable a 16 TB", "ar": "HomeBase 3: سعة 16 جيجابايت مدمجة، قابلة للتوسيع إلى 16 تيرابايت", "zh": "HomeBase 3：内置 16GB，可扩展至 16TB" } },
+      { "key": "weatherproof", "value": "IP67" },
+      { "key": "operatingTemp", "value": "-20 °C … 45 °C" }
+    ],
+    "pricing": { "sourcePrice": 599.99, "sourceCurrency": "USD" },
+    "availability": "sur-devis",
+    "install": { "level": "standard", "duration": "1 h 30", "prerequisites": { "fr": "HomeBase 3 raccordée en Ethernet ou Wi-Fi, caméras dans un rayon de 100 m de la base, exposition solaire recommandée.", "en": "HomeBase 3 connected via Ethernet or Wi-Fi, cameras within 100 m of the base, sun exposure recommended.", "es": "HomeBase 3 conectada por Ethernet o Wi-Fi, cámaras a menos de 100 m de la base, se recomienda exposición solar.", "ar": "توصيل HomeBase 3 عبر إيثرنت أو Wi-Fi، والكاميرات ضمن نطاق 100 م من القاعدة، ويُفضَّل التعرّض للشمس.", "zh": "HomeBase 3 需通过以太网或 Wi-Fi 连接，摄像机需在基站 100 米范围内，建议有充足日照。" } },
+    "sourceUrl": "https://www.eufy.com/products/t88503d1",
+    "accent": "#0f766e",
+    "symbol": "▦",
+    "solutions": ["video-intelligente/cameras-exterieures", "video-intelligente/verification-video"],
+    "related": ["eufy-eufycam-s3-pro", "eufy-solar-panel"]
+  },
+  {
+    "id": "eufy-eufycam-s3-pro",
+    "sku": "EF-T8161",
+    "brand": "eufy",
+    "sourceBrand": "eufy Security",
+    "model": "eufyCam S3 Pro",
+    "category": "video",
+    "subcategory": "cameras-exterieures",
+    "i18n": {
+      "fr": {
+        "name": "eufy eufyCam S3 Pro",
+        "tagline": "4K, IA embarquée et projecteur intégré, sans base obligatoire.",
+        "description": "Caméra extérieure sans fil 4K autonome avec projecteur intégré, sirène et détection IA avancée par apprentissage local (personnes, véhicules, animaux). Fonctionne seule en Wi-Fi ou reliée à une HomeBase pour un stockage local étendu et une couverture multi-caméras.",
+        "highlights": ["Image 4K avec projecteur intégré et sirène 100 dB", "IA locale : personnes, véhicules, animaux, paquets", "Fonctionne en Wi-Fi seul ou avec HomeBase", "Batterie longue durée, solaire compatible"],
+        "inTheBox": ["Caméra eufyCam S3 Pro", "Support de fixation", "Câble de charge USB-C", "Visserie", "Guide de démarrage"]
+      },
+      "en": {
+        "name": "eufy eufyCam S3 Pro",
+        "tagline": "4K, on-device AI and a built-in spotlight, no base required.",
+        "description": "Standalone wireless 4K outdoor camera with built-in spotlight, siren and advanced local AI detection (people, vehicles, animals). Works alone over Wi-Fi or paired with a HomeBase for extended local storage and multi-camera coverage.",
+        "highlights": ["4K image with built-in spotlight and 100 dB siren", "On-device AI: people, vehicles, animals, packages", "Works standalone over Wi-Fi or with a HomeBase", "Long-life battery, solar compatible"],
+        "inTheBox": ["eufyCam S3 Pro camera", "Mounting bracket", "USB-C charging cable", "Screws", "Quick start guide"]
+      },
+      "es": {
+        "name": "eufy eufyCam S3 Pro",
+        "tagline": "4K, IA integrada y foco incorporado, sin base obligatoria.",
+        "description": "Cámara exterior inalámbrica 4K autónoma con foco integrado, sirena y detección IA local avanzada (personas, vehículos, animales). Funciona sola por Wi-Fi o conectada a una HomeBase para un almacenamiento local ampliado y cobertura multicámara.",
+        "highlights": ["Imagen 4K con foco integrado y sirena de 100 dB", "IA local: personas, vehículos, animales, paquetes", "Funciona solo por Wi-Fi o con HomeBase", "Batería de larga duración, compatible con solar"],
+        "inTheBox": ["Cámara eufyCam S3 Pro", "Soporte de fijación", "Cable de carga USB-C", "Tornillería", "Guía de inicio rápido"]
+      },
+      "ar": {
+        "name": "eufy eufyCam S3 Pro",
+        "tagline": "دقة 4K وذكاء اصطناعي محلي وكشّاف مدمج، دون الحاجة لقاعدة.",
+        "description": "كاميرا خارجية لاسلكية مستقلة بدقة 4K مع كشّاف مدمج وصفارة إنذار وكشف ذكاء اصطناعي محلي متقدم (أشخاص، مركبات، حيوانات). تعمل بمفردها عبر Wi-Fi أو متصلة بـ HomeBase لتخزين محلي أوسع وتغطية متعددة الكاميرات.",
+        "highlights": ["صورة 4K مع كشّاف مدمج وصفارة 100 ديسيبل", "ذكاء اصطناعي محلي: أشخاص، مركبات، حيوانات، طرود", "تعمل بمفردها عبر Wi-Fi أو مع HomeBase", "بطارية طويلة العمر، متوافقة مع الطاقة الشمسية"],
+        "inTheBox": ["كاميرا eufyCam S3 Pro", "حامل تثبيت", "كابل شحن USB-C", "براغي", "دليل البدء السريع"]
+      },
+      "zh": {
+        "name": "eufy eufyCam S3 Pro",
+        "tagline": "4K 画质，本地 AI 与内置补光灯，无需基站。",
+        "description": "独立无线 4K 户外摄像机，内置补光灯与警报器，并具备先进的本地 AI 检测（人员、车辆、动物）。可单独通过 Wi-Fi 使用，也可连接 HomeBase 以获得更大本地存储和多摄像机覆盖。",
+        "highlights": ["4K 画质，内置补光灯与 100 分贝警报器", "本地 AI：人员、车辆、动物、包裹", "可单独通过 Wi-Fi 使用或搭配 HomeBase", "长效电池，支持太阳能"],
+        "inTheBox": ["eufyCam S3 Pro 摄像机", "安装支架", "USB-C 充电线", "螺丝", "快速入门指南"]
+      }
+    },
+    "attributes": { "protocol": ["wifi"], "placement": "exterieur", "power": ["batterie", "solaire"], "compat": ["alexa", "google", "app-marque", "safer-platform"], "resolution": "4k" },
+    "specs": [
+      { "key": "resolution", "value": "4K UHD (3840 × 2160)" },
+      { "key": "nightVision", "value": { "fr": "Couleur avec projecteur intégré", "en": "Colour with built-in spotlight", "es": "Color con foco integrado", "ar": "ملوّن مع كشّاف مدمج", "zh": "彩色，内置补光灯" } },
+      { "key": "ai", "value": { "fr": "Personnes, véhicules, animaux, paquets (IA locale)", "en": "People, vehicles, animals, packages (on-device AI)", "es": "Personas, vehículos, animales, paquetes (IA local)", "ar": "أشخاص، مركبات، حيوانات، طرود (ذكاء اصطناعي محلي)", "zh": "人员、车辆、动物、包裹（本地 AI）" } },
+      { "key": "connectivity", "value": { "fr": "Wi-Fi 2,4 GHz, ou HomeBase en option", "en": "2.4 GHz Wi-Fi, or HomeBase optional", "es": "Wi-Fi de 2,4 GHz, o HomeBase opcional", "ar": "Wi-Fi بتردد 2.4 جيجاهرتز، أو HomeBase اختياري", "zh": "2.4 GHz Wi-Fi，或可选 HomeBase" } },
+      { "key": "battery", "value": { "fr": "Rechargeable, solaire en option", "en": "Rechargeable, solar optional", "es": "Recargable, solar opcional", "ar": "قابلة لإعادة الشحن، طاقة شمسية اختيارية", "zh": "可充电，太阳能可选" } },
+      { "key": "siren", "value": { "fr": "Sirène intégrée 100 dB", "en": "Built-in 100 dB siren", "es": "Sirena integrada de 100 dB", "ar": "صفارة إنذار مدمجة 100 ديسيبل", "zh": "内置 100 分贝警报器" } },
+      { "key": "storage", "value": { "fr": "microSD 128 Go max ou HomeBase", "en": "microSD up to 128 GB, or HomeBase", "es": "microSD hasta 128 GB, o HomeBase", "ar": "microSD حتى 128 جيجابايت، أو HomeBase", "zh": "microSD 最高 128GB，或使用 HomeBase" } },
+      { "key": "weatherproof", "value": "IP67" }
+    ],
+    "pricing": { "sourcePrice": 219.99, "sourceCurrency": "USD" },
+    "availability": "sur-commande",
+    "install": { "level": "simple", "duration": "30 min", "prerequisites": { "fr": "Wi-Fi 2,4 GHz couvrant l’emplacement, ou HomeBase à moins de 100 m.", "en": "2.4 GHz Wi-Fi coverage at the location, or a HomeBase within 100 m.", "es": "Cobertura Wi-Fi de 2,4 GHz en el lugar, o HomeBase a menos de 100 m.", "ar": "تغطية Wi-Fi بتردد 2.4 جيجاهرتز في الموقع، أو HomeBase ضمن نطاق 100 م.", "zh": "安装位置需有 2.4 GHz Wi-Fi 覆盖，或 HomeBase 需在 100 米范围内。" } },
+    "sourceUrl": "https://www.eufy.com/products/t81403d1",
+    "accent": "#0f766e",
+    "symbol": "◈",
+    "solutions": ["video-intelligente/cameras-exterieures", "video-intelligente/verification-video"],
+    "related": ["eufy-eufycam-3-s330", "eufy-solar-panel"]
+  },
+  {
+    "id": "eufy-solocam-s340",
+    "sku": "EF-T8172",
+    "brand": "eufy",
+    "sourceBrand": "eufy Security",
+    "model": "SoloCam S340",
+    "category": "video",
+    "subcategory": "cameras-ptz",
+    "i18n": {
+      "fr": {
+        "name": "eufy SoloCam S340",
+        "tagline": "Vision panoramique 360° et suivi actif, sans base ni abonnement.",
+        "description": "Caméra motorisée sans fil combinant une vue grand-angle fixe et un objectif pivotant à 360° qui suit automatiquement le mouvement en zoomant sur le sujet. Panneau solaire intégré et stockage local sans abonnement pour une surveillance autonome de longue durée.",
+        "highlights": ["Rotation 360° avec suivi actif du mouvement", "Vue grand-angle 2K + zoom pivotant combinés", "Panneau solaire intégré, autonomie quasi continue", "Stockage local intégré, sans abonnement obligatoire"],
+        "inTheBox": ["Caméra SoloCam S340", "Support de fixation", "Câble de charge USB-C", "Visserie", "Guide de démarrage"]
+      },
+      "en": {
+        "name": "eufy SoloCam S340",
+        "tagline": "360° panoramic view with active tracking, no base or subscription.",
+        "description": "Wireless motorised camera combining a fixed wide-angle view with a 360° pivoting lens that automatically follows and zooms in on motion. Built-in solar panel and local storage with no subscription for long-term standalone monitoring.",
+        "highlights": ["360° rotation with active motion tracking", "Combined 2K wide-angle view + pivoting zoom", "Built-in solar panel, near-continuous runtime", "Built-in local storage, no subscription required"],
+        "inTheBox": ["SoloCam S340 camera", "Mounting bracket", "USB-C charging cable", "Screws", "Quick start guide"]
+      },
+      "es": {
+        "name": "eufy SoloCam S340",
+        "tagline": "Vista panorámica de 360° con seguimiento activo, sin base ni suscripción.",
+        "description": "Cámara motorizada inalámbrica que combina una vista gran angular fija con una lente giratoria de 360° que sigue automáticamente el movimiento y hace zoom sobre el sujeto. Panel solar integrado y almacenamiento local sin suscripción para una vigilancia autónoma de larga duración.",
+        "highlights": ["Rotación de 360° con seguimiento activo", "Vista gran angular 2K + zoom giratorio combinados", "Panel solar integrado, autonomía casi continua", "Almacenamiento local integrado, sin suscripción obligatoria"],
+        "inTheBox": ["Cámara SoloCam S340", "Soporte de fijación", "Cable de carga USB-C", "Tornillería", "Guía de inicio rápido"]
+      },
+      "ar": {
+        "name": "eufy SoloCam S340",
+        "tagline": "رؤية بانورامية 360° وتتبع نشط، دون قاعدة أو اشتراك.",
+        "description": "كاميرا محورية لاسلكية تجمع بين رؤية ثابتة واسعة الزاوية وعدسة دوّارة 360° تتبع الحركة تلقائياً وتقرّب على الهدف. لوحة شمسية مدمجة وتخزين محلي دون اشتراك لمراقبة مستقلة طويلة الأمد.",
+        "highlights": ["دوران 360° مع تتبع نشط للحركة", "رؤية 2K واسعة الزاوية مع تقريب دوّار", "لوحة شمسية مدمجة، عمل شبه متواصل", "تخزين محلي مدمج دون اشتراك إلزامي"],
+        "inTheBox": ["كاميرا SoloCam S340", "حامل تثبيت", "كابل شحن USB-C", "براغي", "دليل البدء السريع"]
+      },
+      "zh": {
+        "name": "eufy SoloCam S340",
+        "tagline": "360° 全景视野与主动追踪，无需基站或订阅。",
+        "description": "无线云台摄像机，结合固定广角视野与可 360° 旋转的镜头，能自动追踪并放大移动目标。内置太阳能板与本地存储，无需订阅，实现长期自主监控。",
+        "highlights": ["360° 旋转，主动追踪移动目标", "2K 广角视野与旋转变焦结合", "内置太阳能板，近乎持续续航", "内置本地存储，无需强制订阅"],
+        "inTheBox": ["SoloCam S340 摄像机", "安装支架", "USB-C 充电线", "螺丝", "快速入门指南"]
+      }
+    },
+    "attributes": { "protocol": ["wifi"], "placement": "exterieur", "power": ["batterie", "solaire"], "compat": ["alexa", "google", "app-marque", "safer-platform"], "resolution": "2k" },
+    "specs": [
+      { "key": "resolution", "value": "2K (grand-angle) + zoom pivotant" },
+      { "key": "ptz", "value": { "fr": "Rotation 360° avec suivi actif", "en": "360° rotation with active tracking", "es": "Rotación 360° con seguimiento activo", "ar": "دوران 360° مع تتبع نشط", "zh": "360° 旋转，主动追踪" } },
+      { "key": "nightVision", "value": { "fr": "Couleur, IR intégré", "en": "Colour, built-in IR", "es": "Color, IR integrado", "ar": "ملوّن، أشعة تحت حمراء مدمجة", "zh": "彩色，内置红外" } },
+      { "key": "ai", "value": { "fr": "Détection de personnes et de mouvement, suivi actif", "en": "People and motion detection, active tracking", "es": "Detección de personas y movimiento, seguimiento activo", "ar": "كشف الأشخاص والحركة، تتبع نشط", "zh": "人形与移动检测，主动追踪" } },
+      { "key": "connectivity", "value": "Wi-Fi 2,4 GHz" },
+      { "key": "battery", "value": { "fr": "Rechargeable + panneau solaire intégré", "en": "Rechargeable + built-in solar panel", "es": "Recargable + panel solar integrado", "ar": "قابلة لإعادة الشحن + لوحة شمسية مدمجة", "zh": "可充电 + 内置太阳能板" } },
+      { "key": "localStorage", "value": { "fr": "8 Go intégrés, sans abonnement", "en": "8 GB built in, no subscription", "es": "8 GB integrados, sin suscripción", "ar": "8 جيجابايت مدمجة، دون اشتراك", "zh": "内置 8GB，无需订阅" } },
+      { "key": "weatherproof", "value": "IP65" }
+    ],
+    "pricing": { "sourcePrice": 189.99, "sourceCurrency": "USD" },
+    "availability": "sur-commande",
+    "install": { "level": "simple", "duration": "30 min", "prerequisites": { "fr": "Wi-Fi 2,4 GHz couvrant l’emplacement, exposition solaire recommandée.", "en": "2.4 GHz Wi-Fi coverage at the location, sun exposure recommended.", "es": "Cobertura Wi-Fi de 2,4 GHz en el lugar, se recomienda exposición solar.", "ar": "تغطية Wi-Fi بتردد 2.4 جيجاهرتز في الموقع، ويُفضَّل التعرّض للشمس.", "zh": "安装位置需有 2.4 GHz Wi-Fi 覆盖，建议有充足日照。" } },
+    "sourceUrl": "https://www.eufy.com/products/t8172121",
+    "accent": "#0f766e",
+    "symbol": "↗",
+    "solutions": ["video-intelligente/cameras-exterieures", "video-intelligente/verification-video"],
+    "related": ["eufy-solar-panel", "eufy-floodlight-cam-e340"]
+  },
+  {
+    "id": "eufy-indoor-cam-e220",
+    "sku": "EF-T8410",
+    "brand": "eufy",
+    "sourceBrand": "eufy Security",
+    "model": "Indoor Cam E220",
+    "category": "video",
+    "subcategory": "cameras-interieures",
+    "i18n": {
+      "fr": {
+        "name": "eufy Indoor Cam E220",
+        "tagline": "Caméra intérieure 2K motorisée, discrète et sans abonnement.",
+        "description": "Caméra intérieure compacte à rotation 360° et inclinaison 96°, image 2K nette et détection intelligente des personnes et des animaux domestiques. Stockage local intégré sans abonnement, idéale pour surveiller un salon, une chambre d’enfant ou un animal en journée.",
+        "highlights": ["Rotation 360° et inclinaison 96° motorisées", "Image 2K nette de jour comme de nuit", "Détection IA personnes et animaux domestiques", "Stockage local intégré, sans abonnement obligatoire"],
+        "inTheBox": ["Caméra Indoor Cam E220", "Socle de pose", "Câble d’alimentation USB-C", "Guide de démarrage"]
+      },
+      "en": {
+        "name": "eufy Indoor Cam E220",
+        "tagline": "Motorised 2K indoor camera, discreet and subscription-free.",
+        "description": "Compact indoor camera with 360° pan and 96° tilt, sharp 2K image and smart detection of people and pets. Built-in local storage with no subscription, ideal for watching a living room, a child's bedroom or a pet during the day.",
+        "highlights": ["Motorised 360° pan and 96° tilt", "Sharp 2K image day and night", "AI detection of people and pets", "Built-in local storage, no subscription required"],
+        "inTheBox": ["Indoor Cam E220", "Tabletop stand", "USB-C power cable", "Quick start guide"]
+      },
+      "es": {
+        "name": "eufy Indoor Cam E220",
+        "tagline": "Cámara interior 2K motorizada, discreta y sin suscripción.",
+        "description": "Cámara interior compacta con rotación de 360° e inclinación de 96°, imagen 2K nítida y detección inteligente de personas y mascotas. Almacenamiento local integrado sin suscripción, ideal para vigilar un salón, el cuarto de un niño o una mascota durante el día.",
+        "highlights": ["Rotación 360° e inclinación 96° motorizadas", "Imagen 2K nítida de día y de noche", "Detección IA de personas y mascotas", "Almacenamiento local integrado, sin suscripción obligatoria"],
+        "inTheBox": ["Cámara Indoor Cam E220", "Soporte de mesa", "Cable de alimentación USB-C", "Guía de inicio rápido"]
+      },
+      "ar": {
+        "name": "eufy Indoor Cam E220",
+        "tagline": "كاميرا داخلية محورية بدقة 2K، أنيقة ودون اشتراك.",
+        "description": "كاميرا داخلية مدمجة بدوران 360° وإمالة 96°، وصورة 2K واضحة، وكشف ذكي للأشخاص والحيوانات الأليفة. تخزين محلي مدمج دون اشتراك، مثالية لمراقبة صالة أو غرفة طفل أو حيوان أليف خلال النهار.",
+        "highlights": ["دوران محوري 360° وإمالة 96°", "صورة 2K واضحة نهاراً وليلاً", "كشف ذكي للأشخاص والحيوانات الأليفة", "تخزين محلي مدمج دون اشتراك إلزامي"],
+        "inTheBox": ["كاميرا Indoor Cam E220", "قاعدة تثبيت", "كابل تغذية USB-C", "دليل البدء السريع"]
+      },
+      "zh": {
+        "name": "eufy Indoor Cam E220",
+        "tagline": "云台室内 2K 摄像机，简约设计，无需订阅。",
+        "description": "紧凑型室内摄像机，支持 360° 水平旋转和 96° 俯仰，画质清晰 2K，并可智能检测人员和宠物。内置本地存储，无需订阅，适合白天监控客厅、儿童房或宠物。",
+        "highlights": ["360° 水平旋转与 96° 俯仰", "清晰 2K 画质，全天候可用", "AI 检测人员与宠物", "内置本地存储，无需强制订阅"],
+        "inTheBox": ["Indoor Cam E220 摄像机", "桌面底座", "USB-C 电源线", "快速入门指南"]
+      }
+    },
+    "attributes": { "protocol": ["wifi"], "placement": "interieur", "power": ["secteur"], "compat": ["alexa", "google", "app-marque", "safer-platform"], "resolution": "2k" },
+    "specs": [
+      { "key": "resolution", "value": "2K (3 MP)" },
+      { "key": "ptz", "value": "Panoramique 360°, inclinaison 96°" },
+      { "key": "nightVision", "value": { "fr": "Noir et blanc, IR 8 m", "en": "Black and white, 8 m IR", "es": "Blanco y negro, IR 8 m", "ar": "أبيض وأسود، أشعة تحت حمراء 8 م", "zh": "黑白，8 米红外" } },
+      { "key": "ai", "value": { "fr": "Détection de personnes et d’animaux domestiques", "en": "Detection of people and pets", "es": "Detección de personas y mascotas", "ar": "كشف الأشخاص والحيوانات الأليفة", "zh": "人员与宠物检测" } },
+      { "key": "connectivity", "value": "Wi-Fi 2,4 GHz" },
+      { "key": "localStorage", "value": { "fr": "microSD 128 Go max intégrée en option", "en": "microSD up to 128 GB, optional", "es": "microSD hasta 128 GB, opcional", "ar": "microSD حتى 128 جيجابايت، اختياري", "zh": "microSD 最高 128GB，可选配" } },
+      { "key": "twoWayAudio", "value": { "fr": "Microphone et haut-parleur intégrés", "en": "Built-in microphone and speaker", "es": "Micrófono y altavoz integrados", "ar": "ميكروفون ومكبر صوت مدمجان", "zh": "内置麦克风与扬声器" } }
+    ],
+    "pricing": { "sourcePrice": 39.99, "sourceCurrency": "USD" },
+    "availability": "en-stock",
+    "install": { "level": "simple", "duration": "15 min", "prerequisites": { "fr": "Prise secteur et Wi-Fi 2,4 GHz à proximité.", "en": "Mains socket and 2.4 GHz Wi-Fi nearby.", "es": "Toma de corriente y Wi-Fi de 2,4 GHz cerca.", "ar": "مأخذ كهربائي وشبكة Wi-Fi بتردد 2.4 جيجاهرتز قريبة.", "zh": "附近需有电源插座及 2.4 GHz Wi-Fi。" } },
+    "sourceUrl": "https://www.eufy.com/products/t8410121",
+    "accent": "#0f766e",
+    "symbol": "◎",
+    "solutions": ["video-intelligente/verification-video"],
+    "related": ["eufy-video-doorbell-e340"]
+  },
+  {
+    "id": "eufy-floodlight-cam-e340",
+    "sku": "EF-T8425",
+    "brand": "eufy",
+    "sourceBrand": "eufy Security",
+    "model": "Floodlight Cam E340",
+    "category": "video",
+    "subcategory": "cameras-exterieures",
+    "i18n": {
+      "fr": {
+        "name": "eufy Floodlight Cam E340",
+        "tagline": "Double caméra grand-angle et zoom, sous un projecteur puissant.",
+        "description": "Caméra extérieure filaire à double objectif combinant une vue large et un zoom pour surveiller une allée ou une cour, sous un projecteur LED de 2 500 lumens réglable. Détection IA des personnes et véhicules, stockage local sans abonnement obligatoire.",
+        "highlights": ["Double caméra : vue large + zoom, 3K combiné", "Projecteur LED 2 500 lumens réglable", "Détection IA personnes / véhicules", "Stockage local intégré, sans abonnement obligatoire"],
+        "inTheBox": ["Caméra Floodlight Cam E340", "Support de fixation", "Câble de raccordement", "Visserie", "Guide de démarrage"]
+      },
+      "en": {
+        "name": "eufy Floodlight Cam E340",
+        "tagline": "Dual wide-angle and zoom cameras, under a powerful floodlight.",
+        "description": "Wired outdoor dual-lens camera combining a wide view and a zoom lens to watch over a driveway or yard, under an adjustable 2,500-lumen LED floodlight. AI detection of people and vehicles, local storage with no subscription required.",
+        "highlights": ["Dual camera: wide view + zoom, combined 3K", "Adjustable 2,500-lumen LED floodlight", "AI detection of people / vehicles", "Built-in local storage, no subscription required"],
+        "inTheBox": ["Floodlight Cam E340", "Mounting bracket", "Wiring cable", "Screws", "Quick start guide"]
+      },
+      "es": {
+        "name": "eufy Floodlight Cam E340",
+        "tagline": "Doble cámara de gran angular y zoom, bajo un potente foco.",
+        "description": "Cámara exterior cableada de doble lente que combina una vista amplia y un zoom para vigilar un camino de acceso o un patio, bajo un foco LED ajustable de 2.500 lúmenes. Detección IA de personas y vehículos, almacenamiento local sin suscripción obligatoria.",
+        "highlights": ["Doble cámara: vista amplia + zoom, 3K combinado", "Foco LED ajustable de 2.500 lúmenes", "Detección IA de personas / vehículos", "Almacenamiento local integrado, sin suscripción obligatoria"],
+        "inTheBox": ["Cámara Floodlight Cam E340", "Soporte de fijación", "Cable de conexión", "Tornillería", "Guía de inicio rápido"]
+      },
+      "ar": {
+        "name": "eufy Floodlight Cam E340",
+        "tagline": "كاميرا مزدوجة واسعة الزاوية وبتقريب، تحت كشّاف قوي.",
+        "description": "كاميرا خارجية سلكية بعدستين تجمع بين رؤية واسعة وتقريب لمراقبة ممر أو فناء، تحت كشّاف LED قابل للتعديل بقوة 2500 لومن. كشف ذكي للأشخاص والمركبات، وتخزين محلي دون اشتراك إلزامي.",
+        "highlights": ["كاميرا مزدوجة: رؤية واسعة + تقريب، 3K مجتمعة", "كشّاف LED قابل للتعديل بقوة 2500 لومن", "كشف ذكي للأشخاص والمركبات", "تخزين محلي مدمج دون اشتراك إلزامي"],
+        "inTheBox": ["كاميرا Floodlight Cam E340", "حامل تثبيت", "كابل توصيل", "براغي", "دليل البدء السريع"]
+      },
+      "zh": {
+        "name": "eufy Floodlight Cam E340",
+        "tagline": "广角加变焦双摄像头，配备强力泛光灯。",
+        "description": "有线户外双镜头摄像机，结合广角视野与变焦镜头，可监控车道或庭院，并配备可调节的 2500 流明 LED 泛光灯。具备 AI 人员与车辆检测，内置本地存储，无需强制订阅。",
+        "highlights": ["双摄像头：广角 + 变焦，合计 3K", "可调节 2500 流明 LED 泛光灯", "AI 检测人员 / 车辆", "内置本地存储，无需强制订阅"],
+        "inTheBox": ["Floodlight Cam E340 摄像机", "安装支架", "接线电缆", "螺丝", "快速入门指南"]
+      }
+    },
+    "attributes": { "protocol": ["wifi"], "placement": "exterieur", "power": ["secteur"], "compat": ["alexa", "google", "app-marque", "safer-platform"], "resolution": "3k" },
+    "specs": [
+      { "key": "resolution", "value": { "fr": "3K combiné (vue large + zoom)", "en": "3K combined (wide view + zoom)", "es": "3K combinado (vista amplia + zoom)", "ar": "3K مجتمعة (رؤية واسعة + تقريب)", "zh": "3K 合计（广角 + 变焦）" } },
+      { "key": "fieldOfView", "value": "122° horizontal" },
+      { "key": "nightVision", "value": { "fr": "Couleur avec projecteur LED", "en": "Colour with LED floodlight", "es": "Color con foco LED", "ar": "ملوّن مع كشّاف LED", "zh": "彩色，配备 LED 泛光灯" } },
+      { "key": "ai", "value": { "fr": "Détection de personnes et véhicules", "en": "People and vehicle detection", "es": "Detección de personas y vehículos", "ar": "كشف الأشخاص والمركبات", "zh": "人员与车辆检测" } },
+      { "key": "brightness", "value": { "fr": "2 500 lumens réglables", "en": "2,500 lumens, adjustable", "es": "2.500 lúmenes, ajustable", "ar": "2500 لومن قابل للتعديل", "zh": "2500 流明，可调节" } },
+      { "key": "connectivity", "value": "Wi-Fi 2,4 GHz" },
+      { "key": "localStorage", "value": { "fr": "microSD 128 Go max, sans abonnement obligatoire", "en": "microSD up to 128 GB, no subscription required", "es": "microSD hasta 128 GB, sin suscripción obligatoria", "ar": "microSD حتى 128 جيجابايت، دون اشتراك إلزامي", "zh": "microSD 最高 128GB，无需强制订阅" } },
+      { "key": "weatherproof", "value": "IP65" }
+    ],
+    "pricing": { "sourcePrice": 219.99, "sourceCurrency": "USD" },
+    "availability": "sur-commande",
+    "install": { "level": "expert", "duration": "1 h 30", "prerequisites": { "fr": "Raccordement secteur 230 V, Wi-Fi 2,4 GHz couvrant l’emplacement.", "en": "230 V mains connection, 2.4 GHz Wi-Fi coverage at the location.", "es": "Conexión a red de 230 V, cobertura Wi-Fi de 2,4 GHz en el lugar.", "ar": "توصيل بالتيار الكهربائي 230 فولت، وتغطية Wi-Fi بتردد 2.4 جيجاهرتز.", "zh": "需接入 230V 市电，安装位置需有 2.4 GHz Wi-Fi 覆盖。" } },
+    "sourceUrl": "https://www.eufy.com/products/t84253d1",
+    "accent": "#0f766e",
+    "symbol": "▣",
+    "solutions": ["video-intelligente/cameras-exterieures", "video-intelligente/verification-video"],
+    "related": ["eufy-solocam-s340", "eufy-eufycam-s3-pro"]
+  },
+  {
+    "id": "eufy-smart-lock-c33",
+    "sku": "EF-T8503",
+    "brand": "eufy",
+    "sourceBrand": "eufy Security",
+    "model": "Smart Lock C33",
+    "category": "acces",
+    "subcategory": "serrures-connectees",
+    "i18n": {
+      "fr": {
+        "name": "eufy Smart Lock C33",
+        "tagline": "Ouverture par empreinte, code ou application, sans clé du quotidien.",
+        "description": "Serrure connectée à empreinte digitale, clavier codé et application mobile, avec verrouillage automatique et journal des accès pour chaque membre du foyer. Fonctionne sur pile avec plusieurs mois d’autonomie et se pose sur la plupart des portes standards.",
+        "highlights": ["Ouverture par empreinte digitale, code ou application", "Verrouillage automatique et anti-arrachement", "Journal des accès et gestion multi-utilisateurs", "Autonomie sur pile jusqu’à 6 mois"],
+        "inTheBox": ["Serrure Smart Lock C33", "Cylindre et plaques de fixation", "Piles", "Cartes de reprogrammation", "Guide de démarrage"]
+      },
+      "en": {
+        "name": "eufy Smart Lock C33",
+        "tagline": "Unlock by fingerprint, code or app, no daily key needed.",
+        "description": "Smart lock with fingerprint reader, keypad and mobile app, with auto-lock and an access log for every household member. Battery powered with several months of runtime, fits most standard doors.",
+        "highlights": ["Unlock by fingerprint, code or app", "Auto-lock and anti-pry protection", "Access log and multi-user management", "Battery runtime up to 6 months"],
+        "inTheBox": ["Smart Lock C33", "Cylinder and mounting plates", "Batteries", "Reprogramming cards", "Quick start guide"]
+      },
+      "es": {
+        "name": "eufy Smart Lock C33",
+        "tagline": "Apertura por huella, código o app, sin llave del día a día.",
+        "description": "Cerradura conectada con lector de huella dactilar, teclado y aplicación móvil, con bloqueo automático y registro de accesos para cada miembro del hogar. Funciona con pilas con varios meses de autonomía y se instala en la mayoría de puertas estándar.",
+        "highlights": ["Apertura por huella, código o aplicación", "Bloqueo automático y protección antiforzado", "Registro de accesos y gestión multiusuario", "Autonomía con pilas de hasta 6 meses"],
+        "inTheBox": ["Cerradura Smart Lock C33", "Cilindro y placas de fijación", "Pilas", "Tarjetas de reprogramación", "Guía de inicio rápido"]
+      },
+      "ar": {
+        "name": "eufy Smart Lock C33",
+        "tagline": "فتح ببصمة الإصبع أو الرمز أو التطبيق، دون مفتاح يومي.",
+        "description": "قفل ذكي بقارئ بصمة ولوحة أرقام وتطبيق للهاتف، مع إغلاق تلقائي وسجل دخول لكل فرد من أفراد المنزل. يعمل بالبطاريات لعدة أشهر ويناسب معظم الأبواب القياسية.",
+        "highlights": ["فتح ببصمة الإصبع أو الرمز أو التطبيق", "إغلاق تلقائي وحماية من الانتزاع", "سجل دخول وإدارة متعددة المستخدمين", "عمر بطارية يصل إلى 6 أشهر"],
+        "inTheBox": ["قفل Smart Lock C33", "أسطوانة ولوحات تثبيت", "بطاريات", "بطاقات إعادة برمجة", "دليل البدء السريع"]
+      },
+      "zh": {
+        "name": "eufy Smart Lock C33",
+        "tagline": "指纹、密码或手机 App 开锁，告别日常钥匙。",
+        "description": "智能门锁配备指纹识别、密码键盘和手机 App，支持自动落锁并为每位家庭成员记录出入日志。电池供电，续航可达数月，适配大多数标准门锁孔位。",
+        "highlights": ["指纹、密码或 App 开锁", "自动落锁与防撬保护", "出入日志与多用户管理", "电池续航长达 6 个月"],
+        "inTheBox": ["Smart Lock C33 门锁", "锁芯与安装底板", "电池", "重新编程卡", "快速入门指南"]
+      }
+    },
+    "attributes": { "protocol": ["bluetooth"], "placement": "exterieur", "power": ["pile"], "compat": ["app-marque", "safer-platform"] },
+    "specs": [
+      { "key": "unlockMethods", "value": { "fr": "Empreinte digitale, code, application, clé mécanique de secours", "en": "Fingerprint, code, app, mechanical backup key", "es": "Huella dactilar, código, aplicación, llave mecánica de respaldo", "ar": "بصمة الإصبع، الرمز، التطبيق، مفتاح ميكانيكي احتياطي", "zh": "指纹、密码、App、机械备用钥匙" } },
+      { "key": "lockType", "value": { "fr": "Verrouillage automatique motorisé", "en": "Motorised auto-lock", "es": "Bloqueo automático motorizado", "ar": "إغلاق تلقائي آلي", "zh": "电动自动落锁" } },
+      { "key": "users", "value": { "fr": "Jusqu’à 15 utilisateurs", "en": "Up to 15 users", "es": "Hasta 15 usuarios", "ar": "حتى 15 مستخدماً", "zh": "最多 15 位用户" } },
+      { "key": "log", "value": { "fr": "Journal des accès horodaté", "en": "Timestamped access log", "es": "Registro de accesos con hora", "ar": "سجل دخول موقّت زمنياً", "zh": "带时间戳的出入日志" } },
+      { "key": "battery", "value": { "fr": "4 piles AA, jusqu’à 6 mois", "en": "4x AA batteries, up to 6 months", "es": "4 pilas AA, hasta 6 meses", "ar": "4 بطاريات AA، حتى 6 أشهر", "zh": "4 节 AA 电池，续航最长 6 个月" } },
+      { "key": "tamper", "value": "Alarme anti-arrachement" },
+      { "key": "connectivity", "value": { "fr": "Bluetooth, pont Wi-Fi en option", "en": "Bluetooth, Wi-Fi bridge optional", "es": "Bluetooth, puente Wi-Fi opcional", "ar": "بلوتوث، جسر Wi-Fi اختياري", "zh": "蓝牙，Wi-Fi 桥接器可选" } },
+      { "key": "weatherproof", "value": "IP65" }
+    ],
+    "pricing": { "sourcePrice": 169.99, "sourceCurrency": "USD" },
+    "availability": "sur-commande",
+    "install": { "level": "expert", "duration": "1 h", "prerequisites": { "fr": "Porte compatible cylindre standard, épaisseur 35-55 mm, alignement vérifié par un partenaire.", "en": "Door compatible with a standard cylinder, 35-55 mm thickness, alignment checked by a partner.", "es": "Puerta compatible con cilindro estándar, grosor de 35-55 mm, alineación verificada por un partner.", "ar": "باب متوافق مع أسطوانة قياسية، سماكة 35-55 مم، ويتحقق شريك من المحاذاة.", "zh": "需为兼容标准锁芯的门，厚度 35-55 毫米，需由合作伙伴检查对位。" } },
+    "sourceUrl": "https://www.eufy.com/products/t8503121",
+    "accent": "#0f766e",
+    "symbol": "⌁",
+    "warrantyMonths": 24,
+    "solutions": ["controle-acces/serrures-intelligentes"],
+    "related": ["eufy-video-doorbell-e340"]
+  },
+  {
+    "id": "eufy-solar-panel",
+    "sku": "EF-T8700",
+    "brand": "eufy",
+    "sourceBrand": "eufy Security",
+    "model": "Solar Panel",
+    "category": "energie",
+    "subcategory": "solaire",
+    "i18n": {
+      "fr": {
+        "name": "eufy Solar Panel",
+        "tagline": "Recharge solaire continue pour vos caméras eufy à batterie.",
+        "description": "Panneau solaire compact compatible avec les caméras eufy à batterie, pour une recharge continue même par temps couvert et une autonomie quasi illimitée en extérieur. Résistant aux intempéries, il se fixe avec un support orientable pour un ensoleillement optimal.",
+        "highlights": ["Recharge solaire continue, autonomie quasi illimitée", "Compatible avec les caméras eufy à batterie", "Support orientable et étanche IP65", "Câble de 3 m inclus"],
+        "inTheBox": ["Panneau solaire eufy", "Support de fixation orientable", "Câble de 3 m", "Visserie", "Guide de démarrage"]
+      },
+      "en": {
+        "name": "eufy Solar Panel",
+        "tagline": "Continuous solar charging for your eufy battery cameras.",
+        "description": "Compact solar panel compatible with eufy battery cameras, providing continuous charging even in overcast weather and near-unlimited outdoor runtime. Weatherproof, it mounts on an adjustable bracket for optimal sun exposure.",
+        "highlights": ["Continuous solar charging, near-unlimited runtime", "Compatible with eufy battery cameras", "Adjustable bracket, IP65 weatherproof", "3 m cable included"],
+        "inTheBox": ["eufy Solar Panel", "Adjustable mounting bracket", "3 m cable", "Screws", "Quick start guide"]
+      },
+      "es": {
+        "name": "eufy Solar Panel",
+        "tagline": "Carga solar continua para sus cámaras eufy con batería.",
+        "description": "Panel solar compacto compatible con las cámaras eufy con batería, que ofrece carga continua incluso en días nublados y una autonomía casi ilimitada en exterior. Resistente a la intemperie, se fija con un soporte orientable para una exposición solar óptima.",
+        "highlights": ["Carga solar continua, autonomía casi ilimitada", "Compatible con las cámaras eufy con batería", "Soporte orientable, resistente IP65", "Cable de 3 m incluido"],
+        "inTheBox": ["Panel solar eufy", "Soporte de fijación orientable", "Cable de 3 m", "Tornillería", "Guía de inicio rápido"]
+      },
+      "ar": {
+        "name": "eufy Solar Panel",
+        "tagline": "شحن شمسي مستمر لكاميرات eufy العاملة بالبطارية.",
+        "description": "لوحة شمسية مدمجة متوافقة مع كاميرات eufy العاملة بالبطارية، توفر شحناً مستمراً حتى في الأجواء الغائمة وعمراً شبه غير محدود في الخارج. مقاومة للعوامل الجوية، تُركَّب بحامل قابل للتوجيه لأفضل تعرّض للشمس.",
+        "highlights": ["شحن شمسي مستمر، عمر شبه غير محدود", "متوافقة مع كاميرات eufy العاملة بالبطارية", "حامل قابل للتوجيه ومقاوم للماء IP65", "كابل بطول 3 أمتار مضمّن"],
+        "inTheBox": ["لوحة eufy الشمسية", "حامل تثبيت قابل للتوجيه", "كابل 3 أمتار", "براغي", "دليل البدء السريع"]
+      },
+      "zh": {
+        "name": "eufy Solar Panel",
+        "tagline": "为 eufy 电池摄像机持续提供太阳能充电。",
+        "description": "紧凑型太阳能板，兼容 eufy 电池摄像机，即使在多云天气也能持续充电，实现近乎无限的户外续航。防风雨设计，配备可调节支架以获得最佳日照角度。",
+        "highlights": ["持续太阳能充电，续航近乎无限", "兼容 eufy 电池摄像机", "可调节支架，IP65 防水", "配备 3 米线缆"],
+        "inTheBox": ["eufy 太阳能板", "可调节安装支架", "3 米线缆", "螺丝", "快速入门指南"]
+      }
+    },
+    "attributes": { "protocol": ["wifi"], "placement": "exterieur", "power": ["solaire"], "compat": ["app-marque"] },
+    "specs": [
+      { "key": "panelPower", "value": "3,4 W monocristallin" },
+      { "key": "outputPower", "value": "5 V ⎓ 1 A (USB-C)" },
+      { "key": "weatherproof", "value": "IP65" },
+      { "key": "operatingTemp", "value": "-20 °C … 60 °C" },
+      { "key": "dimensions", "value": "170 × 116 × 18 mm" },
+      { "key": "compatibility", "value": { "fr": "Caméras eufy à batterie (eufyCam, SoloCam)", "en": "Battery-powered eufy cameras (eufyCam, SoloCam)", "es": "Cámaras eufy con batería (eufyCam, SoloCam)", "ar": "كاميرات eufy بالبطارية (eufyCam، SoloCam)", "zh": "eufy 电池摄像机（eufyCam、SoloCam）" } }
+    ],
+    "pricing": { "sourcePrice": 59.99, "sourceCurrency": "USD" },
+    "availability": "sur-commande",
+    "warrantyMonths": 24,
+    "install": { "level": "simple", "duration": "20 min", "prerequisites": { "fr": "Exposition solaire directe, caméra eufy à batterie compatible à moins de 3 m.", "en": "Direct sun exposure, a compatible eufy battery camera within 3 m.", "es": "Exposición solar directa, cámara eufy con batería compatible a menos de 3 m.", "ar": "تعرّض مباشر لأشعة الشمس، وكاميرا eufy بطارية متوافقة على بُعد أقل من 3 أمتار.", "zh": "需有充足日照，兼容的 eufy 电池摄像机需在 3 米范围内。" } },
+    "sourceUrl": "https://www.eufy.com/products/t87001d1",
+    "accent": "#f59e0b",
+    "symbol": "☼",
+    "related": ["eufy-eufycam-3-s330", "eufy-eufycam-s3-pro", "eufy-solocam-s340"]
+  }
+]

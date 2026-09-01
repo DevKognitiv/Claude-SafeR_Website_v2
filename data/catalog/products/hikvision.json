@@ -1,0 +1,1929 @@
+[
+  {
+    "id": "hikvision-ds-2cd2143g2-i",
+    "sku": "DS-2CD2143G2-I",
+    "brand": "hikvision",
+    "sourceBrand": "Hikvision",
+    "model": "DS-2CD2143G2-I",
+    "category": "video",
+    "subcategory": "cameras-exterieures",
+    "i18n": {
+      "fr": {
+        "name": "Hikvision DS-2CD2143G2-I",
+        "tagline": "Dôme 4 MP AcuSense, la détection intelligente au quotidien.",
+        "description": "Dôme extérieur filaire 4 MP avec technologie AcuSense : la caméra distingue les personnes et les véhicules pour réduire les fausses alertes liées aux animaux ou aux feuillages. Alimentée en PoE, elle résiste aux intempéries (IP67) et filme en infrarouge jusqu'à 30 m la nuit.",
+        "highlights": [
+          "Détection AcuSense personnes / véhicules",
+          "Vision infrarouge jusqu'à 30 m",
+          "Boîtier IP67 résistant aux intempéries",
+          "Alimentation PoE, câblage simplifié"
+        ],
+        "inTheBox": [
+          "Caméra dôme DS-2CD2143G2-I",
+          "Gabarit de perçage",
+          "Visserie et chevilles",
+          "Guide d'installation rapide"
+        ]
+      },
+      "en": {
+        "name": "Hikvision DS-2CD2143G2-I",
+        "tagline": "4 MP AcuSense dome — smarter alerts, fewer false alarms.",
+        "description": "Wired 4 MP outdoor dome with AcuSense technology: the camera tells people and vehicles apart from animals or moving branches, cutting false alerts. PoE powered, weatherproof to IP67, it delivers up to 30 m of infrared night vision for reliable round-the-clock coverage.",
+        "highlights": [
+          "AcuSense people / vehicle detection",
+          "Infrared night vision up to 30 m",
+          "IP67 weatherproof housing",
+          "PoE power, simplified cabling"
+        ],
+        "inTheBox": [
+          "DS-2CD2143G2-I dome camera",
+          "Drilling template",
+          "Screws and wall plugs",
+          "Quick start guide"
+        ]
+      },
+      "es": {
+        "name": "Hikvision DS-2CD2143G2-I",
+        "tagline": "Domo 4 MP AcuSense: alertas más inteligentes, menos falsas.",
+        "description": "Domo exterior cableado de 4 MP con tecnología AcuSense: la cámara distingue personas y vehículos de animales o ramas para reducir las falsas alarmas. Alimentada por PoE, resiste la intemperie (IP67) y ofrece visión nocturna infrarroja de hasta 30 m.",
+        "highlights": [
+          "Detección AcuSense de personas / vehículos",
+          "Visión nocturna infrarroja hasta 30 m",
+          "Carcasa IP67 resistente a la intemperie",
+          "Alimentación PoE, cableado simplificado"
+        ],
+        "inTheBox": [
+          "Cámara domo DS-2CD2143G2-I",
+          "Plantilla de perforación",
+          "Tornillos y tacos",
+          "Guía de inicio rápido"
+        ]
+      },
+      "ar": {
+        "name": "Hikvision DS-2CD2143G2-I",
+        "tagline": "قبة 4 ميجابكسل AcuSense: تنبيهات أذكى، إنذارات كاذبة أقل.",
+        "description": "كاميرا قبة خارجية سلكية بدقة 4 ميجابكسل مزوّدة بتقنية AcuSense تميّز الأشخاص والمركبات عن الحيوانات أو الأغصان لتقليل الإنذارات الكاذبة. تعمل عبر PoE، ومقاومة للعوامل الجوية بمعيار IP67، وتوفر رؤية ليلية بالأشعة تحت الحمراء حتى 30 مترًا.",
+        "highlights": [
+          "كشف AcuSense للأشخاص والمركبات",
+          "رؤية ليلية بالأشعة تحت الحمراء حتى 30 م",
+          "هيكل IP67 مقاوم للعوامل الجوية",
+          "تغذية PoE وتوصيل مبسّط"
+        ],
+        "inTheBox": [
+          "كاميرا القبة DS-2CD2143G2-I",
+          "قالب الثقب",
+          "براغي ووصلات تثبيت",
+          "دليل البدء السريع"
+        ]
+      },
+      "zh": {
+        "name": "Hikvision DS-2CD2143G2-I",
+        "tagline": "400万像素 AcuSense 半球，智能告警更精准。",
+        "description": "有线户外半球摄像机，400 万像素，搭载 AcuSense 技术，可区分人员、车辆与动物或树枝干扰，减少误报。支持 PoE 供电，达到 IP67 防护等级，红外夜视距离最远 30 米，全天候可靠监控。",
+        "highlights": [
+          "AcuSense 人员/车辆检测",
+          "红外夜视距离达 30 米",
+          "IP67 防护等级外壳",
+          "PoE 供电，布线简便"
+        ],
+        "inTheBox": [
+          "DS-2CD2143G2-I 半球摄像机",
+          "开孔模板",
+          "螺丝与膨胀塞",
+          "快速安装指南"
+        ]
+      }
+    },
+    "attributes": {
+      "protocol": [
+        "filaire-poe"
+      ],
+      "placement": "exterieur",
+      "power": [
+        "poe"
+      ],
+      "compat": [
+        "app-marque",
+        "safer-platform"
+      ],
+      "resolution": "2k"
+    },
+    "specs": [
+      {
+        "key": "resolution",
+        "value": "4 MP (2688 × 1520)"
+      },
+      {
+        "key": "lens",
+        "value": "2.8 mm fixe, 102° horizontal"
+      },
+      {
+        "key": "nightVision",
+        "value": "IR ≤ 30 m"
+      },
+      {
+        "key": "ai",
+        "value": {
+          "fr": "AcuSense : personnes / véhicules",
+          "en": "AcuSense: people / vehicles",
+          "es": "AcuSense: personas / vehículos",
+          "ar": "AcuSense: الأشخاص / المركبات",
+          "zh": "AcuSense：人形/车辆检测"
+        }
+      },
+      {
+        "key": "connectivity",
+        "value": "Ethernet PoE 802.3af"
+      },
+      {
+        "key": "storage",
+        "value": "microSD ≤ 256 GB"
+      },
+      {
+        "key": "weatherproof",
+        "value": "IP67"
+      },
+      {
+        "key": "operatingTemp",
+        "value": "-30 °C … 60 °C"
+      },
+      {
+        "key": "compatibility",
+        "value": {
+          "fr": "ONVIF Profile S, intégration NVR/VMS tiers",
+          "en": "ONVIF Profile S, third-party NVR/VMS integration",
+          "es": "ONVIF Profile S, integración con NVR/VMS de terceros",
+          "ar": "ONVIF Profile S، تكامل مع NVR/VMS من جهات أخرى",
+          "zh": "ONVIF Profile S，支持第三方NVR/VMS集成"
+        }
+      }
+    ],
+    "pricing": {
+      "sourcePrice": 129.99,
+      "sourceCurrency": "USD"
+    },
+    "availability": "en-stock",
+    "install": {
+      "level": "standard",
+      "duration": "60 min",
+      "prerequisites": {
+        "fr": "Câblage Ethernet CAT5e/6 vers un switch ou NVR PoE ; support de fixation stable en façade.",
+        "en": "CAT5e/6 Ethernet cabling to a PoE switch or NVR; stable wall or ceiling mount.",
+        "es": "Cableado Ethernet CAT5e/6 hasta un switch o NVR PoE; soporte de fijación estable.",
+        "ar": "توصيل كابل إيثرنت CAT5e/6 إلى مفتاح شبكة أو مسجل PoE؛ سطح تثبيت ثابت.",
+        "zh": "需铺设 CAT5e/6 网线至 PoE 交换机或 NVR；安装面需稳固。"
+      }
+    },
+    "sourceUrl": "https://www.hikvision.com/en/products/IP-Products/Network-Cameras/Pro-Series-EasyIP-/ds-2cd2143g2-i-s-/",
+    "accent": "#e63946",
+    "symbol": "◉",
+    "featured": true,
+    "solutions": [
+      "video-intelligente/cameras-exterieures",
+      "video-intelligente/verification-video"
+    ],
+    "related": [
+      "hikvision-ds-2cd2t47g2-l",
+      "hikvision-ds-7608nxi-k2-8p"
+    ]
+  },
+  {
+    "id": "hikvision-ds-2cd2t47g2-l",
+    "sku": "DS-2CD2T47G2-L",
+    "brand": "hikvision",
+    "sourceBrand": "Hikvision",
+    "model": "DS-2CD2T47G2-L",
+    "category": "video",
+    "subcategory": "cameras-exterieures",
+    "i18n": {
+      "fr": {
+        "name": "Hikvision DS-2CD2T47G2-L",
+        "tagline": "Bullet ColorVu 4 MP : la couleur même dans le noir.",
+        "description": "Caméra bullet extérieure 4 MP ColorVu offrant une image en couleur 24h/24 grâce à un objectif grande ouverture f/1.0, sans recourir à l'infrarouge. Le micro intégré capte le son ambiant et la sirène + strobe embarqués dissuadent les intrusions dès détection AcuSense d'une personne ou d'un véhicule.",
+        "highlights": [
+          "Couleur 24h/24 sans projecteur, f/1.0",
+          "Détection AcuSense personnes / véhicules",
+          "Sirène et strobe intégrés",
+          "Boîtier IP67, alimentation PoE"
+        ],
+        "inTheBox": [
+          "Caméra bullet DS-2CD2T47G2-L",
+          "Support de fixation",
+          "Visserie",
+          "Guide d'installation rapide"
+        ]
+      },
+      "en": {
+        "name": "Hikvision DS-2CD2T47G2-L",
+        "tagline": "ColorVu 4 MP bullet: full colour, even after dark.",
+        "description": "4 MP ColorVu outdoor bullet camera delivering full-colour footage around the clock thanks to an f/1.0 wide-aperture lens, no infrared needed. The built-in microphone captures ambient sound while the onboard siren and strobe light deter intruders as soon as AcuSense detects a person or vehicle.",
+        "highlights": [
+          "24/7 colour without a spotlight, f/1.0",
+          "AcuSense people / vehicle detection",
+          "Built-in siren and strobe light",
+          "IP67 housing, PoE powered"
+        ],
+        "inTheBox": [
+          "DS-2CD2T47G2-L bullet camera",
+          "Mounting bracket",
+          "Screws",
+          "Quick start guide"
+        ]
+      },
+      "es": {
+        "name": "Hikvision DS-2CD2T47G2-L",
+        "tagline": "Bullet ColorVu 4 MP: color incluso de noche.",
+        "description": "Cámara bullet exterior de 4 MP ColorVu que ofrece imagen a color las 24 horas gracias a un objetivo f/1.0 de gran apertura, sin necesidad de infrarrojos. El micrófono integrado capta el sonido ambiente y la sirena y luz estroboscópica disuaden intrusiones ante una detección AcuSense.",
+        "highlights": [
+          "Color 24 h sin foco, f/1.0",
+          "Detección AcuSense de personas / vehículos",
+          "Sirena y luz estroboscópica integradas",
+          "Carcasa IP67, alimentación PoE"
+        ],
+        "inTheBox": [
+          "Cámara bullet DS-2CD2T47G2-L",
+          "Soporte de fijación",
+          "Tornillería",
+          "Guía de inicio rápido"
+        ]
+      },
+      "ar": {
+        "name": "Hikvision DS-2CD2T47G2-L",
+        "tagline": "بولت ColorVu 4 ميجابكسل: ألوان حتى في الظلام.",
+        "description": "كاميرا بولت خارجية بدقة 4 ميجابكسل من طراز ColorVu توفر صورة ملوّنة على مدار الساعة بفضل عدسة f/1.0 واسعة الفتحة دون الحاجة للأشعة تحت الحمراء. يلتقط الميكروفون المدمج الصوت المحيط، وتردع صافرة الإنذار والوميض المدمجان أي تسلل فور رصد AcuSense لشخص أو مركبة.",
+        "highlights": [
+          "ألوان على مدار الساعة دون كشّاف، f/1.0",
+          "كشف AcuSense للأشخاص والمركبات",
+          "صافرة إنذار ووميض مدمجان",
+          "هيكل IP67، تغذية PoE"
+        ],
+        "inTheBox": [
+          "كاميرا بولت DS-2CD2T47G2-L",
+          "حامل تثبيت",
+          "براغي",
+          "دليل البدء السريع"
+        ]
+      },
+      "zh": {
+        "name": "Hikvision DS-2CD2T47G2-L",
+        "tagline": "ColorVu 400万像素枪机，夜间依旧全彩。",
+        "description": "400 万像素 ColorVu 户外枪机，配备 f/1.0 大光圈镜头，无需红外补光即可全天候呈现彩色画面。内置麦克风采集环境声音，一旦 AcuSense 检测到人员或车辆，内置警号与警灯即可即时震慑。",
+        "highlights": [
+          "全天候全彩，无需补光灯，f/1.0",
+          "AcuSense 人员/车辆检测",
+          "内置警号与警灯",
+          "IP67 外壳，PoE 供电"
+        ],
+        "inTheBox": [
+          "DS-2CD2T47G2-L 枪机",
+          "安装支架",
+          "螺丝配件",
+          "快速安装指南"
+        ]
+      }
+    },
+    "attributes": {
+      "protocol": [
+        "filaire-poe"
+      ],
+      "placement": "exterieur",
+      "power": [
+        "poe"
+      ],
+      "compat": [
+        "app-marque",
+        "safer-platform"
+      ],
+      "resolution": "2k"
+    },
+    "specs": [
+      {
+        "key": "resolution",
+        "value": "4 MP (2688 × 1520)"
+      },
+      {
+        "key": "lens",
+        "value": "2.8 mm fixe, f/1.0"
+      },
+      {
+        "key": "nightVision",
+        "value": {
+          "fr": "ColorVu couleur 24h/24",
+          "en": "ColorVu color, 24/7",
+          "es": "ColorVu color, 24/7",
+          "ar": "ColorVu بالألوان على مدار الساعة",
+          "zh": "ColorVu 全天24小时彩色"
+        }
+      },
+      {
+        "key": "ai",
+        "value": {
+          "fr": "AcuSense : personnes / véhicules",
+          "en": "AcuSense: people / vehicles",
+          "es": "AcuSense: personas / vehículos",
+          "ar": "AcuSense: الأشخاص / المركبات",
+          "zh": "AcuSense：人形/车辆检测"
+        }
+      },
+      {
+        "key": "audio",
+        "value": {
+          "fr": "Micro intégré + sirène/strobe",
+          "en": "Built-in mic + siren/strobe",
+          "es": "Micrófono integrado + sirena/estrobo",
+          "ar": "ميكروفون مدمج + صفارة/وميض",
+          "zh": "内置麦克风+警笛/爆闪灯"
+        }
+      },
+      {
+        "key": "connectivity",
+        "value": "Ethernet PoE 802.3af"
+      },
+      {
+        "key": "storage",
+        "value": "microSD ≤ 256 GB"
+      },
+      {
+        "key": "weatherproof",
+        "value": "IP67"
+      },
+      {
+        "key": "operatingTemp",
+        "value": "-30 °C … 60 °C"
+      },
+      {
+        "key": "compatibility",
+        "value": {
+          "fr": "ONVIF Profile S, intégration NVR/VMS tiers",
+          "en": "ONVIF Profile S, third-party NVR/VMS integration",
+          "es": "ONVIF Profile S, integración con NVR/VMS de terceros",
+          "ar": "ONVIF Profile S، تكامل مع NVR/VMS من جهات أخرى",
+          "zh": "ONVIF Profile S，支持第三方NVR/VMS集成"
+        }
+      }
+    ],
+    "pricing": {
+      "sourcePrice": 159.99,
+      "sourceCurrency": "USD"
+    },
+    "availability": "en-stock",
+    "install": {
+      "level": "standard",
+      "duration": "60 min",
+      "prerequisites": {
+        "fr": "Câblage Ethernet CAT5e/6 vers un switch ou NVR PoE ; support de fixation stable en façade.",
+        "en": "CAT5e/6 Ethernet cabling to a PoE switch or NVR; stable wall or ceiling mount.",
+        "es": "Cableado Ethernet CAT5e/6 hasta un switch o NVR PoE; soporte de fijación estable.",
+        "ar": "توصيل كابل إيثرنت CAT5e/6 إلى مفتاح شبكة أو مسجل PoE؛ سطح تثبيت ثابت.",
+        "zh": "需铺设 CAT5e/6 网线至 PoE 交换机或 NVR；安装面需稳固。"
+      }
+    },
+    "sourceUrl": "https://www.hikvision.com/en/products/IP-Products/Network-Cameras/Pro-Series-EasyIP-/ds-2cd2t47g2-l/",
+    "accent": "#e63946",
+    "symbol": "◉",
+    "solutions": [
+      "video-intelligente/cameras-exterieures",
+      "video-intelligente/verification-video"
+    ],
+    "related": [
+      "hikvision-ds-2cd2143g2-i",
+      "hikvision-ds-2cd2347g2-lu"
+    ]
+  },
+  {
+    "id": "hikvision-ds-2cd2347g2-lu",
+    "sku": "DS-2CD2347G2-LU",
+    "brand": "hikvision",
+    "sourceBrand": "Hikvision",
+    "model": "DS-2CD2347G2-L(U)",
+    "category": "video",
+    "subcategory": "cameras-exterieures",
+    "i18n": {
+      "fr": {
+        "name": "Hikvision DS-2CD2347G2-LU",
+        "tagline": "Turret ColorVu 4 MP avec micro intégré.",
+        "description": "Caméra turret compacte 4 MP ColorVu, couleur 24h/24 grâce à l'objectif f/1.0 et microphone intégré pour l'audio d'ambiance. La détection AcuSense isole les personnes et véhicules pour limiter les fausses alertes ; boîtier PoE compact idéal sous auvent ou avant-toit.",
+        "highlights": [
+          "Couleur 24h/24, f/1.0, micro intégré",
+          "Détection AcuSense personnes / véhicules",
+          "Format turret compact et discret",
+          "IP67, alimentation PoE"
+        ],
+        "inTheBox": [
+          "Caméra turret DS-2CD2347G2-LU",
+          "Support de fixation",
+          "Visserie",
+          "Guide d'installation rapide"
+        ]
+      },
+      "en": {
+        "name": "Hikvision DS-2CD2347G2-LU",
+        "tagline": "ColorVu 4 MP turret with a built-in microphone.",
+        "description": "Compact 4 MP ColorVu turret camera delivering full colour around the clock via an f/1.0 lens, with a built-in microphone for ambient audio. AcuSense detection isolates people and vehicles to cut false alerts, and the compact PoE housing suits soffits and overhangs.",
+        "highlights": [
+          "24/7 colour, f/1.0, built-in mic",
+          "AcuSense people / vehicle detection",
+          "Compact, discreet turret form factor",
+          "IP67, PoE powered"
+        ],
+        "inTheBox": [
+          "DS-2CD2347G2-LU turret camera",
+          "Mounting bracket",
+          "Screws",
+          "Quick start guide"
+        ]
+      },
+      "es": {
+        "name": "Hikvision DS-2CD2347G2-LU",
+        "tagline": "Turret ColorVu 4 MP con micrófono integrado.",
+        "description": "Cámara turret compacta de 4 MP ColorVu con color 24 horas gracias al objetivo f/1.0 y micrófono integrado para audio ambiente. La detección AcuSense aísla personas y vehículos para reducir falsas alarmas; carcasa PoE compacta ideal bajo aleros.",
+        "highlights": [
+          "Color 24 h, f/1.0, micrófono integrado",
+          "Detección AcuSense de personas / vehículos",
+          "Formato turret compacto y discreto",
+          "IP67, alimentación PoE"
+        ],
+        "inTheBox": [
+          "Cámara turret DS-2CD2347G2-LU",
+          "Soporte de fijación",
+          "Tornillería",
+          "Guía de inicio rápido"
+        ]
+      },
+      "ar": {
+        "name": "Hikvision DS-2CD2347G2-LU",
+        "tagline": "تريت ColorVu 4 ميجابكسل بميكروفون مدمج.",
+        "description": "كاميرا تريت مدمجة بدقة 4 ميجابكسل ColorVu توفر ألوانًا على مدار الساعة عبر عدسة f/1.0 وميكروفون مدمج لالتقاط الصوت المحيط. يعزل كشف AcuSense الأشخاص والمركبات لتقليل الإنذارات الكاذبة، وهيكلها المدمج بتغذية PoE مناسب تحت الأسقف البارزة.",
+        "highlights": [
+          "ألوان على مدار الساعة، f/1.0، ميكروفون مدمج",
+          "كشف AcuSense للأشخاص والمركبات",
+          "تصميم تريت مدمج وأنيق",
+          "IP67، تغذية PoE"
+        ],
+        "inTheBox": [
+          "كاميرا تريت DS-2CD2347G2-LU",
+          "حامل تثبيت",
+          "براغي",
+          "دليل البدء السريع"
+        ]
+      },
+      "zh": {
+        "name": "Hikvision DS-2CD2347G2-LU",
+        "tagline": "ColorVu 400万像素筒机，内置麦克风。",
+        "description": "紧凑型 400 万像素 ColorVu 筒机，通过 f/1.0 镜头实现全天候彩色画面，并内置麦克风采集环境音。AcuSense 检测可分辨人员与车辆，减少误报；紧凑的 PoE 外壳适合安装于屋檐下。",
+        "highlights": [
+          "全天候全彩，f/1.0，内置麦克风",
+          "AcuSense 人员/车辆检测",
+          "筒机造型紧凑低调",
+          "IP67，PoE 供电"
+        ],
+        "inTheBox": [
+          "DS-2CD2347G2-LU 筒机",
+          "安装支架",
+          "螺丝配件",
+          "快速安装指南"
+        ]
+      }
+    },
+    "attributes": {
+      "protocol": [
+        "filaire-poe"
+      ],
+      "placement": "exterieur",
+      "power": [
+        "poe"
+      ],
+      "compat": [
+        "app-marque",
+        "safer-platform"
+      ],
+      "resolution": "2k"
+    },
+    "specs": [
+      {
+        "key": "resolution",
+        "value": "4 MP (2688 × 1520)"
+      },
+      {
+        "key": "lens",
+        "value": "2.8 mm fixe, f/1.0"
+      },
+      {
+        "key": "nightVision",
+        "value": {
+          "fr": "ColorVu couleur 24h/24",
+          "en": "ColorVu color, 24/7",
+          "es": "ColorVu color, 24/7",
+          "ar": "ColorVu بالألوان على مدار الساعة",
+          "zh": "ColorVu 全天24小时彩色"
+        }
+      },
+      {
+        "key": "ai",
+        "value": {
+          "fr": "AcuSense : personnes / véhicules",
+          "en": "AcuSense: people / vehicles",
+          "es": "AcuSense: personas / vehículos",
+          "ar": "AcuSense: الأشخاص / المركبات",
+          "zh": "AcuSense：人形/车辆检测"
+        }
+      },
+      {
+        "key": "audio",
+        "value": {
+          "fr": "Micro intégré",
+          "en": "Built-in microphone",
+          "es": "Micrófono integrado",
+          "ar": "ميكروفون مدمج",
+          "zh": "内置麦克风"
+        }
+      },
+      {
+        "key": "connectivity",
+        "value": "Ethernet PoE 802.3af"
+      },
+      {
+        "key": "storage",
+        "value": "microSD ≤ 256 GB"
+      },
+      {
+        "key": "weatherproof",
+        "value": "IP67"
+      },
+      {
+        "key": "compatibility",
+        "value": {
+          "fr": "ONVIF Profile S, intégration NVR/VMS tiers",
+          "en": "ONVIF Profile S, third-party NVR/VMS integration",
+          "es": "ONVIF Profile S, integración con NVR/VMS de terceros",
+          "ar": "ONVIF Profile S، تكامل مع NVR/VMS من جهات أخرى",
+          "zh": "ONVIF Profile S，支持第三方NVR/VMS集成"
+        }
+      }
+    ],
+    "pricing": {
+      "sourcePrice": 149.99,
+      "sourceCurrency": "USD"
+    },
+    "availability": "sur-commande",
+    "install": {
+      "level": "standard",
+      "duration": "45 min",
+      "prerequisites": {
+        "fr": "Câblage Ethernet CAT5e/6 vers un switch ou NVR PoE ; support de fixation stable en façade.",
+        "en": "CAT5e/6 Ethernet cabling to a PoE switch or NVR; stable wall or ceiling mount.",
+        "es": "Cableado Ethernet CAT5e/6 hasta un switch o NVR PoE; soporte de fijación estable.",
+        "ar": "توصيل كابل إيثرنت CAT5e/6 إلى مفتاح شبكة أو مسجل PoE؛ سطح تثبيت ثابت.",
+        "zh": "需铺设 CAT5e/6 网线至 PoE 交换机或 NVR；安装面需稳固。"
+      }
+    },
+    "sourceUrl": "https://www.hikvision.com/us-en/products/network-products/network-cameras/colorvu-series/ds-2cd2347g2-lu/",
+    "accent": "#e63946",
+    "symbol": "◉",
+    "solutions": [
+      "video-intelligente/cameras-exterieures",
+      "video-intelligente/verification-video"
+    ],
+    "related": [
+      "hikvision-ds-2cd2t47g2-l",
+      "hikvision-ds-7104ni-q1-4p"
+    ]
+  },
+  {
+    "id": "hikvision-ds-2de2a404iw-de3",
+    "sku": "DS-2DE2A404IW-DE3",
+    "brand": "hikvision",
+    "sourceBrand": "Hikvision",
+    "model": "DS-2DE2A404IW-DE3",
+    "category": "video",
+    "subcategory": "cameras-ptz",
+    "i18n": {
+      "fr": {
+        "name": "Hikvision DS-2DE2A404IW-DE3",
+        "tagline": "Mini PTZ 4 MP, rotation 360° et zoom 4x.",
+        "description": "Caméra PTZ compacte 4 MP avec rotation panoramique continue à 360°, inclinaison -15° à 90° et zoom optique 4x pour suivre une scène large comme une cour ou un parking. Le suivi automatique et l'IR jusqu'à 30 m assurent une couverture nocturne fiable, alimentation PoE.",
+        "highlights": [
+          "Rotation continue 360°, zoom optique 4x",
+          "Suivi automatique de cible",
+          "Vision infrarouge jusqu'à 30 m",
+          "IP66, alimentation PoE"
+        ],
+        "inTheBox": [
+          "Caméra PTZ DS-2DE2A404IW-DE3",
+          "Gabarit de perçage",
+          "Visserie",
+          "Guide d'installation rapide"
+        ]
+      },
+      "en": {
+        "name": "Hikvision DS-2DE2A404IW-DE3",
+        "tagline": "Mini PTZ 4 MP: continuous 360° pan and 4x zoom.",
+        "description": "Compact 4 MP PTZ camera with continuous 360° pan, -15° to 90° tilt and 4x optical zoom to cover wide areas such as a courtyard or car park. Auto tracking and up to 30 m of infrared night vision keep watch after dark; PoE powered.",
+        "highlights": [
+          "Continuous 360° pan, 4x optical zoom",
+          "Automatic target tracking",
+          "Infrared night vision up to 30 m",
+          "IP66, PoE powered"
+        ],
+        "inTheBox": [
+          "DS-2DE2A404IW-DE3 PTZ camera",
+          "Drilling template",
+          "Screws",
+          "Quick start guide"
+        ]
+      },
+      "es": {
+        "name": "Hikvision DS-2DE2A404IW-DE3",
+        "tagline": "Mini PTZ 4 MP: giro continuo 360° y zoom 4x.",
+        "description": "Cámara PTZ compacta de 4 MP con giro panorámico continuo de 360°, inclinación de -15° a 90° y zoom óptico 4x para cubrir zonas amplias como un patio o aparcamiento. El seguimiento automático y la visión infrarroja de hasta 30 m garantizan cobertura nocturna fiable; alimentación PoE.",
+        "highlights": [
+          "Giro continuo 360°, zoom óptico 4x",
+          "Seguimiento automático de objetivos",
+          "Visión infrarroja hasta 30 m",
+          "IP66, alimentación PoE"
+        ],
+        "inTheBox": [
+          "Cámara PTZ DS-2DE2A404IW-DE3",
+          "Plantilla de perforación",
+          "Tornillería",
+          "Guía de inicio rápido"
+        ]
+      },
+      "ar": {
+        "name": "Hikvision DS-2DE2A404IW-DE3",
+        "tagline": "PTZ مصغرة 4 ميجابكسل: دوران 360° وتقريب 4x.",
+        "description": "كاميرا PTZ مدمجة بدقة 4 ميجابكسل بدوران أفقي مستمر 360° وإمالة من -15° إلى 90° وتقريب بصري 4x لتغطية مساحات واسعة كالفناء أو موقف السيارات. يوفر التتبع التلقائي والرؤية الليلية بالأشعة تحت الحمراء حتى 30 مترًا مراقبة موثوقة ليلًا، وتعمل بتغذية PoE.",
+        "highlights": [
+          "دوران مستمر 360°، تقريب بصري 4x",
+          "تتبع تلقائي للهدف",
+          "رؤية ليلية بالأشعة تحت الحمراء حتى 30 م",
+          "IP66، تغذية PoE"
+        ],
+        "inTheBox": [
+          "كاميرا PTZ طراز DS-2DE2A404IW-DE3",
+          "قالب الثقب",
+          "براغي",
+          "دليل البدء السريع"
+        ]
+      },
+      "zh": {
+        "name": "Hikvision DS-2DE2A404IW-DE3",
+        "tagline": "迷你 PTZ 400万像素，360°连续旋转，4倍光变。",
+        "description": "紧凑型 400 万像素 PTZ 摄像机，支持 360° 连续水平旋转、-15° 至 90° 俯仰以及 4 倍光学变焦，可覆盖庭院或停车场等大范围区域。自动追踪功能与最远 30 米的红外夜视可靠保障夜间监控，支持 PoE 供电。",
+        "highlights": [
+          "360°连续旋转，4倍光学变焦",
+          "自动目标追踪",
+          "红外夜视距离达 30 米",
+          "IP66，PoE 供电"
+        ],
+        "inTheBox": [
+          "DS-2DE2A404IW-DE3 PTZ摄像机",
+          "开孔模板",
+          "螺丝配件",
+          "快速安装指南"
+        ]
+      }
+    },
+    "attributes": {
+      "protocol": [
+        "filaire-poe"
+      ],
+      "placement": "exterieur",
+      "power": [
+        "poe"
+      ],
+      "compat": [
+        "app-marque",
+        "safer-platform"
+      ],
+      "resolution": "2k"
+    },
+    "specs": [
+      {
+        "key": "resolution",
+        "value": "4 MP (2688 × 1520)"
+      },
+      {
+        "key": "ptz",
+        "value": "Pan 360° continu, tilt -15° / 90°"
+      },
+      {
+        "key": "zoom",
+        "value": "Optique 4x"
+      },
+      {
+        "key": "ai",
+        "value": {
+          "fr": "Suivi automatique de cible",
+          "en": "Automatic target tracking",
+          "es": "Seguimiento automático de objetivo",
+          "ar": "تتبع تلقائي للهدف",
+          "zh": "自动目标跟踪"
+        }
+      },
+      {
+        "key": "nightVision",
+        "value": "IR ≤ 30 m"
+      },
+      {
+        "key": "connectivity",
+        "value": "Ethernet PoE 802.3af"
+      },
+      {
+        "key": "weatherproof",
+        "value": "IP66"
+      },
+      {
+        "key": "operatingTemp",
+        "value": "-30 °C … 60 °C"
+      },
+      {
+        "key": "compatibility",
+        "value": {
+          "fr": "ONVIF PTZ (Pelco-D/P via ONVIF), intégration NVR/VMS tiers",
+          "en": "ONVIF PTZ (Pelco-D/P via ONVIF), third-party NVR/VMS integration",
+          "es": "ONVIF PTZ (Pelco-D/P vía ONVIF), integración con NVR/VMS de terceros",
+          "ar": "ONVIF PTZ (Pelco-D/P عبر ONVIF)، تكامل مع NVR/VMS من جهات أخرى",
+          "zh": "ONVIF PTZ（经ONVIF支持Pelco-D/P），支持第三方NVR/VMS集成"
+        }
+      }
+    ],
+    "pricing": {
+      "sourcePrice": 299.99,
+      "sourceCurrency": "USD"
+    },
+    "availability": "sur-commande",
+    "install": {
+      "level": "standard",
+      "duration": "60 min",
+      "prerequisites": {
+        "fr": "Câblage Ethernet CAT5e/6 vers un switch ou NVR PoE ; support de fixation stable sur mur ou poteau.",
+        "en": "CAT5e/6 Ethernet cabling to a PoE switch or NVR; stable wall or pole mount.",
+        "es": "Cableado Ethernet CAT5e/6 hasta un switch o NVR PoE; soporte de fijación estable en pared o poste.",
+        "ar": "توصيل كابل إيثرنت CAT5e/6 إلى مفتاح شبكة أو مسجل PoE؛ سطح تثبيت ثابت على حائط أو عمود.",
+        "zh": "需铺设 CAT5e/6 网线至 PoE 交换机或 NVR；需稳固的墙面或立杆安装位。"
+      }
+    },
+    "sourceUrl": "https://www.hikvision.com/us-en/products/network-products/ip-ptz-cameras/value-series/ds-2de2a404iw-de3/",
+    "accent": "#e63946",
+    "symbol": "↗",
+    "solutions": [
+      "video-intelligente/cameras-exterieures",
+      "video-intelligente/verification-video"
+    ],
+    "related": [
+      "hikvision-ds-7608nxi-k2-8p"
+    ]
+  },
+  {
+    "id": "hikvision-ds-7608nxi-k2-8p",
+    "sku": "DS-7608NXI-K2/8P",
+    "brand": "hikvision",
+    "sourceBrand": "Hikvision",
+    "model": "DS-7608NXI-K2/8P",
+    "category": "video",
+    "subcategory": "enregistreurs-kits",
+    "i18n": {
+      "fr": {
+        "name": "Hikvision DS-7608NXI-K2/8P",
+        "tagline": "NVR 8 canaux PoE, 4K et détection IA embarquée.",
+        "description": "Enregistreur réseau 8 canaux avec 8 ports PoE intégrés pour brancher les caméras sans switch additionnel. Compatible flux jusqu'à 8 MP par canal, il embarque la détection IA AcuSense (personnes/véhicules) et accepte deux disques durs SATA pour un archivage prolongé.",
+        "highlights": [
+          "8 canaux, 8 ports PoE intégrés",
+          "Détection IA AcuSense sur les canaux compatibles",
+          "2 baies HDD SATA, jusqu'à 20 To",
+          "Sortie HDMI 4K, accès mobile Hik-Connect"
+        ],
+        "inTheBox": [
+          "Enregistreur DS-7608NXI-K2/8P",
+          "Souris USB",
+          "Câble d'alimentation",
+          "Guide d'installation rapide"
+        ]
+      },
+      "en": {
+        "name": "Hikvision DS-7608NXI-K2/8P",
+        "tagline": "8-channel PoE NVR with built-in 4K and AI detection.",
+        "description": "8-channel network video recorder with 8 built-in PoE ports so cameras plug in without an extra switch. It handles up to 8 MP per channel, includes AcuSense AI detection (people/vehicles) and takes two SATA hard drives for extended storage.",
+        "highlights": [
+          "8 channels, 8 built-in PoE ports",
+          "AcuSense AI detection on compatible channels",
+          "2 SATA HDD bays, up to 20 TB",
+          "4K HDMI output, Hik-Connect mobile access"
+        ],
+        "inTheBox": [
+          "DS-7608NXI-K2/8P recorder",
+          "USB mouse",
+          "Power cable",
+          "Quick start guide"
+        ]
+      },
+      "es": {
+        "name": "Hikvision DS-7608NXI-K2/8P",
+        "tagline": "NVR 8 canales PoE con detección IA integrada 4K.",
+        "description": "Grabador de red de 8 canales con 8 puertos PoE integrados para conectar las cámaras sin switch adicional. Admite hasta 8 MP por canal, incluye detección IA AcuSense (personas/vehículos) y acepta dos discos duros SATA para un almacenamiento prolongado.",
+        "highlights": [
+          "8 canales, 8 puertos PoE integrados",
+          "Detección IA AcuSense en canales compatibles",
+          "2 bahías HDD SATA, hasta 20 TB",
+          "Salida HDMI 4K, acceso móvil Hik-Connect"
+        ],
+        "inTheBox": [
+          "Grabador DS-7608NXI-K2/8P",
+          "Ratón USB",
+          "Cable de alimentación",
+          "Guía de inicio rápido"
+        ]
+      },
+      "ar": {
+        "name": "Hikvision DS-7608NXI-K2/8P",
+        "tagline": "NVR بـ8 قنوات PoE مع كشف ذكاء اصطناعي و4K.",
+        "description": "مسجل شبكي بـ8 قنوات مزوّد بـ8 منافذ PoE مدمجة لتوصيل الكاميرات دون مفتاح شبكة إضافي. يدعم دقة حتى 8 ميجابكسل لكل قناة، ويتضمن كشف AcuSense بالذكاء الاصطناعي (أشخاص/مركبات)، ويستوعب قرصين صلبين SATA لتخزين ممتد.",
+        "highlights": [
+          "8 قنوات، 8 منافذ PoE مدمجة",
+          "كشف AcuSense بالذكاء الاصطناعي على القنوات المتوافقة",
+          "قرصان SATA، حتى 20 تيرابايت",
+          "مخرج HDMI بدقة 4K، وصول عبر تطبيق Hik-Connect"
+        ],
+        "inTheBox": [
+          "مسجل DS-7608NXI-K2/8P",
+          "فأرة USB",
+          "كابل تغذية",
+          "دليل البدء السريع"
+        ]
+      },
+      "zh": {
+        "name": "Hikvision DS-7608NXI-K2/8P",
+        "tagline": "8路PoE硬盘录像机，内置4K与AI检测。",
+        "description": "8 路网络硬盘录像机内置 8 个 PoE 端口，摄像机无需额外交换机即可直接接入。单路支持最高 800 万像素，内置 AcuSense 人工智能检测（人员/车辆），可安装两块 SATA 硬盘实现长时间录像存储。",
+        "highlights": [
+          "8路通道，内置8个PoE端口",
+          "兼容通道支持AcuSense AI检测",
+          "2个SATA硬盘位，最高20TB",
+          "4K HDMI输出，支持移动应用访问"
+        ],
+        "inTheBox": [
+          "DS-7608NXI-K2/8P录像机",
+          "USB鼠标",
+          "电源线",
+          "快速安装指南"
+        ]
+      }
+    },
+    "attributes": {
+      "protocol": [
+        "filaire-poe"
+      ],
+      "placement": "interieur",
+      "power": [
+        "secteur"
+      ],
+      "compat": [
+        "app-marque",
+        "safer-platform"
+      ]
+    },
+    "specs": [
+      {
+        "key": "channels",
+        "value": "8 canaux IP"
+      },
+      {
+        "key": "ports",
+        "value": "8× PoE + 1 WAN, 2 USB, HDMI/VGA"
+      },
+      {
+        "key": "storage",
+        "value": "2× SATA, ≤ 10 TB/HDD"
+      },
+      {
+        "key": "videoCodec",
+        "value": "H.265+ / H.265 / H.264"
+      },
+      {
+        "key": "resolution",
+        "value": {
+          "fr": "Jusqu'à 8 MP par canal en entrée",
+          "en": "Up to 8 MP per input channel",
+          "es": "Hasta 8 MP por canal de entrada",
+          "ar": "حتى 8 ميجابكسل لكل قناة إدخال",
+          "zh": "每路输入最高8MP"
+        }
+      },
+      {
+        "key": "ai",
+        "value": "AcuSense (canaux compatibles)"
+      },
+      {
+        "key": "app",
+        "value": "Hik-Connect"
+      },
+      {
+        "key": "compatibility",
+        "value": {
+          "fr": "ONVIF Profile S, caméras tierces compatibles",
+          "en": "ONVIF Profile S, compatible with third-party cameras",
+          "es": "ONVIF Profile S, compatible con cámaras de terceros",
+          "ar": "ONVIF Profile S، متوافق مع كاميرات من جهات أخرى",
+          "zh": "ONVIF Profile S，兼容第三方摄像头"
+        }
+      },
+      {
+        "key": "other",
+        "value": {
+          "fr": "Sortie HDMI 4K / VGA simultanée",
+          "en": "Simultaneous 4K HDMI / VGA output",
+          "es": "Salida HDMI 4K / VGA simultánea",
+          "ar": "خرج HDMI 4K / VGA متزامن",
+          "zh": "HDMI 4K/VGA同步输出"
+        }
+      }
+    ],
+    "pricing": {
+      "sourcePrice": 349.99,
+      "sourceCurrency": "USD"
+    },
+    "availability": "sur-devis",
+    "install": {
+      "level": "expert",
+      "duration": "90 min",
+      "prerequisites": {
+        "fr": "Baie ou meuble technique ventilé, arrivée secteur 220V et câblage Ethernet vers les caméras PoE.",
+        "en": "Ventilated equipment cabinet, 220V mains supply, and Ethernet cabling to the PoE cameras.",
+        "es": "Armario técnico ventilado, alimentación de red de 220V y cableado Ethernet hasta las cámaras PoE.",
+        "ar": "خزانة معدات جيدة التهوية، تغذية كهربائية 220 فولت، وتوصيل كابلات إيثرنت إلى كاميرات PoE.",
+        "zh": "需通风设备机柜、220V 市电电源，以及连接 PoE 摄像机的以太网布线。"
+      }
+    },
+    "sourceUrl": "https://www.hikvision.com/en/products/IP-Products/Network-Video-Recorders/Pro-Series/ds-7608nxi-k2-8p/",
+    "accent": "#e63946",
+    "symbol": "▣",
+    "solutions": [
+      "video-intelligente/cameras-exterieures",
+      "video-intelligente/verification-video"
+    ],
+    "related": [
+      "hikvision-ds-2cd2143g2-i",
+      "hikvision-ds-2cd2t47g2-l"
+    ]
+  },
+  {
+    "id": "hikvision-ds-7104ni-q1-4p",
+    "sku": "DS-7104NI-Q1/4P",
+    "brand": "hikvision",
+    "sourceBrand": "Hikvision",
+    "model": "DS-7104NI-Q1/4P",
+    "category": "video",
+    "subcategory": "enregistreurs-kits",
+    "i18n": {
+      "fr": {
+        "name": "Hikvision DS-7104NI-Q1/4P",
+        "tagline": "NVR 4 canaux PoE, l'entrée de gamme fiable.",
+        "description": "Enregistreur réseau compact 4 canaux avec 4 ports PoE intégrés, idéal pour une maison ou un petit commerce. Il gère des flux jusqu'à 6 MP par canal, accepte un disque dur SATA jusqu'à 6 To et propose l'accès mobile via l'application Hik-Connect.",
+        "highlights": [
+          "4 canaux, 4 ports PoE intégrés",
+          "1 baie HDD SATA jusqu'à 6 To",
+          "Compression H.265+ économe en stockage",
+          "Accès mobile Hik-Connect"
+        ],
+        "inTheBox": [
+          "Enregistreur DS-7104NI-Q1/4P",
+          "Souris USB",
+          "Câble d'alimentation",
+          "Guide d'installation rapide"
+        ]
+      },
+      "en": {
+        "name": "Hikvision DS-7104NI-Q1/4P",
+        "tagline": "4-channel PoE NVR, a reliable entry point.",
+        "description": "Compact 4-channel network recorder with 4 built-in PoE ports, ideal for a home or small business. It handles up to 6 MP per channel, takes one SATA hard drive up to 6 TB, and offers mobile access via the Hik-Connect app.",
+        "highlights": [
+          "4 channels, 4 built-in PoE ports",
+          "1 SATA HDD bay up to 6 TB",
+          "Storage-efficient H.265+ compression",
+          "Hik-Connect mobile access"
+        ],
+        "inTheBox": [
+          "DS-7104NI-Q1/4P recorder",
+          "USB mouse",
+          "Power cable",
+          "Quick start guide"
+        ]
+      },
+      "es": {
+        "name": "Hikvision DS-7104NI-Q1/4P",
+        "tagline": "NVR 4 canales PoE, una entrada fiable.",
+        "description": "Grabador de red compacto de 4 canales con 4 puertos PoE integrados, ideal para una vivienda o pequeño comercio. Admite hasta 6 MP por canal, acepta un disco duro SATA de hasta 6 TB y ofrece acceso móvil mediante la app Hik-Connect.",
+        "highlights": [
+          "4 canales, 4 puertos PoE integrados",
+          "1 bahía HDD SATA hasta 6 TB",
+          "Compresión H.265+ que ahorra almacenamiento",
+          "Acceso móvil Hik-Connect"
+        ],
+        "inTheBox": [
+          "Grabador DS-7104NI-Q1/4P",
+          "Ratón USB",
+          "Cable de alimentación",
+          "Guía de inicio rápido"
+        ]
+      },
+      "ar": {
+        "name": "Hikvision DS-7104NI-Q1/4P",
+        "tagline": "NVR بـ4 قنوات PoE، مدخل موثوق.",
+        "description": "مسجل شبكي مدمج بـ4 قنوات و4 منافذ PoE مدمجة، مثالي للمنازل أو المحال الصغيرة. يدعم حتى 6 ميجابكسل لكل قناة، ويستوعب قرصًا صلبًا SATA واحدًا حتى 6 تيرابايت، ويوفر وصولًا عبر الهاتف من خلال تطبيق Hik-Connect.",
+        "highlights": [
+          "4 قنوات، 4 منافذ PoE مدمجة",
+          "قرص صلب SATA واحد حتى 6 تيرابايت",
+          "ضغط H.265+ موفر للتخزين",
+          "وصول عبر الهاتف عبر Hik-Connect"
+        ],
+        "inTheBox": [
+          "مسجل DS-7104NI-Q1/4P",
+          "فأرة USB",
+          "كابل تغذية",
+          "دليل البدء السريع"
+        ]
+      },
+      "zh": {
+        "name": "Hikvision DS-7104NI-Q1/4P",
+        "tagline": "4路PoE录像机，稳定实用的入门之选。",
+        "description": "紧凑型 4 路网络录像机，内置 4 个 PoE 端口，适合家庭或小型商铺使用。单路最高支持 600 万像素，可安装一块最大 6TB 的 SATA 硬盘，并支持通过应用远程查看。",
+        "highlights": [
+          "4路通道，内置4个PoE端口",
+          "1个SATA硬盘位，最高6TB",
+          "H.265+压缩，节省存储空间",
+          "支持移动应用远程访问"
+        ],
+        "inTheBox": [
+          "DS-7104NI-Q1/4P录像机",
+          "USB鼠标",
+          "电源线",
+          "快速安装指南"
+        ]
+      }
+    },
+    "attributes": {
+      "protocol": [
+        "filaire-poe"
+      ],
+      "placement": "interieur",
+      "power": [
+        "secteur"
+      ],
+      "compat": [
+        "app-marque",
+        "safer-platform"
+      ]
+    },
+    "specs": [
+      {
+        "key": "channels",
+        "value": "4 canaux IP"
+      },
+      {
+        "key": "ports",
+        "value": "4× PoE + 1 WAN, 1 USB, HDMI/VGA"
+      },
+      {
+        "key": "storage",
+        "value": "1× SATA, ≤ 6 TB"
+      },
+      {
+        "key": "videoCodec",
+        "value": "H.265+ / H.265 / H.264"
+      },
+      {
+        "key": "resolution",
+        "value": {
+          "fr": "Jusqu'à 6 MP par canal en entrée",
+          "en": "Up to 6 MP per input channel",
+          "es": "Hasta 6 MP por canal de entrada",
+          "ar": "حتى 6 ميجابكسل لكل قناة إدخال",
+          "zh": "每路输入最高6MP"
+        }
+      },
+      {
+        "key": "app",
+        "value": "Hik-Connect"
+      },
+      {
+        "key": "compatibility",
+        "value": {
+          "fr": "ONVIF Profile S, caméras tierces compatibles",
+          "en": "ONVIF Profile S, compatible with third-party cameras",
+          "es": "ONVIF Profile S, compatible con cámaras de terceros",
+          "ar": "ONVIF Profile S، متوافق مع كاميرات من جهات أخرى",
+          "zh": "ONVIF Profile S，兼容第三方摄像头"
+        }
+      }
+    ],
+    "pricing": {
+      "sourcePrice": 99.99,
+      "sourceCurrency": "USD"
+    },
+    "availability": "sur-devis",
+    "install": {
+      "level": "expert",
+      "duration": "60 min",
+      "prerequisites": {
+        "fr": "Meuble technique ventilé, arrivée secteur 220V et câblage Ethernet vers les caméras PoE.",
+        "en": "Ventilated equipment cabinet, 220V mains supply, and Ethernet cabling to the PoE cameras.",
+        "es": "Mueble técnico ventilado, alimentación de red de 220V y cableado Ethernet hasta las cámaras PoE.",
+        "ar": "خزانة معدات جيدة التهوية، تغذية كهربائية 220 فولت، وتوصيل كابلات إيثرنت إلى كاميرات PoE.",
+        "zh": "需通风设备柜、220V 市电电源，以及连接 PoE 摄像机的以太网布线。"
+      }
+    },
+    "sourceUrl": "https://www.hikvision.com/en/products/IP-Products/Network-Video-Recorders/Value-Series/ds-7104ni-q1-4p/",
+    "accent": "#e63946",
+    "symbol": "▣",
+    "solutions": [
+      "video-intelligente/cameras-exterieures",
+      "video-intelligente/verification-video"
+    ],
+    "related": [
+      "hikvision-ds-2cd2347g2-lu"
+    ]
+  },
+  {
+    "id": "hikvision-ds-kv6113-wpe1",
+    "sku": "DS-KV6113-WPE1",
+    "brand": "hikvision",
+    "sourceBrand": "Hikvision",
+    "model": "DS-KV6113-WPE1",
+    "category": "acces",
+    "subcategory": "interphones",
+    "i18n": {
+      "fr": {
+        "name": "Hikvision DS-KV6113-WPE1",
+        "tagline": "Portier vidéo IP PoE avec badge, code et appli mobile.",
+        "description": "Poste de rue vidéo IP grand angle pour portail ou entrée de villa, avec audio bidirectionnel HD, ouverture par carte RFID, code ou application Hik-Connect. Alimenté en PoE, il résiste aux intempéries (IP65) et enregistre les visites sur carte microSD locale.",
+        "highlights": [
+          "Vidéo grand angle avec vision nocturne",
+          "Ouverture par carte, code ou application",
+          "Audio bidirectionnel HD",
+          "IP65, alimentation PoE"
+        ],
+        "inTheBox": [
+          "Poste de rue DS-KV6113-WPE1",
+          "Support de fixation en saillie",
+          "Visserie",
+          "Guide d'installation rapide"
+        ]
+      },
+      "en": {
+        "name": "Hikvision DS-KV6113-WPE1",
+        "tagline": "PoE IP video door station with card, code and app.",
+        "description": "Wide-angle IP video door station for a gate or villa entrance, with two-way HD audio and unlocking by RFID card, PIN code or the Hik-Connect app. PoE powered, it withstands the weather (IP65) and logs visits to a local microSD card.",
+        "highlights": [
+          "Wide-angle video with night vision",
+          "Card, code or app unlocking",
+          "Two-way HD audio",
+          "IP65, PoE powered"
+        ],
+        "inTheBox": [
+          "DS-KV6113-WPE1 door station",
+          "Surface mount bracket",
+          "Screws",
+          "Quick start guide"
+        ]
+      },
+      "es": {
+        "name": "Hikvision DS-KV6113-WPE1",
+        "tagline": "Videoportero IP PoE con tarjeta, código y app.",
+        "description": "Placa de calle de vídeo IP gran angular para portón o entrada de vivienda, con audio bidireccional HD y apertura por tarjeta RFID, código o la app Hik-Connect. Alimentada por PoE, resiste la intemperie (IP65) y registra las visitas en tarjeta microSD local.",
+        "highlights": [
+          "Vídeo gran angular con visión nocturna",
+          "Apertura por tarjeta, código o app",
+          "Audio bidireccional HD",
+          "IP65, alimentación PoE"
+        ],
+        "inTheBox": [
+          "Placa de calle DS-KV6113-WPE1",
+          "Soporte de superficie",
+          "Tornillería",
+          "Guía de inicio rápido"
+        ]
+      },
+      "ar": {
+        "name": "Hikvision DS-KV6113-WPE1",
+        "tagline": "وحدة اتصال فيديو IP عبر PoE ببطاقة ورمز وتطبيق.",
+        "description": "وحدة باب فيديو IP بزاوية واسعة للبوابة أو مدخل الفيلا، بصوت ثنائي الاتجاه عالي الجودة وفتح عبر بطاقة RFID أو رمز أو تطبيق Hik-Connect. تعمل بتغذية PoE، ومقاومة للعوامل الجوية بمعيار IP65، وتسجّل الزيارات على بطاقة microSD محلية.",
+        "highlights": [
+          "فيديو بزاوية واسعة مع رؤية ليلية",
+          "فتح ببطاقة أو رمز أو تطبيق",
+          "صوت ثنائي الاتجاه عالي الجودة",
+          "IP65، تغذية PoE"
+        ],
+        "inTheBox": [
+          "وحدة الباب DS-KV6113-WPE1",
+          "حامل تثبيت سطحي",
+          "براغي",
+          "دليل البدء السريع"
+        ]
+      },
+      "zh": {
+        "name": "Hikvision DS-KV6113-WPE1",
+        "tagline": "PoE供电IP可视对讲门口机，支持刷卡、密码与App。",
+        "description": "广角 IP 可视对讲门口机，适用于大门或别墅入口，支持高清双向语音，可通过 RFID 卡、密码或 Hik-Connect App 开锁。PoE 供电，防护等级达 IP65，来访记录保存在本地 microSD 卡中。",
+        "highlights": [
+          "广角视频带夜视功能",
+          "支持刷卡、密码或App开锁",
+          "高清双向语音对讲",
+          "IP65防护，PoE供电"
+        ],
+        "inTheBox": [
+          "DS-KV6113-WPE1门口机",
+          "明装支架",
+          "螺丝配件",
+          "快速安装指南"
+        ]
+      }
+    },
+    "attributes": {
+      "protocol": [
+        "filaire-poe"
+      ],
+      "placement": "exterieur",
+      "power": [
+        "poe"
+      ],
+      "compat": [
+        "app-marque",
+        "safer-platform"
+      ]
+    },
+    "specs": [
+      {
+        "key": "resolution",
+        "value": "2 MP grand angle 155°"
+      },
+      {
+        "key": "nightVision",
+        "value": {
+          "fr": "IR + capteur faible luminosité",
+          "en": "IR + low-light sensor",
+          "es": "IR + sensor de baja luminosidad",
+          "ar": "أشعة تحت حمراء + مستشعر إضاءة منخفضة",
+          "zh": "红外+低照度传感器"
+        }
+      },
+      {
+        "key": "twoWayAudio",
+        "value": {
+          "fr": "Audio bidirectionnel HD, réduction de bruit",
+          "en": "Two-way HD audio, noise reduction",
+          "es": "Audio bidireccional HD, reducción de ruido",
+          "ar": "صوت ثنائي الاتجاه HD، تقليل الضوضاء",
+          "zh": "HD双向语音，降噪"
+        }
+      },
+      {
+        "key": "unlockMethods",
+        "value": "Carte Mifare, code, application, badge RF"
+      },
+      {
+        "key": "app",
+        "value": "Hik-Connect"
+      },
+      {
+        "key": "storage",
+        "value": "microSD 128 Go local"
+      },
+      {
+        "key": "weatherproof",
+        "value": "IP65"
+      },
+      {
+        "key": "compatibility",
+        "value": {
+          "fr": "ONVIF, intégration NVR Hikvision",
+          "en": "ONVIF, Hikvision NVR integration",
+          "es": "ONVIF, integración con NVR Hikvision",
+          "ar": "ONVIF، تكامل مع مسجل NVR من Hikvision",
+          "zh": "ONVIF，海康NVR集成"
+        }
+      }
+    ],
+    "pricing": {
+      "sourcePrice": 219.99,
+      "sourceCurrency": "USD"
+    },
+    "availability": "sur-commande",
+    "install": {
+      "level": "expert",
+      "duration": "90 min",
+      "prerequisites": {
+        "fr": "Câblage PoE jusqu'au poste de rue et alimentation secteur pour le moniteur intérieur ou la platine de gestion.",
+        "en": "PoE cabling to the door station and mains power for the indoor monitor or management unit.",
+        "es": "Cableado PoE hasta la placa de calle y alimentación de red para el monitor interior o la unidad de gestión.",
+        "ar": "توصيل كابل PoE إلى وحدة الباب وتغذية كهربائية للشاشة الداخلية أو وحدة الإدارة.",
+        "zh": "需将 PoE 线缆铺设至门口机，并为室内显示屏或管理主机提供市电供电。"
+      }
+    },
+    "sourceUrl": "https://www.hikvision.com/en/products/Video-Intercom-Products/IP-Series/Pro-Series/ds-kv6113-wpe1-b-/",
+    "accent": "#e63946",
+    "symbol": "⌇",
+    "solutions": [
+      "controle-acces/gestion-visiteurs"
+    ],
+    "related": [
+      "hikvision-ds-k1t341am"
+    ]
+  },
+  {
+    "id": "hikvision-ds-k1t341am",
+    "sku": "DS-K1T341AM",
+    "brand": "hikvision",
+    "sourceBrand": "Hikvision",
+    "model": "DS-K1T341AM",
+    "category": "acces",
+    "subcategory": "lecteurs-claviers",
+    "i18n": {
+      "fr": {
+        "name": "Hikvision DS-K1T341AM",
+        "tagline": "Terminal reconnaissance faciale, badge et code réunis.",
+        "description": "Terminal de contrôle d'accès à reconnaissance faciale avec écran tactile 4,3 pouces, lecteur de carte Mifare et clavier code. Il identifie jusqu'à 3 000 visages en moins d'une seconde et journalise chaque passage pour un suivi précis des entrées et sorties.",
+        "highlights": [
+          "Reconnaissance faciale en moins d'une seconde",
+          "3 000 visages / 3 000 cartes en mémoire",
+          "Écran tactile 4,3 pouces",
+          "Journal de 300 000 événements"
+        ],
+        "inTheBox": [
+          "Terminal DS-K1T341AM",
+          "Support de fixation",
+          "Visserie",
+          "Guide d'installation rapide"
+        ]
+      },
+      "en": {
+        "name": "Hikvision DS-K1T341AM",
+        "tagline": "Face recognition terminal with card and code, combined.",
+        "description": "Face recognition access terminal with a 4.3-inch touchscreen, Mifare card reader and PIN keypad. It identifies up to 3,000 faces in under a second and logs every pass for a precise record of entries and exits.",
+        "highlights": [
+          "Face recognition in under a second",
+          "3,000 faces / 3,000 cards in memory",
+          "4.3-inch touchscreen",
+          "300,000-event log"
+        ],
+        "inTheBox": [
+          "DS-K1T341AM terminal",
+          "Mounting bracket",
+          "Screws",
+          "Quick start guide"
+        ]
+      },
+      "es": {
+        "name": "Hikvision DS-K1T341AM",
+        "tagline": "Terminal de reconocimiento facial, tarjeta y código en uno.",
+        "description": "Terminal de control de acceso por reconocimiento facial con pantalla táctil de 4,3 pulgadas, lector de tarjetas Mifare y teclado de código. Identifica hasta 3.000 rostros en menos de un segundo y registra cada paso para un seguimiento preciso de entradas y salidas.",
+        "highlights": [
+          "Reconocimiento facial en menos de un segundo",
+          "3.000 rostros / 3.000 tarjetas en memoria",
+          "Pantalla táctil de 4,3 pulgadas",
+          "Registro de 300.000 eventos"
+        ],
+        "inTheBox": [
+          "Terminal DS-K1T341AM",
+          "Soporte de fijación",
+          "Tornillería",
+          "Guía de inicio rápido"
+        ]
+      },
+      "ar": {
+        "name": "Hikvision DS-K1T341AM",
+        "tagline": "طرفية تعرّف على الوجه مع بطاقة ورمز في جهاز واحد.",
+        "description": "طرفية تحكم بالدخول عبر التعرّف على الوجه بشاشة لمس 4.3 بوصة وقارئ بطاقات Mifare ولوحة رموز. تتعرّف على حتى 3000 وجه في أقل من ثانية وتسجّل كل عملية دخول لمتابعة دقيقة للدخول والخروج.",
+        "highlights": [
+          "تعرّف على الوجه في أقل من ثانية",
+          "3000 وجه / 3000 بطاقة في الذاكرة",
+          "شاشة لمس 4.3 بوصة",
+          "سجل يضم 300,000 حدث"
+        ],
+        "inTheBox": [
+          "طرفية DS-K1T341AM",
+          "حامل تثبيت",
+          "براغي",
+          "دليل البدء السريع"
+        ]
+      },
+      "zh": {
+        "name": "Hikvision DS-K1T341AM",
+        "tagline": "人脸识别终端，集刷卡与密码于一体。",
+        "description": "人脸识别门禁终端配备 4.3 英寸触摸屏、Mifare 卡读卡器和密码键盘，可在一秒内识别多达 3000 张人脸，并记录每次通行，精确追踪出入情况。",
+        "highlights": [
+          "一秒内完成人脸识别",
+          "可存储3000张人脸/3000张卡",
+          "4.3英寸触摸屏",
+          "30万条事件日志"
+        ],
+        "inTheBox": [
+          "DS-K1T341AM终端",
+          "安装支架",
+          "螺丝配件",
+          "快速安装指南"
+        ]
+      }
+    },
+    "attributes": {
+      "protocol": [
+        "filaire-poe"
+      ],
+      "placement": "interieur-exterieur",
+      "power": [
+        "poe"
+      ],
+      "compat": [
+        "app-marque",
+        "safer-platform"
+      ]
+    },
+    "specs": [
+      {
+        "key": "unlockMethods",
+        "value": "Reconnaissance faciale, carte Mifare, code PIN"
+      },
+      {
+        "key": "users",
+        "value": "3 000 visages / 3 000 cartes"
+      },
+      {
+        "key": "detectionRange",
+        "value": "0,3 … 2 m"
+      },
+      {
+        "key": "display",
+        "value": {
+          "fr": "Écran tactile 4,3 pouces",
+          "en": "4.3-inch touchscreen",
+          "es": "Pantalla táctil de 4,3 pulgadas",
+          "ar": "شاشة لمس مقاس 4.3 بوصة",
+          "zh": "4.3英寸触摸屏"
+        }
+      },
+      {
+        "key": "log",
+        "value": {
+          "fr": "300 000 événements",
+          "en": "300,000 events",
+          "es": "300 000 eventos",
+          "ar": "300,000 حدث",
+          "zh": "30万条事件记录"
+        }
+      },
+      {
+        "key": "weatherproof",
+        "value": "IP65"
+      },
+      {
+        "key": "operatingTemp",
+        "value": "-30 °C … 60 °C"
+      },
+      {
+        "key": "connectivity",
+        "value": "Ethernet PoE, Wiegand"
+      },
+      {
+        "key": "compatibility",
+        "value": {
+          "fr": "ONVIF (flux caméra intégrée), intégration plateforme SafeR",
+          "en": "ONVIF (built-in camera stream), SafeR platform integration",
+          "es": "ONVIF (flujo de cámara integrada), integración con la plataforma SafeR",
+          "ar": "ONVIF (بث الكاميرا المدمجة)، تكامل مع منصة SafeR",
+          "zh": "ONVIF（内置摄像头视频流），集成SafeR平台"
+        }
+      }
+    ],
+    "pricing": {
+      "sourcePrice": 329.99,
+      "sourceCurrency": "USD"
+    },
+    "availability": "sur-commande",
+    "install": {
+      "level": "expert",
+      "duration": "75 min",
+      "prerequisites": {
+        "fr": "Alimentation PoE ou 12V, montage sur mur/portillon à hauteur de visage, câblage vers la gâche électrique.",
+        "en": "PoE or 12V power, wall/gate mounting at face height, wiring to the electric strike.",
+        "es": "Alimentación PoE o 12V, montaje en pared/portillo a la altura del rostro, cableado hasta la cerradura eléctrica.",
+        "ar": "تغذية PoE أو 12 فولت، تركيب على الحائط/البوابة بارتفاع الوجه، وتوصيل كابل إلى القفل الكهربائي.",
+        "zh": "需 PoE 或 12V 供电，安装于墙面/闸门人脸高度处，并接线至电控锁。"
+      }
+    },
+    "sourceUrl": "https://www.hikvision.com/en/products/Access-Control-Products/Face-Recognition-Terminals/Value-Series/ds-k1t341am/",
+    "accent": "#e63946",
+    "symbol": "✚",
+    "solutions": [
+      "controle-acces/gestion-visiteurs",
+      "controle-acces/portails-connectes"
+    ],
+    "related": [
+      "hikvision-ds-kv6113-wpe1"
+    ]
+  },
+  {
+    "id": "hikvision-ds-pwa64-l-we",
+    "sku": "DS-PWA64-L-WE",
+    "brand": "hikvision",
+    "sourceBrand": "Hikvision",
+    "model": "AX PRO DS-PWA64-L-WE",
+    "category": "alarme",
+    "subcategory": "centrales",
+    "i18n": {
+      "fr": {
+        "name": "Hikvision AX PRO DS-PWA64-L-WE",
+        "tagline": "Centrale AX PRO 64 zones sans fil, Wi-Fi et 4G en option.",
+        "description": "Centrale d'alarme sans fil AX PRO gérant jusqu'à 64 zones radio à 868 MHz, avec sirène intégrée 98 dB et double transmission Wi-Fi / Ethernet, module 4G disponible en option pour rester connectée même sans box internet. Batterie de secours intégrée en cas de coupure secteur.",
+        "highlights": [
+          "Jusqu'à 64 zones sans fil 868 MHz",
+          "Sirène intégrée 98 dB",
+          "Wi-Fi, Ethernet et 4G en option",
+          "Batterie de secours intégrée"
+        ],
+        "inTheBox": [
+          "Centrale DS-PWA64-L-WE",
+          "Bloc d'alimentation",
+          "Visserie et cheville anti-arrachement",
+          "Guide d'installation rapide"
+        ]
+      },
+      "en": {
+        "name": "Hikvision AX PRO DS-PWA64-L-WE",
+        "tagline": "AX PRO 64-zone wireless panel with Wi-Fi and optional 4G.",
+        "description": "AX PRO wireless alarm control panel managing up to 64 radio zones at 868 MHz, with a built-in 98 dB siren and dual Wi-Fi / Ethernet transmission, plus an optional 4G module to stay connected without a home router. A built-in backup battery covers mains outages.",
+        "highlights": [
+          "Up to 64 wireless zones at 868 MHz",
+          "Built-in 98 dB siren",
+          "Wi-Fi, Ethernet and optional 4G",
+          "Built-in backup battery"
+        ],
+        "inTheBox": [
+          "DS-PWA64-L-WE control panel",
+          "Power supply unit",
+          "Screws and anti-tamper plug",
+          "Quick start guide"
+        ]
+      },
+      "es": {
+        "name": "Hikvision AX PRO DS-PWA64-L-WE",
+        "tagline": "Central AX PRO 64 zonas inalámbricas, Wi-Fi y 4G opcional.",
+        "description": "Central de alarma inalámbrica AX PRO que gestiona hasta 64 zonas de radio a 868 MHz, con sirena integrada de 98 dB y doble transmisión Wi-Fi/Ethernet, más un módulo 4G opcional para mantenerse conectada sin router doméstico. Batería de respaldo integrada ante cortes de red.",
+        "highlights": [
+          "Hasta 64 zonas inalámbricas a 868 MHz",
+          "Sirena integrada de 98 dB",
+          "Wi-Fi, Ethernet y 4G opcional",
+          "Batería de respaldo integrada"
+        ],
+        "inTheBox": [
+          "Central DS-PWA64-L-WE",
+          "Fuente de alimentación",
+          "Tornillería y taco antisabotaje",
+          "Guía de inicio rápido"
+        ]
+      },
+      "ar": {
+        "name": "Hikvision AX PRO DS-PWA64-L-WE",
+        "tagline": "لوحة AX PRO بـ64 منطقة لاسلكية، Wi-Fi و4G اختياري.",
+        "description": "لوحة تحكم إنذار لاسلكية طراز AX PRO تدير حتى 64 منطقة راديو بتردد 868 ميجاهرتز، مزودة بصافرة إنذار مدمجة 98 ديسيبل وإرسال مزدوج عبر Wi-Fi/إيثرنت، مع وحدة 4G اختيارية للبقاء متصلة دون راوتر منزلي. بطارية احتياطية مدمجة تغطي انقطاع التيار الكهربائي.",
+        "highlights": [
+          "حتى 64 منطقة لاسلكية بتردد 868 ميجاهرتز",
+          "صافرة إنذار مدمجة 98 ديسيبل",
+          "Wi-Fi وإيثرنت و4G اختياري",
+          "بطارية احتياطية مدمجة"
+        ],
+        "inTheBox": [
+          "لوحة التحكم DS-PWA64-L-WE",
+          "وحدة تغذية كهربائية",
+          "براغي ووصلة مقاومة للعبث",
+          "دليل البدء السريع"
+        ]
+      },
+      "zh": {
+        "name": "Hikvision AX PRO DS-PWA64-L-WE",
+        "tagline": "AX PRO 64防区无线主机，支持Wi-Fi及选配4G。",
+        "description": "AX PRO 无线报警主机可管理最多 64 个 868MHz 无线防区，内置 98 分贝警号，支持 Wi-Fi/以太网双重通讯，并可选配 4G 模块，即使没有家庭路由器也能保持联网。内置备用电池可应对市电中断。",
+        "highlights": [
+          "最多64个868MHz无线防区",
+          "内置98分贝警号",
+          "Wi-Fi、以太网及选配4G",
+          "内置备用电池"
+        ],
+        "inTheBox": [
+          "DS-PWA64-L-WE主机",
+          "电源适配器",
+          "螺丝及防拆膨胀塞",
+          "快速安装指南"
+        ]
+      }
+    },
+    "attributes": {
+      "protocol": [
+        "wifi",
+        "4g-lte"
+      ],
+      "placement": "interieur",
+      "power": [
+        "secteur",
+        "batterie"
+      ],
+      "compat": [
+        "app-marque",
+        "safer-platform"
+      ]
+    },
+    "specs": [
+      {
+        "key": "zones",
+        "value": {
+          "fr": "Jusqu'à 64 zones sans fil",
+          "en": "Up to 64 wireless zones",
+          "es": "Hasta 64 zonas inalámbricas",
+          "ar": "حتى 64 منطقة لاسلكية",
+          "zh": "最多支持64个无线防区"
+        }
+      },
+      {
+        "key": "connectivity",
+        "value": {
+          "fr": "Wi-Fi 2,4 GHz + Ethernet, 4G en option (SIM)",
+          "en": "Wi-Fi 2.4 GHz + Ethernet, optional 4G (SIM)",
+          "es": "Wi-Fi 2,4 GHz + Ethernet, 4G opcional (SIM)",
+          "ar": "Wi-Fi 2.4 جيجاهرتز + إيثرنت، 4G اختياري (SIM)",
+          "zh": "Wi-Fi 2.4GHz + 以太网，可选4G（SIM卡）"
+        }
+      },
+      {
+        "key": "sim",
+        "value": {
+          "fr": "Emplacement SIM en option (module 4G)",
+          "en": "Optional SIM slot (4G module)",
+          "es": "Ranura SIM opcional (módulo 4G)",
+          "ar": "فتحة SIM اختيارية (وحدة 4G)",
+          "zh": "可选SIM卡槽（4G模块）"
+        }
+      },
+      {
+        "key": "siren",
+        "value": {
+          "fr": "Sirène intégrée 98 dB",
+          "en": "Built-in siren, 98 dB",
+          "es": "Sirena integrada, 98 dB",
+          "ar": "صفارة إنذار مدمجة 98 ديسيبل",
+          "zh": "内置警笛98分贝"
+        }
+      },
+      {
+        "key": "tamper",
+        "value": {
+          "fr": "Anti-sabotage avant/arrière",
+          "en": "Front/rear tamper protection",
+          "es": "Antisabotaje frontal/trasero",
+          "ar": "مقاومة العبث الأمامي/الخلفي",
+          "zh": "前后防拆保护"
+        }
+      },
+      {
+        "key": "battery",
+        "value": {
+          "fr": "Batterie de secours intégrée",
+          "en": "Built-in backup battery",
+          "es": "Batería de respaldo integrada",
+          "ar": "بطارية احتياطية مدمجة",
+          "zh": "内置备用电池"
+        }
+      },
+      {
+        "key": "app",
+        "value": "Hik-Connect"
+      },
+      {
+        "key": "compatibility",
+        "value": {
+          "fr": "ONVIF (flux caméras associées), intégration plateforme SafeR",
+          "en": "ONVIF (linked cameras stream), SafeR platform integration",
+          "es": "ONVIF (flujo de cámaras asociadas), integración con la plataforma SafeR",
+          "ar": "ONVIF (بث الكاميرات المرتبطة)، تكامل مع منصة SafeR",
+          "zh": "ONVIF（关联摄像头视频流），集成SafeR平台"
+        }
+      }
+    ],
+    "pricing": {
+      "sourcePrice": 189.99,
+      "sourceCurrency": "USD"
+    },
+    "availability": "sur-devis",
+    "install": {
+      "level": "expert",
+      "duration": "2 h",
+      "prerequisites": {
+        "fr": "Alimentation secteur 220V à proximité, emplacement central pour la portée radio 868 MHz, box internet ou carte SIM pour la transmission.",
+        "en": "220V mains supply nearby, a central location for 868 MHz radio range, and a home router or SIM card for transmission.",
+        "es": "Alimentación de red de 220V cerca, ubicación central para el alcance radio de 868 MHz, router doméstico o tarjeta SIM para la transmisión.",
+        "ar": "تغذية كهربائية 220 فولت قريبة، موقع مركزي لتغطية الراديو بتردد 868 ميجاهرتز، وراوتر منزلي أو بطاقة SIM للإرسال.",
+        "zh": "需附近有 220V 市电、位于 868MHz 无线信号覆盖中心位置，并需家庭路由器或 SIM 卡用于数据传输。"
+      }
+    },
+    "sourceUrl": "https://www.hikvision.com/en/products/Alarm-Products/wireless-intrusion-alarm/ax-pro/ds-pwa64-l-we/",
+    "accent": "#e63946",
+    "symbol": "⊕",
+    "featured": true,
+    "solutions": [
+      "alarmes-connectees/detection-intrusion"
+    ],
+    "related": [
+      "hikvision-ds-pdp15p-eg2-we"
+    ]
+  },
+  {
+    "id": "hikvision-ds-pdp15p-eg2-we",
+    "sku": "DS-PDP15P-EG2-WE",
+    "brand": "hikvision",
+    "sourceBrand": "Hikvision",
+    "model": "AX PRO DS-PDP15P-EG2-WE",
+    "category": "alarme",
+    "subcategory": "detecteurs-mouvement",
+    "i18n": {
+      "fr": {
+        "name": "Hikvision AX PRO DS-PDP15P-EG2-WE",
+        "tagline": "Détecteur de mouvement PIR sans fil, immunité animaux.",
+        "description": "Détecteur infrarouge passif sans fil de la gamme AX PRO, couvrant 12 m à 90° avec immunité animaux jusqu'à 20 kg pour limiter les fausses alarmes. Alimenté par pile longue durée, il s'associe en quelques secondes à la centrale AX PRO et signale toute tentative de sabotage.",
+        "highlights": [
+          "Portée de détection 12 m / 90°",
+          "Immunité animaux jusqu'à 20 kg",
+          "Autonomie pile jusqu'à 5 ans",
+          "Anti-sabotage intégré"
+        ],
+        "inTheBox": [
+          "Détecteur DS-PDP15P-EG2-WE",
+          "Pile CR123A",
+          "Support mural orientable",
+          "Guide d'installation rapide"
+        ]
+      },
+      "en": {
+        "name": "Hikvision AX PRO DS-PDP15P-EG2-WE",
+        "tagline": "Wireless PIR motion detector with pet immunity.",
+        "description": "Wireless passive infrared detector from the AX PRO range, covering 12 m at 90° with pet immunity up to 20 kg to cut false alarms. Powered by a long-life battery, it pairs with the AX PRO panel in seconds and reports any tamper attempt.",
+        "highlights": [
+          "12 m / 90° detection range",
+          "Pet immunity up to 20 kg",
+          "Battery life up to 5 years",
+          "Built-in tamper protection"
+        ],
+        "inTheBox": [
+          "DS-PDP15P-EG2-WE detector",
+          "CR123A battery",
+          "Adjustable wall bracket",
+          "Quick start guide"
+        ]
+      },
+      "es": {
+        "name": "Hikvision AX PRO DS-PDP15P-EG2-WE",
+        "tagline": "Detector de movimiento PIR inalámbrico con inmunidad a mascotas.",
+        "description": "Detector infrarrojo pasivo inalámbrico de la gama AX PRO, con cobertura de 12 m a 90° e inmunidad a mascotas de hasta 20 kg para reducir falsas alarmas. Alimentado por pila de larga duración, se empareja con la central AX PRO en segundos y avisa ante cualquier sabotaje.",
+        "highlights": [
+          "Alcance de detección 12 m / 90°",
+          "Inmunidad a mascotas hasta 20 kg",
+          "Autonomía de pila hasta 5 años",
+          "Protección antisabotaje integrada"
+        ],
+        "inTheBox": [
+          "Detector DS-PDP15P-EG2-WE",
+          "Pila CR123A",
+          "Soporte de pared orientable",
+          "Guía de inicio rápido"
+        ]
+      },
+      "ar": {
+        "name": "Hikvision AX PRO DS-PDP15P-EG2-WE",
+        "tagline": "كاشف حركة PIR لاسلكي بمناعة ضد الحيوانات الأليفة.",
+        "description": "كاشف الأشعة تحت الحمراء السلبية اللاسلكي من سلسلة AX PRO، يغطي 12 مترًا بزاوية 90° مع مناعة ضد الحيوانات الأليفة حتى 20 كجم لتقليل الإنذارات الكاذبة. يعمل ببطارية طويلة العمر، ويقترن بلوحة AX PRO خلال ثوانٍ ويُبلغ عن أي محاولة عبث.",
+        "highlights": [
+          "نطاق كشف 12 م بزاوية 90°",
+          "مناعة ضد الحيوانات حتى 20 كجم",
+          "عمر بطارية يصل إلى 5 سنوات",
+          "حماية مدمجة ضد العبث"
+        ],
+        "inTheBox": [
+          "كاشف DS-PDP15P-EG2-WE",
+          "بطارية CR123A",
+          "حامل جداري قابل للتوجيه",
+          "دليل البدء السريع"
+        ]
+      },
+      "zh": {
+        "name": "Hikvision AX PRO DS-PDP15P-EG2-WE",
+        "tagline": "无线PIR人体探测器，具备宠物免扰功能。",
+        "description": "AX PRO 系列无线被动红外探测器，覆盖范围 12 米、90° 探测角，具备最高 20 公斤宠物免扰功能，减少误报。采用长效电池供电，可在数秒内与 AX PRO 主机配对，并具备防拆报警功能。",
+        "highlights": [
+          "探测范围12米/90°",
+          "宠物免扰最高20公斤",
+          "电池续航最长5年",
+          "内置防拆保护"
+        ],
+        "inTheBox": [
+          "DS-PDP15P-EG2-WE探测器",
+          "CR123A电池",
+          "可调节壁挂支架",
+          "快速安装指南"
+        ]
+      }
+    },
+    "attributes": {
+      "protocol": [
+        "rf-proprietaire"
+      ],
+      "placement": "interieur",
+      "power": [
+        "pile"
+      ],
+      "compat": [
+        "app-marque",
+        "safer-platform"
+      ]
+    },
+    "specs": [
+      {
+        "key": "detectionRange",
+        "value": "12 m @ 90°"
+      },
+      {
+        "key": "detectionType",
+        "value": "Infrarouge passif (PIR)"
+      },
+      {
+        "key": "petImmunity",
+        "value": "≤ 20 kg"
+      },
+      {
+        "key": "battery",
+        "value": {
+          "fr": "CR123A, autonomie jusqu'à 5 ans",
+          "en": "CR123A, up to 5 years battery life",
+          "es": "CR123A, autonomía de hasta 5 años",
+          "ar": "CR123A، عمر بطارية يصل إلى 5 سنوات",
+          "zh": "CR123A电池，续航长达5年"
+        }
+      },
+      {
+        "key": "tamper",
+        "value": {
+          "fr": "Anti-sabotage avant/arrière",
+          "en": "Front/rear tamper protection",
+          "es": "Antisabotaje frontal/trasero",
+          "ar": "مقاومة العبث الأمامي/الخلفي",
+          "zh": "前后防拆保护"
+        }
+      },
+      {
+        "key": "connectivity",
+        "value": {
+          "fr": "Radio propriétaire 868 MHz (AX PRO)",
+          "en": "Proprietary radio, 868 MHz (AX PRO)",
+          "es": "Radio propietaria 868 MHz (AX PRO)",
+          "ar": "راديو خاص بالعلامة 868 ميجاهرتز (AX PRO)",
+          "zh": "私有射频协议868MHz（AX PRO）"
+        }
+      },
+      {
+        "key": "operatingTemp",
+        "value": "-10 °C … 55 °C"
+      },
+      {
+        "key": "weatherproof",
+        "value": {
+          "fr": "IP42 (intérieur)",
+          "en": "IP42 (indoor)",
+          "es": "IP42 (interior)",
+          "ar": "IP42 (داخلي)",
+          "zh": "IP42（室内）"
+        }
+      }
+    ],
+    "pricing": {
+      "sourcePrice": 34.99,
+      "sourceCurrency": "USD"
+    },
+    "availability": "en-stock",
+    "install": {
+      "level": "simple",
+      "duration": "15 min",
+      "prerequisites": {
+        "fr": "Centrale AX PRO Hikvision associée, montage mural à 2 m de hauteur hors zone de forte chaleur.",
+        "en": "A paired Hikvision AX PRO panel, wall mounting at 2 m height away from heat sources.",
+        "es": "Central AX PRO de Hikvision emparejada, montaje en pared a 2 m de altura lejos de fuentes de calor.",
+        "ar": "لوحة AX PRO من Hikvision مقترنة، وتركيب على الحائط بارتفاع مترين بعيدًا عن مصادر الحرارة.",
+        "zh": "需已配对的 Hikvision AX PRO 主机，安装于距地面 2 米高的墙面，远离热源。"
+      }
+    },
+    "sourceUrl": "https://www.hikvision.com/en/products/Alarm-Products/wireless-intrusion-alarm/ax-pro/ds-pdp15p-eg2-we-b-/",
+    "accent": "#e63946",
+    "symbol": "◎",
+    "solutions": [
+      "alarmes-connectees/detection-intrusion"
+    ],
+    "related": [
+      "hikvision-ds-pwa64-l-we"
+    ]
+  }
+]

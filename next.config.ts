@@ -6,7 +6,7 @@ const contentSecurityPolicy = [
   "default-src 'self'",
   `script-src 'self' 'unsafe-inline'${isDevelopment ? " 'unsafe-eval'" : ''}`,
   "style-src 'self' 'unsafe-inline'",
-  "img-src 'self' data: blob: https://images.pexels.com",
+  "img-src 'self' data: blob: https:",
   "media-src 'self' https://videos.pexels.com",
   "font-src 'self' data:",
   isDevelopment ? "connect-src 'self' ws: http: https:" : "connect-src 'self'",

@@ -1,0 +1,4548 @@
+[
+  {
+    "id": "safer-link-gz3",
+    "sku": "ZB3-GW01",
+    "needsVerification": true,
+    "brand": "safer",
+    "sourceBrand": "Tuya",
+    "model": "Link GZ3",
+    "category": "domotique",
+    "subcategory": "passerelles-hubs",
+    "i18n": {
+      "fr": {
+        "name": "SafeR Link GZ3 — passerelle Zigbee 3.0",
+        "tagline": "Le cœur multi-protocole de votre maison connectée SafeR.",
+        "description": "Passerelle domestique Zigbee 3.0 qui relie jusqu'à 200 capteurs, prises et accessoires SafeR à votre réseau Wi-Fi et à la plateforme SafeR. Elle exécute les scénarios locaux, maintient les automatisations actives même en cas de coupure Internet, et sert de socle à toute installation multi-pièces. Compatible avec l'écosystème Smart Life et les principaux assistants vocaux.",
+        "highlights": [
+          "Jusqu'à 200 appareils Zigbee 3.0 raccordés",
+          "Scénarios locaux actifs sans connexion Internet",
+          "Compatible Smart Life, Alexa et Google Home",
+          "Mise en service guidée en moins de 20 minutes"
+        ],
+        "inTheBox": [
+          "Passerelle Link GZ3",
+          "Bloc secteur 5 V / 1 A",
+          "Câble USB-C",
+          "Support de fixation",
+          "Guide de démarrage"
+        ]
+      },
+      "en": {
+        "name": "SafeR Link GZ3 — Zigbee 3.0 gateway",
+        "tagline": "The multi-protocol heart of your SafeR smart home.",
+        "description": "Zigbee 3.0 home gateway that connects up to 200 SafeR sensors, plugs and accessories to your Wi-Fi network and the SafeR platform. It runs local scenes, keeps automations active during an internet outage, and forms the backbone of any multi-room installation. Compatible with the Smart Life ecosystem and the main voice assistants.",
+        "highlights": [
+          "Up to 200 connected Zigbee 3.0 devices",
+          "Local scenes stay active without internet",
+          "Works with Smart Life, Alexa and Google Home",
+          "Guided setup in under 20 minutes"
+        ],
+        "inTheBox": [
+          "Link GZ3 gateway",
+          "5 V / 1 A power adapter",
+          "USB-C cable",
+          "Mounting bracket",
+          "Quick start guide"
+        ]
+      },
+      "es": {
+        "name": "SafeR Link GZ3 — pasarela Zigbee 3.0",
+        "tagline": "El núcleo multiprotocolo de tu hogar inteligente SafeR.",
+        "description": "Pasarela doméstica Zigbee 3.0 que conecta hasta 200 sensores, enchufes y accesorios SafeR a tu red Wi-Fi y a la plataforma SafeR. Ejecuta escenas locales, mantiene las automatizaciones activas incluso sin conexión a Internet, y sirve de base para cualquier instalación multi-habitación. Compatible con el ecosistema Smart Life y los principales asistentes de voz.",
+        "highlights": [
+          "Hasta 200 dispositivos Zigbee 3.0 conectados",
+          "Escenas locales activas sin Internet",
+          "Compatible con Smart Life, Alexa y Google Home",
+          "Puesta en marcha guiada en menos de 20 minutos"
+        ],
+        "inTheBox": [
+          "Pasarela Link GZ3",
+          "Adaptador 5 V / 1 A",
+          "Cable USB-C",
+          "Soporte de fijación",
+          "Guía de inicio rápido"
+        ]
+      },
+      "ar": {
+        "name": "SafeR Link GZ3 — بوابة Zigbee 3.0",
+        "tagline": "قلب منزلك الذكي SafeR متعدد البروتوكولات.",
+        "description": "بوابة منزلية بمعيار Zigbee 3.0 تربط حتى 200 جهاز استشعار ومقبس وملحق من SafeR بشبكة Wi-Fi ومنصة SafeR. تُشغّل السيناريوهات المحلية وتُبقي الأتمتة فعّالة حتى عند انقطاع الإنترنت، وتُشكّل أساس أي تركيب متعدد الغرف. متوافقة مع تطبيق Smart Life ومساعدي الصوت الرئيسيين.",
+        "highlights": [
+          "حتى 200 جهاز Zigbee 3.0 متصل",
+          "سيناريوهات محلية فعّالة دون إنترنت",
+          "متوافقة مع Smart Life وAlexa وGoogle Home",
+          "تركيب موجَّه في أقل من 20 دقيقة"
+        ],
+        "inTheBox": [
+          "بوابة Link GZ3",
+          "محول كهربائي 5 فولت / 1 أمبير",
+          "كابل USB-C",
+          "حامل تثبيت",
+          "دليل البدء السريع"
+        ]
+      },
+      "zh": {
+        "name": "SafeR Link GZ3 — Zigbee 3.0 网关",
+        "tagline": "SafeR 智能家居的多协议核心。",
+        "description": "Zigbee 3.0 家庭网关，可将多达 200 个 SafeR 传感器、插座和配件连接到您的 Wi-Fi 网络和 SafeR 平台。即使断网也能保持本地场景与自动化持续运行，是多房间安装的核心枢纽。兼容 Smart Life 生态及主流语音助手。",
+        "highlights": [
+          "最多连接 200 个 Zigbee 3.0 设备",
+          "断网时本地场景仍可运行",
+          "兼容 Smart Life、Alexa 与 Google Home",
+          "20 分钟内完成引导式设置"
+        ],
+        "inTheBox": [
+          "Link GZ3 网关",
+          "5V/1A 电源适配器",
+          "USB-C 数据线",
+          "安装支架",
+          "快速入门指南"
+        ]
+      }
+    },
+    "attributes": {
+      "protocol": [
+        "zigbee",
+        "wifi"
+      ],
+      "placement": "interieur",
+      "power": [
+        "secteur"
+      ],
+      "compat": [
+        "smart-life",
+        "safer-platform",
+        "alexa",
+        "google"
+      ]
+    },
+    "specs": [
+      {
+        "key": "connectivity",
+        "value": "Wi-Fi 2,4 GHz + Zigbee 3.0"
+      },
+      {
+        "key": "protocol",
+        "value": "Zigbee 3.0"
+      },
+      {
+        "key": "range",
+        "value": {
+          "fr": "≈ 30 m en intérieur",
+          "en": "≈ 30 m indoors",
+          "es": "≈ 30 m en interiores",
+          "ar": "≈ 30 م داخل المبنى",
+          "zh": "室内约30米"
+        }
+      },
+      {
+        "key": "capacity",
+        "value": {
+          "fr": "200 sous-appareils max",
+          "en": "200 sub-devices max",
+          "es": "200 subdispositivos máx.",
+          "ar": "200 جهاز فرعي كحد أقصى",
+          "zh": "最多200个子设备"
+        }
+      },
+      {
+        "key": "power",
+        "value": "5 V / 1 A, USB-C"
+      },
+      {
+        "key": "dimensions",
+        "value": "90 × 90 × 25 mm"
+      },
+      {
+        "key": "operatingTemp",
+        "value": "0 °C … 40 °C"
+      },
+      {
+        "key": "app",
+        "value": "Smart Life"
+      }
+    ],
+    "pricing": {
+      "sourcePrice": 68,
+      "sourceCurrency": "USD"
+    },
+    "availability": "sur-commande",
+    "install": {
+      "level": "standard",
+      "duration": "20 min",
+      "prerequisites": {
+        "fr": "Wi-Fi 2,4 GHz couvrant l'emplacement et prise secteur à proximité du routeur.",
+        "en": "2.4 GHz Wi-Fi coverage at the location and a power outlet near the router.",
+        "es": "Cobertura Wi-Fi de 2,4 GHz en el lugar y toma de corriente cerca del router.",
+        "ar": "تغطية Wi-Fi بتردد 2.4 جيجاهرتز في الموقع ومقبس كهربائي بالقرب من الراوتر.",
+        "zh": "安装位置需有 2.4 GHz Wi-Fi 覆盖，且路由器附近有电源插座。"
+      }
+    },
+    "sourceUrl": "https://expo.tuya.com/product/1095053",
+    "accent": "#4556f5",
+    "symbol": "⌁",
+    "featured": true,
+    "solutions": [
+      "domotique/scenarios-intelligents",
+      "domotique/detection-fuites"
+    ],
+    "related": [
+      "safer-link-bz",
+      "safer-motion-p1",
+      "safer-contact-d1",
+      "safer-plug-16a"
+    ]
+  },
+  {
+    "id": "safer-link-bz",
+    "sku": "ZB-BLE-GW02",
+    "needsVerification": true,
+    "brand": "safer",
+    "sourceBrand": "Tuya",
+    "model": "Link BZ",
+    "category": "domotique",
+    "subcategory": "passerelles-hubs",
+    "i18n": {
+      "fr": {
+        "name": "SafeR Link BZ — passerelle Bluetooth / Zigbee",
+        "tagline": "Un hub compact pour démarrer votre installation SafeR.",
+        "description": "Mini passerelle qui fait le pont entre le Bluetooth Low Energy, le Zigbee et votre réseau Wi-Fi. Pensée pour un appartement ou une première extension, elle prend en charge jusqu'à 50 accessoires SafeR (serrures, capteurs, télécommandes) et se pilote entièrement depuis l'application. Idéale en complément d'une passerelle Link GZ3 dans les grandes maisons.",
+        "highlights": [
+          "Bluetooth Low Energy et Zigbee sur un même module",
+          "Jusqu'à 50 accessoires SafeR pris en charge",
+          "Format compact, alimentation par câble USB",
+          "Association en un scan QR code"
+        ],
+        "inTheBox": [
+          "Passerelle Link BZ",
+          "Câble USB-A vers USB-C",
+          "Adaptateur secteur",
+          "Guide de démarrage"
+        ]
+      },
+      "en": {
+        "name": "SafeR Link BZ — Bluetooth / Zigbee gateway",
+        "tagline": "A compact hub to start your SafeR installation.",
+        "description": "Mini gateway bridging Bluetooth Low Energy, Zigbee and your Wi-Fi network. Designed for an apartment or a first extension, it supports up to 50 SafeR accessories (locks, sensors, remotes) and is fully managed from the app. Ideal alongside a Link GZ3 gateway in larger homes.",
+        "highlights": [
+          "Bluetooth Low Energy and Zigbee on one module",
+          "Up to 50 SafeR accessories supported",
+          "Compact form factor, USB powered",
+          "Pairing with a single QR code scan"
+        ],
+        "inTheBox": [
+          "Link BZ gateway",
+          "USB-A to USB-C cable",
+          "Power adapter",
+          "Quick start guide"
+        ]
+      },
+      "es": {
+        "name": "SafeR Link BZ — pasarela Bluetooth / Zigbee",
+        "tagline": "Un hub compacto para iniciar tu instalación SafeR.",
+        "description": "Mini pasarela que conecta Bluetooth de baja energía, Zigbee y tu red Wi-Fi. Pensada para un apartamento o una primera ampliación, admite hasta 50 accesorios SafeR (cerraduras, sensores, mandos) y se gestiona por completo desde la aplicación. Ideal como complemento de una pasarela Link GZ3 en casas grandes.",
+        "highlights": [
+          "Bluetooth de baja energía y Zigbee en un solo módulo",
+          "Hasta 50 accesorios SafeR compatibles",
+          "Formato compacto, alimentación por USB",
+          "Emparejamiento con un solo escaneo de código QR"
+        ],
+        "inTheBox": [
+          "Pasarela Link BZ",
+          "Cable USB-A a USB-C",
+          "Adaptador de corriente",
+          "Guía de inicio rápido"
+        ]
+      },
+      "ar": {
+        "name": "SafeR Link BZ — بوابة Bluetooth / Zigbee",
+        "tagline": "محور صغير لبدء تركيب SafeR في منزلك.",
+        "description": "بوابة مصغّرة تربط بين تقنية Bluetooth منخفضة الطاقة وZigbee وشبكة Wi-Fi لديك. مصمّمة للشقق أو كبداية لتوسيع لاحق، وتدعم حتى 50 ملحقاً من SafeR (أقفال، أجهزة استشعار، أجهزة تحكم عن بُعد) وتُدار بالكامل من التطبيق. مثالية كمكمّل لبوابة Link GZ3 في المنازل الكبيرة.",
+        "highlights": [
+          "Bluetooth منخفض الطاقة وZigbee في وحدة واحدة",
+          "حتى 50 ملحق SafeR مدعوم",
+          "تصميم مضغوط ويعمل عبر USB",
+          "إقران بمسح رمز QR واحد"
+        ],
+        "inTheBox": [
+          "بوابة Link BZ",
+          "كابل USB-A إلى USB-C",
+          "محول كهربائي",
+          "دليل البدء السريع"
+        ]
+      },
+      "zh": {
+        "name": "SafeR Link BZ — 蓝牙 / Zigbee 网关",
+        "tagline": "启动 SafeR 智能家居的紧凑型枢纽。",
+        "description": "小型网关，连接低功耗蓝牙、Zigbee 与您的 Wi-Fi 网络。专为公寓或初次扩展设计，最多支持 50 个 SafeR 配件（门锁、传感器、遥控器），可完全通过 App 管理。在大户型中可与 Link GZ3 网关搭配使用。",
+        "highlights": [
+          "低功耗蓝牙与 Zigbee 集成于一体",
+          "最多支持 50 个 SafeR 配件",
+          "机身小巧，USB 供电",
+          "扫描二维码即可完成配对"
+        ],
+        "inTheBox": [
+          "Link BZ 网关",
+          "USB-A 转 USB-C 数据线",
+          "电源适配器",
+          "快速入门指南"
+        ]
+      }
+    },
+    "attributes": {
+      "protocol": [
+        "bluetooth",
+        "zigbee",
+        "wifi"
+      ],
+      "placement": "interieur",
+      "power": [
+        "secteur"
+      ],
+      "compat": [
+        "smart-life",
+        "safer-platform",
+        "alexa",
+        "google"
+      ]
+    },
+    "specs": [
+      {
+        "key": "connectivity",
+        "value": "BLE 5.0 + Zigbee 3.0"
+      },
+      {
+        "key": "protocol",
+        "value": "Zigbee 3.0, BLE mesh"
+      },
+      {
+        "key": "range",
+        "value": {
+          "fr": "≈ 20 m en intérieur",
+          "en": "≈ 20 m indoors",
+          "es": "≈ 20 m en interiores",
+          "ar": "≈ 20 م داخل المبنى",
+          "zh": "室内约20米"
+        }
+      },
+      {
+        "key": "capacity",
+        "value": {
+          "fr": "50 sous-appareils max",
+          "en": "50 sub-devices max",
+          "es": "50 subdispositivos máx.",
+          "ar": "50 جهاز فرعي كحد أقصى",
+          "zh": "最多50个子设备"
+        }
+      },
+      {
+        "key": "power",
+        "value": "5 V / 1 A, USB"
+      },
+      {
+        "key": "dimensions",
+        "value": "68 × 68 × 20 mm"
+      },
+      {
+        "key": "operatingTemp",
+        "value": "0 °C … 40 °C"
+      },
+      {
+        "key": "app",
+        "value": "Smart Life"
+      }
+    ],
+    "pricing": {
+      "sourcePrice": 62,
+      "sourceCurrency": "USD"
+    },
+    "availability": "sur-commande",
+    "install": {
+      "level": "standard",
+      "duration": "15 min",
+      "prerequisites": {
+        "fr": "Wi-Fi 2,4 GHz à proximité et prise secteur libre.",
+        "en": "Nearby 2.4 GHz Wi-Fi and a free power outlet.",
+        "es": "Wi-Fi de 2,4 GHz cercano y toma de corriente libre.",
+        "ar": "توفر Wi-Fi بتردد 2.4 جيجاهرتز قريب ومقبس كهربائي متاح.",
+        "zh": "附近需有 2.4 GHz Wi-Fi 及空闲电源插座。"
+      }
+    },
+    "sourceUrl": "https://developer.tuya.com/en/docs/iot/Zigbee_Wi-Fi_gateway?id=Kbg4vdcz4bbpr",
+    "accent": "#4556f5",
+    "symbol": "⌁",
+    "solutions": [
+      "domotique/scenarios-intelligents"
+    ],
+    "related": [
+      "safer-link-gz3",
+      "safer-sos-b1",
+      "safer-remote-r4"
+    ]
+  },
+  {
+    "id": "safer-cam-dome-2k",
+    "sku": "WF-CAM-D2K",
+    "needsVerification": true,
+    "brand": "safer",
+    "sourceBrand": "Tuya",
+    "model": "Cam Dome 2K",
+    "category": "video",
+    "subcategory": "cameras-interieures",
+    "i18n": {
+      "fr": {
+        "name": "SafeR Cam Dome 2K — caméra intérieure motorisée",
+        "tagline": "Une vue à 355° sur chaque pièce, jour et nuit.",
+        "description": "Caméra Wi-Fi d'intérieur en 2K QHD avec rotation motorisée 355° horizontal et 90° vertical, suivi automatique des mouvements et vision nocturne infrarouge jusqu'à 10 mètres. L'audio bidirectionnel permet de parler avec les occupants ou de dissuader un visiteur indésirable, directement depuis l'application.",
+        "highlights": [
+          "Rotation motorisée 355° / 90°",
+          "Résolution 2K QHD avec suivi de mouvement",
+          "Audio bidirectionnel et détection sonore",
+          "Stockage local microSD ou cloud SafeR"
+        ],
+        "inTheBox": [
+          "Caméra Cam Dome 2K",
+          "Bloc secteur 5 V / 2 A",
+          "Kit de fixation plafond",
+          "Guide de démarrage"
+        ]
+      },
+      "en": {
+        "name": "SafeR Cam Dome 2K — indoor pan-tilt camera",
+        "tagline": "A 355° view of every room, day and night.",
+        "description": "Indoor Wi-Fi camera in 2K QHD with motorised 355° horizontal / 90° vertical rotation, automatic motion tracking and infrared night vision up to 10 metres. Two-way audio lets you talk to occupants or deter an unwanted visitor directly from the app.",
+        "highlights": [
+          "Motorised 355° / 90° rotation",
+          "2K QHD resolution with motion tracking",
+          "Two-way audio and sound detection",
+          "Local microSD or SafeR cloud storage"
+        ],
+        "inTheBox": [
+          "Cam Dome 2K camera",
+          "5 V / 2 A power adapter",
+          "Ceiling mount kit",
+          "Quick start guide"
+        ]
+      },
+      "es": {
+        "name": "SafeR Cam Dome 2K — cámara interior motorizada",
+        "tagline": "Una vista de 355° de cada estancia, de día y de noche.",
+        "description": "Cámara Wi-Fi de interior en 2K QHD con rotación motorizada de 355° horizontal y 90° vertical, seguimiento automático de movimiento y visión nocturna infrarroja hasta 10 metros. El audio bidireccional permite hablar con los ocupantes o disuadir a un visitante no deseado desde la aplicación.",
+        "highlights": [
+          "Rotación motorizada 355° / 90°",
+          "Resolución 2K QHD con seguimiento de movimiento",
+          "Audio bidireccional y detección de sonido",
+          "Almacenamiento local en microSD o nube SafeR"
+        ],
+        "inTheBox": [
+          "Cámara Cam Dome 2K",
+          "Adaptador 5 V / 2 A",
+          "Kit de fijación al techo",
+          "Guía de inicio rápido"
+        ]
+      },
+      "ar": {
+        "name": "SafeR Cam Dome 2K — كاميرا داخلية متحركة",
+        "tagline": "رؤية بزاوية 355° لكل غرفة، ليلاً ونهاراً.",
+        "description": "كاميرا داخلية بتقنية Wi-Fi بدقة 2K QHD مع دوران آلي بزاوية 355° أفقياً و90° عمودياً، وتتبع تلقائي للحركة، ورؤية ليلية بالأشعة تحت الحمراء حتى 10 أمتار. يتيح الصوت ثنائي الاتجاه التحدث مع الموجودين أو ردع زائر غير مرغوب فيه مباشرة من التطبيق.",
+        "highlights": [
+          "دوران آلي بزاوية 355° / 90°",
+          "دقة 2K QHD مع تتبع الحركة",
+          "صوت ثنائي الاتجاه وكشف الصوت",
+          "تخزين محلي على بطاقة microSD أو سحابة SafeR"
+        ],
+        "inTheBox": [
+          "كاميرا Cam Dome 2K",
+          "محول كهربائي 5 فولت / 2 أمبير",
+          "طقم تثبيت بالسقف",
+          "دليل البدء السريع"
+        ]
+      },
+      "zh": {
+        "name": "SafeR Cam Dome 2K — 室内云台摄像机",
+        "tagline": "355° 全景视野，昼夜守护每个房间。",
+        "description": "室内 Wi-Fi 摄像机，2K QHD 分辨率，支持水平 355° / 垂直 90° 电动旋转、自动移动追踪，以及最远 10 米的红外夜视。双向语音可直接通过 App 与家人对话或震慑不速之客。",
+        "highlights": [
+          "水平 355° / 垂直 90° 电动旋转",
+          "2K QHD 分辨率与移动追踪",
+          "双向语音与声音检测",
+          "本地 microSD 或 SafeR 云存储"
+        ],
+        "inTheBox": [
+          "Cam Dome 2K 摄像机",
+          "5V/2A 电源适配器",
+          "吸顶安装套件",
+          "快速入门指南"
+        ]
+      }
+    },
+    "attributes": {
+      "protocol": [
+        "wifi"
+      ],
+      "placement": "interieur",
+      "power": [
+        "secteur"
+      ],
+      "compat": [
+        "smart-life",
+        "safer-platform",
+        "alexa",
+        "google"
+      ],
+      "resolution": "2k"
+    },
+    "specs": [
+      {
+        "key": "resolution",
+        "value": "2K QHD (3 MP)"
+      },
+      {
+        "key": "ptz",
+        "value": "355° horizontal / 90° vertical"
+      },
+      {
+        "key": "nightVision",
+        "value": {
+          "fr": "Infrarouge, portée 10 m",
+          "en": "Infrared, 10 m range",
+          "es": "Infrarrojos, alcance de 10 m",
+          "ar": "أشعة تحت حمراء، مدى 10 أمتار",
+          "zh": "红外夜视，探测距离10米"
+        }
+      },
+      {
+        "key": "ai",
+        "value": {
+          "fr": "Suivi de mouvement automatique",
+          "en": "Automatic motion tracking",
+          "es": "Seguimiento de movimiento automático",
+          "ar": "تتبع تلقائي للحركة",
+          "zh": "自动移动追踪"
+        }
+      },
+      {
+        "key": "twoWayAudio",
+        "value": {
+          "fr": "Micro et haut-parleur intégrés",
+          "en": "Built-in microphone and speaker",
+          "es": "Micrófono y altavoz integrados",
+          "ar": "ميكروفون وسماعة مدمجان",
+          "zh": "内置麦克风和扬声器"
+        }
+      },
+      {
+        "key": "storage",
+        "value": "microSD ≤ 128 GB, cloud SafeR"
+      },
+      {
+        "key": "connectivity",
+        "value": "Wi-Fi 2,4 GHz"
+      },
+      {
+        "key": "app",
+        "value": "Smart Life"
+      }
+    ],
+    "pricing": {
+      "sourcePrice": 32,
+      "sourceCurrency": "USD"
+    },
+    "availability": "sur-commande",
+    "install": {
+      "level": "standard",
+      "duration": "30 min",
+      "prerequisites": {
+        "fr": "Wi-Fi 2,4 GHz couvrant la pièce et prise secteur à proximité.",
+        "en": "2.4 GHz Wi-Fi coverage in the room and a nearby power outlet.",
+        "es": "Cobertura Wi-Fi de 2,4 GHz en la estancia y toma de corriente cercana.",
+        "ar": "تغطية Wi-Fi بتردد 2.4 جيجاهرتز في الغرفة ومقبس كهربائي قريب.",
+        "zh": "房间内需有 2.4 GHz Wi-Fi 覆盖及附近电源插座。"
+      }
+    },
+    "sourceUrl": "https://www.tuyaexpo.com/smart/CT9cn946s6b494-CT9cnjtjjxorup-CT9cnjvqgc9lat",
+    "accent": "#4556f5",
+    "symbol": "◉",
+    "solutions": [
+      "video-intelligente/verification-video"
+    ],
+    "related": [
+      "safer-cam-mini-1080",
+      "safer-link-gz3"
+    ]
+  },
+  {
+    "id": "safer-cam-mini-1080",
+    "sku": "WF-CAM-MINI1K",
+    "needsVerification": true,
+    "brand": "safer",
+    "sourceBrand": "Tuya",
+    "model": "Cam Mini 1080",
+    "category": "video",
+    "subcategory": "cameras-interieures",
+    "i18n": {
+      "fr": {
+        "name": "SafeR Cam Mini 1080 — mini caméra intérieure",
+        "tagline": "Une surveillance discrète pour chaque pièce.",
+        "description": "Petite caméra fixe Full HD 1080p au format compact, conçue pour surveiller une chambre, un salon ou une nurserie sans s'imposer dans le décor. Détection de mouvement et de son avec notifications instantanées, vision nocturne infrarouge et enregistrement sur carte microSD ou cloud SafeR.",
+        "highlights": [
+          "Format compact discret",
+          "Full HD 1080p et vision nocturne infrarouge",
+          "Détection mouvement et son avec alertes push",
+          "Compatible mode bébé phone"
+        ],
+        "inTheBox": [
+          "Caméra Cam Mini 1080",
+          "Bloc secteur 5 V / 1 A",
+          "Support orientable",
+          "Guide de démarrage"
+        ]
+      },
+      "en": {
+        "name": "SafeR Cam Mini 1080 — compact indoor camera",
+        "tagline": "Discreet monitoring for every room.",
+        "description": "Small fixed Full HD 1080p camera in a compact form factor, designed to watch over a bedroom, living room or nursery without standing out. Motion and sound detection with instant notifications, infrared night vision, and recording to microSD card or SafeR cloud.",
+        "highlights": [
+          "Discreet compact form factor",
+          "Full HD 1080p with infrared night vision",
+          "Motion and sound detection with push alerts",
+          "Works as a baby monitor"
+        ],
+        "inTheBox": [
+          "Cam Mini 1080 camera",
+          "5 V / 1 A power adapter",
+          "Adjustable stand",
+          "Quick start guide"
+        ]
+      },
+      "es": {
+        "name": "SafeR Cam Mini 1080 — mini cámara interior",
+        "tagline": "Vigilancia discreta para cada estancia.",
+        "description": "Pequeña cámara fija Full HD 1080p de formato compacto, pensada para vigilar un dormitorio, un salón o una habitación infantil sin destacar en la decoración. Detección de movimiento y sonido con notificaciones instantáneas, visión nocturna infrarroja y grabación en tarjeta microSD o nube SafeR.",
+        "highlights": [
+          "Formato compacto y discreto",
+          "Full HD 1080p con visión nocturna infrarroja",
+          "Detección de movimiento y sonido con alertas push",
+          "Función de vigilabebés"
+        ],
+        "inTheBox": [
+          "Cámara Cam Mini 1080",
+          "Adaptador 5 V / 1 A",
+          "Soporte orientable",
+          "Guía de inicio rápido"
+        ]
+      },
+      "ar": {
+        "name": "SafeR Cam Mini 1080 — كاميرا داخلية مصغّرة",
+        "tagline": "مراقبة خفية لكل غرفة في المنزل.",
+        "description": "كاميرا ثابتة صغيرة بدقة Full HD 1080p وتصميم مضغوط، مناسبة لمراقبة غرفة النوم أو الصالون أو غرفة الطفل دون أن تلفت الانتباه. تتضمن كشف الحركة والصوت مع إشعارات فورية، ورؤية ليلية بالأشعة تحت الحمراء، وتسجيلاً على بطاقة microSD أو سحابة SafeR.",
+        "highlights": [
+          "تصميم مضغوط وخفي",
+          "دقة Full HD 1080p مع رؤية ليلية بالأشعة تحت الحمراء",
+          "كشف الحركة والصوت مع إشعارات فورية",
+          "قابلة للاستخدام كجهاز مراقبة أطفال"
+        ],
+        "inTheBox": [
+          "كاميرا Cam Mini 1080",
+          "محول كهربائي 5 فولت / 1 أمبير",
+          "حامل قابل للتوجيه",
+          "دليل البدء السريع"
+        ]
+      },
+      "zh": {
+        "name": "SafeR Cam Mini 1080 — 迷你室内摄像机",
+        "tagline": "为每个房间提供低调的守护。",
+        "description": "小巧的 Full HD 1080p 固定摄像机，外形紧凑，适合安装在卧室、客厅或婴儿房而不显突兀。支持移动与声音检测并即时推送通知，配备红外夜视，可录制到 microSD 卡或 SafeR 云端。",
+        "highlights": [
+          "外形紧凑、低调不显眼",
+          "Full HD 1080p 配红外夜视",
+          "移动与声音检测，推送提醒",
+          "可作婴儿监视器使用"
+        ],
+        "inTheBox": [
+          "Cam Mini 1080 摄像机",
+          "5V/1A 电源适配器",
+          "可调节支架",
+          "快速入门指南"
+        ]
+      }
+    },
+    "attributes": {
+      "protocol": [
+        "wifi"
+      ],
+      "placement": "interieur",
+      "power": [
+        "secteur"
+      ],
+      "compat": [
+        "smart-life",
+        "safer-platform",
+        "alexa",
+        "google"
+      ],
+      "resolution": "1080p"
+    },
+    "specs": [
+      {
+        "key": "resolution",
+        "value": "Full HD 1080p (2 MP)"
+      },
+      {
+        "key": "fieldOfView",
+        "value": "110° diagonal"
+      },
+      {
+        "key": "nightVision",
+        "value": {
+          "fr": "Infrarouge, portée 8 m",
+          "en": "Infrared, 8 m range",
+          "es": "Infrarrojos, alcance de 8 m",
+          "ar": "أشعة تحت حمراء، مدى 8 أمتار",
+          "zh": "红外夜视，探测距离8米"
+        }
+      },
+      {
+        "key": "ai",
+        "value": {
+          "fr": "Détection de mouvement et de son",
+          "en": "Motion and sound detection",
+          "es": "Detección de movimiento y sonido",
+          "ar": "كشف الحركة والصوت",
+          "zh": "移动和声音侦测"
+        }
+      },
+      {
+        "key": "storage",
+        "value": "microSD ≤ 128 GB, cloud SafeR"
+      },
+      {
+        "key": "connectivity",
+        "value": "Wi-Fi 2,4 GHz"
+      },
+      {
+        "key": "dimensions",
+        "value": "48 × 48 × 65 mm"
+      },
+      {
+        "key": "app",
+        "value": "Smart Life"
+      }
+    ],
+    "pricing": {
+      "sourcePrice": 26,
+      "sourceCurrency": "USD"
+    },
+    "availability": "sur-commande",
+    "install": {
+      "level": "simple",
+      "duration": "15 min",
+      "prerequisites": {
+        "fr": "Wi-Fi 2,4 GHz couvrant la pièce et prise secteur à proximité.",
+        "en": "2.4 GHz Wi-Fi coverage in the room and a nearby power outlet.",
+        "es": "Cobertura Wi-Fi de 2,4 GHz en la estancia y toma de corriente cercana.",
+        "ar": "تغطية Wi-Fi بتردد 2.4 جيجاهرتز في الغرفة ومقبس كهربائي قريب.",
+        "zh": "房间内需有 2.4 GHz Wi-Fi 覆盖及附近电源插座。"
+      }
+    },
+    "sourceUrl": "https://expo.tuya.com/product/798055",
+    "accent": "#4556f5",
+    "symbol": "◉",
+    "solutions": [
+      "video-intelligente/verification-video"
+    ],
+    "related": [
+      "safer-cam-dome-2k",
+      "safer-link-gz3"
+    ]
+  },
+  {
+    "id": "safer-cam-bullet-4k",
+    "sku": "WF-CAM-BLT4K",
+    "needsVerification": true,
+    "brand": "safer",
+    "sourceBrand": "Tuya",
+    "model": "Cam Bullet 4K",
+    "category": "video",
+    "subcategory": "cameras-exterieures",
+    "i18n": {
+      "fr": {
+        "name": "SafeR Cam Bullet 4K — caméra extérieure filaire",
+        "tagline": "Une image 4K nette pour surveiller façade et portail.",
+        "description": "Caméra extérieure filaire 4K UHD résistante IP66, conçue pour la surveillance permanente d'une façade, d'un portail ou d'une cour. Vision nocturne couleur assistée par projecteur LED, détection intelligente des personnes et véhicules, et sirène dissuasive intégrée activable à distance depuis l'application SafeR.",
+        "highlights": [
+          "Image 4K UHD nette de jour comme de nuit",
+          "Détection IA personnes / véhicules",
+          "Projecteur LED et sirène dissuasive intégrés",
+          "Boîtier IP66 résistant à la pluie et au soleil"
+        ],
+        "inTheBox": [
+          "Caméra Cam Bullet 4K",
+          "Bloc secteur 12 V / 2 A",
+          "Kit de fixation murale",
+          "Gabarit de perçage",
+          "Guide de démarrage"
+        ]
+      },
+      "en": {
+        "name": "SafeR Cam Bullet 4K — wired outdoor camera",
+        "tagline": "Crisp 4K footage watching over your façade and gate.",
+        "description": "Wired outdoor 4K UHD camera rated IP66, built for round-the-clock monitoring of a façade, gate or courtyard. Colour night vision assisted by an LED spotlight, smart detection of people and vehicles, and a built-in deterrent siren that can be triggered remotely from the SafeR app.",
+        "highlights": [
+          "Crisp 4K UHD image day and night",
+          "AI detection of people / vehicles",
+          "Built-in LED spotlight and deterrent siren",
+          "IP66 housing rated for rain and sun"
+        ],
+        "inTheBox": [
+          "Cam Bullet 4K camera",
+          "12 V / 2 A power adapter",
+          "Wall mount kit",
+          "Drilling template",
+          "Quick start guide"
+        ]
+      },
+      "es": {
+        "name": "SafeR Cam Bullet 4K — cámara exterior con cable",
+        "tagline": "Imagen 4K nítida para vigilar fachada y portón.",
+        "description": "Cámara exterior con cable, 4K UHD, con protección IP66, diseñada para la vigilancia permanente de una fachada, un portón o un patio. Visión nocturna en color asistida por foco LED, detección inteligente de personas y vehículos, y sirena disuasoria integrada activable a distancia desde la aplicación SafeR.",
+        "highlights": [
+          "Imagen 4K UHD nítida de día y de noche",
+          "Detección IA de personas / vehículos",
+          "Foco LED y sirena disuasoria integrados",
+          "Carcasa IP66 resistente a lluvia y sol"
+        ],
+        "inTheBox": [
+          "Cámara Cam Bullet 4K",
+          "Adaptador 12 V / 2 A",
+          "Kit de fijación mural",
+          "Plantilla de perforación",
+          "Guía de inicio rápido"
+        ]
+      },
+      "ar": {
+        "name": "SafeR Cam Bullet 4K — كاميرا خارجية سلكية",
+        "tagline": "صورة 4K واضحة لمراقبة الواجهة والبوابة.",
+        "description": "كاميرا خارجية سلكية بدقة 4K UHD ومقاومة IP66، مصمّمة للمراقبة الدائمة لواجهة المنزل أو البوابة أو الفناء. رؤية ليلية ملوّنة بمساعدة كشّاف LED، وكشف ذكي للأشخاص والمركبات، وصفارة إنذار رادعة مدمجة يمكن تفعيلها عن بُعد من تطبيق SafeR.",
+        "highlights": [
+          "صورة 4K UHD واضحة نهاراً وليلاً",
+          "كشف ذكي للأشخاص والمركبات",
+          "كشّاف LED وصفارة إنذار رادعة مدمجة",
+          "هيكل بمقاومة IP66 للمطر والشمس"
+        ],
+        "inTheBox": [
+          "كاميرا Cam Bullet 4K",
+          "محول كهربائي 12 فولت / 2 أمبير",
+          "طقم تثبيت جداري",
+          "قالب ثقب",
+          "دليل البدء السريع"
+        ]
+      },
+      "zh": {
+        "name": "SafeR Cam Bullet 4K — 有线户外摄像机",
+        "tagline": "4K 高清画质，守护外墙与大门。",
+        "description": "有线户外 4K UHD 摄像机，防护等级 IP66，专为外墙、大门或庭院的全天候监控而设计。配备 LED 补光灯辅助的彩色夜视、人员与车辆智能检测，以及可通过 SafeR App 远程触发的内置警报声。",
+        "highlights": [
+          "昼夜清晰的 4K UHD 画面",
+          "AI 检测人员 / 车辆",
+          "内置 LED 补光灯与警报声",
+          "IP66 防护外壳，耐雨耐晒"
+        ],
+        "inTheBox": [
+          "Cam Bullet 4K 摄像机",
+          "12V/2A 电源适配器",
+          "壁挂安装套件",
+          "打孔模板",
+          "快速入门指南"
+        ]
+      }
+    },
+    "attributes": {
+      "protocol": [
+        "wifi"
+      ],
+      "placement": "exterieur",
+      "power": [
+        "secteur"
+      ],
+      "compat": [
+        "smart-life",
+        "safer-platform",
+        "alexa",
+        "google"
+      ],
+      "resolution": "4k"
+    },
+    "specs": [
+      {
+        "key": "resolution",
+        "value": "4K UHD (8 MP)"
+      },
+      {
+        "key": "nightVision",
+        "value": {
+          "fr": "Couleur assistée LED, 20 m",
+          "en": "LED-assisted color, 20 m",
+          "es": "Color asistido por LED, 20 m",
+          "ar": "رؤية ليلية ملونة بمساعدة LED، 20 م",
+          "zh": "LED补光彩色夜视，20米"
+        }
+      },
+      {
+        "key": "ai",
+        "value": {
+          "fr": "Personnes, véhicules",
+          "en": "People, vehicles",
+          "es": "Personas, vehículos",
+          "ar": "الأشخاص والمركبات",
+          "zh": "人物、车辆"
+        }
+      },
+      {
+        "key": "siren",
+        "value": {
+          "fr": "Sirène dissuasive 100 dB",
+          "en": "Deterrent siren, 100 dB",
+          "es": "Sirena disuasoria, 100 dB",
+          "ar": "صفارة إنذار رادعة، 100 ديسيبل",
+          "zh": "威慑警报器，100分贝"
+        }
+      },
+      {
+        "key": "connectivity",
+        "value": "Wi-Fi 2,4 GHz"
+      },
+      {
+        "key": "storage",
+        "value": "microSD ≤ 256 GB, cloud SafeR"
+      },
+      {
+        "key": "weatherproof",
+        "value": "IP66"
+      },
+      {
+        "key": "operatingTemp",
+        "value": "-20 °C … 55 °C"
+      }
+    ],
+    "pricing": {
+      "sourcePrice": 58,
+      "sourceCurrency": "USD"
+    },
+    "availability": "sur-commande",
+    "install": {
+      "level": "standard",
+      "duration": "45 min",
+      "prerequisites": {
+        "fr": "Wi-Fi 2,4 GHz au point d'installation et arrivée secteur 220 V.",
+        "en": "2.4 GHz Wi-Fi at the install point and a 220 V power feed.",
+        "es": "Wi-Fi de 2,4 GHz en el punto de instalación y toma de 220 V.",
+        "ar": "توفر Wi-Fi بتردد 2.4 جيجاهرتز في موقع التركيب ومصدر كهرباء 220 فولت.",
+        "zh": "安装点需有 2.4 GHz Wi-Fi 及 220V 电源接入。"
+      }
+    },
+    "sourceUrl": "https://www.tuyaexpo.com/product/461038",
+    "accent": "#4556f5",
+    "symbol": "◉",
+    "featured": true,
+    "solutions": [
+      "video-intelligente/cameras-exterieures",
+      "video-intelligente/verification-video"
+    ],
+    "related": [
+      "safer-cam-solar-2k",
+      "safer-cam-ptz-3mp",
+      "safer-link-gz3"
+    ]
+  },
+  {
+    "id": "safer-cam-solar-2k",
+    "sku": "WF-CAM-SOLAR2K",
+    "needsVerification": true,
+    "brand": "safer",
+    "sourceBrand": "Tuya",
+    "model": "Cam Solar 2K",
+    "category": "video",
+    "subcategory": "cameras-exterieures",
+    "i18n": {
+      "fr": {
+        "name": "SafeR Cam Solar 2K — caméra extérieure sur batterie",
+        "tagline": "Une caméra autonome, sans câble, rechargée par le soleil.",
+        "description": "Caméra extérieure 2K sans fil alimentée par batterie longue durée et panneau solaire intégré, pensée pour les emplacements sans arrivée électrique : portail piéton, mur d'enceinte, dépendance. Détection PIR + IA limite les fausses alertes et prolonge l'autonomie, avec vision nocturne infrarouge et audio bidirectionnel.",
+        "highlights": [
+          "Panneau solaire intégré, autonomie prolongée",
+          "Résolution 2K et vision nocturne infrarouge",
+          "Détection PIR + IA anti-faux positifs",
+          "Installation sans câblage, IP65"
+        ],
+        "inTheBox": [
+          "Caméra Cam Solar 2K",
+          "Support orientable",
+          "Câble de charge USB-C",
+          "Visserie de fixation",
+          "Guide de démarrage"
+        ]
+      },
+      "en": {
+        "name": "SafeR Cam Solar 2K — solar-powered outdoor camera",
+        "tagline": "A cordless camera, kept charged by the sun.",
+        "description": "Wireless outdoor 2K camera powered by a long-life battery and built-in solar panel, designed for locations with no power run: a pedestrian gate, a boundary wall, an outbuilding. PIR + AI detection reduces false alerts and extends battery life, with infrared night vision and two-way audio.",
+        "highlights": [
+          "Built-in solar panel for extended runtime",
+          "2K resolution with infrared night vision",
+          "PIR + AI detection cuts false alerts",
+          "Cable-free install, IP65 rated"
+        ],
+        "inTheBox": [
+          "Cam Solar 2K camera",
+          "Adjustable mount",
+          "USB-C charging cable",
+          "Mounting screws",
+          "Quick start guide"
+        ]
+      },
+      "es": {
+        "name": "SafeR Cam Solar 2K — cámara exterior con batería",
+        "tagline": "Una cámara sin cables, recargada por el sol.",
+        "description": "Cámara exterior inalámbrica 2K alimentada por batería de larga duración y panel solar integrado, pensada para lugares sin toma eléctrica: portón peatonal, muro perimetral, dependencia. La detección PIR + IA reduce las falsas alarmas y prolonga la autonomía, con visión nocturna infrarroja y audio bidireccional.",
+        "highlights": [
+          "Panel solar integrado para mayor autonomía",
+          "Resolución 2K con visión nocturna infrarroja",
+          "Detección PIR + IA que reduce falsas alarmas",
+          "Instalación sin cableado, IP65"
+        ],
+        "inTheBox": [
+          "Cámara Cam Solar 2K",
+          "Soporte orientable",
+          "Cable de carga USB-C",
+          "Tornillería de fijación",
+          "Guía de inicio rápido"
+        ]
+      },
+      "ar": {
+        "name": "SafeR Cam Solar 2K — كاميرا خارجية تعمل بالبطارية",
+        "tagline": "كاميرا لاسلكية بالكامل، تُشحن بالطاقة الشمسية.",
+        "description": "كاميرا خارجية لاسلكية بدقة 2K تعمل ببطارية طويلة العمر ولوحة شمسية مدمجة، مصمّمة للمواقع التي لا تتوفر فيها كهرباء: بوابة المشاة، سور الحديقة، الملحقات. يقلّل الكشف بتقنية PIR + الذكاء الاصطناعي من الإنذارات الكاذبة ويطيل عمر البطارية، مع رؤية ليلية بالأشعة تحت الحمراء وصوت ثنائي الاتجاه.",
+        "highlights": [
+          "لوحة شمسية مدمجة لعمر بطارية أطول",
+          "دقة 2K مع رؤية ليلية بالأشعة تحت الحمراء",
+          "كشف PIR + ذكاء اصطناعي يقلّل الإنذارات الكاذبة",
+          "تركيب دون أسلاك، مقاومة IP65"
+        ],
+        "inTheBox": [
+          "كاميرا Cam Solar 2K",
+          "حامل قابل للتوجيه",
+          "كابل شحن USB-C",
+          "براغي التثبيت",
+          "دليل البدء السريع"
+        ]
+      },
+      "zh": {
+        "name": "SafeR Cam Solar 2K — 太阳能户外摄像机",
+        "tagline": "无需布线，靠阳光持续供电的摄像机。",
+        "description": "无线户外 2K 摄像机，配备长效电池与内置太阳能板，适合没有电源接入的位置，例如人行门、围墙或附属建筑。PIR + AI 检测减少误报并延长续航，配备红外夜视与双向语音。",
+        "highlights": [
+          "内置太阳能板，续航更持久",
+          "2K 分辨率配红外夜视",
+          "PIR + AI 检测减少误报",
+          "免布线安装，IP65 防护"
+        ],
+        "inTheBox": [
+          "Cam Solar 2K 摄像机",
+          "可调节支架",
+          "USB-C 充电线",
+          "安装螺丝",
+          "快速入门指南"
+        ]
+      }
+    },
+    "attributes": {
+      "protocol": [
+        "wifi"
+      ],
+      "placement": "exterieur",
+      "power": [
+        "batterie",
+        "solaire"
+      ],
+      "compat": [
+        "smart-life",
+        "safer-platform",
+        "alexa",
+        "google"
+      ],
+      "resolution": "2k"
+    },
+    "specs": [
+      {
+        "key": "resolution",
+        "value": "2K QHD (3 MP)"
+      },
+      {
+        "key": "nightVision",
+        "value": {
+          "fr": "Infrarouge, portée 10 m",
+          "en": "Infrared, 10 m range",
+          "es": "Infrarrojos, alcance de 10 m",
+          "ar": "أشعة تحت حمراء، مدى 10 أمتار",
+          "zh": "红外夜视，探测距离10米"
+        }
+      },
+      {
+        "key": "ai",
+        "value": {
+          "fr": "PIR + IA personnes",
+          "en": "PIR + AI person detection",
+          "es": "PIR + IA de detección de personas",
+          "ar": "استشعار PIR + ذكاء اصطناعي لاكتشاف الأشخاص",
+          "zh": "PIR人体传感器+AI人形识别"
+        }
+      },
+      {
+        "key": "battery",
+        "value": "6 700 mAh"
+      },
+      {
+        "key": "solar",
+        "value": {
+          "fr": "Panneau intégré 2,5 W",
+          "en": "Built-in panel, 2.5 W",
+          "es": "Panel integrado, 2,5 W",
+          "ar": "لوح شمسي مدمج، 2.5 واط",
+          "zh": "内置太阳能板，2.5瓦"
+        }
+      },
+      {
+        "key": "twoWayAudio",
+        "value": {
+          "fr": "Micro et haut-parleur intégrés",
+          "en": "Built-in microphone and speaker",
+          "es": "Micrófono y altavoz integrados",
+          "ar": "ميكروفون وسماعة مدمجان",
+          "zh": "内置麦克风和扬声器"
+        }
+      },
+      {
+        "key": "weatherproof",
+        "value": "IP65"
+      },
+      {
+        "key": "storage",
+        "value": "microSD ≤ 128 GB, cloud SafeR"
+      }
+    ],
+    "pricing": {
+      "sourcePrice": 65,
+      "sourceCurrency": "USD"
+    },
+    "availability": "sur-commande",
+    "install": {
+      "level": "standard",
+      "duration": "40 min",
+      "prerequisites": {
+        "fr": "Wi-Fi 2,4 GHz au point d'installation et exposition au soleil pour le panneau.",
+        "en": "2.4 GHz Wi-Fi at the install point and sun exposure for the panel.",
+        "es": "Wi-Fi de 2,4 GHz en el punto de instalación y exposición al sol para el panel.",
+        "ar": "توفر Wi-Fi بتردد 2.4 جيجاهرتز في موقع التركيب وتعرّض اللوحة لأشعة الشمس.",
+        "zh": "安装点需有 2.4 GHz Wi-Fi，且太阳能板需有日照。"
+      }
+    },
+    "sourceUrl": "https://tuyaexpo.com/mobile/smart/ip-camera-lock/smart-cameras/battery-camera/CT9cn946s6b494-CT9cnjtjjxorup-CT9cnjzwq7bi8m",
+    "accent": "#4556f5",
+    "symbol": "◎",
+    "solutions": [
+      "video-intelligente/cameras-exterieures",
+      "video-intelligente/verification-video"
+    ],
+    "related": [
+      "safer-cam-bullet-4k",
+      "safer-link-gz3"
+    ]
+  },
+  {
+    "id": "safer-cam-ptz-3mp",
+    "sku": "WF-PTZ-3MP",
+    "needsVerification": true,
+    "brand": "safer",
+    "sourceBrand": "Tuya",
+    "model": "Cam PTZ 3MP",
+    "category": "video",
+    "subcategory": "cameras-ptz",
+    "i18n": {
+      "fr": {
+        "name": "SafeR Cam PTZ 3MP — caméra motorisée grand angle",
+        "tagline": "Une rotation totale pour couvrir toute la propriété.",
+        "description": "Caméra extérieure motorisée 3 MP avec rotation 355° horizontal et 90° vertical, zoom numérique et suivi automatique des personnes en mouvement. Le double objectif offre une vision large et un détail rapproché, avec une sirène et un projecteur intégrés pour dissuader les intrusions en temps réel.",
+        "highlights": [
+          "Rotation motorisée 355° / 90° et zoom numérique",
+          "Double objectif grand angle + détail",
+          "Suivi automatique des personnes en mouvement",
+          "Sirène et projecteur dissuasifs intégrés"
+        ],
+        "inTheBox": [
+          "Caméra Cam PTZ 3MP",
+          "Bloc secteur 12 V / 2 A",
+          "Support de fixation murale",
+          "Gabarit de perçage",
+          "Guide de démarrage"
+        ]
+      },
+      "en": {
+        "name": "SafeR Cam PTZ 3MP — motorised wide-view camera",
+        "tagline": "Full rotation to cover the whole property.",
+        "description": "Motorised outdoor 3 MP camera with 355° horizontal / 90° vertical rotation, digital zoom and automatic tracking of moving people. The dual lens delivers a wide view plus close-up detail, with a built-in siren and spotlight to deter intrusions in real time.",
+        "highlights": [
+          "Motorised 355° / 90° rotation and digital zoom",
+          "Dual lens for wide view plus close detail",
+          "Automatic tracking of moving people",
+          "Built-in deterrent siren and spotlight"
+        ],
+        "inTheBox": [
+          "Cam PTZ 3MP camera",
+          "12 V / 2 A power adapter",
+          "Wall mount bracket",
+          "Drilling template",
+          "Quick start guide"
+        ]
+      },
+      "es": {
+        "name": "SafeR Cam PTZ 3MP — cámara motorizada gran angular",
+        "tagline": "Rotación total para cubrir toda la propiedad.",
+        "description": "Cámara exterior motorizada de 3 MP con rotación de 355° horizontal y 90° vertical, zoom digital y seguimiento automático de personas en movimiento. El doble objetivo ofrece una visión amplia y detalle de cerca, con sirena y foco integrados para disuadir intrusiones en tiempo real.",
+        "highlights": [
+          "Rotación motorizada 355° / 90° y zoom digital",
+          "Doble objetivo: visión amplia y detalle",
+          "Seguimiento automático de personas en movimiento",
+          "Sirena y foco disuasorios integrados"
+        ],
+        "inTheBox": [
+          "Cámara Cam PTZ 3MP",
+          "Adaptador 12 V / 2 A",
+          "Soporte de fijación mural",
+          "Plantilla de perforación",
+          "Guía de inicio rápido"
+        ]
+      },
+      "ar": {
+        "name": "SafeR Cam PTZ 3MP — كاميرا متحركة واسعة الزاوية",
+        "tagline": "دوران كامل لتغطية العقار بأكمله.",
+        "description": "كاميرا خارجية متحركة بدقة 3 ميغابكسل مع دوران بزاوية 355° أفقياً و90° عمودياً، وتكبير رقمي، وتتبع تلقائي للأشخاص المتحركين. توفر العدسة المزدوجة رؤية واسعة وتفاصيل دقيقة عن قرب، مع صفارة إنذار وكشّاف مدمجين لردع التسلل فورياً.",
+        "highlights": [
+          "دوران آلي 355° / 90° وتكبير رقمي",
+          "عدسة مزدوجة: رؤية واسعة وتفاصيل دقيقة",
+          "تتبع تلقائي للأشخاص المتحركين",
+          "صفارة إنذار وكشّاف رادعان مدمجان"
+        ],
+        "inTheBox": [
+          "كاميرا Cam PTZ 3MP",
+          "محول كهربائي 12 فولت / 2 أمبير",
+          "حامل تثبيت جداري",
+          "قالب ثقب",
+          "دليل البدء السريع"
+        ]
+      },
+      "zh": {
+        "name": "SafeR Cam PTZ 3MP — 广角云台摄像机",
+        "tagline": "全方位旋转，覆盖整个物业。",
+        "description": "户外电动云台摄像机，300 万像素，支持水平 355° / 垂直 90° 旋转、数字变焦及移动人员自动追踪。双镜头设计兼顾广角与细节特写，并内置警报声与探照灯，实时震慑入侵者。",
+        "highlights": [
+          "电动 355° / 90° 旋转与数字变焦",
+          "双镜头兼顾广角与细节",
+          "自动追踪移动人员",
+          "内置警报声与探照灯"
+        ],
+        "inTheBox": [
+          "Cam PTZ 3MP 摄像机",
+          "12V/2A 电源适配器",
+          "壁挂支架",
+          "打孔模板",
+          "快速入门指南"
+        ]
+      }
+    },
+    "attributes": {
+      "protocol": [
+        "wifi"
+      ],
+      "placement": "exterieur",
+      "power": [
+        "secteur"
+      ],
+      "compat": [
+        "smart-life",
+        "safer-platform",
+        "alexa",
+        "google"
+      ],
+      "resolution": "3k"
+    },
+    "specs": [
+      {
+        "key": "resolution",
+        "value": "3 MP, double objectif"
+      },
+      {
+        "key": "ptz",
+        "value": "355° horizontal / 90° vertical"
+      },
+      {
+        "key": "zoom",
+        "value": {
+          "fr": "Zoom numérique 4x",
+          "en": "4x digital zoom",
+          "es": "Zoom digital 4x",
+          "ar": "تكبير رقمي 4x",
+          "zh": "4倍数码变焦"
+        }
+      },
+      {
+        "key": "ai",
+        "value": {
+          "fr": "Suivi automatique des personnes",
+          "en": "Automatic person tracking",
+          "es": "Seguimiento automático de personas",
+          "ar": "تتبع تلقائي للأشخاص",
+          "zh": "自动人物追踪"
+        }
+      },
+      {
+        "key": "siren",
+        "value": {
+          "fr": "Sirène dissuasive 110 dB",
+          "en": "Deterrent siren, 110 dB",
+          "es": "Sirena disuasoria, 110 dB",
+          "ar": "صفارة إنذار رادعة، 110 ديسيبل",
+          "zh": "威慑警报器，110分贝"
+        }
+      },
+      {
+        "key": "nightVision",
+        "value": {
+          "fr": "Couleur assistée LED, 25 m",
+          "en": "LED-assisted color, 25 m",
+          "es": "Color asistido por LED, 25 m",
+          "ar": "رؤية ليلية ملونة بمساعدة LED، 25 م",
+          "zh": "LED补光彩色夜视，25米"
+        }
+      },
+      {
+        "key": "weatherproof",
+        "value": "IP66"
+      },
+      {
+        "key": "connectivity",
+        "value": "Wi-Fi 2,4 GHz"
+      }
+    ],
+    "pricing": {
+      "sourcePrice": 78,
+      "sourceCurrency": "USD"
+    },
+    "availability": "sur-commande",
+    "install": {
+      "level": "standard",
+      "duration": "50 min",
+      "prerequisites": {
+        "fr": "Wi-Fi 2,4 GHz au point d'installation et arrivée secteur 220 V.",
+        "en": "2.4 GHz Wi-Fi at the install point and a 220 V power feed.",
+        "es": "Wi-Fi de 2,4 GHz en el punto de instalación y toma de 220 V.",
+        "ar": "توفر Wi-Fi بتردد 2.4 جيجاهرتز في موقع التركيب ومصدر كهرباء 220 فولت.",
+        "zh": "安装点需有 2.4 GHz Wi-Fi 及 220V 电源接入。"
+      }
+    },
+    "sourceUrl": "https://www.tuyaexpo.com/product/1132190",
+    "accent": "#4556f5",
+    "symbol": "↗",
+    "solutions": [
+      "video-intelligente/cameras-exterieures"
+    ],
+    "related": [
+      "safer-cam-bullet-4k",
+      "safer-hub-alarm-4g"
+    ]
+  },
+  {
+    "id": "safer-bell-2k",
+    "sku": "WF-DB-2K",
+    "needsVerification": true,
+    "brand": "safer",
+    "sourceBrand": "Tuya",
+    "model": "Bell 2K",
+    "category": "video",
+    "subcategory": "sonnettes-video",
+    "i18n": {
+      "fr": {
+        "name": "SafeR Bell 2K — sonnette vidéo connectée",
+        "tagline": "Voyez et parlez à vos visiteurs, où que vous soyez.",
+        "description": "Sonnette vidéo 2K sur batterie ou câblage existant, avec détection de présence, vision nocturne infrarouge et audio bidirectionnel pour échanger avec un visiteur ou un livreur depuis l'application, à la maison comme à distance. Le carillon intérieur en option relaie l'appel dans toute la maison.",
+        "highlights": [
+          "Image 2K nette avec angle de vue 160°",
+          "Détection de présence avant sonnerie",
+          "Audio bidirectionnel et vision nocturne",
+          "Alimentation batterie ou câblage existant"
+        ],
+        "inTheBox": [
+          "Sonnette Bell 2K",
+          "Support d'angle",
+          "Câble de charge USB-C",
+          "Visserie de fixation",
+          "Guide de démarrage"
+        ]
+      },
+      "en": {
+        "name": "SafeR Bell 2K — smart video doorbell",
+        "tagline": "See and talk to your visitors, wherever you are.",
+        "description": "2K video doorbell running on battery or existing wiring, with presence detection, infrared night vision and two-way audio to talk to a visitor or courier from the app, at home or remotely. The optional indoor chime relays the call throughout the house.",
+        "highlights": [
+          "Sharp 2K image with a 160° field of view",
+          "Presence detection before the bell rings",
+          "Two-way audio and night vision",
+          "Battery or existing-wiring power"
+        ],
+        "inTheBox": [
+          "Bell 2K doorbell",
+          "Angle mount",
+          "USB-C charging cable",
+          "Mounting screws",
+          "Quick start guide"
+        ]
+      },
+      "es": {
+        "name": "SafeR Bell 2K — timbre de vídeo inteligente",
+        "tagline": "Ve y habla con tus visitas estés donde estés.",
+        "description": "Timbre de vídeo 2K con batería o cableado existente, con detección de presencia, visión nocturna infrarroja y audio bidireccional para hablar con un visitante o repartidor desde la aplicación, en casa o a distancia. El carillón interior opcional retransmite la llamada por toda la casa.",
+        "highlights": [
+          "Imagen 2K nítida con ángulo de 160°",
+          "Detección de presencia antes del timbrazo",
+          "Audio bidireccional y visión nocturna",
+          "Alimentación por batería o cableado existente"
+        ],
+        "inTheBox": [
+          "Timbre Bell 2K",
+          "Soporte angular",
+          "Cable de carga USB-C",
+          "Tornillería de fijación",
+          "Guía de inicio rápido"
+        ]
+      },
+      "ar": {
+        "name": "SafeR Bell 2K — جرس باب ذكي بالفيديو",
+        "tagline": "شاهد زوارك وتحدث معهم أينما كنت.",
+        "description": "جرس باب بالفيديو بدقة 2K يعمل بالبطارية أو بالأسلاك الموجودة، مزوّد بكشف الحضور ورؤية ليلية بالأشعة تحت الحمراء وصوت ثنائي الاتجاه للتحدث مع زائر أو موزّع طرود من التطبيق، سواء من المنزل أو عن بُعد. يمكن للجرس الداخلي الاختياري نقل الاتصال إلى أنحاء المنزل.",
+        "highlights": [
+          "صورة 2K واضحة بزاوية رؤية 160°",
+          "كشف الحضور قبل رنين الجرس",
+          "صوت ثنائي الاتجاه ورؤية ليلية",
+          "تعمل بالبطارية أو بالأسلاك الموجودة"
+        ],
+        "inTheBox": [
+          "جرس Bell 2K",
+          "حامل بزاوية",
+          "كابل شحن USB-C",
+          "براغي التثبيت",
+          "دليل البدء السريع"
+        ]
+      },
+      "zh": {
+        "name": "SafeR Bell 2K — 智能视频门铃",
+        "tagline": "无论身在何处，都能看到并与访客对话。",
+        "description": "2K 视频门铃，支持电池或原有线路供电，具备人体感应、红外夜视和双向语音，可在家中或远程通过 App 与访客或快递员对话。可选的室内门铃可在全屋范围内转发提示音。",
+        "highlights": [
+          "清晰 2K 画面，160° 视野",
+          "响铃前即可感应来访",
+          "双向语音与夜视功能",
+          "支持电池或原有线路供电"
+        ],
+        "inTheBox": [
+          "Bell 2K 门铃",
+          "角度安装支架",
+          "USB-C 充电线",
+          "安装螺丝",
+          "快速入门指南"
+        ]
+      }
+    },
+    "attributes": {
+      "protocol": [
+        "wifi"
+      ],
+      "placement": "exterieur",
+      "power": [
+        "batterie",
+        "secteur"
+      ],
+      "compat": [
+        "smart-life",
+        "safer-platform",
+        "alexa",
+        "google"
+      ],
+      "resolution": "2k"
+    },
+    "specs": [
+      {
+        "key": "resolution",
+        "value": "2K QHD"
+      },
+      {
+        "key": "fieldOfView",
+        "value": "160° diagonal"
+      },
+      {
+        "key": "nightVision",
+        "value": "Infrarouge"
+      },
+      {
+        "key": "twoWayAudio",
+        "value": {
+          "fr": "Micro et haut-parleur intégrés",
+          "en": "Built-in microphone and speaker",
+          "es": "Micrófono y altavoz integrados",
+          "ar": "ميكروفون وسماعة مدمجان",
+          "zh": "内置麦克风和扬声器"
+        }
+      },
+      {
+        "key": "chime",
+        "value": {
+          "fr": "Carillon intérieur en option",
+          "en": "Optional indoor chime",
+          "es": "Timbre interior opcional",
+          "ar": "جرس داخلي اختياري",
+          "zh": "室内可选门铃"
+        }
+      },
+      {
+        "key": "battery",
+        "value": "5 200 mAh amovible"
+      },
+      {
+        "key": "storage",
+        "value": "microSD ≤ 128 GB, cloud SafeR"
+      },
+      {
+        "key": "weatherproof",
+        "value": "IP65"
+      }
+    ],
+    "pricing": {
+      "sourcePrice": 45,
+      "sourceCurrency": "USD"
+    },
+    "availability": "sur-commande",
+    "install": {
+      "level": "standard",
+      "duration": "40 min",
+      "prerequisites": {
+        "fr": "Wi-Fi 2,4 GHz au niveau de l'entrée ; transformateur 8-24 V si raccordement filaire.",
+        "en": "2.4 GHz Wi-Fi at the entrance; 8-24 V transformer if wired.",
+        "es": "Wi-Fi de 2,4 GHz en la entrada; transformador de 8-24 V si es cableado.",
+        "ar": "توفر Wi-Fi بتردد 2.4 جيجاهرتز عند المدخل؛ محول 8-24 فولت عند التركيب السلكي.",
+        "zh": "入口处需有 2.4 GHz Wi-Fi；有线安装需 8-24V 变压器。"
+      }
+    },
+    "sourceUrl": "https://www.tuyaexpo.com/smart/CT9cn946s6b494-CT9cnjtjjxorup-CT9cnjxhcsofgl",
+    "accent": "#4556f5",
+    "symbol": "✦",
+    "solutions": [
+      "video-intelligente/sonnette-video",
+      "controle-acces/gestion-visiteurs"
+    ],
+    "related": [
+      "safer-lock-d1",
+      "safer-cam-bullet-4k"
+    ]
+  },
+  {
+    "id": "safer-hub-alarm-4g",
+    "sku": "WF-ALM-4G",
+    "needsVerification": true,
+    "brand": "safer",
+    "sourceBrand": "Tuya",
+    "model": "Hub Alarm 4G",
+    "category": "alarme",
+    "subcategory": "centrales",
+    "i18n": {
+      "fr": {
+        "name": "SafeR Hub Alarm 4G — centrale d'alarme Wi-Fi / 4G",
+        "tagline": "Une centrale qui reste vigilante même sans Internet.",
+        "description": "Centrale d'alarme domestique double connectivité Wi-Fi et 4G LTE, avec batterie de secours intégrée pour continuer à surveiller le domicile en cas de coupure de courant ou de box Internet. Elle pilote jusqu'à 6 zones et l'ensemble des détecteurs, sirènes et claviers SafeR, avec transmission d'alertes qualifiées vers l'application et le télésurveilleur.",
+        "highlights": [
+          "Double connectivité Wi-Fi et 4G LTE avec carte SIM",
+          "Batterie de secours 12 heures d'autonomie",
+          "6 zones et gestion multi-utilisateurs",
+          "Alertes qualifiées vers l'application SafeR"
+        ],
+        "inTheBox": [
+          "Centrale Hub Alarm 4G",
+          "Bloc secteur 12 V / 1,5 A",
+          "Batterie de secours",
+          "Carte SIM SafeR",
+          "Guide de démarrage"
+        ]
+      },
+      "en": {
+        "name": "SafeR Hub Alarm 4G — Wi-Fi / 4G alarm panel",
+        "tagline": "A panel that stays watchful even without internet.",
+        "description": "Home alarm panel with dual Wi-Fi and 4G LTE connectivity, plus a built-in backup battery to keep monitoring the home during a power or internet outage. It manages up to 6 zones and every SafeR sensor, siren and keypad, sending qualified alerts to the app and monitoring centre.",
+        "highlights": [
+          "Dual Wi-Fi and 4G LTE connectivity with SIM card",
+          "12-hour backup battery",
+          "6 zones with multi-user management",
+          "Qualified alerts sent to the SafeR app"
+        ],
+        "inTheBox": [
+          "Hub Alarm 4G panel",
+          "12 V / 1.5 A power adapter",
+          "Backup battery",
+          "SafeR SIM card",
+          "Quick start guide"
+        ]
+      },
+      "es": {
+        "name": "SafeR Hub Alarm 4G — central de alarma Wi-Fi / 4G",
+        "tagline": "Una central que vigila incluso sin Internet.",
+        "description": "Central de alarma doméstica con doble conectividad Wi-Fi y 4G LTE, con batería de respaldo integrada para seguir vigilando el hogar durante un corte de luz o de Internet. Gestiona hasta 6 zonas y todos los detectores, sirenas y teclados SafeR, enviando alertas cualificadas a la aplicación y a la central receptora.",
+        "highlights": [
+          "Doble conectividad Wi-Fi y 4G LTE con tarjeta SIM",
+          "Batería de respaldo de 12 horas",
+          "6 zonas con gestión multiusuario",
+          "Alertas cualificadas enviadas a la aplicación SafeR"
+        ],
+        "inTheBox": [
+          "Central Hub Alarm 4G",
+          "Adaptador 12 V / 1,5 A",
+          "Batería de respaldo",
+          "Tarjeta SIM SafeR",
+          "Guía de inicio rápido"
+        ]
+      },
+      "ar": {
+        "name": "SafeR Hub Alarm 4G — لوحة إنذار Wi-Fi / 4G",
+        "tagline": "لوحة تبقى يقظة حتى دون إنترنت.",
+        "description": "لوحة إنذار منزلية باتصال مزدوج Wi-Fi و4G LTE، مزوّدة ببطارية احتياطية مدمجة لمواصلة مراقبة المنزل عند انقطاع الكهرباء أو الإنترنت. تدير حتى 6 مناطق وجميع أجهزة الاستشعار والصفارات ولوحات المفاتيح من SafeR، وترسل إنذارات موثّقة إلى التطبيق ومركز المراقبة.",
+        "highlights": [
+          "اتصال مزدوج Wi-Fi و4G LTE ببطاقة SIM",
+          "بطارية احتياطية بعمر 12 ساعة",
+          "6 مناطق وإدارة متعددة المستخدمين",
+          "إنذارات موثّقة تُرسل إلى تطبيق SafeR"
+        ],
+        "inTheBox": [
+          "لوحة Hub Alarm 4G",
+          "محول كهربائي 12 فولت / 1.5 أمبير",
+          "بطارية احتياطية",
+          "بطاقة SIM من SafeR",
+          "دليل البدء السريع"
+        ]
+      },
+      "zh": {
+        "name": "SafeR Hub Alarm 4G — Wi-Fi / 4G 报警主机",
+        "tagline": "即使断网也能持续守护。",
+        "description": "家用报警主机，支持 Wi-Fi 与 4G LTE 双连接，内置备用电池，可在断电或断网时继续监控家中安全。最多管理 6 个防区及所有 SafeR 传感器、警报器和键盘，向 App 和监控中心发送经过核实的警报。",
+        "highlights": [
+          "Wi-Fi 与 4G LTE 双连接，支持 SIM 卡",
+          "12 小时备用电池",
+          "6 个防区，支持多用户管理",
+          "向 SafeR App 发送核实警报"
+        ],
+        "inTheBox": [
+          "Hub Alarm 4G 主机",
+          "12V/1.5A 电源适配器",
+          "备用电池",
+          "SafeR SIM 卡",
+          "快速入门指南"
+        ]
+      }
+    },
+    "attributes": {
+      "protocol": [
+        "wifi",
+        "4g-lte"
+      ],
+      "placement": "interieur",
+      "power": [
+        "secteur",
+        "batterie"
+      ],
+      "compat": [
+        "smart-life",
+        "safer-platform"
+      ]
+    },
+    "specs": [
+      {
+        "key": "connectivity",
+        "value": "Wi-Fi 2,4 GHz + 4G LTE"
+      },
+      {
+        "key": "sim",
+        "value": "1 carte SIM (nano)"
+      },
+      {
+        "key": "zones",
+        "value": {
+          "fr": "6 zones",
+          "en": "6 zones",
+          "es": "6 zonas",
+          "ar": "6 مناطق",
+          "zh": "6个防区"
+        }
+      },
+      {
+        "key": "autonomy",
+        "value": {
+          "fr": "12 h sur batterie de secours",
+          "en": "12 h on backup battery",
+          "es": "12 h con batería de respaldo",
+          "ar": "12 ساعة ببطارية احتياطية",
+          "zh": "备用电池可用12小时"
+        }
+      },
+      {
+        "key": "users",
+        "value": {
+          "fr": "Jusqu'à 10 utilisateurs",
+          "en": "Up to 10 users",
+          "es": "Hasta 10 usuarios",
+          "ar": "حتى 10 مستخدمين",
+          "zh": "最多支持10个用户"
+        }
+      },
+      {
+        "key": "tamper",
+        "value": {
+          "fr": "Détection d'ouverture et d'arrachement",
+          "en": "Open and tamper detection",
+          "es": "Detección de apertura y sabotaje",
+          "ar": "كشف الفتح والعبث",
+          "zh": "开启和拆卸侦测"
+        }
+      },
+      {
+        "key": "power",
+        "value": "12 V / 1,5 A"
+      },
+      {
+        "key": "app",
+        "value": "Smart Life"
+      }
+    ],
+    "pricing": {
+      "sourcePrice": 129,
+      "sourceCurrency": "USD"
+    },
+    "availability": "sur-devis",
+    "install": {
+      "level": "standard",
+      "duration": "60 min",
+      "prerequisites": {
+        "fr": "Wi-Fi 2,4 GHz, carte SIM data activée et prise secteur à demeure.",
+        "en": "2.4 GHz Wi-Fi, an activated data SIM and a permanent power outlet.",
+        "es": "Wi-Fi de 2,4 GHz, tarjeta SIM de datos activada y toma de corriente permanente.",
+        "ar": "Wi-Fi بتردد 2.4 جيجاهرتز، بطاقة SIM بيانات مفعّلة ومقبس كهربائي ثابت.",
+        "zh": "需 2.4 GHz Wi-Fi、已激活的数据 SIM 卡及固定电源插座。"
+      }
+    },
+    "sourceUrl": "https://www.tuyaexpo.com/smart/sensors/alarm-(system)-hub/CT9cn94ki9rh36-CT9cn9mdbn08yr",
+    "accent": "#4556f5",
+    "symbol": "▣",
+    "solutions": [
+      "alarmes-connectees/detection-intrusion"
+    ],
+    "related": [
+      "safer-motion-p1",
+      "safer-contact-d1",
+      "safer-siren-s2",
+      "safer-remote-r4",
+      "safer-sos-b1"
+    ]
+  },
+  {
+    "id": "safer-motion-p1",
+    "sku": "TS0202",
+    "brand": "safer",
+    "sourceBrand": "Tuya",
+    "model": "Motion P1",
+    "category": "alarme",
+    "subcategory": "detecteurs-mouvement",
+    "i18n": {
+      "fr": {
+        "name": "SafeR Motion P1 — détecteur de mouvement Zigbee",
+        "tagline": "Repère toute présence, sans jamais dégainer un faux positif.",
+        "description": "Détecteur de mouvement Zigbee PIR à immunité animaux, conçu pour couvrir couloirs, salons ou accès secondaires en complément des caméras. Il transmet instantanément l'alerte à la centrale et au hub SafeR, et fonctionne plusieurs années sur une seule pile grâce à sa faible consommation.",
+        "highlights": [
+          "Détection PIR jusqu'à 8 mètres, angle 110°",
+          "Immunité animaux jusqu'à 10 kg",
+          "Autonomie de plusieurs années sur pile",
+          "Association instantanée à la passerelle SafeR"
+        ],
+        "inTheBox": [
+          "Détecteur Motion P1",
+          "Pile CR2450",
+          "Support mural orientable",
+          "Adhésif double face"
+        ]
+      },
+      "en": {
+        "name": "SafeR Motion P1 — Zigbee motion sensor",
+        "tagline": "Catches every presence without false alarms.",
+        "description": "Pet-immune PIR Zigbee motion sensor built to cover hallways, living rooms or secondary entrances alongside your cameras. It reports instantly to the SafeR panel and gateway and runs for several years on a single battery thanks to its low power draw.",
+        "highlights": [
+          "PIR detection up to 8 metres, 110° angle",
+          "Pet immunity up to 10 kg",
+          "Several years of runtime on one battery",
+          "Instant pairing with the SafeR gateway"
+        ],
+        "inTheBox": [
+          "Motion P1 sensor",
+          "CR2450 battery",
+          "Adjustable wall mount",
+          "Double-sided adhesive pad"
+        ]
+      },
+      "es": {
+        "name": "SafeR Motion P1 — detector de movimiento Zigbee",
+        "tagline": "Detecta cualquier presencia sin falsas alarmas.",
+        "description": "Detector de movimiento Zigbee PIR con inmunidad a mascotas, pensado para cubrir pasillos, salones o accesos secundarios como complemento de las cámaras. Transmite la alerta al instante a la central y a la pasarela SafeR, y funciona varios años con una sola pila gracias a su bajo consumo.",
+        "highlights": [
+          "Detección PIR hasta 8 metros, ángulo de 110°",
+          "Inmunidad a mascotas de hasta 10 kg",
+          "Varios años de autonomía con una pila",
+          "Emparejamiento instantáneo con la pasarela SafeR"
+        ],
+        "inTheBox": [
+          "Detector Motion P1",
+          "Pila CR2450",
+          "Soporte de pared orientable",
+          "Adhesivo de doble cara"
+        ]
+      },
+      "ar": {
+        "name": "SafeR Motion P1 — كاشف حركة Zigbee",
+        "tagline": "يرصد أي حضور دون إنذارات كاذبة.",
+        "description": "كاشف حركة Zigbee بتقنية PIR مع مناعة ضد الحيوانات الأليفة، مصمّم لتغطية الممرات والصالونات أو المداخل الثانوية إلى جانب الكاميرات. يُرسل الإنذار فوراً إلى لوحة التحكم وبوابة SafeR، ويعمل لسنوات عدة ببطارية واحدة بفضل استهلاكه المنخفض.",
+        "highlights": [
+          "كشف PIR حتى 8 أمتار بزاوية 110°",
+          "مناعة ضد الحيوانات الأليفة حتى 10 كغ",
+          "عمر بطارية يمتد لسنوات",
+          "إقران فوري ببوابة SafeR"
+        ],
+        "inTheBox": [
+          "كاشف Motion P1",
+          "بطارية CR2450",
+          "حامل جداري قابل للتوجيه",
+          "شريط لاصق مزدوج الوجه"
+        ]
+      },
+      "zh": {
+        "name": "SafeR Motion P1 — Zigbee 移动侦测器",
+        "tagline": "精准侦测人体活动，减少误报。",
+        "description": "具备宠物免疫功能的 Zigbee PIR 移动侦测器，适合安装在走廊、客厅或次要出入口，与摄像机配合使用。可即时向 SafeR 主机与网关发送警报，超低功耗使其单节电池即可使用数年。",
+        "highlights": [
+          "PIR 探测距离达 8 米，探测角度 110°",
+          "对 10 公斤以下宠物免疫",
+          "单节电池可用数年",
+          "与 SafeR 网关即时配对"
+        ],
+        "inTheBox": [
+          "Motion P1 侦测器",
+          "CR2450 电池",
+          "可调节壁挂支架",
+          "双面胶贴"
+        ]
+      }
+    },
+    "attributes": {
+      "protocol": [
+        "zigbee"
+      ],
+      "placement": "interieur",
+      "power": [
+        "pile"
+      ],
+      "compat": [
+        "smart-life",
+        "safer-platform",
+        "alexa",
+        "google"
+      ]
+    },
+    "specs": [
+      {
+        "key": "detectionRange",
+        "value": "8 m"
+      },
+      {
+        "key": "detectionType",
+        "value": "PIR infrarouge passif"
+      },
+      {
+        "key": "petImmunity",
+        "value": "≤ 10 kg"
+      },
+      {
+        "key": "battery",
+        "value": "CR2450, 3 V"
+      },
+      {
+        "key": "batteryLife",
+        "value": {
+          "fr": "≈ 2 ans",
+          "en": "≈ 2 years",
+          "es": "≈ 2 años",
+          "ar": "≈ سنتان",
+          "zh": "约2年"
+        }
+      },
+      {
+        "key": "protocol",
+        "value": "Zigbee 3.0"
+      },
+      {
+        "key": "tamper",
+        "value": {
+          "fr": "Détection d'arrachement",
+          "en": "Tamper detection",
+          "es": "Detección de sabotaje",
+          "ar": "كشف العبث",
+          "zh": "防拆侦测"
+        }
+      },
+      {
+        "key": "operatingTemp",
+        "value": "-10 °C … 45 °C"
+      }
+    ],
+    "pricing": {
+      "sourcePrice": 14,
+      "sourceCurrency": "USD"
+    },
+    "availability": "en-stock",
+    "install": {
+      "level": "simple",
+      "duration": "10 min",
+      "prerequisites": {
+        "fr": "Passerelle SafeR Link (Zigbee) installée et à portée radio.",
+        "en": "SafeR Link Zigbee gateway installed and within radio range.",
+        "es": "Pasarela SafeR Link (Zigbee) instalada y dentro del alcance de radio.",
+        "ar": "بوابة SafeR Link (Zigbee) مثبّتة وفي نطاق التغطية اللاسلكية.",
+        "zh": "已安装 SafeR Link Zigbee 网关且在无线覆盖范围内。"
+      }
+    },
+    "sourceUrl": "https://www.tuyaexpo.com/mobile/smart/sensors/protection-sensor/pir-motion-detector/CT9cn94ki9rh36-CT9cn9la1lzi8j-CT9cnds3wsj8yj",
+    "accent": "#4556f5",
+    "symbol": "◎",
+    "solutions": [
+      "alarmes-connectees/detection-intrusion"
+    ],
+    "related": [
+      "safer-hub-alarm-4g",
+      "safer-link-gz3",
+      "safer-siren-s2"
+    ]
+  },
+  {
+    "id": "safer-contact-d1",
+    "sku": "TS0203",
+    "brand": "safer",
+    "sourceBrand": "Tuya",
+    "model": "Contact D1",
+    "category": "alarme",
+    "subcategory": "detecteurs-ouverture",
+    "i18n": {
+      "fr": {
+        "name": "SafeR Contact D1 — détecteur d'ouverture Zigbee",
+        "tagline": "Sait immédiatement quand une porte ou une fenêtre s'ouvre.",
+        "description": "Détecteur magnétique Zigbee à poser sur porte, fenêtre ou portillon pour signaler toute ouverture à la centrale SafeR. Discret et rapide à installer par simple collage, il inclut un capteur de température et une alerte anti-sabotage pour renforcer la surveillance d'un accès sensible.",
+        "highlights": [
+          "Alerte instantanée à l'ouverture",
+          "Pose adhésive en quelques minutes",
+          "Capteur de température intégré",
+          "Anti-sabotage à l'arrachement"
+        ],
+        "inTheBox": [
+          "Détecteur Contact D1",
+          "Aimant complémentaire",
+          "Piles CR1632",
+          "Adhésif double face"
+        ]
+      },
+      "en": {
+        "name": "SafeR Contact D1 — Zigbee door/window sensor",
+        "tagline": "Knows the instant a door or window opens.",
+        "description": "Magnetic Zigbee sensor for doors, windows or gates that reports any opening to the SafeR panel. Discreet and quick to install with adhesive pads, it includes a temperature sensor and tamper alert to reinforce monitoring of a sensitive access point.",
+        "highlights": [
+          "Instant alert on opening",
+          "Adhesive install in minutes",
+          "Built-in temperature sensor",
+          "Tamper alert on removal"
+        ],
+        "inTheBox": [
+          "Contact D1 sensor",
+          "Companion magnet",
+          "CR1632 batteries",
+          "Double-sided adhesive pad"
+        ]
+      },
+      "es": {
+        "name": "SafeR Contact D1 — detector de apertura Zigbee",
+        "tagline": "Sabe al instante cuándo se abre una puerta o ventana.",
+        "description": "Detector magnético Zigbee para puertas, ventanas o portillos que avisa a la central SafeR de cualquier apertura. Discreto y rápido de instalar con adhesivo, incluye un sensor de temperatura y alerta antisabotaje para reforzar la vigilancia de un acceso sensible.",
+        "highlights": [
+          "Alerta instantánea al abrir",
+          "Instalación adhesiva en minutos",
+          "Sensor de temperatura integrado",
+          "Alerta antisabotaje al arrancarlo"
+        ],
+        "inTheBox": [
+          "Detector Contact D1",
+          "Imán complementario",
+          "Pilas CR1632",
+          "Adhesivo de doble cara"
+        ]
+      },
+      "ar": {
+        "name": "SafeR Contact D1 — كاشف فتح الأبواب والنوافذ Zigbee",
+        "tagline": "يعرف فوراً عند فتح باب أو نافذة.",
+        "description": "كاشف مغناطيسي Zigbee للأبواب والنوافذ والبوابات الصغيرة يُنبّه لوحة SafeR عند أي فتح. سريع التركيب بلاصق مزدوج الوجه، ويتضمن مستشعر حرارة وتنبيه مضاد للعبث لتعزيز مراقبة مدخل حساس.",
+        "highlights": [
+          "إنذار فوري عند الفتح",
+          "تركيب لاصق في دقائق",
+          "مستشعر حرارة مدمج",
+          "تنبيه مضاد للعبث عند الخلع"
+        ],
+        "inTheBox": [
+          "كاشف Contact D1",
+          "مغناطيس مكمّل",
+          "بطاريات CR1632",
+          "شريط لاصق مزدوج الوجه"
+        ]
+      },
+      "zh": {
+        "name": "SafeR Contact D1 — Zigbee 门窗感应器",
+        "tagline": "门窗一开即刻感知。",
+        "description": "适用于门、窗或小门的 Zigbee 磁性感应器，可将任何开启动作上报至 SafeR 主机。采用胶贴安装，几分钟即可完成，内置温度传感器与防拆报警，加强对敏感出入口的监控。",
+        "highlights": [
+          "开启即时警报",
+          "胶贴安装，几分钟完成",
+          "内置温度传感器",
+          "拆卸防篡改警报"
+        ],
+        "inTheBox": [
+          "Contact D1 感应器",
+          "配套磁铁",
+          "CR1632 电池",
+          "双面胶贴"
+        ]
+      }
+    },
+    "attributes": {
+      "protocol": [
+        "zigbee"
+      ],
+      "placement": "interieur-exterieur",
+      "power": [
+        "pile"
+      ],
+      "compat": [
+        "smart-life",
+        "safer-platform",
+        "alexa",
+        "google"
+      ]
+    },
+    "specs": [
+      {
+        "key": "detectionType",
+        "value": {
+          "fr": "Magnétique (reed switch)",
+          "en": "Magnetic (reed switch)",
+          "es": "Magnético (reed switch)",
+          "ar": "مغناطيسي (reed switch)",
+          "zh": "磁感应（干簧管）"
+        }
+      },
+      {
+        "key": "range",
+        "value": {
+          "fr": "Écart déclencheur ≈ 15 mm",
+          "en": "Trigger gap ≈ 15 mm",
+          "es": "Separación de activación ≈ 15 mm",
+          "ar": "فجوة التشغيل ≈ 15 مم",
+          "zh": "触发间距约15毫米"
+        }
+      },
+      {
+        "key": "battery",
+        "value": "2 × CR1632, 3 V"
+      },
+      {
+        "key": "batteryLife",
+        "value": {
+          "fr": "≈ 2 ans",
+          "en": "≈ 2 years",
+          "es": "≈ 2 años",
+          "ar": "≈ سنتان",
+          "zh": "约2年"
+        }
+      },
+      {
+        "key": "protocol",
+        "value": "Zigbee 3.0"
+      },
+      {
+        "key": "tamper",
+        "value": {
+          "fr": "Détection d'arrachement",
+          "en": "Tamper detection",
+          "es": "Detección de sabotaje",
+          "ar": "كشف العبث",
+          "zh": "防拆侦测"
+        }
+      },
+      {
+        "key": "dimensions",
+        "value": "44 × 14 × 13 mm"
+      },
+      {
+        "key": "operatingTemp",
+        "value": "-10 °C … 45 °C"
+      }
+    ],
+    "pricing": {
+      "sourcePrice": 11,
+      "sourceCurrency": "USD"
+    },
+    "availability": "en-stock",
+    "install": {
+      "level": "simple",
+      "duration": "10 min",
+      "prerequisites": {
+        "fr": "Passerelle SafeR Link (Zigbee) installée et à portée radio.",
+        "en": "SafeR Link Zigbee gateway installed and within radio range.",
+        "es": "Pasarela SafeR Link (Zigbee) instalada y dentro del alcance de radio.",
+        "ar": "بوابة SafeR Link (Zigbee) مثبّتة وفي نطاق التغطية اللاسلكية.",
+        "zh": "已安装 SafeR Link Zigbee 网关且在无线覆盖范围内。"
+      }
+    },
+    "sourceUrl": "https://expo.tuya.com/smart/sensors/protection-sensor/door-window-sensor/CT9cn94ki9rh36-CT9cn9la1lzi8j-CT9cndqt2i2xhm",
+    "accent": "#4556f5",
+    "symbol": "▤",
+    "solutions": [
+      "alarmes-connectees/detection-intrusion"
+    ],
+    "related": [
+      "safer-hub-alarm-4g",
+      "safer-link-gz3",
+      "safer-lock-d1"
+    ]
+  },
+  {
+    "id": "safer-smoke-s1",
+    "sku": "TS0205",
+    "brand": "safer",
+    "sourceBrand": "Tuya",
+    "model": "Smoke S1",
+    "category": "alarme",
+    "subcategory": "detecteurs-fumee-gaz",
+    "i18n": {
+      "fr": {
+        "name": "SafeR Smoke S1 — détecteur de fumée Zigbee",
+        "tagline": "Une alerte immédiate en cas de début d'incendie.",
+        "description": "Détecteur de fumée photoélectrique Zigbee conforme aux exigences des logements, avec sirène locale 85 dB et remontée d'alerte instantanée à la centrale et à l'application SafeR. Sa pile longue durée et son autotest périodique garantissent une surveillance continue de la cuisine, du salon ou d'un local technique.",
+        "highlights": [
+          "Détection photoélectrique haute sensibilité",
+          "Sirène locale 85 dB et alerte SafeR",
+          "Autotest périodique et rappel de fin de vie",
+          "Pile scellée longue durée, 5 ans"
+        ],
+        "inTheBox": [
+          "Détecteur Smoke S1",
+          "Support de fixation plafond",
+          "Visserie",
+          "Guide de démarrage"
+        ]
+      },
+      "en": {
+        "name": "SafeR Smoke S1 — Zigbee smoke detector",
+        "tagline": "An immediate alert at the first sign of fire.",
+        "description": "Photoelectric Zigbee smoke detector built to residential standards, with an 85 dB local siren and instant alert to the SafeR panel and app. Its long-life sealed battery and periodic self-test keep the kitchen, living room or utility room continuously monitored.",
+        "highlights": [
+          "High-sensitivity photoelectric detection",
+          "85 dB local siren plus SafeR alert",
+          "Periodic self-test and end-of-life reminder",
+          "5-year sealed long-life battery"
+        ],
+        "inTheBox": [
+          "Smoke S1 detector",
+          "Ceiling mount bracket",
+          "Screws",
+          "Quick start guide"
+        ]
+      },
+      "es": {
+        "name": "SafeR Smoke S1 — detector de humo Zigbee",
+        "tagline": "Una alerta inmediata ante un inicio de incendio.",
+        "description": "Detector de humo fotoeléctrico Zigbee conforme a los estándares residenciales, con sirena local de 85 dB y aviso instantáneo a la central y a la aplicación SafeR. Su pila sellada de larga duración y su autodiagnóstico periódico garantizan una vigilancia continua de la cocina, el salón o un cuarto técnico.",
+        "highlights": [
+          "Detección fotoeléctrica de alta sensibilidad",
+          "Sirena local de 85 dB y alerta SafeR",
+          "Autodiagnóstico periódico y aviso de fin de vida",
+          "Pila sellada de larga duración, 5 años"
+        ],
+        "inTheBox": [
+          "Detector Smoke S1",
+          "Soporte de fijación al techo",
+          "Tornillería",
+          "Guía de inicio rápido"
+        ]
+      },
+      "ar": {
+        "name": "SafeR Smoke S1 — كاشف دخان Zigbee",
+        "tagline": "إنذار فوري عند أول بادرة حريق.",
+        "description": "كاشف دخان ضوئي بمعيار Zigbee مطابق لمعايير السكن، مزوّد بصفارة إنذار محلية بقوة 85 ديسيبل وإنذار فوري إلى لوحة التحكم وتطبيق SafeR. تضمن بطاريته المختومة طويلة العمر واختباره الذاتي الدوري مراقبة مستمرة للمطبخ أو الصالون أو الغرفة الفنية.",
+        "highlights": [
+          "كشف ضوئي عالي الحساسية",
+          "صفارة إنذار محلية 85 ديسيبل وإنذار SafeR",
+          "اختبار ذاتي دوري وتنبيه انتهاء العمر",
+          "بطارية مختومة طويلة العمر لمدة 5 سنوات"
+        ],
+        "inTheBox": [
+          "كاشف Smoke S1",
+          "حامل تثبيت بالسقف",
+          "براغي",
+          "دليل البدء السريع"
+        ]
+      },
+      "zh": {
+        "name": "SafeR Smoke S1 — Zigbee 烟雾报警器",
+        "tagline": "火灾初期即刻发出警报。",
+        "description": "符合住宅标准的 Zigbee 光电烟雾报警器，配备 85 分贝本地警报声，并即时向 SafeR 主机与 App 发送警报。长效密封电池与定期自检功能，持续守护厨房、客厅或设备间的安全。",
+        "highlights": [
+          "高灵敏度光电探测",
+          "85 分贝本地警报声及 SafeR 提醒",
+          "定期自检与到期提醒",
+          "5 年长效密封电池"
+        ],
+        "inTheBox": [
+          "Smoke S1 报警器",
+          "吸顶安装支架",
+          "螺丝",
+          "快速入门指南"
+        ]
+      }
+    },
+    "attributes": {
+      "protocol": [
+        "zigbee"
+      ],
+      "placement": "interieur",
+      "power": [
+        "pile"
+      ],
+      "compat": [
+        "smart-life",
+        "safer-platform",
+        "alexa",
+        "google"
+      ]
+    },
+    "specs": [
+      {
+        "key": "detectionType",
+        "value": {
+          "fr": "Photoélectrique",
+          "en": "Photoelectric",
+          "es": "Fotoeléctrico",
+          "ar": "ضوئي كهربائي",
+          "zh": "光电式"
+        }
+      },
+      {
+        "key": "sensitivity",
+        "value": "Conforme EN 14604"
+      },
+      {
+        "key": "siren",
+        "value": "85 dB @ 3 m"
+      },
+      {
+        "key": "battery",
+        "value": {
+          "fr": "Pile scellée lithium",
+          "en": "Sealed lithium battery",
+          "es": "Batería de litio sellada",
+          "ar": "بطارية ليثيوم مختومة",
+          "zh": "锂电池（密封式）"
+        }
+      },
+      {
+        "key": "batteryLife",
+        "value": {
+          "fr": "5 ans",
+          "en": "5 years",
+          "es": "5 años",
+          "ar": "5 سنوات",
+          "zh": "5年"
+        }
+      },
+      {
+        "key": "protocol",
+        "value": "Zigbee 3.0"
+      },
+      {
+        "key": "tamper",
+        "value": {
+          "fr": "Détection d'arrachement",
+          "en": "Tamper detection",
+          "es": "Detección de sabotaje",
+          "ar": "كشف العبث",
+          "zh": "防拆侦测"
+        }
+      },
+      {
+        "key": "certifications",
+        "value": "EN 14604"
+      }
+    ],
+    "pricing": {
+      "sourcePrice": 18,
+      "sourceCurrency": "USD"
+    },
+    "availability": "sur-commande",
+    "install": {
+      "level": "simple",
+      "duration": "10 min",
+      "prerequisites": {
+        "fr": "Passerelle SafeR Link (Zigbee) installée et à portée radio ; plafond central de la pièce.",
+        "en": "SafeR Link Zigbee gateway installed and within radio range; mount at the room's centre ceiling.",
+        "es": "Pasarela SafeR Link (Zigbee) instalada y dentro del alcance de radio; techo central de la estancia.",
+        "ar": "بوابة SafeR Link (Zigbee) مثبّتة وفي نطاق التغطية اللاسلكية؛ التركيب في منتصف سقف الغرفة.",
+        "zh": "已安装 SafeR Link Zigbee 网关且在无线覆盖范围内；安装于房间中央天花板。"
+      }
+    },
+    "sourceUrl": "https://www.tuyaexpo.com/smart/CT9cn94ki9rh36-CT9cn9lw0nshsl-CT9cne4ihx0bp1",
+    "accent": "#4556f5",
+    "symbol": "♨",
+    "solutions": [
+      "alarmes-connectees/detection-incendie"
+    ],
+    "related": [
+      "safer-hub-alarm-4g",
+      "safer-gas-g1"
+    ]
+  },
+  {
+    "id": "safer-gas-g1",
+    "sku": "TS0601",
+    "brand": "safer",
+    "sourceBrand": "Tuya",
+    "model": "Gas G1",
+    "category": "alarme",
+    "subcategory": "detecteurs-fumee-gaz",
+    "i18n": {
+      "fr": {
+        "name": "SafeR Gas G1 — détecteur de gaz Zigbee",
+        "tagline": "Détecte fuite de gaz naturel ou GPL avant qu'il ne soit trop tard.",
+        "description": "Détecteur de gaz Zigbee à capteur électrochimique, pensé pour la cuisine ou un local contenant une bouteille de gaz. Il déclenche une sirène locale de 90 dB et alerte instantanément la centrale et l'application SafeR dès dépassement du seuil, avec préchauffage automatique du capteur à la mise sous tension.",
+        "highlights": [
+          "Détection gaz naturel et GPL",
+          "Sirène locale 90 dB et alerte SafeR immédiate",
+          "Préchauffage automatique du capteur",
+          "Alimentation secteur pour surveillance continue"
+        ],
+        "inTheBox": [
+          "Détecteur Gas G1",
+          "Bloc secteur 5 V / 1 A",
+          "Support mural",
+          "Guide de démarrage"
+        ]
+      },
+      "en": {
+        "name": "SafeR Gas G1 — Zigbee gas detector",
+        "tagline": "Catches a natural gas or LPG leak before it's too late.",
+        "description": "Electrochemical-sensor Zigbee gas detector, built for a kitchen or a room with a gas cylinder. It triggers a 90 dB local siren and instantly alerts the SafeR panel and app once the threshold is exceeded, with automatic sensor pre-heating on power-up.",
+        "highlights": [
+          "Detects natural gas and LPG",
+          "90 dB local siren and instant SafeR alert",
+          "Automatic sensor pre-heating",
+          "Mains powered for continuous monitoring"
+        ],
+        "inTheBox": [
+          "Gas G1 detector",
+          "5 V / 1 A power adapter",
+          "Wall mount",
+          "Quick start guide"
+        ]
+      },
+      "es": {
+        "name": "SafeR Gas G1 — detector de gas Zigbee",
+        "tagline": "Detecta una fuga de gas natural o GLP antes de que sea tarde.",
+        "description": "Detector de gas Zigbee con sensor electroquímico, pensado para la cocina o un local con bombona de gas. Activa una sirena local de 90 dB y avisa al instante a la central y a la aplicación SafeR al superar el umbral, con precalentamiento automático del sensor al encenderse.",
+        "highlights": [
+          "Detección de gas natural y GLP",
+          "Sirena local de 90 dB y alerta SafeR instantánea",
+          "Precalentamiento automático del sensor",
+          "Alimentación por red eléctrica para vigilancia continua"
+        ],
+        "inTheBox": [
+          "Detector Gas G1",
+          "Adaptador 5 V / 1 A",
+          "Soporte de pared",
+          "Guía de inicio rápido"
+        ]
+      },
+      "ar": {
+        "name": "SafeR Gas G1 — كاشف غاز Zigbee",
+        "tagline": "يكتشف تسرّب الغاز الطبيعي أو المسال قبل فوات الأوان.",
+        "description": "كاشف غاز Zigbee بمستشعر كهروكيميائي، مصمّم للمطبخ أو غرفة تحتوي على أسطوانة غاز. يُطلق صفارة إنذار محلية بقوة 90 ديسيبل وينبّه فوراً لوحة التحكم وتطبيق SafeR عند تجاوز الحد، مع تسخين تلقائي للمستشعر عند التشغيل.",
+        "highlights": [
+          "كشف الغاز الطبيعي والغاز المسال",
+          "صفارة إنذار محلية 90 ديسيبل وإنذار SafeR فوري",
+          "تسخين تلقائي للمستشعر",
+          "يعمل بالكهرباء لمراقبة مستمرة"
+        ],
+        "inTheBox": [
+          "كاشف Gas G1",
+          "محول كهربائي 5 فولت / 1 أمبير",
+          "حامل جداري",
+          "دليل البدء السريع"
+        ]
+      },
+      "zh": {
+        "name": "SafeR Gas G1 — Zigbee 燃气报警器",
+        "tagline": "在为时已晚之前，及时发现天然气或液化气泄漏。",
+        "description": "配备电化学传感器的 Zigbee 燃气报警器，适合安装在厨房或存放燃气瓶的房间。超标时触发 90 分贝本地警报声，并即时向 SafeR 主机与 App 发送警报，通电时传感器自动预热。",
+        "highlights": [
+          "可检测天然气与液化气",
+          "90 分贝本地警报声及 SafeR 即时提醒",
+          "传感器自动预热",
+          "市电供电，持续监控"
+        ],
+        "inTheBox": [
+          "Gas G1 报警器",
+          "5V/1A 电源适配器",
+          "壁挂支架",
+          "快速入门指南"
+        ]
+      }
+    },
+    "attributes": {
+      "protocol": [
+        "zigbee"
+      ],
+      "placement": "interieur",
+      "power": [
+        "secteur"
+      ],
+      "compat": [
+        "smart-life",
+        "safer-platform",
+        "alexa",
+        "google"
+      ]
+    },
+    "specs": [
+      {
+        "key": "detectionType",
+        "value": {
+          "fr": "Électrochimique, gaz naturel / GPL",
+          "en": "Electrochemical, natural gas / LPG",
+          "es": "Electroquímico, gas natural / GLP",
+          "ar": "كهروكيميائي، غاز طبيعي / غاز البترول المسال",
+          "zh": "电化学式，天然气/液化石油气"
+        }
+      },
+      {
+        "key": "sensitivity",
+        "value": {
+          "fr": "Seuil réglable",
+          "en": "Adjustable threshold",
+          "es": "Umbral ajustable",
+          "ar": "عتبة قابلة للتعديل",
+          "zh": "阈值可调"
+        }
+      },
+      {
+        "key": "siren",
+        "value": "90 dB @ 3 m"
+      },
+      {
+        "key": "power",
+        "value": "5 V / 1 A"
+      },
+      {
+        "key": "protocol",
+        "value": "Zigbee 3.0"
+      },
+      {
+        "key": "tamper",
+        "value": {
+          "fr": "Détection d'arrachement",
+          "en": "Tamper detection",
+          "es": "Detección de sabotaje",
+          "ar": "كشف العبث",
+          "zh": "防拆侦测"
+        }
+      },
+      {
+        "key": "operatingTemp",
+        "value": "0 °C … 45 °C"
+      },
+      {
+        "key": "mounting",
+        "value": {
+          "fr": "Murale, 30 cm au-dessus du sol (GPL) ou proche plafond (gaz naturel)",
+          "en": "Wall-mounted, 30 cm above floor (LPG) or near ceiling (natural gas)",
+          "es": "Mural, 30 cm sobre el suelo (GLP) o cerca del techo (gas natural)",
+          "ar": "تركيب حائطي، 30 سم فوق الأرض (غاز البترول المسال) أو قرب السقف (الغاز الطبيعي)",
+          "zh": "壁挂式，距地面30厘米（液化气）或靠近天花板（天然气）"
+        }
+      }
+    ],
+    "pricing": {
+      "sourcePrice": 22,
+      "sourceCurrency": "USD"
+    },
+    "availability": "sur-commande",
+    "install": {
+      "level": "simple",
+      "duration": "15 min",
+      "prerequisites": {
+        "fr": "Passerelle SafeR Link (Zigbee) à portée radio et prise secteur à proximité.",
+        "en": "SafeR Link Zigbee gateway within radio range and a nearby power outlet.",
+        "es": "Pasarela SafeR Link (Zigbee) dentro del alcance de radio y toma de corriente cercana.",
+        "ar": "بوابة SafeR Link (Zigbee) في نطاق التغطية اللاسلكية ومقبس كهربائي قريب.",
+        "zh": "SafeR Link Zigbee 网关需在无线覆盖范围内，并靠近电源插座。"
+      }
+    },
+    "sourceUrl": "https://www.tuyaexpo.com/smart/CT9cn94ki9rh36-CT9cn9lw0nshsl-CT9cne58aq7pqh",
+    "accent": "#4556f5",
+    "symbol": "♨",
+    "solutions": [
+      "alarmes-connectees/detection-incendie"
+    ],
+    "related": [
+      "safer-hub-alarm-4g",
+      "safer-smoke-s1"
+    ]
+  },
+  {
+    "id": "safer-leak-l1",
+    "sku": "TS0207",
+    "brand": "safer",
+    "sourceBrand": "Tuya",
+    "model": "Leak L1",
+    "category": "alarme",
+    "subcategory": "detecteurs-fuite",
+    "i18n": {
+      "fr": {
+        "name": "SafeR Leak L1 — détecteur de fuite d'eau Zigbee",
+        "tagline": "Le premier signe d'une fuite, avant les dégâts des eaux.",
+        "description": "Détecteur de fuite d'eau Zigbee à poser au sol sous un ballon d'eau chaude, un lave-linge ou une arrivée d'eau. Ses deux électrodes en contact avec le sol détectent la moindre présence d'eau et déclenchent une alerte immédiate à la centrale et à l'application, avec sirène locale intégrée.",
+        "highlights": [
+          "Détection immédiate au contact de l'eau",
+          "Sirène locale 85 dB intégrée",
+          "Boîtier compact à poser au sol",
+          "Pile longue durée avec alerte de niveau bas"
+        ],
+        "inTheBox": [
+          "Détecteur Leak L1",
+          "Pile CR2",
+          "Câble capteur déporté",
+          "Guide de démarrage"
+        ]
+      },
+      "en": {
+        "name": "SafeR Leak L1 — Zigbee water leak sensor",
+        "tagline": "The first sign of a leak, before the water damage.",
+        "description": "Zigbee water leak sensor placed on the floor beneath a water heater, washing machine or water inlet. Its two floor-contact electrodes detect the slightest presence of water and trigger an immediate alert to the panel and app, with a built-in local siren.",
+        "highlights": [
+          "Instant detection on contact with water",
+          "Built-in 85 dB local siren",
+          "Compact housing, floor placement",
+          "Long-life battery with low-battery alert"
+        ],
+        "inTheBox": [
+          "Leak L1 sensor",
+          "CR2 battery",
+          "Remote sensor cable",
+          "Quick start guide"
+        ]
+      },
+      "es": {
+        "name": "SafeR Leak L1 — detector de fugas de agua Zigbee",
+        "tagline": "La primera señal de una fuga, antes de los daños por agua.",
+        "description": "Detector de fugas de agua Zigbee para colocar en el suelo bajo un calentador, una lavadora o una toma de agua. Sus dos electrodos en contacto con el suelo detectan la más mínima presencia de agua y activan una alerta inmediata a la central y a la aplicación, con sirena local integrada.",
+        "highlights": [
+          "Detección inmediata al contacto con el agua",
+          "Sirena local de 85 dB integrada",
+          "Carcasa compacta para colocar en el suelo",
+          "Pila de larga duración con aviso de nivel bajo"
+        ],
+        "inTheBox": [
+          "Detector Leak L1",
+          "Pila CR2",
+          "Cable de sensor remoto",
+          "Guía de inicio rápido"
+        ]
+      },
+      "ar": {
+        "name": "SafeR Leak L1 — كاشف تسرّب مياه Zigbee",
+        "tagline": "أول إشارة لتسرّب المياه، قبل وقوع الأضرار.",
+        "description": "كاشف تسرّب مياه Zigbee يوضع على الأرضية أسفل سخان المياه أو الغسالة أو نقطة وصول المياه. يكتشف قطبان ملامسان للأرضية أدنى وجود للمياه ويُطلقان إنذاراً فورياً إلى لوحة التحكم والتطبيق، مع صفارة إنذار محلية مدمجة.",
+        "highlights": [
+          "كشف فوري عند ملامسة الماء",
+          "صفارة إنذار محلية 85 ديسيبل مدمجة",
+          "هيكل مضغوط يوضع على الأرضية",
+          "بطارية طويلة العمر مع تنبيه انخفاض الشحن"
+        ],
+        "inTheBox": [
+          "كاشف Leak L1",
+          "بطارية CR2",
+          "كابل مستشعر عن بُعد",
+          "دليل البدء السريع"
+        ]
+      },
+      "zh": {
+        "name": "SafeR Leak L1 — Zigbee 漏水感应器",
+        "tagline": "在水损发生前，第一时间发现漏水迹象。",
+        "description": "Zigbee 漏水感应器，可放置在热水器、洗衣机或进水口下方地面。两个接地电极一旦接触到水即可检测，并立即向主机与 App 发送警报，内置本地警报声。",
+        "highlights": [
+          "接触到水即刻检测",
+          "内置 85 分贝本地警报声",
+          "机身小巧，可置于地面",
+          "长效电池，低电量提醒"
+        ],
+        "inTheBox": [
+          "Leak L1 感应器",
+          "CR2 电池",
+          "远程探头线",
+          "快速入门指南"
+        ]
+      }
+    },
+    "attributes": {
+      "protocol": [
+        "zigbee"
+      ],
+      "placement": "interieur",
+      "power": [
+        "pile"
+      ],
+      "compat": [
+        "smart-life",
+        "safer-platform",
+        "alexa",
+        "google"
+      ]
+    },
+    "specs": [
+      {
+        "key": "detectionType",
+        "value": {
+          "fr": "Électrodes de contact eau",
+          "en": "Water contact electrodes",
+          "es": "Electrodos de contacto con agua",
+          "ar": "أقطاب استشعار ملامسة الماء",
+          "zh": "水浸接触电极"
+        }
+      },
+      {
+        "key": "siren",
+        "value": "85 dB @ 3 m"
+      },
+      {
+        "key": "battery",
+        "value": "CR2, 3 V"
+      },
+      {
+        "key": "batteryLife",
+        "value": {
+          "fr": "≈ 2 ans",
+          "en": "≈ 2 years",
+          "es": "≈ 2 años",
+          "ar": "≈ سنتان",
+          "zh": "约2年"
+        }
+      },
+      {
+        "key": "protocol",
+        "value": "Zigbee 3.0"
+      },
+      {
+        "key": "dimensions",
+        "value": "40 × 40 × 12 mm"
+      },
+      {
+        "key": "weatherproof",
+        "value": "IP67"
+      },
+      {
+        "key": "operatingTemp",
+        "value": "0 °C … 45 °C"
+      }
+    ],
+    "pricing": {
+      "sourcePrice": 13,
+      "sourceCurrency": "USD"
+    },
+    "availability": "sur-commande",
+    "install": {
+      "level": "simple",
+      "duration": "10 min",
+      "prerequisites": {
+        "fr": "Passerelle SafeR Link (Zigbee) à portée radio ; pose au point bas d'écoulement.",
+        "en": "SafeR Link Zigbee gateway within radio range; placed at the lowest point where water would collect.",
+        "es": "Pasarela SafeR Link (Zigbee) dentro del alcance de radio; colocación en el punto más bajo de escurrimiento.",
+        "ar": "بوابة SafeR Link (Zigbee) في نطاق التغطية اللاسلكية؛ التركيب عند أدنى نقطة لتجمّع الماء.",
+        "zh": "SafeR Link Zigbee 网关需在无线覆盖范围内；放置于最容易积水的低点。"
+      }
+    },
+    "sourceUrl": "https://expo.tuya.com/smart/sensors/protection-sensor/CT9cn94ki9rh36-CT9cn9la1lzi8j",
+    "accent": "#4556f5",
+    "symbol": "⌇",
+    "solutions": [
+      "domotique/detection-fuites"
+    ],
+    "related": [
+      "safer-link-gz3",
+      "safer-hub-alarm-4g"
+    ]
+  },
+  {
+    "id": "safer-siren-s2",
+    "sku": "WF-SIR-105DB",
+    "needsVerification": true,
+    "brand": "safer",
+    "sourceBrand": "Tuya",
+    "model": "Siren S2",
+    "category": "alarme",
+    "subcategory": "sirenes",
+    "i18n": {
+      "fr": {
+        "name": "SafeR Siren S2 — sirène extérieure Wi-Fi",
+        "tagline": "105 dB pour dissuader et alerter le voisinage.",
+        "description": "Sirène autonome Wi-Fi pour extérieur, déclenchée automatiquement par la centrale SafeR ou manuellement depuis l'application. Son flash LED stroboscopique et sa puissance sonore de 105 dB dissuadent les intrusions à distance, avec batterie de secours intégrée pour continuer à fonctionner en cas de coupure secteur.",
+        "highlights": [
+          "Puissance sonore 105 dB, flash stroboscopique",
+          "Batterie de secours intégrée",
+          "Boîtier étanche IP65 pour l'extérieur",
+          "Déclenchement manuel ou automatique via la centrale"
+        ],
+        "inTheBox": [
+          "Sirène Siren S2",
+          "Bloc secteur 12 V / 1 A",
+          "Batterie de secours",
+          "Kit de fixation murale",
+          "Guide de démarrage"
+        ]
+      },
+      "en": {
+        "name": "SafeR Siren S2 — outdoor Wi-Fi siren",
+        "tagline": "105 dB to deter intruders and alert the neighbourhood.",
+        "description": "Standalone outdoor Wi-Fi siren, triggered automatically by the SafeR panel or manually from the app. Its LED strobe flash and 105 dB output deter intrusions from a distance, with a built-in backup battery to keep it running during a power outage.",
+        "highlights": [
+          "105 dB output with strobe flash",
+          "Built-in backup battery",
+          "IP65 weatherproof housing",
+          "Manual or panel-triggered activation"
+        ],
+        "inTheBox": [
+          "Siren S2",
+          "12 V / 1 A power adapter",
+          "Backup battery",
+          "Wall mount kit",
+          "Quick start guide"
+        ]
+      },
+      "es": {
+        "name": "SafeR Siren S2 — sirena exterior Wi-Fi",
+        "tagline": "105 dB para disuadir y alertar al vecindario.",
+        "description": "Sirena autónoma Wi-Fi para exterior, activada automáticamente por la central SafeR o manualmente desde la aplicación. Su flash LED estroboscópico y sus 105 dB disuaden intrusiones a distancia, con batería de respaldo integrada para seguir funcionando durante un corte de luz.",
+        "highlights": [
+          "Potencia sonora de 105 dB con flash estroboscópico",
+          "Batería de respaldo integrada",
+          "Carcasa estanca IP65 para exterior",
+          "Activación manual o automática desde la central"
+        ],
+        "inTheBox": [
+          "Sirena Siren S2",
+          "Adaptador 12 V / 1 A",
+          "Batería de respaldo",
+          "Kit de fijación mural",
+          "Guía de inicio rápido"
+        ]
+      },
+      "ar": {
+        "name": "SafeR Siren S2 — صفارة إنذار خارجية Wi-Fi",
+        "tagline": "105 ديسيبل لردع المتسللين وتنبيه الجيران.",
+        "description": "صفارة إنذار خارجية مستقلة تعمل بتقنية Wi-Fi، تُفعَّل تلقائياً من لوحة SafeR أو يدوياً من التطبيق. يردع ضوءها الوامض وقوتها الصوتية 105 ديسيبل التسلل عن بُعد، مع بطارية احتياطية مدمجة لمواصلة العمل عند انقطاع الكهرباء.",
+        "highlights": [
+          "قوة صوتية 105 ديسيبل مع ضوء وامض",
+          "بطارية احتياطية مدمجة",
+          "هيكل مقاوم للماء IP65 للخارج",
+          "تفعيل يدوي أو تلقائي عبر لوحة التحكم"
+        ],
+        "inTheBox": [
+          "صفارة Siren S2",
+          "محول كهربائي 12 فولت / 1 أمبير",
+          "بطارية احتياطية",
+          "طقم تثبيت جداري",
+          "دليل البدء السريع"
+        ]
+      },
+      "zh": {
+        "name": "SafeR Siren S2 — 户外 Wi-Fi 警报器",
+        "tagline": "105 分贝声响，震慑入侵并警示邻里。",
+        "description": "独立式户外 Wi-Fi 警报器，可由 SafeR 主机自动触发或通过 App 手动触发。LED 频闪警示灯与 105 分贝的声响可远距离震慑入侵者，内置备用电池，断电时仍可持续工作。",
+        "highlights": [
+          "105 分贝声响，配 LED 频闪灯",
+          "内置备用电池",
+          "IP65 防水外壳，适合户外",
+          "支持手动或主机自动触发"
+        ],
+        "inTheBox": [
+          "Siren S2 警报器",
+          "12V/1A 电源适配器",
+          "备用电池",
+          "壁挂安装套件",
+          "快速入门指南"
+        ]
+      }
+    },
+    "attributes": {
+      "protocol": [
+        "wifi"
+      ],
+      "placement": "interieur-exterieur",
+      "power": [
+        "secteur",
+        "batterie"
+      ],
+      "compat": [
+        "smart-life",
+        "safer-platform"
+      ]
+    },
+    "specs": [
+      {
+        "key": "sirenLevel",
+        "value": "105 dB @ 1 m"
+      },
+      {
+        "key": "siren",
+        "value": "Flash LED stroboscopique"
+      },
+      {
+        "key": "battery",
+        "value": {
+          "fr": "Batterie de secours rechargeable",
+          "en": "Rechargeable backup battery",
+          "es": "Batería de respaldo recargable",
+          "ar": "بطارية احتياطية قابلة لإعادة الشحن",
+          "zh": "可充电备用电池"
+        }
+      },
+      {
+        "key": "autonomy",
+        "value": {
+          "fr": "≈ 4 h sur batterie",
+          "en": "≈ 4 h on battery",
+          "es": "≈ 4 h con batería",
+          "ar": "≈ 4 ساعات بالبطارية",
+          "zh": "电池续航约4小时"
+        }
+      },
+      {
+        "key": "connectivity",
+        "value": "Wi-Fi 2,4 GHz"
+      },
+      {
+        "key": "weatherproof",
+        "value": "IP65"
+      },
+      {
+        "key": "tamper",
+        "value": {
+          "fr": "Détection d'arrachement",
+          "en": "Tamper detection",
+          "es": "Detección de sabotaje",
+          "ar": "كشف العبث",
+          "zh": "防拆侦测"
+        }
+      },
+      {
+        "key": "operatingTemp",
+        "value": "-20 °C … 55 °C"
+      }
+    ],
+    "pricing": {
+      "sourcePrice": 34,
+      "sourceCurrency": "USD"
+    },
+    "availability": "sur-commande",
+    "install": {
+      "level": "standard",
+      "duration": "30 min",
+      "prerequisites": {
+        "fr": "Wi-Fi 2,4 GHz au point d'installation et prise secteur à proximité.",
+        "en": "2.4 GHz Wi-Fi at the install point and a nearby power outlet.",
+        "es": "Wi-Fi de 2,4 GHz en el punto de instalación y toma de corriente cercana.",
+        "ar": "توفر Wi-Fi بتردد 2.4 جيجاهرتز في موقع التركيب ومقبس كهربائي قريب.",
+        "zh": "安装点需有 2.4 GHz Wi-Fi 及附近电源插座。"
+      }
+    },
+    "sourceUrl": "https://www.tuyaexpo.com/smart/CT9cn94ki9rh36-CT9cn9la1lzi8j-CT9cndtriuarli",
+    "accent": "#4556f5",
+    "symbol": "⚡",
+    "solutions": [
+      "alarmes-connectees/detection-intrusion"
+    ],
+    "related": [
+      "safer-hub-alarm-4g",
+      "safer-motion-p1"
+    ]
+  },
+  {
+    "id": "safer-remote-r4",
+    "sku": "TS0044",
+    "brand": "safer",
+    "sourceBrand": "Tuya",
+    "model": "Remote R4",
+    "category": "alarme",
+    "subcategory": "claviers-telecommandes",
+    "i18n": {
+      "fr": {
+        "name": "SafeR Remote R4 — télécommande 4 boutons",
+        "tagline": "Armez, désarmez et pilotez vos scénarios d'une pression.",
+        "description": "Télécommande Zigbee à 4 boutons personnalisables pour armer ou désarmer la centrale SafeR et déclencher des scénarios domotiques (éclairage, prises, volets) sans ouvrir l'application. Se fixe au mur près de l'entrée ou se transporte sur un porte-clés grâce à son format compact.",
+        "highlights": [
+          "4 boutons personnalisables via l'application",
+          "Armement / désarmement de la centrale en un geste",
+          "Format compact, support mural inclus",
+          "Pile longue durée, plusieurs années d'autonomie"
+        ],
+        "inTheBox": [
+          "Télécommande Remote R4",
+          "Support mural",
+          "Pile CR2032",
+          "Guide de démarrage"
+        ]
+      },
+      "en": {
+        "name": "SafeR Remote R4 — 4-button scene remote",
+        "tagline": "Arm, disarm and trigger scenes with a single press.",
+        "description": "Zigbee 4-button remote, fully customisable to arm or disarm the SafeR panel and trigger home automation scenes (lighting, plugs, shutters) without opening the app. Wall-mountable near the entrance or carried on a keyring thanks to its compact size.",
+        "highlights": [
+          "4 buttons customisable in the app",
+          "Arm / disarm the panel in one press",
+          "Compact form factor, wall mount included",
+          "Long-life battery, several years of runtime"
+        ],
+        "inTheBox": [
+          "Remote R4",
+          "Wall mount",
+          "CR2032 battery",
+          "Quick start guide"
+        ]
+      },
+      "es": {
+        "name": "SafeR Remote R4 — mando de 4 botones",
+        "tagline": "Arma, desarma y activa tus escenas con una pulsación.",
+        "description": "Mando Zigbee de 4 botones totalmente personalizable para armar o desarmar la central SafeR y activar escenas domóticas (iluminación, enchufes, persianas) sin abrir la aplicación. Se fija a la pared cerca de la entrada o se lleva en el llavero gracias a su formato compacto.",
+        "highlights": [
+          "4 botones personalizables desde la aplicación",
+          "Armado / desarmado de la central con un gesto",
+          "Formato compacto, soporte de pared incluido",
+          "Pila de larga duración, varios años de autonomía"
+        ],
+        "inTheBox": [
+          "Mando Remote R4",
+          "Soporte de pared",
+          "Pila CR2032",
+          "Guía de inicio rápido"
+        ]
+      },
+      "ar": {
+        "name": "SafeR Remote R4 — جهاز تحكم عن بُعد بـ4 أزرار",
+        "tagline": "تسليح وإلغاء تسليح وتفعيل السيناريوهات بضغطة واحدة.",
+        "description": "جهاز تحكم عن بُعد Zigbee بـ4 أزرار قابلة للتخصيص لتسليح أو إلغاء تسليح لوحة SafeR وتفعيل سيناريوهات المنزل الذكي (الإضاءة، المقابس، الستائر) دون فتح التطبيق. يُثبَّت على الحائط قرب المدخل أو يُحمل على حلقة المفاتيح بفضل حجمه المضغوط.",
+        "highlights": [
+          "4 أزرار قابلة للتخصيص من التطبيق",
+          "تسليح / إلغاء تسليح اللوحة بحركة واحدة",
+          "تصميم مضغوط مع حامل جداري",
+          "بطارية طويلة العمر لعدة سنوات"
+        ],
+        "inTheBox": [
+          "جهاز التحكم Remote R4",
+          "حامل جداري",
+          "بطارية CR2032",
+          "دليل البدء السريع"
+        ]
+      },
+      "zh": {
+        "name": "SafeR Remote R4 — 四键场景遥控器",
+        "tagline": "一键布防、撤防及触发场景。",
+        "description": "Zigbee 四按键遥控器，按钮功能可在 App 中自定义，无需打开应用即可布防/撤防 SafeR 主机，或触发灯光、插座、窗帘等家庭自动化场景。小巧机身可壁挂于门口，也可挂在钥匙链上随身携带。",
+        "highlights": [
+          "4 个按键可在 App 中自定义",
+          "一键布防 / 撤防主机",
+          "机身小巧，附带壁挂支架",
+          "长效电池，可用数年"
+        ],
+        "inTheBox": [
+          "Remote R4 遥控器",
+          "壁挂支架",
+          "CR2032 电池",
+          "快速入门指南"
+        ]
+      }
+    },
+    "attributes": {
+      "protocol": [
+        "zigbee"
+      ],
+      "placement": "interieur",
+      "power": [
+        "pile"
+      ],
+      "compat": [
+        "smart-life",
+        "safer-platform",
+        "alexa",
+        "google"
+      ]
+    },
+    "specs": [
+      {
+        "key": "capacity",
+        "value": {
+          "fr": "4 boutons scénarios",
+          "en": "4 scenario buttons",
+          "es": "4 botones de escena",
+          "ar": "4 أزرار سيناريوهات",
+          "zh": "4个场景按键"
+        }
+      },
+      {
+        "key": "battery",
+        "value": "CR2032, 3 V"
+      },
+      {
+        "key": "batteryLife",
+        "value": {
+          "fr": "≈ 2 ans",
+          "en": "≈ 2 years",
+          "es": "≈ 2 años",
+          "ar": "≈ سنتان",
+          "zh": "约2年"
+        }
+      },
+      {
+        "key": "protocol",
+        "value": "Zigbee 3.0"
+      },
+      {
+        "key": "range",
+        "value": {
+          "fr": "≈ 30 m portée radio",
+          "en": "≈ 30 m radio range",
+          "es": "≈ 30 m de alcance radio",
+          "ar": "≈ 30 م مدى راديوي",
+          "zh": "无线电通信距离约30米"
+        }
+      },
+      {
+        "key": "dimensions",
+        "value": "44 × 44 × 10 mm"
+      },
+      {
+        "key": "mounting",
+        "value": {
+          "fr": "Murale ou porte-clés",
+          "en": "Wall-mounted or keychain",
+          "es": "Mural o llavero",
+          "ar": "تركيب حائطي أو ميدالية مفاتيح",
+          "zh": "壁挂式或钥匙扣式"
+        }
+      },
+      {
+        "key": "operatingTemp",
+        "value": "-10 °C … 45 °C"
+      }
+    ],
+    "pricing": {
+      "sourcePrice": 16,
+      "sourceCurrency": "USD"
+    },
+    "availability": "sur-commande",
+    "install": {
+      "level": "simple",
+      "duration": "10 min",
+      "prerequisites": {
+        "fr": "Passerelle SafeR Link (Zigbee) installée et à portée radio.",
+        "en": "SafeR Link Zigbee gateway installed and within radio range.",
+        "es": "Pasarela SafeR Link (Zigbee) instalada y dentro del alcance de radio.",
+        "ar": "بوابة SafeR Link (Zigbee) مثبّتة وفي نطاق التغطية اللاسلكية.",
+        "zh": "已安装 SafeR Link Zigbee 网关且在无线覆盖范围内。"
+      }
+    },
+    "sourceUrl": "https://www.tuyaexpo.com/smart/CT9cn90yyaumny-CT9cn9725j2rsc-CT9cnjpdilsdgv",
+    "accent": "#4556f5",
+    "symbol": "⊕",
+    "solutions": [
+      "alarmes-connectees/detection-intrusion",
+      "alarmes-connectees/bouton-sos"
+    ],
+    "related": [
+      "safer-hub-alarm-4g",
+      "safer-link-gz3"
+    ]
+  },
+  {
+    "id": "safer-sos-b1",
+    "sku": "TS0215A",
+    "brand": "safer",
+    "sourceBrand": "Tuya",
+    "model": "SOS B1",
+    "category": "alarme",
+    "subcategory": "boutons-sos",
+    "i18n": {
+      "fr": {
+        "name": "SafeR SOS B1 — bouton d'urgence Zigbee",
+        "tagline": "Une pression suffit pour déclencher l'alerte SafeR.",
+        "description": "Bouton d'urgence Zigbee portable, à porter en pendentif ou à fixer près d'un lit, qui déclenche instantanément une alerte vers la centrale SafeR, les contacts désignés et le télésurveilleur en cas de malaise ou d'intrusion. Étanche aux projections, il convient aussi à la salle de bain.",
+        "highlights": [
+          "Déclenchement instantané en une pression",
+          "Format pendentif ou support mural",
+          "Résistant aux projections d'eau, IP54",
+          "Alerte simultanée application et télésurveillance"
+        ],
+        "inTheBox": [
+          "Bouton SOS B1",
+          "Cordon pendentif",
+          "Support mural",
+          "Pile CR2032",
+          "Guide de démarrage"
+        ]
+      },
+      "en": {
+        "name": "SafeR SOS B1 — Zigbee emergency button",
+        "tagline": "One press is all it takes to raise the SafeR alert.",
+        "description": "Portable Zigbee emergency button, worn as a pendant or mounted near a bed, that instantly sends an alert to the SafeR panel, designated contacts and the monitoring centre in case of a medical issue or intrusion. Splash resistant, it also suits a bathroom.",
+        "highlights": [
+          "Instant trigger with a single press",
+          "Pendant or wall-mount format",
+          "Splash resistant, IP54",
+          "Simultaneous app and monitoring-centre alert"
+        ],
+        "inTheBox": [
+          "SOS B1 button",
+          "Pendant cord",
+          "Wall mount",
+          "CR2032 battery",
+          "Quick start guide"
+        ]
+      },
+      "es": {
+        "name": "SafeR SOS B1 — botón de emergencia Zigbee",
+        "tagline": "Una pulsación basta para activar la alerta SafeR.",
+        "description": "Botón de emergencia Zigbee portátil, para llevar como colgante o fijar cerca de una cama, que envía al instante una alerta a la central SafeR, a los contactos designados y a la central receptora en caso de malestar o intrusión. Resistente a salpicaduras, también sirve en el baño.",
+        "highlights": [
+          "Activación instantánea con una pulsación",
+          "Formato colgante o soporte de pared",
+          "Resistente a salpicaduras, IP54",
+          "Alerta simultánea a la aplicación y a la central receptora"
+        ],
+        "inTheBox": [
+          "Botón SOS B1",
+          "Cordón colgante",
+          "Soporte de pared",
+          "Pila CR2032",
+          "Guía de inicio rápido"
+        ]
+      },
+      "ar": {
+        "name": "SafeR SOS B1 — زر طوارئ Zigbee",
+        "tagline": "ضغطة واحدة تكفي لإطلاق إنذار SafeR.",
+        "description": "زر طوارئ محمول يعمل بتقنية Zigbee، يُلبس كقلادة أو يُثبَّت قرب السرير، ويرسل إنذاراً فورياً إلى لوحة SafeR وجهات الاتصال المحددة ومركز المراقبة في حال وعكة صحية أو تسلل. مقاوم لرذاذ الماء، ويناسب أيضاً الحمام.",
+        "highlights": [
+          "تفعيل فوري بضغطة واحدة",
+          "شكل قلادة أو حامل جداري",
+          "مقاوم لرذاذ الماء IP54",
+          "إنذار متزامن للتطبيق ومركز المراقبة"
+        ],
+        "inTheBox": [
+          "زر SOS B1",
+          "سلسلة تعليق",
+          "حامل جداري",
+          "بطارية CR2032",
+          "دليل البدء السريع"
+        ]
+      },
+      "zh": {
+        "name": "SafeR SOS B1 — Zigbee 紧急按钮",
+        "tagline": "轻轻一按，立即触发 SafeR 警报。",
+        "description": "便携式 Zigbee 紧急按钮，可作为吊坠佩戴或安装于床边，在突发不适或遭遇入侵时，立即向 SafeR 主机、指定联系人及监控中心发送警报。具备防溅水性能，也适合安装在浴室。",
+        "highlights": [
+          "一键触发，即时生效",
+          "吊坠或壁挂两种佩戴方式",
+          "防溅水，IP54 防护",
+          "同步向 App 与监控中心发送警报"
+        ],
+        "inTheBox": [
+          "SOS B1 按钮",
+          "挂绳",
+          "壁挂支架",
+          "CR2032 电池",
+          "快速入门指南"
+        ]
+      }
+    },
+    "attributes": {
+      "protocol": [
+        "zigbee"
+      ],
+      "placement": "interieur-exterieur",
+      "power": [
+        "pile"
+      ],
+      "compat": [
+        "smart-life",
+        "safer-platform"
+      ]
+    },
+    "specs": [
+      {
+        "key": "range",
+        "value": {
+          "fr": "≈ 30 m portée radio",
+          "en": "≈ 30 m radio range",
+          "es": "≈ 30 m de alcance radio",
+          "ar": "≈ 30 م مدى راديوي",
+          "zh": "无线电通信距离约30米"
+        }
+      },
+      {
+        "key": "battery",
+        "value": "CR2032, 3 V"
+      },
+      {
+        "key": "batteryLife",
+        "value": {
+          "fr": "≈ 2 ans",
+          "en": "≈ 2 years",
+          "es": "≈ 2 años",
+          "ar": "≈ سنتان",
+          "zh": "约2年"
+        }
+      },
+      {
+        "key": "protocol",
+        "value": "Zigbee 3.0"
+      },
+      {
+        "key": "weatherproof",
+        "value": "IP54"
+      },
+      {
+        "key": "dimensions",
+        "value": "40 × 40 × 12 mm"
+      },
+      {
+        "key": "mounting",
+        "value": {
+          "fr": "Pendentif ou support mural",
+          "en": "Pendant or wall mount",
+          "es": "Colgante o soporte mural",
+          "ar": "قلادة أو حامل حائطي",
+          "zh": "吊坠式或壁挂支架"
+        }
+      },
+      {
+        "key": "operatingTemp",
+        "value": "-10 °C … 45 °C"
+      }
+    ],
+    "pricing": {
+      "sourcePrice": 15,
+      "sourceCurrency": "USD"
+    },
+    "availability": "sur-commande",
+    "install": {
+      "level": "simple",
+      "duration": "10 min",
+      "prerequisites": {
+        "fr": "Passerelle SafeR Link (Zigbee) installée et à portée radio.",
+        "en": "SafeR Link Zigbee gateway installed and within radio range.",
+        "es": "Pasarela SafeR Link (Zigbee) instalada y dentro del alcance de radio.",
+        "ar": "بوابة SafeR Link (Zigbee) مثبّتة وفي نطاق التغطية اللاسلكية.",
+        "zh": "已安装 SafeR Link Zigbee 网关且在无线覆盖范围内。"
+      }
+    },
+    "sourceUrl": "https://expo.tuya.com/smart/sensors/protection-sensor/CT9cn94ki9rh36-CT9cn9la1lzi8j",
+    "accent": "#4556f5",
+    "symbol": "✚",
+    "solutions": [
+      "alarmes-connectees/bouton-sos"
+    ],
+    "related": [
+      "safer-hub-alarm-4g",
+      "safer-remote-r4"
+    ]
+  },
+  {
+    "id": "safer-lock-d1",
+    "sku": "WF-LOCK-01",
+    "needsVerification": true,
+    "brand": "safer",
+    "sourceBrand": "Tuya",
+    "model": "Lock D1",
+    "category": "acces",
+    "subcategory": "serrures-connectees",
+    "i18n": {
+      "fr": {
+        "name": "SafeR Lock D1 — serrure connectée",
+        "tagline": "Quatre façons d'entrer, aucune clé à perdre.",
+        "description": "Serrure connectée à ouverture par empreinte digitale, code, carte RFID ou application, qui remplace ou complète un cylindre existant. Elle conserve un journal détaillé des accès, envoie une alerte en cas de tentative de forçage et fonctionne plusieurs mois sur piles avec ouverture mécanique de secours.",
+        "highlights": [
+          "Empreinte, code, carte RFID et application",
+          "Journal des accès horodaté",
+          "Alerte anti-effraction et anti-arrachement",
+          "Ouverture mécanique de secours incluse"
+        ],
+        "inTheBox": [
+          "Serrure Lock D1",
+          "Cylindre et clés mécaniques de secours",
+          "2 cartes RFID",
+          "Piles AA ×4",
+          "Guide de démarrage"
+        ]
+      },
+      "en": {
+        "name": "SafeR Lock D1 — smart lock",
+        "tagline": "Four ways in, no keys to lose.",
+        "description": "Smart lock opening by fingerprint, code, RFID card or app, replacing or complementing an existing cylinder. It keeps a time-stamped access log, sends an alert on a forced-entry attempt, and runs for months on batteries with a mechanical backup opening.",
+        "highlights": [
+          "Fingerprint, code, RFID card and app",
+          "Time-stamped access log",
+          "Forced-entry and tamper alert",
+          "Mechanical backup opening included"
+        ],
+        "inTheBox": [
+          "Lock D1",
+          "Mechanical backup cylinder and keys",
+          "2 RFID cards",
+          "4 × AA batteries",
+          "Quick start guide"
+        ]
+      },
+      "es": {
+        "name": "SafeR Lock D1 — cerradura inteligente",
+        "tagline": "Cuatro formas de entrar, ninguna llave que perder.",
+        "description": "Cerradura inteligente con apertura por huella dactilar, código, tarjeta RFID o aplicación, que sustituye o complementa un cilindro existente. Mantiene un registro de accesos con hora exacta, envía una alerta ante un intento de forzado y funciona meses con pilas gracias a su apertura mecánica de emergencia.",
+        "highlights": [
+          "Huella, código, tarjeta RFID y aplicación",
+          "Registro de accesos con marca de hora",
+          "Alerta antiefracción y antisabotaje",
+          "Apertura mecánica de emergencia incluida"
+        ],
+        "inTheBox": [
+          "Cerradura Lock D1",
+          "Cilindro y llaves mecánicas de emergencia",
+          "2 tarjetas RFID",
+          "4 pilas AA",
+          "Guía de inicio rápido"
+        ]
+      },
+      "ar": {
+        "name": "SafeR Lock D1 — قفل ذكي",
+        "tagline": "أربع طرق للدخول، ولا مفاتيح لتضيع.",
+        "description": "قفل ذكي يُفتح ببصمة الإصبع أو الرمز أو بطاقة RFID أو التطبيق، ليحل محل أسطوانة القفل الحالية أو يُكمّلها. يحتفظ بسجل دخول موثّق بالوقت، ويُرسل إنذاراً عند محاولة القسر، ويعمل لأشهر بالبطاريات مع فتحة ميكانيكية احتياطية.",
+        "highlights": [
+          "بصمة، رمز، بطاقة RFID وتطبيق",
+          "سجل دخول موثّق بالوقت",
+          "إنذار ضد القسر والعبث",
+          "فتحة ميكانيكية احتياطية مضمّنة"
+        ],
+        "inTheBox": [
+          "قفل Lock D1",
+          "أسطوانة ومفاتيح ميكانيكية احتياطية",
+          "بطاقتا RFID",
+          "4 بطاريات AA",
+          "دليل البدء السريع"
+        ]
+      },
+      "zh": {
+        "name": "SafeR Lock D1 — 智能门锁",
+        "tagline": "四种开锁方式，从此告别丢钥匙。",
+        "description": "支持指纹、密码、RFID 卡或 App 开锁的智能门锁，可替换或搭配现有门锁使用。可记录带时间戳的开锁日志，遭强行撬锁时发出警报，并配备机械应急开锁，电池供电可使用数月。",
+        "highlights": [
+          "支持指纹、密码、RFID 卡与 App",
+          "带时间戳的开锁日志",
+          "防撬防拆报警",
+          "配备机械应急开锁"
+        ],
+        "inTheBox": [
+          "Lock D1 门锁",
+          "机械应急锁芯与钥匙",
+          "2 张 RFID 卡",
+          "4 节 AA 电池",
+          "快速入门指南"
+        ]
+      }
+    },
+    "attributes": {
+      "protocol": [
+        "zigbee",
+        "bluetooth"
+      ],
+      "placement": "exterieur",
+      "power": [
+        "pile"
+      ],
+      "compat": [
+        "smart-life",
+        "safer-platform"
+      ]
+    },
+    "specs": [
+      {
+        "key": "unlockMethods",
+        "value": "Empreinte, code, RFID, app"
+      },
+      {
+        "key": "lockType",
+        "value": {
+          "fr": "Cylindre européen, à mortaiser",
+          "en": "Euro cylinder, mortise-mounted",
+          "es": "Cilindro europeo, para embutir",
+          "ar": "أسطوانة أوروبية، للتركيب الغاطس",
+          "zh": "欧式锁芯，嵌入式安装"
+        }
+      },
+      {
+        "key": "users",
+        "value": {
+          "fr": "Jusqu'à 50 profils",
+          "en": "Up to 50 profiles",
+          "es": "Hasta 50 perfiles",
+          "ar": "حتى 50 ملفًا شخصيًا",
+          "zh": "最多支持50个用户档案"
+        }
+      },
+      {
+        "key": "log",
+        "value": {
+          "fr": "200 derniers accès horodatés",
+          "en": "Last 200 timestamped accesses",
+          "es": "Últimos 200 accesos con marca de tiempo",
+          "ar": "آخر 200 عملية دخول موثقة بالوقت",
+          "zh": "最近200条带时间戳的开锁记录"
+        }
+      },
+      {
+        "key": "battery",
+        "value": "4 × AA"
+      },
+      {
+        "key": "batteryLife",
+        "value": {
+          "fr": "≈ 8 mois",
+          "en": "≈ 8 months",
+          "es": "≈ 8 meses",
+          "ar": "≈ 8 أشهر",
+          "zh": "约8个月"
+        }
+      },
+      {
+        "key": "tamper",
+        "value": "Alerte anti-effraction"
+      },
+      {
+        "key": "weatherproof",
+        "value": "IP44"
+      }
+    ],
+    "pricing": {
+      "sourcePrice": 149,
+      "sourceCurrency": "USD"
+    },
+    "availability": "sur-commande",
+    "install": {
+      "level": "expert",
+      "duration": "60 min",
+      "prerequisites": {
+        "fr": "Porte compatible cylindre européen ; passerelle SafeR Link à portée pour le pilotage à distance.",
+        "en": "Door compatible with a European cylinder; SafeR Link gateway in range for remote control.",
+        "es": "Puerta compatible con cilindro europeo; pasarela SafeR Link al alcance para el control remoto.",
+        "ar": "باب متوافق مع الأسطوانة الأوروبية؛ بوابة SafeR Link في المدى للتحكم عن بُعد.",
+        "zh": "门需兼容欧式锁芯；SafeR Link 网关需在范围内以支持远程控制。"
+      }
+    },
+    "sourceUrl": "https://www.tuyaexpo.com/smart/CT9cn946s6b494-CT9cn9kpzusaws",
+    "accent": "#4556f5",
+    "symbol": "⌂",
+    "solutions": [
+      "controle-acces/serrures-intelligentes"
+    ],
+    "related": [
+      "safer-bell-2k",
+      "safer-contact-d1"
+    ]
+  },
+  {
+    "id": "safer-plug-16a",
+    "sku": "TS011F",
+    "brand": "safer",
+    "sourceBrand": "Tuya",
+    "model": "Plug 16A",
+    "category": "domotique",
+    "subcategory": "prises-interrupteurs",
+    "i18n": {
+      "fr": {
+        "name": "SafeR Plug 16A — prise connectée avec mesure",
+        "tagline": "Pilotez et mesurez la consommation de vos appareils.",
+        "description": "Prise connectée Wi-Fi 16 A qui allume, éteint et programme n'importe quel appareil électrique tout en mesurant sa consommation en temps réel. Idéale pour un ballon d'eau chaude, un climatiseur ou un réfrigérateur, elle protège contre les surtensions et propose des scénarios horaires depuis l'application.",
+        "highlights": [
+          "16 A / 3 680 W avec mesure de consommation en temps réel",
+          "Programmation horaire et minuterie",
+          "Protection surtension et surchauffe",
+          "Format compact, ne masque pas la prise voisine"
+        ],
+        "inTheBox": [
+          "Prise Plug 16A",
+          "Guide de démarrage"
+        ]
+      },
+      "en": {
+        "name": "SafeR Plug 16A — smart plug with metering",
+        "tagline": "Control and measure the power your devices use.",
+        "description": "16 A Wi-Fi smart plug that turns any appliance on, off and on a schedule while measuring its real-time power consumption. Ideal for a water heater, an air conditioner or a fridge, it protects against surges and overheating and offers time-based scenes from the app.",
+        "highlights": [
+          "16 A / 3,680 W with real-time power metering",
+          "Scheduling and timer",
+          "Surge and overheat protection",
+          "Compact form factor, doesn't block adjacent sockets"
+        ],
+        "inTheBox": [
+          "Plug 16A",
+          "Quick start guide"
+        ]
+      },
+      "es": {
+        "name": "SafeR Plug 16A — enchufe inteligente con medición",
+        "tagline": "Controla y mide el consumo de tus aparatos.",
+        "description": "Enchufe inteligente Wi-Fi de 16 A que enciende, apaga y programa cualquier aparato eléctrico mientras mide su consumo en tiempo real. Ideal para un calentador de agua, un aire acondicionado o un frigorífico, protege contra sobretensiones y sobrecalentamiento y ofrece escenas horarias desde la aplicación.",
+        "highlights": [
+          "16 A / 3.680 W con medición de consumo en tiempo real",
+          "Programación horaria y temporizador",
+          "Protección contra sobretensión y sobrecalentamiento",
+          "Formato compacto, no tapa la toma vecina"
+        ],
+        "inTheBox": [
+          "Enchufe Plug 16A",
+          "Guía de inicio rápido"
+        ]
+      },
+      "ar": {
+        "name": "SafeR Plug 16A — مقبس ذكي بقياس الاستهلاك",
+        "tagline": "تحكّم بأجهزتك وقِس استهلاكها للكهرباء.",
+        "description": "مقبس ذكي بتقنية Wi-Fi بقدرة 16 أمبير يُشغّل أو يُطفئ أو يُجدول أي جهاز كهربائي مع قياس استهلاكه للطاقة في الوقت الفعلي. مثالي لسخان المياه أو مكيف الهواء أو الثلاجة، ويحمي من التيار الزائد وارتفاع الحرارة، ويوفّر سيناريوهات مجدولة من التطبيق.",
+        "highlights": [
+          "16 أمبير / 3680 واط مع قياس استهلاك فوري",
+          "جدولة زمنية ومؤقت",
+          "حماية من التيار الزائد وارتفاع الحرارة",
+          "تصميم مضغوط لا يحجب المقبس المجاور"
+        ],
+        "inTheBox": [
+          "مقبس Plug 16A",
+          "دليل البدء السريع"
+        ]
+      },
+      "zh": {
+        "name": "SafeR Plug 16A — 带功耗监测智能插座",
+        "tagline": "控制并监测家电的实时用电量。",
+        "description": "16A Wi-Fi 智能插座，可开关及定时控制任何电器，并实时监测其用电量。适用于热水器、空调或冰箱，具备过压与过热保护，并可在 App 中设置定时场景。",
+        "highlights": [
+          "16A / 3680W，实时功耗监测",
+          "定时与倒计时功能",
+          "过压与过热保护",
+          "机身小巧，不遮挡相邻插座"
+        ],
+        "inTheBox": [
+          "Plug 16A 插座",
+          "快速入门指南"
+        ]
+      }
+    },
+    "attributes": {
+      "protocol": [
+        "wifi"
+      ],
+      "placement": "interieur",
+      "power": [
+        "secteur"
+      ],
+      "compat": [
+        "smart-life",
+        "safer-platform",
+        "alexa",
+        "google"
+      ]
+    },
+    "specs": [
+      {
+        "key": "load",
+        "value": "16 A, ≤ 3 680 W"
+      },
+      {
+        "key": "voltage",
+        "value": "100-240 V, 50/60 Hz"
+      },
+      {
+        "key": "energyMonitoring",
+        "value": "Tension, courant, puissance, kWh"
+      },
+      {
+        "key": "connectivity",
+        "value": "Wi-Fi 2,4 GHz"
+      },
+      {
+        "key": "dimensions",
+        "value": "50 × 50 × 80 mm"
+      },
+      {
+        "key": "certifications",
+        "value": "CE"
+      },
+      {
+        "key": "app",
+        "value": "Smart Life"
+      }
+    ],
+    "pricing": {
+      "sourcePrice": 12,
+      "sourceCurrency": "USD"
+    },
+    "availability": "en-stock",
+    "install": {
+      "level": "simple",
+      "duration": "5 min",
+      "prerequisites": {
+        "fr": "Wi-Fi 2,4 GHz couvrant la prise secteur.",
+        "en": "2.4 GHz Wi-Fi coverage at the power outlet.",
+        "es": "Cobertura Wi-Fi de 2,4 GHz en la toma de corriente.",
+        "ar": "تغطية Wi-Fi بتردد 2.4 جيجاهرتز عند المقبس الكهربائي.",
+        "zh": "插座位置需有 2.4 GHz Wi-Fi 覆盖。"
+      }
+    },
+    "sourceUrl": "https://www.tuyaexpo.com/smart/CT9cn90yyaumny-CT9cn95ninmx4t-CTcnrzdcq4ceho",
+    "accent": "#4556f5",
+    "symbol": "⚡",
+    "solutions": [
+      "domotique/scenarios-intelligents",
+      "domotique/pilotage-energie"
+    ],
+    "related": [
+      "safer-switch-w1",
+      "safer-link-gz3"
+    ]
+  },
+  {
+    "id": "safer-switch-w1",
+    "sku": "TS0011",
+    "brand": "safer",
+    "sourceBrand": "Tuya",
+    "model": "Switch W1",
+    "category": "domotique",
+    "subcategory": "prises-interrupteurs",
+    "i18n": {
+      "fr": {
+        "name": "SafeR Switch W1 — interrupteur mural connecté",
+        "tagline": "Un interrupteur classique devient pilotable et programmable.",
+        "description": "Module d'interrupteur mural une voie qui remplace un interrupteur existant sans neutre obligatoire selon le câblage, pour piloter un éclairage depuis l'application, un bouton mural ou un scénario SafeR. Compatible avec les interrupteurs va-et-vient, il conserve l'usage manuel habituel en toute transparence.",
+        "highlights": [
+          "Pilotage à distance et programmation horaire",
+          "Compatible montage va-et-vient",
+          "Commande manuelle conservée",
+          "Intégration aux scénarios SafeR"
+        ],
+        "inTheBox": [
+          "Interrupteur Switch W1",
+          "Vis de fixation",
+          "Guide de démarrage"
+        ]
+      },
+      "en": {
+        "name": "SafeR Switch W1 — smart wall switch",
+        "tagline": "Turns a standard switch into a controllable, schedulable one.",
+        "description": "Single-gang wall switch module replacing an existing switch, wiring permitting, to control a light from the app, a wall button or a SafeR scene. Compatible with two-way wiring, it keeps the usual manual operation fully available.",
+        "highlights": [
+          "Remote control and time scheduling",
+          "Compatible with two-way wiring",
+          "Manual operation preserved",
+          "Integrates with SafeR scenes"
+        ],
+        "inTheBox": [
+          "Switch W1",
+          "Mounting screws",
+          "Quick start guide"
+        ]
+      },
+      "es": {
+        "name": "SafeR Switch W1 — interruptor de pared inteligente",
+        "tagline": "Un interruptor clásico se vuelve programable y controlable.",
+        "description": "Módulo de interruptor de pared de una vía que sustituye a un interruptor existente, según el cableado, para controlar una luz desde la aplicación, un pulsador de pared o una escena SafeR. Compatible con montaje de conmutación, conserva el uso manual habitual con total normalidad.",
+        "highlights": [
+          "Control remoto y programación horaria",
+          "Compatible con montaje de conmutación",
+          "Se conserva el uso manual",
+          "Integración con las escenas SafeR"
+        ],
+        "inTheBox": [
+          "Interruptor Switch W1",
+          "Tornillos de fijación",
+          "Guía de inicio rápido"
+        ]
+      },
+      "ar": {
+        "name": "SafeR Switch W1 — مفتاح جداري ذكي",
+        "tagline": "مفتاح تقليدي يصبح قابلاً للتحكم والجدولة.",
+        "description": "وحدة مفتاح جداري بمخرج واحد تحل محل مفتاح موجود، حسب الأسلاك، للتحكم بالإضاءة من التطبيق أو زر جداري أو سيناريو SafeR. متوافقة مع التوصيل ثنائي الاتجاه، وتحافظ على إمكانية التشغيل اليدوي المعتاد.",
+        "highlights": [
+          "تحكم عن بُعد وجدولة زمنية",
+          "متوافق مع التوصيل ثنائي الاتجاه",
+          "الحفاظ على التشغيل اليدوي",
+          "التكامل مع سيناريوهات SafeR"
+        ],
+        "inTheBox": [
+          "مفتاح Switch W1",
+          "براغي التثبيت",
+          "دليل البدء السريع"
+        ]
+      },
+      "zh": {
+        "name": "SafeR Switch W1 — 智能墙壁开关",
+        "tagline": "让普通开关也能远程控制与定时。",
+        "description": "单路墙壁开关模块，可在线路允许的情况下替换现有开关，从 App、墙壁按钮或 SafeR 场景中控制灯光。兼容双控接线方式，完全保留原有的手动操作方式。",
+        "highlights": [
+          "远程控制与定时功能",
+          "兼容双控接线",
+          "保留手动操作",
+          "可接入 SafeR 场景联动"
+        ],
+        "inTheBox": [
+          "Switch W1 开关",
+          "安装螺丝",
+          "快速入门指南"
+        ]
+      }
+    },
+    "attributes": {
+      "protocol": [
+        "zigbee"
+      ],
+      "placement": "interieur",
+      "power": [
+        "secteur"
+      ],
+      "compat": [
+        "smart-life",
+        "safer-platform",
+        "alexa",
+        "google"
+      ]
+    },
+    "specs": [
+      {
+        "key": "load",
+        "value": {
+          "fr": "1 voie, 10 A max",
+          "en": "1 channel, 10 A max",
+          "es": "1 canal, 10 A máx.",
+          "ar": "قناة واحدة، 10 أمبير كحد أقصى",
+          "zh": "1路，最大10安培"
+        }
+      },
+      {
+        "key": "voltage",
+        "value": "100-240 V, 50/60 Hz"
+      },
+      {
+        "key": "protocol",
+        "value": "Zigbee 3.0"
+      },
+      {
+        "key": "connectivity",
+        "value": {
+          "fr": "Nécessite passerelle SafeR Link",
+          "en": "Requires SafeR Link gateway",
+          "es": "Requiere pasarela SafeR Link",
+          "ar": "يتطلب بوابة SafeR Link",
+          "zh": "需要SafeR Link网关"
+        }
+      },
+      {
+        "key": "dimensions",
+        "value": "86 × 86 × 35 mm"
+      },
+      {
+        "key": "certifications",
+        "value": "CE"
+      },
+      {
+        "key": "mounting",
+        "value": {
+          "fr": "Boîte d'encastrement standard",
+          "en": "Standard flush-mount box",
+          "es": "Caja de empotrar estándar",
+          "ar": "علبة تركيب غاطسة قياسية",
+          "zh": "标准嵌入式接线盒"
+        }
+      }
+    ],
+    "pricing": {
+      "sourcePrice": 15,
+      "sourceCurrency": "USD"
+    },
+    "availability": "sur-commande",
+    "install": {
+      "level": "expert",
+      "duration": "30 min",
+      "prerequisites": {
+        "fr": "Coupure du disjoncteur avant intervention ; passerelle SafeR Link (Zigbee) à portée.",
+        "en": "Circuit breaker switched off before work; SafeR Link Zigbee gateway in range.",
+        "es": "Desconectar el interruptor automático antes de la intervención; pasarela SafeR Link (Zigbee) al alcance.",
+        "ar": "قطع القاطع الكهربائي قبل التركيب؛ بوابة SafeR Link (Zigbee) في المدى.",
+        "zh": "施工前需断开断路器；SafeR Link Zigbee 网关需在覆盖范围内。"
+      }
+    },
+    "sourceUrl": "https://www.tuyaexpo.com/smart/CT9cn90yyaumny-CT9cn9725j2rsc-CT9cne88opn1hl",
+    "accent": "#4556f5",
+    "symbol": "⚡",
+    "solutions": [
+      "domotique/scenarios-intelligents",
+      "domotique/pilotage-energie"
+    ],
+    "related": [
+      "safer-plug-16a",
+      "safer-bulb-e27"
+    ]
+  },
+  {
+    "id": "safer-bulb-e27",
+    "sku": "TS0505B",
+    "brand": "safer",
+    "sourceBrand": "Tuya",
+    "model": "Bulb E27",
+    "category": "domotique",
+    "subcategory": "eclairage",
+    "i18n": {
+      "fr": {
+        "name": "SafeR Bulb E27 — ampoule connectée RGBCW",
+        "tagline": "Une lumière qui s'adapte à chaque moment de la journée.",
+        "description": "Ampoule connectée culot E27 combinant blanc réglable et 16 millions de couleurs, pour créer une ambiance ou simuler une présence en votre absence. Variation de luminosité et de température de couleur, programmation horaire et intégration aux scénarios SafeR pour un éclairage entièrement automatisé.",
+        "highlights": [
+          "16 millions de couleurs et blanc réglable 2 700-6 500 K",
+          "Simulation de présence programmable",
+          "Variation de luminosité fine",
+          "Compatible Smart Life, Alexa et Google Home"
+        ],
+        "inTheBox": [
+          "Ampoule Bulb E27",
+          "Guide de démarrage"
+        ]
+      },
+      "en": {
+        "name": "SafeR Bulb E27 — RGBCW smart bulb",
+        "tagline": "Light that adapts to every moment of the day.",
+        "description": "E27 smart bulb combining tunable white and 16 million colours to set a mood or simulate presence while you're away. Fine dimming and colour-temperature control, scheduling and integration with SafeR scenes for fully automated lighting.",
+        "highlights": [
+          "16 million colours and tunable white 2,700-6,500 K",
+          "Programmable presence simulation",
+          "Fine dimming control",
+          "Works with Smart Life, Alexa and Google Home"
+        ],
+        "inTheBox": [
+          "Bulb E27",
+          "Quick start guide"
+        ]
+      },
+      "es": {
+        "name": "SafeR Bulb E27 — bombilla inteligente RGBCW",
+        "tagline": "Una luz que se adapta a cada momento del día.",
+        "description": "Bombilla inteligente con casquillo E27 que combina blanco regulable y 16 millones de colores, para crear ambiente o simular presencia en tu ausencia. Regulación fina de intensidad y temperatura de color, programación horaria e integración con las escenas SafeR para una iluminación totalmente automatizada.",
+        "highlights": [
+          "16 millones de colores y blanco regulable 2.700-6.500 K",
+          "Simulación de presencia programable",
+          "Regulación fina de intensidad",
+          "Compatible con Smart Life, Alexa y Google Home"
+        ],
+        "inTheBox": [
+          "Bombilla Bulb E27",
+          "Guía de inicio rápido"
+        ]
+      },
+      "ar": {
+        "name": "SafeR Bulb E27 — لمبة ذكية RGBCW",
+        "tagline": "إضاءة تتكيّف مع كل لحظة من اليوم.",
+        "description": "لمبة ذكية بقاعدة E27 تجمع بين الأبيض القابل للتعديل و16 مليون لون، لخلق أجواء مميزة أو محاكاة الحضور أثناء غيابك. تعديل دقيق للسطوع ودرجة حرارة اللون، وجدولة زمنية، وتكامل مع سيناريوهات SafeR لإضاءة آلية بالكامل.",
+        "highlights": [
+          "16 مليون لون وأبيض قابل للتعديل 2700-6500 كلفن",
+          "محاكاة حضور قابلة للجدولة",
+          "تعديل دقيق للسطوع",
+          "متوافقة مع Smart Life وAlexa وGoogle Home"
+        ],
+        "inTheBox": [
+          "لمبة Bulb E27",
+          "دليل البدء السريع"
+        ]
+      },
+      "zh": {
+        "name": "SafeR Bulb E27 — RGBCW 智能灯泡",
+        "tagline": "随时随地，营造合适的灯光氛围。",
+        "description": "E27 螺口智能灯泡，支持可调白光与 1600 万种色彩，可用于营造氛围或在外出时模拟有人在家。支持精细调光与色温调节、定时功能，并可接入 SafeR 场景实现全自动照明。",
+        "highlights": [
+          "1600 万种色彩，白光 2700-6500K 可调",
+          "可编程的模拟在家场景",
+          "精细调光控制",
+          "兼容 Smart Life、Alexa 与 Google Home"
+        ],
+        "inTheBox": [
+          "Bulb E27 灯泡",
+          "快速入门指南"
+        ]
+      }
+    },
+    "attributes": {
+      "protocol": [
+        "zigbee"
+      ],
+      "placement": "interieur",
+      "power": [
+        "secteur"
+      ],
+      "compat": [
+        "smart-life",
+        "safer-platform",
+        "alexa",
+        "google"
+      ]
+    },
+    "specs": [
+      {
+        "key": "brightness",
+        "value": "806 lm"
+      },
+      {
+        "key": "colorTemp",
+        "value": "2 700-6 500 K + RVB"
+      },
+      {
+        "key": "dimmable",
+        "value": {
+          "fr": "Oui, 1-100 %",
+          "en": "Yes, 1-100%",
+          "es": "Sí, 1-100 %",
+          "ar": "نعم، 1-100٪",
+          "zh": "支持，1-100%"
+        }
+      },
+      {
+        "key": "load",
+        "value": "9 W (≈ 60 W incandescent)"
+      },
+      {
+        "key": "protocol",
+        "value": "Zigbee 3.0"
+      },
+      {
+        "key": "mounting",
+        "value": "Culot E27"
+      },
+      {
+        "key": "dimensions",
+        "value": "60 × 110 mm"
+      }
+    ],
+    "pricing": {
+      "sourcePrice": 13,
+      "sourceCurrency": "USD"
+    },
+    "availability": "sur-commande",
+    "install": {
+      "level": "simple",
+      "duration": "5 min",
+      "prerequisites": {
+        "fr": "Douille E27 standard et passerelle SafeR Link (Zigbee) à portée.",
+        "en": "Standard E27 socket and SafeR Link Zigbee gateway in range.",
+        "es": "Portalámparas E27 estándar y pasarela SafeR Link (Zigbee) al alcance.",
+        "ar": "مقبس E27 قياسي وبوابة SafeR Link (Zigbee) في المدى.",
+        "zh": "标准 E27 灯座，且 SafeR Link Zigbee 网关需在覆盖范围内。"
+      }
+    },
+    "sourceUrl": "https://www.tuyaexpo.com/smart/CT9cn91vklm6mj-CT9cn98jv8z0ad-CT9cnch8xd6xiy",
+    "accent": "#4556f5",
+    "symbol": "☼",
+    "solutions": [
+      "domotique/scenarios-intelligents"
+    ],
+    "related": [
+      "safer-switch-w1",
+      "safer-link-gz3"
+    ]
+  },
+  {
+    "id": "safer-climate-t1",
+    "sku": "TS0201",
+    "brand": "safer",
+    "sourceBrand": "Tuya",
+    "model": "Climate T1",
+    "category": "domotique",
+    "subcategory": "capteurs-climat",
+    "i18n": {
+      "fr": {
+        "name": "SafeR Climate T1 — capteur température & humidité",
+        "tagline": "Surveillez l'ambiance de chaque pièce en temps réel.",
+        "description": "Capteur Zigbee compact qui mesure en continu la température et l'humidité d'une pièce, avec petit écran e-paper toujours lisible. Il déclenche des scénarios SafeR (climatisation, ventilation, déshumidificateur) dès qu'un seuil est franchi, utile pour protéger le matériel électronique de l'humidité en saison des pluies.",
+        "highlights": [
+          "Mesure température et humidité en continu",
+          "Écran e-paper basse consommation",
+          "Déclenche automatiquement climatisation ou ventilation",
+          "Alerte seuil haut / bas configurable"
+        ],
+        "inTheBox": [
+          "Capteur Climate T1",
+          "Pile CR2032",
+          "Support avec adhésif",
+          "Guide de démarrage"
+        ]
+      },
+      "en": {
+        "name": "SafeR Climate T1 — temperature & humidity sensor",
+        "tagline": "Watch every room's climate in real time.",
+        "description": "Compact Zigbee sensor that continuously measures a room's temperature and humidity, with a small always-readable e-paper display. It triggers SafeR scenes (air conditioning, ventilation, dehumidifier) once a threshold is crossed, useful for protecting electronics from humidity during the rainy season.",
+        "highlights": [
+          "Continuous temperature and humidity readings",
+          "Low-power e-paper display",
+          "Automatically triggers AC or ventilation",
+          "Configurable high / low threshold alert"
+        ],
+        "inTheBox": [
+          "Climate T1 sensor",
+          "CR2032 battery",
+          "Adhesive stand",
+          "Quick start guide"
+        ]
+      },
+      "es": {
+        "name": "SafeR Climate T1 — sensor de temperatura y humedad",
+        "tagline": "Vigila el ambiente de cada estancia en tiempo real.",
+        "description": "Sensor Zigbee compacto que mide continuamente la temperatura y la humedad de una estancia, con una pequeña pantalla e-paper siempre legible. Activa escenas SafeR (aire acondicionado, ventilación, deshumidificador) al superar un umbral, útil para proteger los equipos electrónicos de la humedad en temporada de lluvias.",
+        "highlights": [
+          "Medición continua de temperatura y humedad",
+          "Pantalla e-paper de bajo consumo",
+          "Activa automáticamente el aire acondicionado o la ventilación",
+          "Alerta de umbral alto / bajo configurable"
+        ],
+        "inTheBox": [
+          "Sensor Climate T1",
+          "Pila CR2032",
+          "Soporte adhesivo",
+          "Guía de inicio rápido"
+        ]
+      },
+      "ar": {
+        "name": "SafeR Climate T1 — مستشعر حرارة ورطوبة",
+        "tagline": "راقب أجواء كل غرفة في الوقت الفعلي.",
+        "description": "مستشعر Zigbee مضغوط يقيس باستمرار درجة الحرارة والرطوبة في الغرفة، مزوّد بشاشة ورقية إلكترونية صغيرة سهلة القراءة دائماً. يُفعّل سيناريوهات SafeR (تكييف، تهوية، مزيل رطوبة) عند تجاوز حد معين، وهو مفيد لحماية الأجهزة الإلكترونية من الرطوبة في موسم الأمطار.",
+        "highlights": [
+          "قياس مستمر لدرجة الحرارة والرطوبة",
+          "شاشة ورقية إلكترونية منخفضة الاستهلاك",
+          "تفعيل تلقائي للتكييف أو التهوية",
+          "إنذار قابل للتخصيص عند الحد الأعلى/الأدنى"
+        ],
+        "inTheBox": [
+          "مستشعر Climate T1",
+          "بطارية CR2032",
+          "حامل لاصق",
+          "دليل البدء السريع"
+        ]
+      },
+      "zh": {
+        "name": "SafeR Climate T1 — 温湿度传感器",
+        "tagline": "实时掌握每个房间的温湿度状况。",
+        "description": "小巧的 Zigbee 传感器，持续测量房间的温度与湿度，配备始终清晰可读的电子纸小屏幕。当数值超出设定阈值时可触发 SafeR 场景（空调、通风、除湿机），在雨季有助于保护电子设备免受潮气侵害。",
+        "highlights": [
+          "持续测量温度与湿度",
+          "低功耗电子纸显示屏",
+          "自动触发空调或通风",
+          "可配置高低阈值提醒"
+        ],
+        "inTheBox": [
+          "Climate T1 传感器",
+          "CR2032 电池",
+          "带胶粘的支架",
+          "快速入门指南"
+        ]
+      }
+    },
+    "attributes": {
+      "protocol": [
+        "zigbee"
+      ],
+      "placement": "interieur",
+      "power": [
+        "pile"
+      ],
+      "compat": [
+        "smart-life",
+        "safer-platform",
+        "alexa",
+        "google"
+      ]
+    },
+    "specs": [
+      {
+        "key": "sensors",
+        "value": {
+          "fr": "Température, humidité",
+          "en": "Temperature, humidity",
+          "es": "Temperatura, humedad",
+          "ar": "درجة الحرارة، الرطوبة",
+          "zh": "温度、湿度"
+        }
+      },
+      {
+        "key": "detectionRange",
+        "value": "-20 °C … 60 °C, 0-99 % HR"
+      },
+      {
+        "key": "display",
+        "value": {
+          "fr": "Écran e-paper",
+          "en": "E-paper display",
+          "es": "Pantalla e-paper",
+          "ar": "شاشة ورق إلكتروني (e-paper)",
+          "zh": "电子墨水屏"
+        }
+      },
+      {
+        "key": "battery",
+        "value": "CR2032, 3 V"
+      },
+      {
+        "key": "batteryLife",
+        "value": "≈ 1 an"
+      },
+      {
+        "key": "protocol",
+        "value": "Zigbee 3.0"
+      },
+      {
+        "key": "dimensions",
+        "value": "50 × 50 × 15 mm"
+      }
+    ],
+    "pricing": {
+      "sourcePrice": 15,
+      "sourceCurrency": "USD"
+    },
+    "availability": "sur-commande",
+    "install": {
+      "level": "simple",
+      "duration": "10 min",
+      "prerequisites": {
+        "fr": "Passerelle SafeR Link (Zigbee) installée et à portée radio.",
+        "en": "SafeR Link Zigbee gateway installed and within radio range.",
+        "es": "Pasarela SafeR Link (Zigbee) instalada y dentro del alcance de radio.",
+        "ar": "بوابة SafeR Link (Zigbee) مثبّتة وفي نطاق التغطية اللاسلكية.",
+        "zh": "已安装 SafeR Link Zigbee 网关且在无线覆盖范围内。"
+      }
+    },
+    "sourceUrl": "https://developer.tuya.com/en/docs/iot/zigbee-temperature-and-humidity-sensor?id=Kaiuzli8f747i",
+    "accent": "#4556f5",
+    "symbol": "◎",
+    "solutions": [
+      "domotique/pilotage-energie"
+    ],
+    "related": [
+      "safer-ac-ir1",
+      "safer-link-gz3"
+    ]
+  },
+  {
+    "id": "safer-ac-ir1",
+    "sku": "WF-IRAC-01",
+    "needsVerification": true,
+    "brand": "safer",
+    "sourceBrand": "Tuya",
+    "model": "AC IR1",
+    "category": "domotique",
+    "subcategory": "controle-climatisation",
+    "i18n": {
+      "fr": {
+        "name": "SafeR AC IR1 — contrôleur infrarouge climatiseur",
+        "tagline": "Pilotez votre climatiseur depuis l'application, où que vous soyez.",
+        "description": "Contrôleur infrarouge universel qui connecte n'importe quel climatiseur ou ventilateur télécommandé en infrarouge à l'application SafeR. Programmation horaire, arrêt automatique en cas d'absence détectée, et pilotage vocal via Alexa ou Google Home pour réduire la facture d'électricité tout en gardant le confort.",
+        "highlights": [
+          "Compatible avec la plupart des télécommandes IR",
+          "Programmation horaire et minuterie",
+          "Pilotage vocal Alexa et Google Home",
+          "Coupure automatique liée aux capteurs de climat"
+        ],
+        "inTheBox": [
+          "Contrôleur AC IR1",
+          "Câble USB-C d'alimentation",
+          "Guide de démarrage"
+        ]
+      },
+      "en": {
+        "name": "SafeR AC IR1 — infrared AC controller",
+        "tagline": "Control your air conditioner from the app, wherever you are.",
+        "description": "Universal infrared controller that connects any infrared-remote air conditioner or fan to the SafeR app. Time scheduling, automatic shutoff when absence is detected, and voice control via Alexa or Google Home to cut the electricity bill while keeping comfort.",
+        "highlights": [
+          "Compatible with most IR remotes",
+          "Time scheduling and timer",
+          "Voice control via Alexa and Google Home",
+          "Automatic shutoff linked to climate sensors"
+        ],
+        "inTheBox": [
+          "AC IR1 controller",
+          "USB-C power cable",
+          "Quick start guide"
+        ]
+      },
+      "es": {
+        "name": "SafeR AC IR1 — controlador infrarrojo de aire acondicionado",
+        "tagline": "Controla tu aire acondicionado desde la aplicación, estés donde estés.",
+        "description": "Controlador infrarrojo universal que conecta cualquier aire acondicionado o ventilador con mando infrarrojo a la aplicación SafeR. Programación horaria, apagado automático al detectar ausencia y control por voz mediante Alexa o Google Home para reducir la factura eléctrica sin renunciar al confort.",
+        "highlights": [
+          "Compatible con la mayoría de mandos infrarrojos",
+          "Programación horaria y temporizador",
+          "Control por voz con Alexa y Google Home",
+          "Apagado automático vinculado a los sensores de clima"
+        ],
+        "inTheBox": [
+          "Controlador AC IR1",
+          "Cable de alimentación USB-C",
+          "Guía de inicio rápido"
+        ]
+      },
+      "ar": {
+        "name": "SafeR AC IR1 — جهاز تحكم بالأشعة تحت الحمراء للمكيف",
+        "tagline": "تحكّم بمكيفك من التطبيق أينما كنت.",
+        "description": "جهاز تحكم شامل بالأشعة تحت الحمراء يربط أي مكيف هواء أو مروحة تعمل بريموت أشعة تحت الحمراء بتطبيق SafeR. يوفّر جدولة زمنية، وإيقافاً تلقائياً عند اكتشاف الغياب، وتحكماً صوتياً عبر Alexa أو Google Home لخفض فاتورة الكهرباء مع الحفاظ على الراحة.",
+        "highlights": [
+          "متوافق مع معظم أجهزة التحكم بالأشعة تحت الحمراء",
+          "جدولة زمنية ومؤقت",
+          "تحكم صوتي عبر Alexa وGoogle Home",
+          "إيقاف تلقائي مرتبط بمستشعرات المناخ"
+        ],
+        "inTheBox": [
+          "جهاز التحكم AC IR1",
+          "كابل طاقة USB-C",
+          "دليل البدء السريع"
+        ]
+      },
+      "zh": {
+        "name": "SafeR AC IR1 — 红外空调控制器",
+        "tagline": "无论身在何处，通过 App 控制空调。",
+        "description": "通用红外控制器，可将任何使用红外遥控器的空调或风扇接入 SafeR App。支持定时设置、检测到无人时自动关闭，并可通过 Alexa 或 Google Home 语音控制，在保持舒适的同时降低电费支出。",
+        "highlights": [
+          "兼容大多数红外遥控器",
+          "定时设置与倒计时",
+          "支持 Alexa 与 Google Home 语音控制",
+          "联动温湿度传感器自动关闭"
+        ],
+        "inTheBox": [
+          "AC IR1 控制器",
+          "USB-C 电源线",
+          "快速入门指南"
+        ]
+      }
+    },
+    "attributes": {
+      "protocol": [
+        "wifi"
+      ],
+      "placement": "interieur",
+      "power": [
+        "secteur"
+      ],
+      "compat": [
+        "smart-life",
+        "safer-platform",
+        "alexa",
+        "google"
+      ]
+    },
+    "specs": [
+      {
+        "key": "compatibility",
+        "value": {
+          "fr": "Bibliothèque IR multi-marques",
+          "en": "Multi-brand IR library",
+          "es": "Biblioteca IR multimarca",
+          "ar": "مكتبة أشعة تحت حمراء متعددة العلامات",
+          "zh": "多品牌红外码库"
+        }
+      },
+      {
+        "key": "range",
+        "value": {
+          "fr": "≈ 8 m en visibilité directe",
+          "en": "≈ 8 m line of sight",
+          "es": "≈ 8 m en línea de visión directa",
+          "ar": "≈ 8 م بخط رؤية مباشر",
+          "zh": "直射视距约8米"
+        }
+      },
+      {
+        "key": "connectivity",
+        "value": "Wi-Fi 2,4 GHz"
+      },
+      {
+        "key": "power",
+        "value": "5 V / 1 A, USB-C"
+      },
+      {
+        "key": "sensors",
+        "value": {
+          "fr": "Température ambiante intégrée",
+          "en": "Built-in ambient temperature sensor",
+          "es": "Sensor de temperatura ambiente integrado",
+          "ar": "مستشعر حرارة محيطة مدمج",
+          "zh": "内置环境温度传感器"
+        }
+      },
+      {
+        "key": "dimensions",
+        "value": "60 × 60 × 25 mm"
+      },
+      {
+        "key": "app",
+        "value": "Smart Life"
+      }
+    ],
+    "pricing": {
+      "sourcePrice": 19,
+      "sourceCurrency": "USD"
+    },
+    "availability": "sur-commande",
+    "install": {
+      "level": "simple",
+      "duration": "15 min",
+      "prerequisites": {
+        "fr": "Wi-Fi 2,4 GHz et visibilité directe avec le climatiseur ou ventilateur à piloter.",
+        "en": "2.4 GHz Wi-Fi and direct line of sight to the air conditioner or fan to control.",
+        "es": "Wi-Fi de 2,4 GHz y línea de visión directa con el aire acondicionado o ventilador a controlar.",
+        "ar": "Wi-Fi بتردد 2.4 جيجاهرتز ورؤية مباشرة مع المكيف أو المروحة المراد التحكم بها.",
+        "zh": "需 2.4 GHz Wi-Fi，并与待控制的空调或风扇保持直线可视。"
+      }
+    },
+    "sourceUrl": "https://www.tuyaexpo.com/smart/CT9cn90yyaumny-CT9cn95ninmx4t-CTbj1c60izmexn",
+    "accent": "#4556f5",
+    "symbol": "♨",
+    "solutions": [
+      "domotique/pilotage-energie"
+    ],
+    "related": [
+      "safer-climate-t1",
+      "safer-link-gz3"
+    ]
+  },
+  {
+    "id": "safer-curtain-m1",
+    "sku": "TS130F",
+    "brand": "safer",
+    "sourceBrand": "Tuya",
+    "model": "Curtain M1",
+    "category": "domotique",
+    "subcategory": "volets-rideaux",
+    "i18n": {
+      "fr": {
+        "name": "SafeR Curtain M1 — module moteur de rideau Zigbee",
+        "tagline": "Vos rideaux s'ouvrent et se ferment tout seuls, au bon moment.",
+        "description": "Module Zigbee qui motorise un rail de rideau existant pour l'ouvrir et le fermer depuis l'application, un bouton mural ou un scénario horaire lié au lever et au coucher du soleil. Le calibrage automatique mémorise les positions ouverte et fermée, et un mode manuel reste toujours disponible.",
+        "highlights": [
+          "Ouverture et fermeture programmées selon l'heure ou le soleil",
+          "Calibrage automatique des fins de course",
+          "Commande manuelle toujours possible",
+          "Intégration aux scénarios SafeR (climatisation, luminosité)"
+        ],
+        "inTheBox": [
+          "Module moteur Curtain M1",
+          "Chariot compatible rail existant",
+          "Bloc secteur",
+          "Guide de démarrage"
+        ]
+      },
+      "en": {
+        "name": "SafeR Curtain M1 — Zigbee curtain motor module",
+        "tagline": "Curtains that open and close on their own, right on time.",
+        "description": "Zigbee module that motorises an existing curtain track to open and close it from the app, a wall button or a schedule tied to sunrise and sunset. Automatic calibration memorises the open and closed positions, and manual operation always remains available.",
+        "highlights": [
+          "Open / close scheduled by time or sun position",
+          "Automatic end-of-travel calibration",
+          "Manual operation always available",
+          "Integrates with SafeR scenes (AC, brightness)"
+        ],
+        "inTheBox": [
+          "Curtain M1 motor module",
+          "Carriage compatible with existing track",
+          "Power adapter",
+          "Quick start guide"
+        ]
+      },
+      "es": {
+        "name": "SafeR Curtain M1 — módulo motor de cortina Zigbee",
+        "tagline": "Tus cortinas se abren y cierran solas, en el momento justo.",
+        "description": "Módulo Zigbee que motoriza un riel de cortina existente para abrirla y cerrarla desde la aplicación, un pulsador de pared o un horario ligado al amanecer y al atardecer. La calibración automática memoriza las posiciones abierta y cerrada, y el modo manual sigue estando siempre disponible.",
+        "highlights": [
+          "Apertura / cierre programado por hora o por el sol",
+          "Calibración automática de los finales de carrera",
+          "Modo manual siempre disponible",
+          "Integración con las escenas SafeR (aire acondicionado, luminosidad)"
+        ],
+        "inTheBox": [
+          "Módulo motor Curtain M1",
+          "Carro compatible con el riel existente",
+          "Adaptador de corriente",
+          "Guía de inicio rápido"
+        ]
+      },
+      "ar": {
+        "name": "SafeR Curtain M1 — وحدة تحريك ستائر Zigbee",
+        "tagline": "ستائرك تُفتح وتُغلق تلقائياً في الوقت المناسب.",
+        "description": "وحدة Zigbee تُحرّك سكة ستائر موجودة لفتحها وإغلاقها من التطبيق أو زر جداري أو جدول زمني مرتبط بشروق الشمس وغروبها. تحفظ المعايرة التلقائية موضعي الفتح والإغلاق، ويبقى التشغيل اليدوي متاحاً دائماً.",
+        "highlights": [
+          "فتح / إغلاق مجدول حسب الوقت أو الشمس",
+          "معايرة تلقائية لنهايات المسار",
+          "التشغيل اليدوي متاح دائماً",
+          "تكامل مع سيناريوهات SafeR (تكييف، إضاءة)"
+        ],
+        "inTheBox": [
+          "وحدة المحرك Curtain M1",
+          "عربة متوافقة مع السكة الموجودة",
+          "محول كهربائي",
+          "دليل البدء السريع"
+        ]
+      },
+      "zh": {
+        "name": "SafeR Curtain M1 — Zigbee 窗帘电机模块",
+        "tagline": "让窗帘自动按时开合。",
+        "description": "Zigbee 模块可为现有窗帘轨道电动化，通过 App、墙壁按钮或与日出日落联动的时间表来开合窗帘。自动校准可记忆开合的两个极限位置，同时始终保留手动操作模式。",
+        "highlights": [
+          "按时间或日照自动开合",
+          "自动校准行程终点",
+          "始终保留手动操作",
+          "可接入 SafeR 场景（空调、亮度）联动"
+        ],
+        "inTheBox": [
+          "Curtain M1 电机模块",
+          "适配现有轨道的滑车",
+          "电源适配器",
+          "快速入门指南"
+        ]
+      }
+    },
+    "attributes": {
+      "protocol": [
+        "zigbee"
+      ],
+      "placement": "interieur",
+      "power": [
+        "secteur"
+      ],
+      "compat": [
+        "smart-life",
+        "safer-platform",
+        "alexa",
+        "google"
+      ]
+    },
+    "specs": [
+      {
+        "key": "motorPower",
+        "value": "Moteur 25 W"
+      },
+      {
+        "key": "maxWeight",
+        "value": {
+          "fr": "Rideau jusqu'à 8 kg",
+          "en": "Curtain up to 8 kg",
+          "es": "Cortina hasta 8 kg",
+          "ar": "ستارة حتى 8 كجم",
+          "zh": "窗帘最大承重8千克"
+        }
+      },
+      {
+        "key": "openingTime",
+        "value": {
+          "fr": "≈ 20 s pour 3 m de rail",
+          "en": "≈ 20 s for 3 m of rail",
+          "es": "≈ 20 s para 3 m de riel",
+          "ar": "≈ 20 ثانية لكل 3 أمتار من السكة",
+          "zh": "每3米轨道约需20秒"
+        }
+      },
+      {
+        "key": "cycles",
+        "value": "> 20 000 cycles"
+      },
+      {
+        "key": "protocol",
+        "value": "Zigbee 3.0"
+      },
+      {
+        "key": "power",
+        "value": {
+          "fr": "Secteur 100-240 V",
+          "en": "Mains, 100-240 V",
+          "es": "Red eléctrica, 100-240 V",
+          "ar": "كهرباء المنزل، 100-240 فولت",
+          "zh": "市电，100-240伏"
+        }
+      },
+      {
+        "key": "compatibility",
+        "value": {
+          "fr": "Rails à courroie standards",
+          "en": "Standard belt-drive rails",
+          "es": "Rieles estándar de correa",
+          "ar": "سكك قياسية بنظام الحزام",
+          "zh": "标准皮带式轨道"
+        }
+      }
+    ],
+    "pricing": {
+      "sourcePrice": 62,
+      "sourceCurrency": "USD"
+    },
+    "availability": "sur-devis",
+    "install": {
+      "level": "expert",
+      "duration": "90 min",
+      "prerequisites": {
+        "fr": "Rail de rideau existant compatible et arrivée secteur à proximité du rail.",
+        "en": "Compatible existing curtain track and a power outlet near the track.",
+        "es": "Riel de cortina existente compatible y toma de corriente cerca del riel.",
+        "ar": "سكة ستائر موجودة ومتوافقة ومصدر كهرباء قريب من السكة.",
+        "zh": "需有兼容的现有窗帘轨道，且轨道附近需有电源。"
+      }
+    },
+    "sourceUrl": "https://www.tuyaexpo.com/smart/CT9cn90yyaumny-CT9cn9725j2rsc-CT9cnjv9rp55hv",
+    "accent": "#4556f5",
+    "symbol": "▦",
+    "solutions": [
+      "domotique/scenarios-intelligents"
+    ],
+    "related": [
+      "safer-link-gz3",
+      "safer-switch-w1"
+    ]
+  }
+]

@@ -1,0 +1,1305 @@
+[
+  {
+    "id": "ajax-hub-2-4g",
+    "sku": "AJ-HUB2-4G",
+    "brand": "ajax",
+    "sourceBrand": "Ajax Systems",
+    "model": "Hub 2 (4G) Jeweller",
+    "category": "alarme",
+    "subcategory": "centrales",
+    "i18n": {
+      "fr": {
+        "name": "Ajax Hub 2 (4G) Jeweller",
+        "tagline": "La centrale d'alarme intelligente, connectée en 4G et Ethernet.",
+        "description": "Centrale d'alarme sans fil pilotant jusqu'à 100 périphériques Jeweller à 1700 m en champ libre. Double connexion 4G (2 cartes SIM) et Ethernet pour une remontée d'alarme fiable même en cas de coupure réseau, avec batterie de secours intégrée. Photo-vérification, sirène intégrée et intégration complète à l'application SafeR.",
+        "highlights": ["Portée radio Jeweller jusqu'à 1700 m", "4G double SIM + Ethernet pour une liaison redondante", "Batterie de secours jusqu'à 15 h", "Sirène et flash intégrés"],
+        "inTheBox": ["Centrale Hub 2 (4G)", "Bloc secteur", "Câble Ethernet", "Kit de fixation antisabotage", "Guide de démarrage"]
+      },
+      "en": {
+        "name": "Ajax Hub 2 (4G) Jeweller",
+        "tagline": "The smart alarm panel, connected via 4G and Ethernet.",
+        "description": "Wireless alarm panel controlling up to 100 Jeweller devices at a range of up to 1700 m in open area. Dual 4G connection (2 SIM cards) plus Ethernet keeps alarms reporting reliably even during a network outage, backed by an integrated backup battery. Photo verification, a built-in siren and full SafeR app integration.",
+        "highlights": ["Jeweller radio range up to 1700 m", "Dual-SIM 4G plus Ethernet for redundant reporting", "Backup battery up to 15 h", "Built-in siren and strobe"],
+        "inTheBox": ["Hub 2 (4G) panel", "Power adapter", "Ethernet cable", "Anti-tamper mounting kit", "Quick start guide"]
+      },
+      "es": {
+        "name": "Ajax Hub 2 (4G) Jeweller",
+        "tagline": "La central de alarma inteligente, conectada por 4G y Ethernet.",
+        "description": "Central de alarma inalámbrica que gestiona hasta 100 dispositivos Jeweller con un alcance de hasta 1700 m en campo abierto. La doble conexión 4G (2 tarjetas SIM) y Ethernet garantiza el envío fiable de alarmas incluso durante un corte de red, con batería de respaldo integrada. Verificación fotográfica, sirena integrada e integración completa con la app SafeR.",
+        "highlights": ["Alcance radio Jeweller de hasta 1700 m", "4G de doble SIM y Ethernet para un enlace redundante", "Batería de respaldo de hasta 15 h", "Sirena y flash integrados"],
+        "inTheBox": ["Central Hub 2 (4G)", "Adaptador de corriente", "Cable Ethernet", "Kit de fijación antisabotaje", "Guía de inicio rápido"]
+      },
+      "ar": {
+        "name": "Ajax Hub 2 (4G) Jeweller",
+        "tagline": "لوحة الإنذار الذكية، متصلة عبر 4G وإيثرنت.",
+        "description": "لوحة إنذار لاسلكية تدير حتى 100 جهاز بتقنية Jeweller بمدى يصل إلى 1700 متر في مكان مفتوح. يوفر الاتصال المزدوج 4G (بطاقتا SIM) مع إيثرنت إرسالاً موثوقاً للإنذارات حتى عند انقطاع الشبكة، بفضل بطارية احتياطية مدمجة. تحقق مصوّر، صفارة إنذار مدمجة وتكامل كامل مع تطبيق SafeR.",
+        "highlights": ["مدى راديو Jeweller يصل إلى 1700 متر", "اتصال 4G ببطاقتي SIM مع إيثرنت لإرسال احتياطي", "بطارية احتياطية حتى 15 ساعة", "صفارة إنذار وفلاش مدمجان"],
+        "inTheBox": ["لوحة Hub 2 (4G)", "محول كهربائي", "كابل إيثرنت", "طقم تثبيت مقاوم للعبث", "دليل البدء السريع"]
+      },
+      "zh": {
+        "name": "Ajax Hub 2 (4G) Jeweller 报警主机",
+        "tagline": "4G 与以太网双连接的智能报警主机。",
+        "description": "无线报警主机，可管理多达 100 个 Jeweller 设备，开阔地带通信距离达 1700 米。双 4G（2 张 SIM 卡）加以太网双重上报通道，即使网络中断也能可靠传送警报，并配备内置备用电池。支持拍照验证、内置警笛，并与 SafeR 应用完全集成。",
+        "highlights": ["Jeweller 无线距离达 1700 米", "双卡 4G 加以太网冗余上报", "备用电池续航达 15 小时", "内置警笛与频闪灯"],
+        "inTheBox": ["Hub 2 (4G) 主机", "电源适配器", "以太网线", "防拆固定套件", "快速入门指南"]
+      }
+    },
+    "attributes": { "protocol": ["rf-proprietaire", "4g-lte", "wifi"], "placement": "interieur", "power": ["secteur", "batterie"], "compat": ["app-marque", "safer-platform"] },
+    "specs": [
+      {
+        "key": "capacity",
+        "value": {
+          "fr": "Jusqu'à 100 périphériques Jeweller",
+          "en": "Up to 100 Jeweller devices",
+          "es": "Hasta 100 dispositivos Jeweller",
+          "ar": "حتى 100 جهاز Jeweller",
+          "zh": "最多支持100个Jeweller设备"
+        }
+      },
+      {
+        "key": "range",
+        "value": {
+          "fr": "Jusqu'à 1700 m en champ libre",
+          "en": "Up to 1700 m in open field",
+          "es": "Hasta 1700 m en campo abierto",
+          "ar": "حتى 1700 م في مجال مفتوح",
+          "zh": "开阔环境下最远1700米"
+        }
+      },
+      { "key": "sim", "value": "2 cartes nano-SIM" },
+      { "key": "connectivity", "value": "Ethernet, Wi-Fi, 4G (2G/3G/4G)" },
+      {
+        "key": "battery",
+        "value": {
+          "fr": "Batterie de secours jusqu'à 15 h",
+          "en": "Backup battery up to 15 h",
+          "es": "Batería de respaldo hasta 15 h",
+          "ar": "بطارية احتياطية حتى 15 ساعة",
+          "zh": "备用电池最长15小时"
+        }
+      },
+      {
+        "key": "siren",
+        "value": {
+          "fr": "85 dB à 1 m, intégrée",
+          "en": "85 dB at 1 m, built-in",
+          "es": "85 dB a 1 m, integrada",
+          "ar": "85 ديسيبل عند 1 م، مدمجة",
+          "zh": "内置警报器，85分贝@1米"
+        }
+      },
+      {
+        "key": "tamper",
+        "value": {
+          "fr": "Détection d'ouverture et d'arrachement",
+          "en": "Open and tamper detection",
+          "es": "Detección de apertura y sabotaje",
+          "ar": "كشف الفتح والعبث",
+          "zh": "开启和拆卸侦测"
+        }
+      },
+      { "key": "operatingTemp", "value": "-10 °C … +40 °C" },
+      { "key": "dimensions", "value": "163 × 163 × 36 mm" }
+    ],
+    "pricing": { "sourcePrice": 259, "sourceCurrency": "EUR" },
+    "availability": "en-stock",
+    "warrantyMonths": 24,
+    "install": { "level": "standard", "duration": "1 h", "prerequisites": { "fr": "Alimentation secteur à proximité, carte(s) SIM 4G ou accès Ethernet.", "en": "Nearby mains power, plus a 4G SIM card or Ethernet access.", "es": "Alimentación de red cercana, más una tarjeta SIM 4G o acceso Ethernet.", "ar": "مصدر تيار كهربائي قريب، مع بطاقة SIM بتقنية 4G أو منفذ إيثرنت.", "zh": "附近有市电插座，并具备 4G SIM 卡或以太网接入。" } },
+    "sourceUrl": "https://ajax.systems/products/hub2-4g/",
+    "accent": "#52c6ff",
+    "symbol": "⌁",
+    "featured": true,
+    "solutions": ["alarmes-connectees/detection-intrusion"],
+    "related": ["ajax-motionprotect", "ajax-doorprotect", "ajax-homesiren", "ajax-keypad-plus"]
+  },
+  {
+    "id": "ajax-hub-2-plus",
+    "sku": "AJ-HUB2PLUS",
+    "brand": "ajax",
+    "sourceBrand": "Ajax Systems",
+    "model": "Hub 2 Plus",
+    "category": "alarme",
+    "subcategory": "centrales",
+    "i18n": {
+      "fr": {
+        "name": "Ajax Hub 2 Plus",
+        "tagline": "La centrale haut de gamme pour les installations exigeantes.",
+        "description": "Centrale d'alarme Jeweller pilotant jusqu'à 200 périphériques avec portée radio étendue à 2000 m et double bande Wi-Fi 2,4/5 GHz. Elle combine Ethernet, Wi-Fi et 4G double SIM pour une remontée d'alarme triple redondance, avec vérification photo (PhOD) et gestion multi-utilisateurs. Idéale pour les grandes résidences ou les sites multi-bâtiments.",
+        "highlights": ["Jusqu'à 200 périphériques Jeweller, portée 2000 m", "Wi-Fi double bande, Ethernet et 4G double SIM", "Vérification photo à la demande (PhOD)", "Gestion multi-utilisateurs et multi-sites"],
+        "inTheBox": ["Centrale Hub 2 Plus", "Bloc secteur", "Câble Ethernet", "Kit de fixation antisabotage", "Guide de démarrage"]
+      },
+      "en": {
+        "name": "Ajax Hub 2 Plus",
+        "tagline": "The high-end panel for demanding installations.",
+        "description": "Jeweller alarm panel controlling up to 200 devices with extended radio range up to 2000 m and dual-band 2.4/5 GHz Wi-Fi. It combines Ethernet, Wi-Fi and dual-SIM 4G for triple-redundant alarm reporting, with on-demand photo verification (PhOD) and multi-user management. Ideal for large homes or multi-building sites.",
+        "highlights": ["Up to 200 Jeweller devices, 2000 m range", "Dual-band Wi-Fi, Ethernet and dual-SIM 4G", "On-demand photo verification (PhOD)", "Multi-user, multi-site management"],
+        "inTheBox": ["Hub 2 Plus panel", "Power adapter", "Ethernet cable", "Anti-tamper mounting kit", "Quick start guide"]
+      },
+      "es": {
+        "name": "Ajax Hub 2 Plus",
+        "tagline": "La central de gama alta para instalaciones exigentes.",
+        "description": "Central de alarma Jeweller que gestiona hasta 200 dispositivos con un alcance radio ampliado de hasta 2000 m y Wi-Fi de doble banda 2,4/5 GHz. Combina Ethernet, Wi-Fi y 4G de doble SIM para un envío de alarmas con triple redundancia, con verificación fotográfica bajo demanda (PhOD) y gestión multiusuario. Ideal para viviendas grandes o instalaciones multiedificio.",
+        "highlights": ["Hasta 200 dispositivos Jeweller, alcance de 2000 m", "Wi-Fi de doble banda, Ethernet y 4G de doble SIM", "Verificación fotográfica bajo demanda (PhOD)", "Gestión multiusuario y multisitio"],
+        "inTheBox": ["Central Hub 2 Plus", "Adaptador de corriente", "Cable Ethernet", "Kit de fijación antisabotaje", "Guía de inicio rápido"]
+      },
+      "ar": {
+        "name": "Ajax Hub 2 Plus",
+        "tagline": "اللوحة الراقية للتركيبات المتطلبة.",
+        "description": "لوحة إنذار Jeweller تدير حتى 200 جهاز بمدى راديو موسّع يصل إلى 2000 متر وشبكة Wi-Fi ثنائية النطاق 2.4/5 جيجاهرتز. تجمع بين إيثرنت وWi-Fi و4G ببطاقتي SIM لتوفير إرسال إنذار بتكرار ثلاثي، مع تحقق مصوّر عند الطلب (PhOD) وإدارة متعددة المستخدمين. مثالية للمنازل الكبيرة أو المواقع متعددة المباني.",
+        "highlights": ["حتى 200 جهاز Jeweller بمدى 2000 متر", "Wi-Fi ثنائي النطاق وإيثرنت و4G ببطاقتي SIM", "تحقق مصوّر عند الطلب (PhOD)", "إدارة متعددة المستخدمين والمواقع"],
+        "inTheBox": ["لوحة Hub 2 Plus", "محول كهربائي", "كابل إيثرنت", "طقم تثبيت مقاوم للعبث", "دليل البدء السريع"]
+      },
+      "zh": {
+        "name": "Ajax Hub 2 Plus 报警主机",
+        "tagline": "面向高要求安装场景的高端主机。",
+        "description": "Jeweller 报警主机可管理多达 200 个设备，无线距离扩展至 2000 米，支持 2.4/5 GHz 双频 Wi-Fi。集以太网、Wi-Fi 与双卡 4G 于一体，实现三重冗余报警上报，并支持按需拍照验证（PhOD）与多用户管理，适合大型住宅或多楼宇场地。",
+        "highlights": ["最多 200 个 Jeweller 设备，距离达 2000 米", "双频 Wi-Fi、以太网与双卡 4G", "按需拍照验证（PhOD）", "多用户、多站点管理"],
+        "inTheBox": ["Hub 2 Plus 主机", "电源适配器", "以太网线", "防拆固定套件", "快速入门指南"]
+      }
+    },
+    "attributes": { "protocol": ["rf-proprietaire", "4g-lte", "wifi", "filaire-poe"], "placement": "interieur", "power": ["secteur", "batterie"], "compat": ["app-marque", "safer-platform"] },
+    "specs": [
+      {
+        "key": "capacity",
+        "value": {
+          "fr": "Jusqu'à 200 périphériques Jeweller",
+          "en": "Up to 200 Jeweller devices",
+          "es": "Hasta 200 dispositivos Jeweller",
+          "ar": "حتى 200 جهاز Jeweller",
+          "zh": "最多支持200个Jeweller设备"
+        }
+      },
+      {
+        "key": "range",
+        "value": {
+          "fr": "Jusqu'à 2000 m en champ libre",
+          "en": "Up to 2000 m in open field",
+          "es": "Hasta 2000 m en campo abierto",
+          "ar": "حتى 2000 م في مجال مفتوح",
+          "zh": "开阔环境下最远2000米"
+        }
+      },
+      { "key": "sim", "value": "2 cartes nano-SIM" },
+      { "key": "connectivity", "value": "Ethernet, Wi-Fi 2,4/5 GHz, 4G" },
+      {
+        "key": "battery",
+        "value": {
+          "fr": "Batterie de secours jusqu'à 15 h",
+          "en": "Backup battery up to 15 h",
+          "es": "Batería de respaldo hasta 15 h",
+          "ar": "بطارية احتياطية حتى 15 ساعة",
+          "zh": "备用电池最长15小时"
+        }
+      },
+      {
+        "key": "users",
+        "value": {
+          "fr": "Multi-utilisateurs et multi-sites",
+          "en": "Multi-user and multi-site",
+          "es": "Multiusuario y multisitio",
+          "ar": "متعدد المستخدمين ومتعدد المواقع",
+          "zh": "多用户、多站点"
+        }
+      },
+      {
+        "key": "tamper",
+        "value": {
+          "fr": "Détection d'ouverture et d'arrachement",
+          "en": "Open and tamper detection",
+          "es": "Detección de apertura y sabotaje",
+          "ar": "كشف الفتح والعبث",
+          "zh": "开启和拆卸侦测"
+        }
+      },
+      { "key": "operatingTemp", "value": "-10 °C … +40 °C" },
+      { "key": "dimensions", "value": "163 × 163 × 36 mm" }
+    ],
+    "pricing": { "sourcePrice": 299, "sourceCurrency": "EUR" },
+    "availability": "sur-commande",
+    "warrantyMonths": 24,
+    "install": { "level": "standard", "duration": "1 h", "prerequisites": { "fr": "Alimentation secteur à proximité, carte(s) SIM 4G ou accès Ethernet.", "en": "Nearby mains power, plus a 4G SIM card or Ethernet access.", "es": "Alimentación de red cercana, más una tarjeta SIM 4G o acceso Ethernet.", "ar": "مصدر تيار كهربائي قريب، مع بطاقة SIM بتقنية 4G أو منفذ إيثرنت.", "zh": "附近有市电插座，并具备 4G SIM 卡或以太网接入。" } },
+    "sourceUrl": "https://ajax.systems/products/hub2plus/",
+    "accent": "#52c6ff",
+    "symbol": "⌁",
+    "solutions": ["alarmes-connectees/detection-intrusion"],
+    "related": ["ajax-motionprotect-plus", "ajax-doorprotect-plus", "ajax-streetsiren", "ajax-keypad-plus"]
+  },
+  {
+    "id": "ajax-motionprotect",
+    "sku": "AJ-MOTIONPROTECT",
+    "brand": "ajax",
+    "sourceBrand": "Ajax Systems",
+    "model": "MotionProtect",
+    "category": "alarme",
+    "subcategory": "detecteurs-mouvement",
+    "i18n": {
+      "fr": {
+        "name": "Ajax MotionProtect",
+        "tagline": "Détecteur de mouvement infrarouge fiable et discret.",
+        "description": "Détecteur de mouvement sans fil à technologie infrarouge passive, avec portée de détection jusqu'à 12 m et angle de 88,5°. Sa lentille brevetée limite les fausses alertes liées aux animaux, à la lumière ou aux courants d'air, tandis que l'autonomie de la pile atteint 5 ans. Installation murale ou d'angle en quelques minutes.",
+        "highlights": ["Détection PIR jusqu'à 12 m, angle 88,5°", "Autonomie de la pile jusqu'à 5 ans", "Anti-sabotage et anti-masquage", "Portée radio Jeweller jusqu'à 1300 m"],
+        "inTheBox": ["Détecteur MotionProtect", "Pile CR123A", "Support de fixation", "Kit de montage", "Guide de démarrage"]
+      },
+      "en": {
+        "name": "Ajax MotionProtect",
+        "tagline": "A reliable, discreet infrared motion detector.",
+        "description": "Wireless motion detector using passive infrared technology, with detection range up to 12 m and an 88.5° angle. Its patented lens limits false alarms from pets, light or draughts, while battery life reaches 5 years. Wall or corner mounting takes just a few minutes.",
+        "highlights": ["PIR detection up to 12 m, 88.5° angle", "Battery life up to 5 years", "Anti-tamper and anti-masking protection", "Jeweller radio range up to 1300 m"],
+        "inTheBox": ["MotionProtect detector", "CR123A battery", "Mounting bracket", "Installation kit", "Quick start guide"]
+      },
+      "es": {
+        "name": "Ajax MotionProtect",
+        "tagline": "Detector de movimiento infrarrojo fiable y discreto.",
+        "description": "Detector de movimiento inalámbrico con tecnología infrarroja pasiva, con un alcance de detección de hasta 12 m y un ángulo de 88,5°. Su lente patentada reduce las falsas alarmas por mascotas, luz o corrientes de aire, y la batería dura hasta 5 años. El montaje en pared o esquina se hace en pocos minutos.",
+        "highlights": ["Detección PIR de hasta 12 m, ángulo de 88,5°", "Duración de la batería de hasta 5 años", "Protección antisabotaje y antienmascaramiento", "Alcance radio Jeweller de hasta 1300 m"],
+        "inTheBox": ["Detector MotionProtect", "Pila CR123A", "Soporte de fijación", "Kit de montaje", "Guía de inicio rápido"]
+      },
+      "ar": {
+        "name": "Ajax MotionProtect",
+        "tagline": "كاشف حركة بالأشعة تحت الحمراء موثوق وغير ملحوظ.",
+        "description": "كاشف حركة لاسلكي يعمل بتقنية الأشعة تحت الحمراء السلبية، بمدى كشف يصل إلى 12 متراً وزاوية 88.5 درجة. تحد عدسته الحاصلة على براءة اختراع من الإنذارات الكاذبة الناتجة عن الحيوانات الأليفة أو الضوء أو التيارات الهوائية، بينما تصل عمر البطارية إلى 5 سنوات. يتم التركيب على الحائط أو الزاوية خلال دقائق.",
+        "highlights": ["كشف بالأشعة تحت الحمراء حتى 12 متراً بزاوية 88.5 درجة", "عمر بطارية يصل إلى 5 سنوات", "حماية ضد العبث والتمويه", "مدى راديو Jeweller يصل إلى 1300 متر"],
+        "inTheBox": ["كاشف MotionProtect", "بطارية CR123A", "حامل تثبيت", "طقم تركيب", "دليل البدء السريع"]
+      },
+      "zh": {
+        "name": "Ajax MotionProtect 移动探测器",
+        "tagline": "可靠隐蔽的红外移动探测器。",
+        "description": "采用被动红外技术的无线移动探测器，探测距离达 12 米，探测角度 88.5°。专利镜头有效减少宠物、光线或气流引起的误报，电池续航长达 5 年。壁挂或转角安装仅需数分钟即可完成。",
+        "highlights": ["红外探测距离达 12 米，角度 88.5°", "电池续航长达 5 年", "防拆与防遮挡保护", "Jeweller 无线距离达 1300 米"],
+        "inTheBox": ["MotionProtect 探测器", "CR123A 电池", "安装支架", "安装套件", "快速入门指南"]
+      }
+    },
+    "attributes": { "protocol": ["rf-proprietaire"], "placement": "interieur", "power": ["pile"], "compat": ["app-marque", "safer-platform"] },
+    "specs": [
+      { "key": "detectionRange", "value": "12 m, angle 88,5°" },
+      { "key": "detectionType", "value": "Infrarouge passif (PIR)" },
+      {
+        "key": "battery",
+        "value": {
+          "fr": "1× CR123A, jusqu'à 5 ans",
+          "en": "1× CR123A, up to 5 years",
+          "es": "1× CR123A, hasta 5 años",
+          "ar": "بطارية CR123A واحدة، حتى 5 سنوات",
+          "zh": "1节CR123A电池，续航最长5年"
+        }
+      },
+      {
+        "key": "range",
+        "value": {
+          "fr": "Jeweller jusqu'à 1300 m",
+          "en": "Jeweller up to 1300 m",
+          "es": "Jeweller hasta 1300 m",
+          "ar": "Jeweller حتى 1300 م",
+          "zh": "Jeweller协议最远1300米"
+        }
+      },
+      {
+        "key": "tamper",
+        "value": {
+          "fr": "Anti-sabotage et anti-masquage",
+          "en": "Anti-tamper and anti-masking",
+          "es": "Antisabotaje y antienmascaramiento",
+          "ar": "مقاوم للعبث ومضاد للتمويه",
+          "zh": "防拆防遮挡"
+        }
+      },
+      { "key": "operatingTemp", "value": "-10 °C … +40 °C" },
+      { "key": "weatherproof", "value": "IP32" }
+    ],
+    "pricing": { "sourcePrice": 45, "sourceCurrency": "EUR" },
+    "availability": "en-stock",
+    "warrantyMonths": 24,
+    "install": { "level": "simple", "duration": "15 min", "prerequisites": { "fr": "Aucun câblage nécessaire, pose autocollante ou vissée.", "en": "No wiring required, adhesive or screw mounting.", "es": "No requiere cableado, montaje adhesivo o atornillado.", "ar": "لا حاجة للأسلاك، تركيب لاصق أو بالبراغي.", "zh": "无需布线，可粘贴或螺丝安装。" } },
+    "sourceUrl": "https://ajax.systems/products/motionprotect/",
+    "accent": "#52c6ff",
+    "symbol": "↗",
+    "solutions": ["alarmes-connectees/detection-intrusion"],
+    "related": ["ajax-hub-2-4g", "ajax-doorprotect", "ajax-homesiren"]
+  },
+  {
+    "id": "ajax-motionprotect-plus",
+    "sku": "AJ-MOTIONPROTECT-PLUS",
+    "brand": "ajax",
+    "sourceBrand": "Ajax Systems",
+    "model": "MotionProtect Plus",
+    "category": "alarme",
+    "subcategory": "detecteurs-mouvement",
+    "i18n": {
+      "fr": {
+        "name": "Ajax MotionProtect Plus",
+        "tagline": "Détection double technologie avec immunité animaux jusqu'à 20 kg.",
+        "description": "Détecteur de mouvement combinant infrarouge passif et micro-ondes pour une fiabilité renforcée et une forte résistance aux fausses alertes. L'immunité animaux protège les foyers avec chats ou petits chiens jusqu'à 20 kg, sans compromis sur la portée de détection de 12 m. Autonomie de pile jusqu'à 5 ans.",
+        "highlights": ["Double technologie PIR + micro-ondes", "Immunité animaux jusqu'à 20 kg", "Détection 12 m, angle 88,5°", "Autonomie de la pile jusqu'à 5 ans"],
+        "inTheBox": ["Détecteur MotionProtect Plus", "Pile CR123A", "Support de fixation", "Kit de montage", "Guide de démarrage"]
+      },
+      "en": {
+        "name": "Ajax MotionProtect Plus",
+        "tagline": "Dual-technology detection with pet immunity up to 20 kg.",
+        "description": "Motion detector combining passive infrared and microwave sensing for stronger reliability and resistance to false alarms. Pet immunity protects households with cats or small dogs up to 20 kg, without compromising the 12 m detection range. Battery life reaches up to 5 years.",
+        "highlights": ["Dual PIR + microwave technology", "Pet immunity up to 20 kg", "12 m detection range, 88.5° angle", "Battery life up to 5 years"],
+        "inTheBox": ["MotionProtect Plus detector", "CR123A battery", "Mounting bracket", "Installation kit", "Quick start guide"]
+      },
+      "es": {
+        "name": "Ajax MotionProtect Plus",
+        "tagline": "Detección de doble tecnología con inmunidad a mascotas de hasta 20 kg.",
+        "description": "Detector de movimiento que combina infrarrojo pasivo y microondas para mayor fiabilidad y resistencia a falsas alarmas. La inmunidad a mascotas protege hogares con gatos o perros pequeños de hasta 20 kg, sin reducir el alcance de detección de 12 m. La batería dura hasta 5 años.",
+        "highlights": ["Doble tecnología PIR + microondas", "Inmunidad a mascotas de hasta 20 kg", "Alcance de detección de 12 m, ángulo de 88,5°", "Duración de la batería de hasta 5 años"],
+        "inTheBox": ["Detector MotionProtect Plus", "Pila CR123A", "Soporte de fijación", "Kit de montaje", "Guía de inicio rápido"]
+      },
+      "ar": {
+        "name": "Ajax MotionProtect Plus",
+        "tagline": "كشف بتقنية مزدوجة مع مناعة للحيوانات الأليفة حتى 20 كغ.",
+        "description": "كاشف حركة يجمع بين الأشعة تحت الحمراء السلبية والموجات الدقيقة لموثوقية أعلى ومقاومة أقوى للإنذارات الكاذبة. توفر ميزة مناعة الحيوانات الأليفة حماية للمنازل التي تضم قططاً أو كلاباً صغيرة حتى 20 كغ، دون التأثير على مدى الكشف البالغ 12 متراً. تصل عمر البطارية إلى 5 سنوات.",
+        "highlights": ["تقنية مزدوجة PIR وموجات دقيقة", "مناعة للحيوانات الأليفة حتى 20 كغ", "مدى كشف 12 متراً بزاوية 88.5 درجة", "عمر بطارية يصل إلى 5 سنوات"],
+        "inTheBox": ["كاشف MotionProtect Plus", "بطارية CR123A", "حامل تثبيت", "طقم تركيب", "دليل البدء السريع"]
+      },
+      "zh": {
+        "name": "Ajax MotionProtect Plus 移动探测器",
+        "tagline": "双技术探测，宠物免疫可达 20 公斤。",
+        "description": "移动探测器结合被动红外与微波双重技术，可靠性更高，更能抵御误报。宠物免疫功能可保护饲养猫咪或体重不超过 20 公斤小型犬的家庭，同时不影响 12 米的探测距离。电池续航长达 5 年。",
+        "highlights": ["PIR 加微波双技术", "宠物免疫可达 20 公斤", "探测距离 12 米，角度 88.5°", "电池续航长达 5 年"],
+        "inTheBox": ["MotionProtect Plus 探测器", "CR123A 电池", "安装支架", "安装套件", "快速入门指南"]
+      }
+    },
+    "attributes": { "protocol": ["rf-proprietaire"], "placement": "interieur", "power": ["pile"], "compat": ["app-marque", "safer-platform"] },
+    "specs": [
+      { "key": "detectionRange", "value": "12 m, angle 88,5°" },
+      { "key": "detectionType", "value": "PIR + micro-ondes (double technologie)" },
+      { "key": "petImmunity", "value": "≤ 20 kg" },
+      {
+        "key": "battery",
+        "value": {
+          "fr": "1× CR123A, jusqu'à 5 ans",
+          "en": "1× CR123A, up to 5 years",
+          "es": "1× CR123A, hasta 5 años",
+          "ar": "بطارية CR123A واحدة، حتى 5 سنوات",
+          "zh": "1节CR123A电池，续航最长5年"
+        }
+      },
+      {
+        "key": "range",
+        "value": {
+          "fr": "Jeweller jusqu'à 1300 m",
+          "en": "Jeweller up to 1300 m",
+          "es": "Jeweller hasta 1300 m",
+          "ar": "Jeweller حتى 1300 م",
+          "zh": "Jeweller协议最远1300米"
+        }
+      },
+      {
+        "key": "tamper",
+        "value": {
+          "fr": "Anti-sabotage et anti-masquage",
+          "en": "Anti-tamper and anti-masking",
+          "es": "Antisabotaje y antienmascaramiento",
+          "ar": "مقاوم للعبث ومضاد للتمويه",
+          "zh": "防拆防遮挡"
+        }
+      },
+      { "key": "operatingTemp", "value": "-10 °C … +40 °C" }
+    ],
+    "pricing": { "sourcePrice": 59, "sourceCurrency": "EUR" },
+    "availability": "sur-commande",
+    "warrantyMonths": 24,
+    "install": { "level": "simple", "duration": "15 min", "prerequisites": { "fr": "Aucun câblage nécessaire, pose autocollante ou vissée.", "en": "No wiring required, adhesive or screw mounting.", "es": "No requiere cableado, montaje adhesivo o atornillado.", "ar": "لا حاجة للأسلاك، تركيب لاصق أو بالبراغي.", "zh": "无需布线，可粘贴或螺丝安装。" } },
+    "sourceUrl": "https://ajax.systems/products/motionprotect-plus/",
+    "accent": "#52c6ff",
+    "symbol": "◎",
+    "solutions": ["alarmes-connectees/detection-intrusion"],
+    "related": ["ajax-hub-2-plus", "ajax-doorprotect-plus"]
+  },
+  {
+    "id": "ajax-doorprotect",
+    "sku": "AJ-DOORPROTECT",
+    "brand": "ajax",
+    "sourceBrand": "Ajax Systems",
+    "model": "DoorProtect",
+    "category": "alarme",
+    "subcategory": "detecteurs-ouverture",
+    "i18n": {
+      "fr": {
+        "name": "Ajax DoorProtect",
+        "tagline": "Détecteur d'ouverture pour portes et fenêtres.",
+        "description": "Détecteur d'ouverture sans fil à contact magnétique, pour portes, fenêtres ou portails. Il intègre un capteur de température et une protection anti-sabotage, avec une autonomie de pile pouvant atteindre 7 ans. Le petit boîtier discret se fixe en quelques minutes sur tout type de menuiserie.",
+        "highlights": ["Contact magnétique fiable, distance réglable", "Capteur de température intégré", "Autonomie de la pile jusqu'à 7 ans", "Boîtier compact et discret"],
+        "inTheBox": ["Détecteur DoorProtect", "Aimant", "Pile CR123A", "Adhésif double face", "Guide de démarrage"]
+      },
+      "en": {
+        "name": "Ajax DoorProtect",
+        "tagline": "Opening detector for doors and windows.",
+        "description": "Wireless magnetic contact detector for doors, windows or gates. It includes a built-in temperature sensor and anti-tamper protection, with battery life reaching up to 7 years. The compact, discreet housing mounts on any frame in just a few minutes.",
+        "highlights": ["Reliable magnetic contact, adjustable gap", "Built-in temperature sensor", "Battery life up to 7 years", "Compact, discreet housing"],
+        "inTheBox": ["DoorProtect detector", "Magnet", "CR123A battery", "Double-sided tape", "Quick start guide"]
+      },
+      "es": {
+        "name": "Ajax DoorProtect",
+        "tagline": "Detector de apertura para puertas y ventanas.",
+        "description": "Detector de apertura inalámbrico con contacto magnético para puertas, ventanas o portones. Incluye un sensor de temperatura integrado y protección antisabotaje, con una batería que dura hasta 7 años. Su carcasa compacta y discreta se instala en minutos sobre cualquier marco.",
+        "highlights": ["Contacto magnético fiable, distancia ajustable", "Sensor de temperatura integrado", "Duración de la batería de hasta 7 años", "Carcasa compacta y discreta"],
+        "inTheBox": ["Detector DoorProtect", "Imán", "Pila CR123A", "Cinta adhesiva de doble cara", "Guía de inicio rápido"]
+      },
+      "ar": {
+        "name": "Ajax DoorProtect",
+        "tagline": "كاشف فتح للأبواب والنوافذ.",
+        "description": "كاشف فتح لاسلكي بملامسة مغناطيسية للأبواب أو النوافذ أو البوابات. يتضمن حساس حرارة مدمجاً وحماية ضد العبث، مع عمر بطارية يصل إلى 7 سنوات. تُركَّب علبته المدمجة وغير الملحوظة على أي إطار خلال دقائق.",
+        "highlights": ["ملامسة مغناطيسية موثوقة بمسافة قابلة للتعديل", "حساس حرارة مدمج", "عمر بطارية يصل إلى 7 سنوات", "علبة مدمجة وغير ملحوظة"],
+        "inTheBox": ["كاشف DoorProtect", "مغناطيس", "بطارية CR123A", "شريط لاصق ثنائي الوجه", "دليل البدء السريع"]
+      },
+      "zh": {
+        "name": "Ajax DoorProtect 门磁探测器",
+        "tagline": "适用于门窗的开合探测器。",
+        "description": "无线磁力开合探测器，适用于门、窗或大门。内置温度传感器和防拆保护，电池续航长达 7 年。小巧隐蔽的外壳可在数分钟内安装于任何门窗框架。",
+        "highlights": ["可靠磁力接触，间距可调", "内置温度传感器", "电池续航长达 7 年", "小巧隐蔽的外壳"],
+        "inTheBox": ["DoorProtect 探测器", "磁铁", "CR123A 电池", "双面胶", "快速入门指南"]
+      }
+    },
+    "attributes": { "protocol": ["rf-proprietaire"], "placement": "interieur-exterieur", "power": ["pile"], "compat": ["app-marque", "safer-platform"] },
+    "specs": [
+      {
+        "key": "detectionType",
+        "value": {
+          "fr": "Contact magnétique + capteur de température",
+          "en": "Magnetic contact + temperature sensor",
+          "es": "Contacto magnético + sensor de temperatura",
+          "ar": "تلامس مغناطيسي + مستشعر حرارة",
+          "zh": "磁触点+温度传感器"
+        }
+      },
+      {
+        "key": "range",
+        "value": {
+          "fr": "Jeweller jusqu'à 1300 m",
+          "en": "Jeweller up to 1300 m",
+          "es": "Jeweller hasta 1300 m",
+          "ar": "Jeweller حتى 1300 م",
+          "zh": "Jeweller协议最远1300米"
+        }
+      },
+      {
+        "key": "battery",
+        "value": {
+          "fr": "1× CR123A, jusqu'à 7 ans",
+          "en": "1× CR123A, up to 7 years",
+          "es": "1× CR123A, hasta 7 años",
+          "ar": "بطارية CR123A واحدة، حتى 7 سنوات",
+          "zh": "1节CR123A电池，续航最长7年"
+        }
+      },
+      {
+        "key": "tamper",
+        "value": {
+          "fr": "Anti-sabotage et anti-arrachement",
+          "en": "Anti-tamper and anti-pry",
+          "es": "Antisabotaje y antiarranque",
+          "ar": "مقاوم للعبث ومضاد للخلع",
+          "zh": "防拆防撬"
+        }
+      },
+      { "key": "dimensions", "value": "80 × 28 × 14 mm (+ aimant)" },
+      { "key": "operatingTemp", "value": "-10 °C … +40 °C" },
+      { "key": "weatherproof", "value": "IP44" }
+    ],
+    "pricing": { "sourcePrice": 32, "sourceCurrency": "EUR" },
+    "availability": "en-stock",
+    "warrantyMonths": 24,
+    "install": { "level": "simple", "duration": "15 min", "prerequisites": { "fr": "Aucun câblage nécessaire, pose autocollante ou vissée.", "en": "No wiring required, adhesive or screw mounting.", "es": "No requiere cableado, montaje adhesivo o atornillado.", "ar": "لا حاجة للأسلاك، تركيب لاصق أو بالبراغي.", "zh": "无需布线，可粘贴或螺丝安装。" } },
+    "sourceUrl": "https://ajax.systems/products/doorprotect/",
+    "accent": "#52c6ff",
+    "symbol": "▣",
+    "solutions": ["alarmes-connectees/detection-intrusion"],
+    "related": ["ajax-hub-2-4g", "ajax-motionprotect", "ajax-homesiren"]
+  },
+  {
+    "id": "ajax-doorprotect-plus",
+    "sku": "AJ-DOORPROTECT-PLUS",
+    "brand": "ajax",
+    "sourceBrand": "Ajax Systems",
+    "model": "DoorProtect Plus",
+    "category": "alarme",
+    "subcategory": "detecteurs-ouverture",
+    "i18n": {
+      "fr": {
+        "name": "Ajax DoorProtect Plus",
+        "tagline": "Ouverture, choc et inclinaison en un seul détecteur.",
+        "description": "Détecteur d'ouverture évolué combinant contact magnétique, détecteur de choc et capteur d'inclinaison, idéal pour les portails et volets métalliques. Il repère les tentatives de forçage ou de bris de vitrage et embarque un capteur de température, avec une autonomie de pile jusqu'à 5 ans. Indice IP55 pour une pose extérieure protégée.",
+        "highlights": ["Contact magnétique, choc et inclinaison combinés", "Détection des tentatives de bris ou forçage", "Indice IP55, pose extérieure possible", "Autonomie de la pile jusqu'à 5 ans"],
+        "inTheBox": ["Détecteur DoorProtect Plus", "Aimant", "Pile CR123A", "Kit de fixation", "Guide de démarrage"]
+      },
+      "en": {
+        "name": "Ajax DoorProtect Plus",
+        "tagline": "Opening, shock and tilt detection in one device.",
+        "description": "Advanced opening detector combining a magnetic contact, shock detector and tilt sensor, ideal for gates and metal shutters. It picks up forced-entry or glass-break attempts and includes a temperature sensor, with battery life up to 5 years. IP55 rating allows protected outdoor mounting.",
+        "highlights": ["Combined magnetic contact, shock and tilt sensing", "Detects forced-entry or glass-break attempts", "IP55 rating, outdoor mounting possible", "Battery life up to 5 years"],
+        "inTheBox": ["DoorProtect Plus detector", "Magnet", "CR123A battery", "Mounting kit", "Quick start guide"]
+      },
+      "es": {
+        "name": "Ajax DoorProtect Plus",
+        "tagline": "Apertura, golpe e inclinación en un solo detector.",
+        "description": "Detector de apertura avanzado que combina contacto magnético, detector de golpe y sensor de inclinación, ideal para portones y persianas metálicas. Detecta intentos de forzado o rotura de cristal e incorpora un sensor de temperatura, con una batería que dura hasta 5 años. Su clasificación IP55 permite una instalación exterior protegida.",
+        "highlights": ["Contacto magnético, golpe e inclinación combinados", "Detecta intentos de forzado o rotura de cristal", "Clasificación IP55, instalación exterior posible", "Duración de la batería de hasta 5 años"],
+        "inTheBox": ["Detector DoorProtect Plus", "Imán", "Pila CR123A", "Kit de fijación", "Guía de inicio rápido"]
+      },
+      "ar": {
+        "name": "Ajax DoorProtect Plus",
+        "tagline": "كشف الفتح والصدمة والميلان في جهاز واحد.",
+        "description": "كاشف فتح متطور يجمع بين ملامسة مغناطيسية وكاشف صدمة وحساس ميلان، مثالي للبوابات والستائر المعدنية. يرصد محاولات الاقتحام أو كسر الزجاج ويتضمن حساس حرارة، مع عمر بطارية يصل إلى 5 سنوات. تصنيف IP55 يتيح التركيب الخارجي المحمي.",
+        "highlights": ["ملامسة مغناطيسية وكشف صدمة وميلان مجتمعة", "كشف محاولات الاقتحام أو كسر الزجاج", "تصنيف IP55 يتيح التركيب الخارجي", "عمر بطارية يصل إلى 5 سنوات"],
+        "inTheBox": ["كاشف DoorProtect Plus", "مغناطيس", "بطارية CR123A", "طقم تثبيت", "دليل البدء السريع"]
+      },
+      "zh": {
+        "name": "Ajax DoorProtect Plus 门磁探测器",
+        "tagline": "一体化探测开合、震动与倾斜。",
+        "description": "进阶开合探测器集磁力接触、震动探测与倾斜传感于一体，适合大门与金属卷帘门。可识别强行闯入或玻璃破碎行为，并内置温度传感器，电池续航长达 5 年。IP55 防护等级支持有遮蔽的户外安装。",
+        "highlights": ["磁力接触、震动与倾斜三合一", "可识别强行闯入或玻璃破碎", "IP55 防护，支持户外安装", "电池续航长达 5 年"],
+        "inTheBox": ["DoorProtect Plus 探测器", "磁铁", "CR123A 电池", "固定套件", "快速入门指南"]
+      }
+    },
+    "attributes": { "protocol": ["rf-proprietaire"], "placement": "interieur-exterieur", "power": ["pile"], "compat": ["app-marque", "safer-platform"] },
+    "specs": [
+      {
+        "key": "detectionType",
+        "value": {
+          "fr": "Contact magnétique + choc + inclinaison",
+          "en": "Magnetic contact + shock + tilt",
+          "es": "Contacto magnético + choque + inclinación",
+          "ar": "تلامس مغناطيسي + صدمة + ميل",
+          "zh": "磁触点+震动+倾斜侦测"
+        }
+      },
+      {
+        "key": "sensitivity",
+        "value": {
+          "fr": "Réglable (détecteur de choc)",
+          "en": "Adjustable (shock detector)",
+          "es": "Ajustable (detector de choque)",
+          "ar": "قابل للتعديل (كاشف الصدمات)",
+          "zh": "可调节（震动检测器）"
+        }
+      },
+      {
+        "key": "range",
+        "value": {
+          "fr": "Jeweller jusqu'à 1300 m",
+          "en": "Jeweller up to 1300 m",
+          "es": "Jeweller hasta 1300 m",
+          "ar": "Jeweller حتى 1300 م",
+          "zh": "Jeweller协议最远1300米"
+        }
+      },
+      {
+        "key": "battery",
+        "value": {
+          "fr": "1× CR123A, jusqu'à 5 ans",
+          "en": "1× CR123A, up to 5 years",
+          "es": "1× CR123A, hasta 5 años",
+          "ar": "بطارية CR123A واحدة، حتى 5 سنوات",
+          "zh": "1节CR123A电池，续航最长5年"
+        }
+      },
+      {
+        "key": "tamper",
+        "value": {
+          "fr": "Anti-sabotage et anti-arrachement",
+          "en": "Anti-tamper and anti-pry",
+          "es": "Antisabotaje y antiarranque",
+          "ar": "مقاوم للعبث ومضاد للخلع",
+          "zh": "防拆防撬"
+        }
+      },
+      { "key": "weatherproof", "value": "IP55" },
+      { "key": "operatingTemp", "value": "-25 °C … +50 °C" }
+    ],
+    "pricing": { "sourcePrice": 40, "sourceCurrency": "EUR" },
+    "availability": "sur-commande",
+    "warrantyMonths": 24,
+    "install": { "level": "simple", "duration": "15 min", "prerequisites": { "fr": "Aucun câblage nécessaire, pose autocollante ou vissée.", "en": "No wiring required, adhesive or screw mounting.", "es": "No requiere cableado, montaje adhesivo o atornillado.", "ar": "لا حاجة للأسلاك، تركيب لاصق أو بالبراغي.", "zh": "无需布线，可粘贴或螺丝安装。" } },
+    "sourceUrl": "https://ajax.systems/products/doorprotect-plus/",
+    "accent": "#52c6ff",
+    "symbol": "▣",
+    "solutions": ["alarmes-connectees/detection-intrusion"],
+    "related": ["ajax-hub-2-plus", "ajax-motionprotect-plus", "ajax-streetsiren"]
+  },
+  {
+    "id": "ajax-fireprotect-2-hsc",
+    "sku": "AJ-FIREPROTECT2-HSC",
+    "brand": "ajax",
+    "sourceBrand": "Ajax Systems",
+    "model": "FireProtect 2 (Heat/Smoke/CO)",
+    "category": "alarme",
+    "subcategory": "detecteurs-fumee-gaz",
+    "i18n": {
+      "fr": {
+        "name": "Ajax FireProtect 2 (Heat/Smoke/CO)",
+        "tagline": "Fumée, chaleur et monoxyde de carbone dans un seul détecteur.",
+        "description": "Détecteur d'incendie triple fonction associant capteur optique de fumée, thermistance de chaleur et cellule de monoxyde de carbone. Sa sirène intégrée de 85 dB alerte immédiatement les occupants, tandis que la pile scellée offre jusqu'à 5 ans d'autonomie sans maintenance. Certifié EN 14604 pour la détection incendie résidentielle.",
+        "highlights": ["Triple détection fumée, chaleur et CO", "Sirène intégrée 85 dB à 1 m", "Autonomie de pile jusqu'à 5 ans", "Certifié EN 14604"],
+        "inTheBox": ["Détecteur FireProtect 2 (Heat/Smoke/CO)", "Support de fixation plafond", "Pile scellée", "Guide de démarrage"]
+      },
+      "en": {
+        "name": "Ajax FireProtect 2 (Heat/Smoke/CO)",
+        "tagline": "Smoke, heat and carbon monoxide in one detector.",
+        "description": "Three-in-one fire detector combining an optical smoke sensor, a heat thermistor and a carbon monoxide cell. Its built-in 85 dB siren alerts occupants immediately, while the sealed battery offers up to 5 years of maintenance-free operation. Certified to EN 14604 for residential fire detection.",
+        "highlights": ["Triple smoke, heat and CO detection", "Built-in 85 dB siren at 1 m", "Battery life up to 5 years", "EN 14604 certified"],
+        "inTheBox": ["FireProtect 2 (Heat/Smoke/CO) detector", "Ceiling mounting bracket", "Sealed battery", "Quick start guide"]
+      },
+      "es": {
+        "name": "Ajax FireProtect 2 (Heat/Smoke/CO)",
+        "tagline": "Humo, calor y monóxido de carbono en un solo detector.",
+        "description": "Detector de incendios tres en uno que combina un sensor óptico de humo, un termistor de calor y una celda de monóxido de carbono. Su sirena integrada de 85 dB alerta de inmediato a los ocupantes, mientras que la batería sellada ofrece hasta 5 años sin mantenimiento. Certificado según EN 14604 para detección de incendios residenciales.",
+        "highlights": ["Triple detección de humo, calor y CO", "Sirena integrada de 85 dB a 1 m", "Duración de la batería de hasta 5 años", "Certificado EN 14604"],
+        "inTheBox": ["Detector FireProtect 2 (Heat/Smoke/CO)", "Soporte de techo", "Batería sellada", "Guía de inicio rápido"]
+      },
+      "ar": {
+        "name": "Ajax FireProtect 2 (Heat/Smoke/CO)",
+        "tagline": "دخان وحرارة وأول أكسيد الكربون في كاشف واحد.",
+        "description": "كاشف حريق ثلاثي الوظائف يجمع بين حساس دخان بصري وحساس حرارة (ثرمستور) وخلية لأول أكسيد الكربون. تُنبّه صفارته المدمجة بقوة 85 ديسيبل الساكنين فوراً، بينما توفر بطاريته المختومة حتى 5 سنوات من التشغيل دون صيانة. معتمد وفق المعيار EN 14604 لكشف حرائق المساكن.",
+        "highlights": ["كشف ثلاثي للدخان والحرارة وأول أكسيد الكربون", "صفارة إنذار مدمجة بقوة 85 ديسيبل على بعد متر", "عمر بطارية يصل إلى 5 سنوات", "معتمد وفق EN 14604"],
+        "inTheBox": ["كاشف FireProtect 2 (Heat/Smoke/CO)", "حامل تثبيت للسقف", "بطارية مختومة", "دليل البدء السريع"]
+      },
+      "zh": {
+        "name": "Ajax FireProtect 2 (Heat/Smoke/CO) 火灾探测器",
+        "tagline": "烟雾、高温与一氧化碳三合一探测。",
+        "description": "三合一火灾探测器集光电烟雾传感器、热敏电阻与一氧化碳传感元件于一体。内置 85 分贝警笛可立即提醒住户，密封电池免维护续航长达 5 年。符合 EN 14604 住宅火灾探测认证标准。",
+        "highlights": ["烟雾、高温与一氧化碳三重探测", "内置 85 分贝警笛（1 米处）", "电池续航长达 5 年", "符合 EN 14604 认证"],
+        "inTheBox": ["FireProtect 2 (Heat/Smoke/CO) 探测器", "吸顶安装支架", "密封电池", "快速入门指南"]
+      }
+    },
+    "attributes": { "protocol": ["rf-proprietaire"], "placement": "interieur", "power": ["pile"], "compat": ["app-marque", "safer-platform"] },
+    "specs": [
+      {
+        "key": "detectionType",
+        "value": {
+          "fr": "Fumée optique + chaleur + CO",
+          "en": "Optical smoke + heat + CO",
+          "es": "Humo óptico + calor + CO",
+          "ar": "دخان بصري + حرارة + أول أكسيد الكربون",
+          "zh": "光电烟雾+高温+一氧化碳"
+        }
+      },
+      { "key": "siren", "value": "85 dB @ 1 m" },
+      {
+        "key": "battery",
+        "value": {
+          "fr": "Pile scellée, jusqu'à 5 ans",
+          "en": "Sealed battery, up to 5 years",
+          "es": "Pila sellada, hasta 5 años",
+          "ar": "بطارية مختومة، حتى 5 سنوات",
+          "zh": "密封电池，续航最长5年"
+        }
+      },
+      {
+        "key": "range",
+        "value": {
+          "fr": "Jeweller jusqu'à 1300 m",
+          "en": "Jeweller up to 1300 m",
+          "es": "Jeweller hasta 1300 m",
+          "ar": "Jeweller حتى 1300 م",
+          "zh": "Jeweller协议最远1300米"
+        }
+      },
+      { "key": "certifications", "value": "EN 14604" },
+      { "key": "operatingTemp", "value": "0 °C … +40 °C" },
+      {
+        "key": "tamper",
+        "value": {
+          "fr": "Anti-sabotage et anti-arrachement",
+          "en": "Anti-tamper and anti-pry",
+          "es": "Antisabotaje y antiarranque",
+          "ar": "مقاوم للعبث ومضاد للخلع",
+          "zh": "防拆防撬"
+        }
+      }
+    ],
+    "pricing": { "sourcePrice": 85, "sourceCurrency": "EUR" },
+    "availability": "sur-commande",
+    "warrantyMonths": 24,
+    "install": { "level": "simple", "duration": "15 min", "prerequisites": { "fr": "Aucun câblage nécessaire, pose au plafond, à distance des murs et bouches d'aération.", "en": "No wiring required, ceiling mounting away from walls and vents.", "es": "No requiere cableado, montaje en techo alejado de paredes y rejillas de ventilación.", "ar": "لا حاجة للأسلاك، تركيب على السقف بعيداً عن الجدران وفتحات التهوية.", "zh": "无需布线，安装于天花板，远离墙壁和通风口。" } },
+    "sourceUrl": "https://ajax.systems/products/fireprotect2-heat-smoke-co/",
+    "accent": "#52c6ff",
+    "symbol": "♨",
+    "solutions": ["alarmes-connectees/detection-incendie"],
+    "related": ["ajax-hub-2-4g", "ajax-homesiren"]
+  },
+  {
+    "id": "ajax-leaksprotect",
+    "sku": "AJ-LEAKSPROTECT",
+    "brand": "ajax",
+    "sourceBrand": "Ajax Systems",
+    "model": "LeaksProtect",
+    "category": "alarme",
+    "subcategory": "detecteurs-fuite",
+    "i18n": {
+      "fr": {
+        "name": "Ajax LeaksProtect",
+        "tagline": "Détecteur de fuite d'eau, alerte avant le dégât des eaux.",
+        "description": "Détecteur de fuite d'eau sans fil équipé de sondes de contact au sol, à poser près des points sensibles (chauffe-eau, machine à laver, sous évier). L'alerte instantanée est relayée à l'application SafeR et peut déclencher la fermeture automatique d'une vanne compatible. Indice IP54, autonomie de pile jusqu'à 5 ans.",
+        "highlights": ["Sondes de détection au contact du sol", "Alerte instantanée via l'application SafeR", "Compatible fermeture automatique de vanne", "Indice IP54, autonomie 5 ans"],
+        "inTheBox": ["Détecteur LeaksProtect", "Pile CR123A", "Vis de fixation", "Guide de démarrage"]
+      },
+      "en": {
+        "name": "Ajax LeaksProtect",
+        "tagline": "Water leak detector, alerts before damage happens.",
+        "description": "Wireless water leak detector with floor-contact probes, placed near risk points such as water heaters, washing machines or under sinks. The instant alert is relayed to the SafeR app and can trigger a compatible water valve to shut automatically. IP54 rated, with battery life up to 5 years.",
+        "highlights": ["Floor-contact detection probes", "Instant alert through the SafeR app", "Compatible with automatic valve shut-off", "IP54 rated, 5-year battery life"],
+        "inTheBox": ["LeaksProtect detector", "CR123A battery", "Mounting screws", "Quick start guide"]
+      },
+      "es": {
+        "name": "Ajax LeaksProtect",
+        "tagline": "Detector de fugas de agua, avisa antes del daño.",
+        "description": "Detector de fugas de agua inalámbrico con sondas de contacto en el suelo, ideal cerca de calentadores, lavadoras o bajo el fregadero. La alerta instantánea se envía a la app SafeR y puede activar el cierre automático de una válvula compatible. Clasificación IP54, con batería que dura hasta 5 años.",
+        "highlights": ["Sondas de detección por contacto con el suelo", "Alerta instantánea a través de la app SafeR", "Compatible con cierre automático de válvula", "Clasificación IP54, batería de 5 años"],
+        "inTheBox": ["Detector LeaksProtect", "Pila CR123A", "Tornillos de fijación", "Guía de inicio rápido"]
+      },
+      "ar": {
+        "name": "Ajax LeaksProtect",
+        "tagline": "كاشف تسرب المياه، ينذر قبل وقوع الضرر.",
+        "description": "كاشف تسرب مياه لاسلكي مزوّد بمجسات ملامسة أرضية، يُوضع قرب النقاط الحساسة مثل سخانات المياه والغسالات أو أسفل المغاسل. يُرسل التنبيه الفوري إلى تطبيق SafeR ويمكن أن يُفعّل إغلاق صمام متوافق تلقائياً. تصنيف IP54 وعمر بطارية يصل إلى 5 سنوات.",
+        "highlights": ["مجسات كشف بالملامسة الأرضية", "تنبيه فوري عبر تطبيق SafeR", "متوافق مع إغلاق الصمام التلقائي", "تصنيف IP54، عمر بطارية 5 سنوات"],
+        "inTheBox": ["كاشف LeaksProtect", "بطارية CR123A", "براغي تثبيت", "دليل البدء السريع"]
+      },
+      "zh": {
+        "name": "Ajax LeaksProtect 漏水探测器",
+        "tagline": "水浸探测器，损失发生前及时预警。",
+        "description": "无线水浸探测器配备地面接触式探针，可安装于热水器、洗衣机或水槽下方等高风险位置。触发时即时通过 SafeR 应用发出警报，并可联动兼容阀门自动关闭。防护等级 IP54，电池续航长达 5 年。",
+        "highlights": ["地面接触式检测探针", "通过 SafeR 应用即时报警", "支持联动自动关阀", "IP54 防护，电池续航 5 年"],
+        "inTheBox": ["LeaksProtect 探测器", "CR123A 电池", "固定螺丝", "快速入门指南"]
+      }
+    },
+    "attributes": { "protocol": ["rf-proprietaire"], "placement": "interieur", "power": ["pile"], "compat": ["app-marque", "safer-platform"] },
+    "specs": [
+      {
+        "key": "detectionType",
+        "value": {
+          "fr": "Sondes de contact au sol",
+          "en": "Ground contact probes",
+          "es": "Sondas de contacto con el suelo",
+          "ar": "مجسات تلامس أرضية",
+          "zh": "地面接触探头"
+        }
+      },
+      { "key": "weatherproof", "value": "IP54" },
+      {
+        "key": "battery",
+        "value": {
+          "fr": "1× CR123A, jusqu'à 5 ans",
+          "en": "1× CR123A, up to 5 years",
+          "es": "1× CR123A, hasta 5 años",
+          "ar": "بطارية CR123A واحدة، حتى 5 سنوات",
+          "zh": "1节CR123A电池，续航最长5年"
+        }
+      },
+      {
+        "key": "range",
+        "value": {
+          "fr": "Jeweller jusqu'à 1300 m",
+          "en": "Jeweller up to 1300 m",
+          "es": "Jeweller hasta 1300 m",
+          "ar": "Jeweller حتى 1300 م",
+          "zh": "Jeweller协议最远1300米"
+        }
+      },
+      {
+        "key": "tamper",
+        "value": {
+          "fr": "Anti-sabotage et anti-arrachement",
+          "en": "Anti-tamper and anti-pry",
+          "es": "Antisabotaje y antiarranque",
+          "ar": "مقاوم للعبث ومضاد للخلع",
+          "zh": "防拆防撬"
+        }
+      },
+      { "key": "operatingTemp", "value": "0 °C … +40 °C" }
+    ],
+    "pricing": { "sourcePrice": 40, "sourceCurrency": "EUR" },
+    "availability": "sur-commande",
+    "warrantyMonths": 24,
+    "install": { "level": "simple", "duration": "15 min", "prerequisites": { "fr": "Aucun câblage nécessaire, à poser au sol près du point à risque.", "en": "No wiring required, place on the floor near the risk point.", "es": "No requiere cableado, colocar en el suelo cerca del punto de riesgo.", "ar": "لا حاجة للأسلاك، يُوضع على الأرض قرب نقطة الخطر.", "zh": "无需布线，放置于风险点附近的地面。" } },
+    "sourceUrl": "https://ajax.systems/products/leaksprotect/",
+    "accent": "#52c6ff",
+    "symbol": "⌇",
+    "solutions": ["domotique/detection-fuites"],
+    "related": ["ajax-hub-2-4g", "ajax-hub-2-plus"]
+  },
+  {
+    "id": "ajax-homesiren",
+    "sku": "AJ-HOMESIREN",
+    "brand": "ajax",
+    "sourceBrand": "Ajax Systems",
+    "model": "HomeSiren",
+    "category": "alarme",
+    "subcategory": "sirenes",
+    "i18n": {
+      "fr": {
+        "name": "Ajax HomeSiren",
+        "tagline": "Sirène intérieure puissante et discrète.",
+        "description": "Sirène d'intérieur sans fil délivrant jusqu'à 105 dB accompagnés d'un flash lumineux pour dissuader et signaler une intrusion. Le boîtier compact intègre une protection anti-sabotage et anti-arrachement, avec une autonomie de pile jusqu'à 5 ans. Volume et mélodies configurables depuis l'application SafeR.",
+        "highlights": ["Sirène jusqu'à 105 dB et flash lumineux", "Anti-sabotage et anti-arrachement", "Autonomie de la pile jusqu'à 5 ans", "Volume et mélodies configurables"],
+        "inTheBox": ["Sirène HomeSiren", "Piles", "Kit de fixation antisabotage", "Guide de démarrage"]
+      },
+      "en": {
+        "name": "Ajax HomeSiren",
+        "tagline": "A powerful, discreet indoor siren.",
+        "description": "Wireless indoor siren delivering up to 105 dB combined with a strobe light to deter and signal an intrusion. The compact housing includes anti-tamper and anti-removal protection, with battery life up to 5 years. Volume and melodies are configurable from the SafeR app.",
+        "highlights": ["Siren up to 105 dB with strobe light", "Anti-tamper and anti-removal protection", "Battery life up to 5 years", "Configurable volume and melodies"],
+        "inTheBox": ["HomeSiren", "Batteries", "Anti-tamper mounting kit", "Quick start guide"]
+      },
+      "es": {
+        "name": "Ajax HomeSiren",
+        "tagline": "Sirena interior potente y discreta.",
+        "description": "Sirena inalámbrica de interior que emite hasta 105 dB junto con un flash luminoso para disuadir y señalar una intrusión. Su carcasa compacta incluye protección antisabotaje y antiarranque, con una batería que dura hasta 5 años. El volumen y las melodías se configuran desde la app SafeR.",
+        "highlights": ["Sirena de hasta 105 dB con flash luminoso", "Protección antisabotaje y antiarranque", "Duración de la batería de hasta 5 años", "Volumen y melodías configurables"],
+        "inTheBox": ["Sirena HomeSiren", "Pilas", "Kit de fijación antisabotaje", "Guía de inicio rápido"]
+      },
+      "ar": {
+        "name": "Ajax HomeSiren",
+        "tagline": "صفارة داخلية قوية وغير ملحوظة.",
+        "description": "صفارة إنذار داخلية لاسلكية تصدر حتى 105 ديسيبل مع فلاش ضوئي لردع الاقتحام والإشارة إليه. تتضمن علبتها المدمجة حماية ضد العبث والانتزاع، مع عمر بطارية يصل إلى 5 سنوات. يمكن ضبط مستوى الصوت والألحان من تطبيق SafeR.",
+        "highlights": ["صفارة حتى 105 ديسيبل مع فلاش ضوئي", "حماية ضد العبث والانتزاع", "عمر بطارية يصل إلى 5 سنوات", "مستوى صوت وألحان قابلة للضبط"],
+        "inTheBox": ["صفارة HomeSiren", "بطاريات", "طقم تثبيت مقاوم للعبث", "دليل البدء السريع"]
+      },
+      "zh": {
+        "name": "Ajax HomeSiren 室内警笛",
+        "tagline": "强劲而低调的室内警笛。",
+        "description": "无线室内警笛可发出高达 105 分贝的声响并配合频闪灯，有效震慑并示警入侵行为。紧凑外壳具备防拆与防拆卸保护，电池续航长达 5 年。音量与提示音可通过 SafeR 应用自定义配置。",
+        "highlights": ["警笛音量高达 105 分贝并配频闪灯", "防拆与防拆卸保护", "电池续航长达 5 年", "音量与铃声可自定义"],
+        "inTheBox": ["HomeSiren 警笛", "电池", "防拆固定套件", "快速入门指南"]
+      }
+    },
+    "attributes": { "protocol": ["rf-proprietaire"], "placement": "interieur", "power": ["pile"], "compat": ["app-marque", "safer-platform"] },
+    "specs": [
+      { "key": "siren", "value": "105 dB @ 1 m" },
+      {
+        "key": "sirenLevel",
+        "value": {
+          "fr": "Volume réglable sur 3 niveaux",
+          "en": "Adjustable volume, 3 levels",
+          "es": "Volumen ajustable en 3 niveles",
+          "ar": "مستوى صوت قابل للتعديل، 3 مستويات",
+          "zh": "音量可调，3档"
+        }
+      },
+      {
+        "key": "battery",
+        "value": {
+          "fr": "Piles, jusqu'à 5 ans",
+          "en": "Batteries, up to 5 years",
+          "es": "Pilas, hasta 5 años",
+          "ar": "بطاريات، حتى 5 سنوات",
+          "zh": "电池供电，续航最长5年"
+        }
+      },
+      {
+        "key": "range",
+        "value": {
+          "fr": "Jeweller jusqu'à 1300 m",
+          "en": "Jeweller up to 1300 m",
+          "es": "Jeweller hasta 1300 m",
+          "ar": "Jeweller حتى 1300 م",
+          "zh": "Jeweller协议最远1300米"
+        }
+      },
+      {
+        "key": "tamper",
+        "value": {
+          "fr": "Anti-sabotage et anti-arrachement",
+          "en": "Anti-tamper and anti-pry",
+          "es": "Antisabotaje y antiarranque",
+          "ar": "مقاوم للعبث ومضاد للخلع",
+          "zh": "防拆防撬"
+        }
+      },
+      { "key": "operatingTemp", "value": "-10 °C … +40 °C" }
+    ],
+    "pricing": { "sourcePrice": 65, "sourceCurrency": "EUR" },
+    "availability": "sur-commande",
+    "warrantyMonths": 24,
+    "install": { "level": "simple", "duration": "20 min", "prerequisites": { "fr": "Aucun câblage nécessaire, pose murale en hauteur recommandée.", "en": "No wiring required, high wall mounting recommended.", "es": "No requiere cableado, se recomienda montaje en pared a cierta altura.", "ar": "لا حاجة للأسلاك، يُفضَّل التركيب على الحائط في موضع مرتفع.", "zh": "无需布线，建议安装于较高的墙面位置。" } },
+    "sourceUrl": "https://ajax.systems/products/homesiren/",
+    "accent": "#52c6ff",
+    "symbol": "⚡",
+    "solutions": ["alarmes-connectees/detection-intrusion"],
+    "related": ["ajax-hub-2-4g", "ajax-motionprotect", "ajax-doorprotect"]
+  },
+  {
+    "id": "ajax-streetsiren",
+    "sku": "AJ-STREETSIREN",
+    "brand": "ajax",
+    "sourceBrand": "Ajax Systems",
+    "model": "StreetSiren",
+    "category": "alarme",
+    "subcategory": "sirenes",
+    "i18n": {
+      "fr": {
+        "name": "Ajax StreetSiren",
+        "tagline": "Sirène extérieure résistante aux intempéries.",
+        "description": "Sirène extérieure sans fil délivrant jusqu'à 113 dB accompagnée d'un flash LED haute intensité, boîtier étanche IP54 conçu pour un usage extérieur toute saison. Elle intègre une protection anti-brouillage radio, un capteur anti-arrachement et fonctionne sur batterie rechargeable avec alimentation secteur en option. Design compact pour une pose en façade ou sous auvent.",
+        "highlights": ["Sirène jusqu'à 113 dB avec flash LED", "Boîtier étanche IP54, usage extérieur", "Protection anti-brouillage et anti-arrachement", "Batterie rechargeable, secteur en option"],
+        "inTheBox": ["Sirène StreetSiren", "Support de fixation", "Batterie rechargeable", "Visserie", "Guide de démarrage"]
+      },
+      "en": {
+        "name": "Ajax StreetSiren",
+        "tagline": "A weatherproof outdoor siren.",
+        "description": "Wireless outdoor siren delivering up to 113 dB combined with a high-intensity LED strobe, in a weatherproof IP54 housing built for year-round outdoor use. It includes radio jamming protection, an anti-removal sensor, and runs on a rechargeable battery with optional mains power. Its compact design suits a façade or covered mounting.",
+        "highlights": ["Siren up to 113 dB with LED strobe", "IP54 weatherproof housing for outdoor use", "Jamming and anti-removal protection", "Rechargeable battery, optional mains power"],
+        "inTheBox": ["StreetSiren", "Mounting bracket", "Rechargeable battery", "Screws", "Quick start guide"]
+      },
+      "es": {
+        "name": "Ajax StreetSiren",
+        "tagline": "Sirena exterior resistente a la intemperie.",
+        "description": "Sirena exterior inalámbrica que emite hasta 113 dB junto con un flash LED de alta intensidad, en una carcasa IP54 resistente pensada para uso exterior durante todo el año. Incluye protección contra interferencias radiales, sensor antiarranque y funciona con batería recargable con alimentación de red opcional. Su diseño compacto se adapta a fachadas o zonas cubiertas.",
+        "highlights": ["Sirena de hasta 113 dB con flash LED", "Carcasa IP54 resistente para exteriores", "Protección antiinterferencias y antiarranque", "Batería recargable, red eléctrica opcional"],
+        "inTheBox": ["Sirena StreetSiren", "Soporte de fijación", "Batería recargable", "Tornillería", "Guía de inicio rápido"]
+      },
+      "ar": {
+        "name": "Ajax StreetSiren",
+        "tagline": "صفارة خارجية مقاومة لعوامل الطقس.",
+        "description": "صفارة إنذار خارجية لاسلكية تصدر حتى 113 ديسيبل مع فلاش LED عالي الكثافة، في علبة مقاومة للماء بتصنيف IP54 مصممة للاستخدام الخارجي طوال العام. تتضمن حماية ضد تشويش الراديو وحساس مقاوم للانتزاع، وتعمل ببطارية قابلة لإعادة الشحن مع إمكانية التغذية بالتيار الكهربائي. تصميمها المدمج يناسب التركيب على الواجهات أو الأماكن المظللة.",
+        "highlights": ["صفارة حتى 113 ديسيبل مع فلاش LED", "علبة مقاومة للماء بتصنيف IP54", "حماية ضد التشويش والانتزاع", "بطارية قابلة لإعادة الشحن مع خيار التيار الكهربائي"],
+        "inTheBox": ["صفارة StreetSiren", "حامل تثبيت", "بطارية قابلة لإعادة الشحن", "براغي", "دليل البدء السريع"]
+      },
+      "zh": {
+        "name": "Ajax StreetSiren 室外警笛",
+        "tagline": "耐候型室外警笛。",
+        "description": "无线室外警笛可发出高达 113 分贝的声响并配合高强度 LED 频闪灯，IP54 防水外壳适合全年户外使用。具备无线干扰防护与防拆卸传感器，采用可充电电池供电，也可选配市电供电。紧凑设计适合安装于外墙或有遮蔽处。",
+        "highlights": ["警笛音量高达 113 分贝并配 LED 频闪灯", "IP54 防水外壳，适合户外使用", "抗干扰与防拆卸保护", "可充电电池，支持市电供电"],
+        "inTheBox": ["StreetSiren 警笛", "安装支架", "可充电电池", "螺丝", "快速入门指南"]
+      }
+    },
+    "attributes": { "protocol": ["rf-proprietaire"], "placement": "exterieur", "power": ["pile", "secteur"], "compat": ["app-marque", "safer-platform"] },
+    "specs": [
+      { "key": "siren", "value": "113 dB @ 1 m" },
+      { "key": "weatherproof", "value": "IP54" },
+      { "key": "tamper", "value": "Anti-sabotage, anti-arrachement, anti-brouillage" },
+      {
+        "key": "battery",
+        "value": {
+          "fr": "Batterie rechargeable, secteur en option",
+          "en": "Rechargeable battery, mains optional",
+          "es": "Batería recargable, red eléctrica opcional",
+          "ar": "بطارية قابلة لإعادة الشحن، كهرباء المنزل اختيارية",
+          "zh": "可充电电池，可选市电供电"
+        }
+      },
+      {
+        "key": "range",
+        "value": {
+          "fr": "Jeweller jusqu'à 1700 m",
+          "en": "Jeweller up to 1700 m",
+          "es": "Jeweller hasta 1700 m",
+          "ar": "Jeweller حتى 1700 م",
+          "zh": "Jeweller协议最远1700米"
+        }
+      },
+      { "key": "operatingTemp", "value": "-25 °C … +50 °C" }
+    ],
+    "pricing": { "sourcePrice": 105, "sourceCurrency": "EUR" },
+    "availability": "sur-commande",
+    "warrantyMonths": 24,
+    "install": { "level": "standard", "duration": "45 min", "prerequisites": { "fr": "Emplacement extérieur protégé, alimentation secteur à proximité recommandée.", "en": "Protected outdoor location, nearby mains power recommended.", "es": "Ubicación exterior protegida, se recomienda alimentación de red cercana.", "ar": "موقع خارجي محمي، يُفضَّل توفر تيار كهربائي قريب.", "zh": "有遮蔽的户外位置，建议附近有市电。" } },
+    "sourceUrl": "https://ajax.systems/products/streetsiren/",
+    "accent": "#52c6ff",
+    "symbol": "⚡",
+    "solutions": ["alarmes-connectees/detection-intrusion"],
+    "related": ["ajax-hub-2-plus", "ajax-doorprotect-plus"]
+  },
+  {
+    "id": "ajax-keypad-plus",
+    "sku": "AJ-KEYPADPLUS",
+    "brand": "ajax",
+    "sourceBrand": "Ajax Systems",
+    "model": "KeyPad Plus",
+    "category": "alarme",
+    "subcategory": "claviers-telecommandes",
+    "i18n": {
+      "fr": {
+        "name": "Ajax KeyPad Plus",
+        "tagline": "Clavier tactile pour armer et désarmer en toute simplicité.",
+        "description": "Clavier de commande sans fil pour armer, désarmer ou déclencher un scénario par code ou carte/porte-clés sans contact. Son écran rétroéclairé et son buzzer intégré confirment chaque action, avec gestion de jusqu'à 200 utilisateurs et codes individuels. Autonomie de pile jusqu'à 2 ans en usage courant.",
+        "highlights": ["Armement par code ou carte sans contact", "Jusqu'à 200 utilisateurs avec codes individuels", "Écran rétroéclairé et buzzer de confirmation", "Autonomie de pile jusqu'à 2 ans"],
+        "inTheBox": ["Clavier KeyPad Plus", "2 porte-clés sans contact", "Pile CR123A", "Kit de fixation", "Guide de démarrage"]
+      },
+      "en": {
+        "name": "Ajax KeyPad Plus",
+        "tagline": "A touch keypad for simple arming and disarming.",
+        "description": "Wireless keypad to arm, disarm or trigger a scenario by code or contactless card/keyfob. Its backlit display and built-in buzzer confirm every action, with support for up to 200 users with individual codes. Battery life reaches up to 2 years in typical use.",
+        "highlights": ["Arm by code or contactless card", "Up to 200 users with individual codes", "Backlit display and confirmation buzzer", "Battery life up to 2 years"],
+        "inTheBox": ["KeyPad Plus", "2 contactless keyfobs", "CR123A battery", "Mounting kit", "Quick start guide"]
+      },
+      "es": {
+        "name": "Ajax KeyPad Plus",
+        "tagline": "Teclado táctil para armar y desarmar con sencillez.",
+        "description": "Teclado inalámbrico para armar, desarmar o activar un escenario mediante código o tarjeta/llavero sin contacto. Su pantalla retroiluminada y su zumbador integrado confirman cada acción, con soporte para hasta 200 usuarios con códigos individuales. La batería dura hasta 2 años en uso habitual.",
+        "highlights": ["Armado por código o tarjeta sin contacto", "Hasta 200 usuarios con códigos individuales", "Pantalla retroiluminada y zumbador de confirmación", "Duración de la batería de hasta 2 años"],
+        "inTheBox": ["Teclado KeyPad Plus", "2 llaveros sin contacto", "Pila CR123A", "Kit de fijación", "Guía de inicio rápido"]
+      },
+      "ar": {
+        "name": "Ajax KeyPad Plus",
+        "tagline": "لوحة مفاتيح لمسية للتسليح ونزع التسليح بسهولة.",
+        "description": "لوحة مفاتيح لاسلكية للتسليح أو نزع التسليح أو تفعيل سيناريو عبر رمز أو بطاقة/مفتاح دون تلامس. تؤكد شاشتها المضاءة من الخلف وجرسها المدمج كل عملية، مع دعم حتى 200 مستخدم برموز فردية. تصل عمر البطارية إلى سنتين في الاستخدام المعتاد.",
+        "highlights": ["تسليح عبر رمز أو بطاقة دون تلامس", "حتى 200 مستخدم برموز فردية", "شاشة مضاءة من الخلف وجرس تأكيد", "عمر بطارية يصل إلى سنتين"],
+        "inTheBox": ["لوحة KeyPad Plus", "مفتاحان دون تلامس", "بطارية CR123A", "طقم تثبيت", "دليل البدء السريع"]
+      },
+      "zh": {
+        "name": "Ajax KeyPad Plus 键盘",
+        "tagline": "触控键盘，轻松布防撤防。",
+        "description": "无线键盘可通过密码或非接触式卡片/钥匙扣布防、撤防或触发场景。背光屏幕与内置蜂鸣器可确认每次操作，支持最多 200 名用户及独立密码。日常使用下电池续航长达 2 年。",
+        "highlights": ["密码或非接触卡片布防", "最多 200 名用户及独立密码", "背光屏幕与确认蜂鸣器", "电池续航长达 2 年"],
+        "inTheBox": ["KeyPad Plus 键盘", "2 个非接触式钥匙扣", "CR123A 电池", "固定套件", "快速入门指南"]
+      }
+    },
+    "attributes": { "protocol": ["rf-proprietaire"], "placement": "interieur", "power": ["pile"], "compat": ["app-marque", "safer-platform"] },
+    "specs": [
+      {
+        "key": "users",
+        "value": {
+          "fr": "Jusqu'à 200 utilisateurs",
+          "en": "Up to 200 users",
+          "es": "Hasta 200 usuarios",
+          "ar": "حتى 200 مستخدم",
+          "zh": "最多支持200个用户"
+        }
+      },
+      {
+        "key": "unlockMethods",
+        "value": {
+          "fr": "Code, carte/porte-clés sans contact",
+          "en": "Code, contactless card/fob",
+          "es": "Código, tarjeta/llavero sin contacto",
+          "ar": "رمز، بطاقة/ميدالية مفاتيح لاسلكية",
+          "zh": "密码、非接触式卡片/钥匙扣"
+        }
+      },
+      {
+        "key": "display",
+        "value": {
+          "fr": "Écran rétroéclairé",
+          "en": "Backlit display",
+          "es": "Pantalla retroiluminada",
+          "ar": "شاشة مضاءة من الخلف",
+          "zh": "背光显示屏"
+        }
+      },
+      {
+        "key": "battery",
+        "value": {
+          "fr": "1× CR123A, jusqu'à 2 ans",
+          "en": "1× CR123A, up to 2 years",
+          "es": "1× CR123A, hasta 2 años",
+          "ar": "بطارية CR123A واحدة، حتى سنتين",
+          "zh": "1节CR123A电池，续航最长2年"
+        }
+      },
+      {
+        "key": "range",
+        "value": {
+          "fr": "Jeweller jusqu'à 1300 m",
+          "en": "Jeweller up to 1300 m",
+          "es": "Jeweller hasta 1300 m",
+          "ar": "Jeweller حتى 1300 م",
+          "zh": "Jeweller协议最远1300米"
+        }
+      },
+      {
+        "key": "log",
+        "value": {
+          "fr": "Journal des accès horodaté",
+          "en": "Timestamped access log",
+          "es": "Registro de accesos con marca de tiempo",
+          "ar": "سجل دخول موثق بالوقت",
+          "zh": "带时间戳的出入记录"
+        }
+      }
+    ],
+    "pricing": { "sourcePrice": 70, "sourceCurrency": "EUR" },
+    "availability": "sur-commande",
+    "warrantyMonths": 24,
+    "install": { "level": "simple", "duration": "15 min", "prerequisites": { "fr": "Aucun câblage nécessaire, pose autocollante ou vissée.", "en": "No wiring required, adhesive or screw mounting.", "es": "No requiere cableado, montaje adhesivo o atornillado.", "ar": "لا حاجة للأسلاك، تركيب لاصق أو بالبراغي.", "zh": "无需布线，可粘贴或螺丝安装。" } },
+    "sourceUrl": "https://ajax.systems/products/keypad-plus/",
+    "accent": "#52c6ff",
+    "symbol": "▦",
+    "solutions": ["alarmes-connectees/detection-intrusion", "alarmes-connectees/bouton-sos"],
+    "related": ["ajax-hub-2-4g", "ajax-button", "ajax-spacecontrol"]
+  },
+  {
+    "id": "ajax-button",
+    "sku": "AJ-BUTTON",
+    "brand": "ajax",
+    "sourceBrand": "Ajax Systems",
+    "model": "Button",
+    "category": "alarme",
+    "subcategory": "boutons-sos",
+    "i18n": {
+      "fr": {
+        "name": "Ajax Button",
+        "tagline": "Bouton SOS portable, pour une alerte en une pression.",
+        "description": "Bouton d'urgence sans fil portable, étanche IP67, à porter en pendentif, sur un porte-clés ou fixé au mur. Une pression déclenche instantanément une alerte panique vers l'application SafeR et le centre de télésurveillance, avec double appui possible pour éviter les déclenchements accidentels. Autonomie de pile jusqu'à 5 ans.",
+        "highlights": ["Déclenchement immédiat d'une alerte panique", "Étanche IP67, portable ou fixe", "Double appui anti-déclenchement accidentel", "Autonomie de pile jusqu'à 5 ans"],
+        "inTheBox": ["Bouton SOS Button", "Pile CR2032", "Dragonne et clip de fixation", "Guide de démarrage"]
+      },
+      "en": {
+        "name": "Ajax Button",
+        "tagline": "A portable SOS button for one-press alerting.",
+        "description": "Portable wireless emergency button, IP67 waterproof, worn as a pendant, on a keyring or wall-mounted. A single press instantly triggers a panic alert to the SafeR app and the monitoring centre, with an optional double-press mode to prevent accidental triggers. Battery life reaches up to 5 years.",
+        "highlights": ["Instant panic alert on a single press", "IP67 waterproof, portable or wall-mounted", "Double-press mode against accidental triggers", "Battery life up to 5 years"],
+        "inTheBox": ["SOS Button", "CR2032 battery", "Wrist strap and mounting clip", "Quick start guide"]
+      },
+      "es": {
+        "name": "Ajax Button",
+        "tagline": "Botón SOS portátil, alerta con una sola pulsación.",
+        "description": "Botón de emergencia inalámbrico y portátil, con protección IP67, para llevar como colgante, en un llavero o fijado a la pared. Una sola pulsación activa al instante una alerta de pánico hacia la app SafeR y la central de monitoreo, con un modo de doble pulsación opcional para evitar activaciones accidentales. La batería dura hasta 5 años.",
+        "highlights": ["Alerta de pánico instantánea con una pulsación", "Protección IP67, portátil o fijo", "Modo de doble pulsación antiaccidental", "Duración de la batería de hasta 5 años"],
+        "inTheBox": ["Botón SOS Button", "Pila CR2032", "Correa y clip de fijación", "Guía de inicio rápido"]
+      },
+      "ar": {
+        "name": "Ajax Button",
+        "tagline": "زر استغاثة محمول، إنذار بضغطة واحدة.",
+        "description": "زر طوارئ لاسلكي محمول ومقاوم للماء بتصنيف IP67، يُلبس كقلادة أو على مفتاح أو يُثبَّت على الحائط. تُفعّل ضغطة واحدة إنذار استغاثة فورياً إلى تطبيق SafeR ومركز المراقبة، مع خيار الضغط المزدوج لمنع التفعيل العرضي. تصل عمر البطارية إلى 5 سنوات.",
+        "highlights": ["إنذار استغاثة فوري بضغطة واحدة", "مقاوم للماء IP67، محمول أو ثابت", "وضع الضغط المزدوج لمنع التفعيل العرضي", "عمر بطارية يصل إلى 5 سنوات"],
+        "inTheBox": ["زر الاستغاثة Button", "بطارية CR2032", "حزام معصم ومشبك تثبيت", "دليل البدء السريع"]
+      },
+      "zh": {
+        "name": "Ajax Button 求救按钮",
+        "tagline": "便携式 SOS 求救按钮，一键报警。",
+        "description": "便携式无线紧急按钮，IP67 防水，可作为吊坠佩戴、挂于钥匙圈或壁挂固定。单击即可立即向 SafeR 应用及监控中心触发求救警报，并支持双击防误触模式。电池续航长达 5 年。",
+        "highlights": ["单击立即触发求救警报", "IP67 防水，便携或壁挂", "双击防误触模式", "电池续航长达 5 年"],
+        "inTheBox": ["Button 求救按钮", "CR2032 电池", "腕带与固定夹", "快速入门指南"]
+      }
+    },
+    "attributes": { "protocol": ["rf-proprietaire"], "placement": "interieur-exterieur", "power": ["pile"], "compat": ["app-marque", "safer-platform"] },
+    "specs": [
+      {
+        "key": "detectionType",
+        "value": {
+          "fr": "Bouton d'urgence à pression",
+          "en": "Push emergency button",
+          "es": "Botón de emergencia por presión",
+          "ar": "زر طوارئ بالضغط",
+          "zh": "按压式紧急按钮"
+        }
+      },
+      { "key": "weatherproof", "value": "IP67" },
+      {
+        "key": "battery",
+        "value": {
+          "fr": "1× CR2032, jusqu'à 5 ans",
+          "en": "1× CR2032, up to 5 years",
+          "es": "1× CR2032, hasta 5 años",
+          "ar": "بطارية CR2032 واحدة، حتى 5 سنوات",
+          "zh": "1节CR2032电池，续航最长5年"
+        }
+      },
+      {
+        "key": "range",
+        "value": {
+          "fr": "Jeweller jusqu'à 1300 m",
+          "en": "Jeweller up to 1300 m",
+          "es": "Jeweller hasta 1300 m",
+          "ar": "Jeweller حتى 1300 م",
+          "zh": "Jeweller协议最远1300米"
+        }
+      },
+      {
+        "key": "tamper",
+        "value": {
+          "fr": "Détection d'arrachement",
+          "en": "Tamper detection",
+          "es": "Detección de sabotaje",
+          "ar": "كشف العبث",
+          "zh": "防拆侦测"
+        }
+      },
+      { "key": "dimensions", "value": "38 × 38 × 10 mm" }
+    ],
+    "pricing": { "sourcePrice": 35, "sourceCurrency": "EUR" },
+    "availability": "sur-commande",
+    "warrantyMonths": 24,
+    "install": { "level": "simple", "duration": "10 min", "prerequisites": { "fr": "Aucun câblage nécessaire, port sur soi ou pose murale.", "en": "No wiring required, worn or wall-mounted.", "es": "No requiere cableado, se lleva puesto o se monta en pared.", "ar": "لا حاجة للأسلاك، يُلبس أو يُركَّب على الحائط.", "zh": "无需布线，可随身佩戴或壁挂安装。" } },
+    "sourceUrl": "https://ajax.systems/products/button/",
+    "accent": "#52c6ff",
+    "symbol": "✚",
+    "solutions": ["alarmes-connectees/bouton-sos"],
+    "related": ["ajax-hub-2-4g", "ajax-keypad-plus"]
+  },
+  {
+    "id": "ajax-spacecontrol",
+    "sku": "AJ-SPACECONTROL",
+    "brand": "ajax",
+    "sourceBrand": "Ajax Systems",
+    "model": "SpaceControl",
+    "category": "alarme",
+    "subcategory": "claviers-telecommandes",
+    "i18n": {
+      "fr": {
+        "name": "Ajax SpaceControl",
+        "tagline": "Télécommande compacte pour armer sans sortir son téléphone.",
+        "description": "Télécommande sans fil à 4 boutons pour armer, désarmer, activer le mode nuit ou déclencher une alerte panique sans ouvrir l'application. Compacte et résistante aux chocs, elle se glisse sur un trousseau de clés et confirme chaque commande par un signal lumineux. Autonomie de pile jusqu'à 5 ans.",
+        "highlights": ["4 boutons pour les scénarios courants", "Confirmation par voyant lumineux", "Format compact, résistant aux chocs", "Autonomie de pile jusqu'à 5 ans"],
+        "inTheBox": ["Télécommande SpaceControl", "Pile CR2032", "Anneau porte-clés", "Guide de démarrage"]
+      },
+      "en": {
+        "name": "Ajax SpaceControl",
+        "tagline": "A compact remote to arm without reaching for your phone.",
+        "description": "Wireless 4-button remote control to arm, disarm, set night mode or trigger a panic alert without opening the app. Compact and impact resistant, it clips onto a keyring and confirms every command with a light signal. Battery life reaches up to 5 years.",
+        "highlights": ["4 buttons for common scenarios", "Light-signal command confirmation", "Compact, impact-resistant design", "Battery life up to 5 years"],
+        "inTheBox": ["SpaceControl remote", "CR2032 battery", "Keyring", "Quick start guide"]
+      },
+      "es": {
+        "name": "Ajax SpaceControl",
+        "tagline": "Mando compacto para armar sin usar el teléfono.",
+        "description": "Mando a distancia inalámbrico de 4 botones para armar, desarmar, activar el modo nocturno o disparar una alerta de pánico sin abrir la app. Compacto y resistente a golpes, se engancha a un llavero y confirma cada orden con una señal luminosa. La batería dura hasta 5 años.",
+        "highlights": ["4 botones para los escenarios habituales", "Confirmación por señal luminosa", "Formato compacto y resistente a golpes", "Duración de la batería de hasta 5 años"],
+        "inTheBox": ["Mando SpaceControl", "Pila CR2032", "Llavero", "Guía de inicio rápido"]
+      },
+      "ar": {
+        "name": "Ajax SpaceControl",
+        "tagline": "جهاز تحكم مدمج للتسليح دون الحاجة للهاتف.",
+        "description": "جهاز تحكم لاسلكي بأربعة أزرار للتسليح أو نزع التسليح أو تفعيل الوضع الليلي أو إطلاق إنذار استغاثة دون فتح التطبيق. مدمج ومقاوم للصدمات، يُعلَّق على حلقة مفاتيح ويؤكد كل أمر بإشارة ضوئية. تصل عمر البطارية إلى 5 سنوات.",
+        "highlights": ["4 أزرار للسيناريوهات الشائعة", "تأكيد الأوامر بإشارة ضوئية", "تصميم مدمج ومقاوم للصدمات", "عمر بطارية يصل إلى 5 سنوات"],
+        "inTheBox": ["جهاز التحكم SpaceControl", "بطارية CR2032", "حلقة مفاتيح", "دليل البدء السريع"]
+      },
+      "zh": {
+        "name": "Ajax SpaceControl 遥控器",
+        "tagline": "紧凑遥控器，无需掏出手机即可布防。",
+        "description": "四键无线遥控器，可在不打开应用的情况下布防、撤防、设置夜间模式或触发求救警报。外形紧凑抗摔，可挂于钥匙圈，每次操作均有指示灯确认。电池续航长达 5 年。",
+        "highlights": ["四键覆盖常用场景", "指示灯确认操作", "紧凑抗摔设计", "电池续航长达 5 年"],
+        "inTheBox": ["SpaceControl 遥控器", "CR2032 电池", "钥匙圈", "快速入门指南"]
+      }
+    },
+    "attributes": { "protocol": ["rf-proprietaire"], "placement": "interieur-exterieur", "power": ["pile"], "compat": ["app-marque", "safer-platform"] },
+    "specs": [
+      { "key": "unlockMethods", "value": "4 boutons programmables" },
+      {
+        "key": "range",
+        "value": {
+          "fr": "Jeweller jusqu'à 1300 m",
+          "en": "Jeweller up to 1300 m",
+          "es": "Jeweller hasta 1300 m",
+          "ar": "Jeweller حتى 1300 م",
+          "zh": "Jeweller协议最远1300米"
+        }
+      },
+      {
+        "key": "battery",
+        "value": {
+          "fr": "1× CR2032, jusqu'à 5 ans",
+          "en": "1× CR2032, up to 5 years",
+          "es": "1× CR2032, hasta 5 años",
+          "ar": "بطارية CR2032 واحدة، حتى 5 سنوات",
+          "zh": "1节CR2032电池，续航最长5年"
+        }
+      },
+      { "key": "weatherproof", "value": "IP54" },
+      { "key": "dimensions", "value": "60 × 32 × 10 mm" },
+      { "key": "operatingTemp", "value": "-20 °C … +50 °C" }
+    ],
+    "pricing": { "sourcePrice": 50, "sourceCurrency": "EUR" },
+    "availability": "sur-commande",
+    "warrantyMonths": 24,
+    "install": { "level": "simple", "duration": "10 min", "prerequisites": { "fr": "Aucun câblage nécessaire, appairage direct au Hub.", "en": "No wiring required, direct pairing with the Hub.", "es": "No requiere cableado, emparejamiento directo con el Hub.", "ar": "لا حاجة للأسلاك، اقتران مباشر مع اللوحة.", "zh": "无需布线，可直接与主机配对。" } },
+    "sourceUrl": "https://ajax.systems/products/spacecontrol/",
+    "accent": "#52c6ff",
+    "symbol": "◈",
+    "solutions": ["alarmes-connectees/detection-intrusion"],
+    "related": ["ajax-hub-2-4g", "ajax-keypad-plus"]
+  }
+]

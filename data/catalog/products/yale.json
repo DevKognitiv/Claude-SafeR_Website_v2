@@ -1,0 +1,766 @@
+[
+  {
+    "id": "yale-linus-smart-lock-l2",
+    "sku": "YL-LINUS-L2",
+    "brand": "yale",
+    "sourceBrand": "Yale",
+    "model": "Linus Smart Lock L2",
+    "category": "acces",
+    "subcategory": "serrures-connectees",
+    "i18n": {
+      "fr": {
+        "name": "Yale Linus Smart Lock L2",
+        "tagline": "La serrure connectée qui remplace votre verrou en 10 minutes.",
+        "description": "Serrure intelligente qui se fixe directement sur votre verrou existant, sans perçage ni remplacement de cylindre. Verrouillage et déverrouillage automatiques à l'approche, contrôle à distance et partage de clés numériques depuis l'application Yale Access. Radio Thread intégrée pour une intégration Matter native aux plateformes domotiques.",
+        "highlights": [
+          "Installation sans perçage en 10 minutes",
+          "Verrouillage automatique à l'approche",
+          "Matter natif via radio Thread intégrée",
+          "Clés numériques partageables et historique d'accès"
+        ],
+        "inTheBox": [
+          "Serrure Linus Smart Lock L2",
+          "Adaptateur de came universel",
+          "4 piles AA",
+          "Kit de fixation",
+          "Guide de démarrage"
+        ]
+      },
+      "en": {
+        "name": "Yale Linus Smart Lock L2",
+        "tagline": "The smart lock that replaces your deadbolt in 10 minutes.",
+        "description": "Smart lock that fits directly over your existing deadbolt, with no drilling and no cylinder replacement. Automatic lock and unlock on approach, remote control and digital key sharing from the Yale Access app. Built-in Thread radio for native Matter integration with smart-home platforms.",
+        "highlights": [
+          "No-drill installation in 10 minutes",
+          "Auto-lock and auto-unlock on approach",
+          "Native Matter via built-in Thread radio",
+          "Shareable digital keys and access history"
+        ],
+        "inTheBox": [
+          "Linus Smart Lock L2",
+          "Universal tailpiece adapter",
+          "4× AA batteries",
+          "Mounting kit",
+          "Quick start guide"
+        ]
+      },
+      "es": {
+        "name": "Yale Linus Smart Lock L2",
+        "tagline": "La cerradura inteligente que sustituye tu cerrojo en 10 minutos.",
+        "description": "Cerradura inteligente que se instala directamente sobre tu cerrojo actual, sin taladrar ni sustituir el cilindro. Bloqueo y desbloqueo automáticos al acercarte, control remoto y llaves digitales compartibles desde la app Yale Access. Radio Thread integrada para una integración Matter nativa con las plataformas de domótica.",
+        "highlights": [
+          "Instalación sin taladrar en 10 minutos",
+          "Bloqueo y desbloqueo automáticos al acercarte",
+          "Matter nativo mediante radio Thread integrada",
+          "Llaves digitales compartibles e historial de accesos"
+        ],
+        "inTheBox": [
+          "Cerradura Linus Smart Lock L2",
+          "Adaptador de leva universal",
+          "4 pilas AA",
+          "Kit de fijación",
+          "Guía de inicio rápido"
+        ]
+      },
+      "ar": {
+        "name": "Yale Linus Smart Lock L2",
+        "tagline": "قفل ذكي يستبدل مزلاجك الحالي خلال 10 دقائق.",
+        "description": "قفل ذكي يُركَّب مباشرة فوق المزلاج الحالي دون حفر أو استبدال الأسطوانة. يوفر إقفالاً وفتحاً تلقائياً عند الاقتراب، وتحكماً عن بعد ومشاركة مفاتيح رقمية عبر تطبيق Yale Access. يتضمن راديو Thread مدمجاً لتكامل Matter أصلي مع منصات المنزل الذكي.",
+        "highlights": [
+          "تركيب دون حفر خلال 10 دقائق",
+          "إقفال وفتح تلقائي عند الاقتراب",
+          "دعم Matter أصلي عبر راديو Thread مدمج",
+          "مفاتيح رقمية قابلة للمشاركة وسجل دخول"
+        ],
+        "inTheBox": [
+          "قفل Linus Smart Lock L2",
+          "محول ذراع عالمي",
+          "4 بطاريات AA",
+          "طقم تثبيت",
+          "دليل البدء السريع"
+        ]
+      },
+      "zh": {
+        "name": "Yale Linus Smart Lock L2 智能门锁",
+        "tagline": "10 分钟即可替换现有门锁的智能锁。",
+        "description": "智能门锁可直接安装于现有门锁把手之上，无需打孔或更换锁芯。靠近自动解锁、离开自动上锁，并可通过 Yale Access 应用远程控制与分享数字钥匙。内置 Thread 无线模块，原生支持 Matter 智能家居平台集成。",
+        "highlights": [
+          "10 分钟免打孔安装",
+          "靠近自动解锁、离开自动上锁",
+          "内置 Thread 无线模块，原生支持 Matter",
+          "可分享数字钥匙并记录访问历史"
+        ],
+        "inTheBox": [
+          "Linus Smart Lock L2 门锁",
+          "通用锁芯转接头",
+          "4 节 AA 电池",
+          "固定套件",
+          "快速入门指南"
+        ]
+      }
+    },
+    "attributes": {
+      "protocol": [
+        "bluetooth",
+        "thread-matter",
+        "zwave"
+      ],
+      "placement": "interieur",
+      "power": [
+        "pile"
+      ],
+      "compat": [
+        "apple-home",
+        "google",
+        "alexa",
+        "smartthings",
+        "matter",
+        "app-marque",
+        "safer-platform"
+      ]
+    },
+    "specs": [
+      {
+        "key": "unlockMethods",
+        "value": {
+          "fr": "Application, code, clé physique de secours, Matter",
+          "en": "App, code, physical backup key, Matter",
+          "es": "App, código, llave física de respaldo, Matter",
+          "ar": "التطبيق، الرمز، مفتاح احتياطي فعلي، Matter",
+          "zh": "App、密码、实体备用钥匙、Matter"
+        }
+      },
+      {
+        "key": "lockType",
+        "value": {
+          "fr": "Rétrofit sur verrou existant (came universelle)",
+          "en": "Retrofit on existing lock (universal cam)",
+          "es": "Retrofit sobre cerradura existente (leva universal)",
+          "ar": "تركيب على قفل موجود (كامة عالمية)",
+          "zh": "适配现有门锁（通用凸轮）"
+        }
+      },
+      {
+        "key": "battery",
+        "value": {
+          "fr": "4× AA, jusqu'à 6 mois",
+          "en": "4× AA, up to 6 months",
+          "es": "4× AA, hasta 6 meses",
+          "ar": "4× AA، حتى 6 أشهر",
+          "zh": "4节AA电池，续航长达6个月"
+        }
+      },
+      {
+        "key": "protocol",
+        "value": "Bluetooth, Thread (Matter), Z-Wave"
+      },
+      {
+        "key": "compatibility",
+        "value": "Apple Home, Google Home, Alexa, SmartThings"
+      },
+      {
+        "key": "log",
+        "value": {
+          "fr": "Historique d'accès horodaté",
+          "en": "Timestamped access history",
+          "es": "Historial de accesos con marca de tiempo",
+          "ar": "سجل وصول موثق بالوقت",
+          "zh": "带时间戳的访问记录"
+        }
+      },
+      {
+        "key": "operatingTemp",
+        "value": "-10 °C … +40 °C"
+      },
+      {
+        "key": "dimensions",
+        "value": "63 × 63 × 66 mm"
+      }
+    ],
+    "pricing": {
+      "sourcePrice": 279,
+      "sourceCurrency": "EUR"
+    },
+    "availability": "en-stock",
+    "warrantyMonths": 24,
+    "install": {
+      "level": "standard",
+      "duration": "20 min",
+      "prerequisites": {
+        "fr": "Verrou à mortaiser (cylindre européen) en bon état, sans câblage électrique.",
+        "en": "A working mortise deadbolt (Euro cylinder), no electrical wiring needed.",
+        "es": "Cerrojo de embutir (cilindro europeo) en buen estado, sin cableado eléctrico.",
+        "ar": "مزلاج مدمج (أسطوانة أوروبية) بحالة جيدة، دون الحاجة لأسلاك كهربائية.",
+        "zh": "需有可用的嵌入式插芯锁（欧式锁芯），无需电气布线。"
+      }
+    },
+    "sourceUrl": "https://yalehome.com/en-us/smart-locks/linus-smart-lock/",
+    "accent": "#111827",
+    "symbol": "⌂",
+    "featured": true,
+    "solutions": [
+      "controle-acces/serrures-intelligentes"
+    ],
+    "related": [
+      "yale-smart-keypad",
+      "yale-smart-cabinet-lock"
+    ]
+  },
+  {
+    "id": "yale-smart-keypad",
+    "sku": "YL-KEYPAD",
+    "brand": "yale",
+    "sourceBrand": "Yale",
+    "model": "Smart Keypad",
+    "category": "acces",
+    "subcategory": "lecteurs-claviers",
+    "i18n": {
+      "fr": {
+        "name": "Yale Smart Keypad",
+        "tagline": "Ouvrez par code, sans clé ni smartphone.",
+        "description": "Clavier numérique sans fil étanche IP65, associé en Bluetooth à une serrure Yale compatible pour ouvrir par code personnel. Chaque utilisateur dispose d'un code unique, activable ou révoqué à distance depuis l'application Yale Access. Boîtier rétroéclairé et résistant aux intempéries pour un usage extérieur toute l'année.",
+        "highlights": [
+          "Ouverture par code personnel, sans smartphone",
+          "Codes individuels activables à distance",
+          "Étanche IP65, usage extérieur",
+          "Association Bluetooth à la serrure Yale"
+        ],
+        "inTheBox": [
+          "Clavier Smart Keypad",
+          "Piles",
+          "Kit de fixation",
+          "Guide de démarrage"
+        ]
+      },
+      "en": {
+        "name": "Yale Smart Keypad",
+        "tagline": "Unlock with a code, no key or phone needed.",
+        "description": "Weatherproof IP65 wireless keypad, paired over Bluetooth to a compatible Yale lock, to unlock with a personal code. Each user gets a unique code, which can be enabled or revoked remotely from the Yale Access app. Backlit, weather-resistant housing for year-round outdoor use.",
+        "highlights": [
+          "Unlock by personal code, no phone needed",
+          "Individual codes managed remotely",
+          "IP65 weatherproof, outdoor use",
+          "Bluetooth pairing with your Yale lock"
+        ],
+        "inTheBox": [
+          "Smart Keypad",
+          "Batteries",
+          "Mounting kit",
+          "Quick start guide"
+        ]
+      },
+      "es": {
+        "name": "Yale Smart Keypad",
+        "tagline": "Abre con un código, sin llave ni teléfono.",
+        "description": "Teclado numérico inalámbrico con protección IP65, emparejado por Bluetooth con una cerradura Yale compatible para abrir mediante un código personal. Cada usuario dispone de un código único que se puede activar o revocar a distancia desde la app Yale Access. Carcasa retroiluminada y resistente a la intemperie para uso exterior todo el año.",
+        "highlights": [
+          "Apertura por código personal, sin teléfono",
+          "Códigos individuales gestionados a distancia",
+          "Protección IP65, uso exterior",
+          "Emparejamiento Bluetooth con tu cerradura Yale"
+        ],
+        "inTheBox": [
+          "Teclado Smart Keypad",
+          "Pilas",
+          "Kit de fijación",
+          "Guía de inicio rápido"
+        ]
+      },
+      "ar": {
+        "name": "Yale Smart Keypad",
+        "tagline": "افتح برمز شخصي دون مفتاح أو هاتف.",
+        "description": "لوحة مفاتيح رقمية لاسلكية مقاومة للماء بتصنيف IP65، تقترن عبر البلوتوث بقفل Yale متوافق للفتح برمز شخصي. يحصل كل مستخدم على رمز فريد يمكن تفعيله أو إلغاؤه عن بعد من تطبيق Yale Access. علبة مضاءة من الخلف ومقاومة للعوامل الجوية للاستخدام الخارجي طوال العام.",
+        "highlights": [
+          "فتح برمز شخصي دون الحاجة للهاتف",
+          "رموز فردية تُدار عن بعد",
+          "مقاومة للماء IP65، للاستخدام الخارجي",
+          "اقتران بلوتوث مع قفل Yale"
+        ],
+        "inTheBox": [
+          "لوحة Smart Keypad",
+          "بطاريات",
+          "طقم تثبيت",
+          "دليل البدء السريع"
+        ]
+      },
+      "zh": {
+        "name": "Yale Smart Keypad 密码键盘",
+        "tagline": "输入密码即可开锁，无需钥匙或手机。",
+        "description": "IP65 防水无线密码键盘，通过蓝牙与兼容的 Yale 门锁配对，输入个人密码即可开锁。每位用户拥有独立密码，可通过 Yale Access 应用远程启用或撤销。背光防风雨外壳，适合全年户外使用。",
+        "highlights": [
+          "个人密码开锁，无需手机",
+          "独立密码远程管理",
+          "IP65 防水，适合户外",
+          "蓝牙配对 Yale 门锁"
+        ],
+        "inTheBox": [
+          "Smart Keypad 键盘",
+          "电池",
+          "固定套件",
+          "快速入门指南"
+        ]
+      }
+    },
+    "attributes": {
+      "protocol": [
+        "bluetooth"
+      ],
+      "placement": "exterieur",
+      "power": [
+        "pile"
+      ],
+      "compat": [
+        "app-marque",
+        "safer-platform"
+      ]
+    },
+    "specs": [
+      {
+        "key": "unlockMethods",
+        "value": "Code personnel"
+      },
+      {
+        "key": "protocol",
+        "value": {
+          "fr": "Bluetooth (association à la serrure)",
+          "en": "Bluetooth (pairs with the lock)",
+          "es": "Bluetooth (emparejamiento con la cerradura)",
+          "ar": "بلوتوث (يقترن بالقفل)",
+          "zh": "蓝牙（与门锁配对）"
+        }
+      },
+      {
+        "key": "weatherproof",
+        "value": "IP65"
+      },
+      {
+        "key": "battery",
+        "value": {
+          "fr": "Piles, jusqu'à 12 mois",
+          "en": "Batteries, up to 12 months",
+          "es": "Pilas, hasta 12 meses",
+          "ar": "بطاريات، حتى 12 شهرًا",
+          "zh": "电池，续航长达12个月"
+        }
+      },
+      {
+        "key": "users",
+        "value": {
+          "fr": "Codes individuels illimités",
+          "en": "Unlimited individual codes",
+          "es": "Códigos individuales ilimitados",
+          "ar": "رموز فردية غير محدودة",
+          "zh": "无限个人密码"
+        }
+      },
+      {
+        "key": "display",
+        "value": {
+          "fr": "Clavier rétroéclairé",
+          "en": "Backlit keypad",
+          "es": "Teclado retroiluminado",
+          "ar": "لوحة مفاتيح مضاءة خلفيًا",
+          "zh": "背光键盘"
+        }
+      }
+    ],
+    "pricing": {
+      "sourcePrice": 65,
+      "sourceCurrency": "EUR"
+    },
+    "availability": "sur-commande",
+    "warrantyMonths": 24,
+    "install": {
+      "level": "simple",
+      "duration": "15 min",
+      "prerequisites": {
+        "fr": "Serrure Yale compatible déjà installée et appairable en Bluetooth.",
+        "en": "A compatible Yale lock already installed and ready to pair over Bluetooth.",
+        "es": "Una cerradura Yale compatible ya instalada y lista para emparejar por Bluetooth.",
+        "ar": "قفل Yale متوافق مُركَّب مسبقاً وجاهز للاقتران عبر البلوتوث.",
+        "zh": "需已安装可蓝牙配对的兼容 Yale 门锁。"
+      }
+    },
+    "sourceUrl": "https://yalehome.com/en-us/smart-locks/accessories/smart-keypad/",
+    "accent": "#111827",
+    "symbol": "▦",
+    "solutions": [
+      "controle-acces/gestion-visiteurs",
+      "controle-acces/serrures-intelligentes"
+    ],
+    "related": [
+      "yale-linus-smart-lock-l2"
+    ]
+  },
+  {
+    "id": "yale-smart-cabinet-lock",
+    "sku": "YL-CABINETLOCK",
+    "brand": "yale",
+    "sourceBrand": "Yale",
+    "model": "Smart Cabinet Lock",
+    "category": "acces",
+    "subcategory": "serrures-connectees",
+    "i18n": {
+      "fr": {
+        "name": "Yale Smart Cabinet Lock",
+        "tagline": "Verrouillez meubles, tiroirs et casiers par Bluetooth.",
+        "description": "Petite serrure connectée Bluetooth conçue pour les tiroirs, meubles, casiers ou armoires à pharmacie. Elle s'ouvre par smartphone ou code partagé temporairement, sans câblage ni perçage grâce à son adhésif renforcé. Fonctionne sur pile avec une autonomie de plusieurs mois et alerte en cas d'ouverture forcée.",
+        "highlights": [
+          "Ouverture par smartphone ou code partagé",
+          "Pose sans perçage, adhésif renforcé",
+          "Alerte en cas d'ouverture forcée",
+          "Autonomie de pile de plusieurs mois"
+        ],
+        "inTheBox": [
+          "Serrure Smart Cabinet Lock",
+          "Pile",
+          "Adhésif de fixation renforcé",
+          "Guide de démarrage"
+        ]
+      },
+      "en": {
+        "name": "Yale Smart Cabinet Lock",
+        "tagline": "Lock cabinets, drawers and lockers over Bluetooth.",
+        "description": "Small Bluetooth smart lock designed for drawers, cabinets, lockers or medicine cabinets. It opens by smartphone or a temporarily shared code, with no wiring or drilling thanks to its reinforced adhesive mount. Battery powered with several months of life, and it alerts on a forced-open attempt.",
+        "highlights": [
+          "Unlock by smartphone or shared code",
+          "No-drill mounting with reinforced adhesive",
+          "Alerts on forced-open attempts",
+          "Several months of battery life"
+        ],
+        "inTheBox": [
+          "Smart Cabinet Lock",
+          "Battery",
+          "Reinforced adhesive mount",
+          "Quick start guide"
+        ]
+      },
+      "es": {
+        "name": "Yale Smart Cabinet Lock",
+        "tagline": "Bloquea muebles, cajones y taquillas por Bluetooth.",
+        "description": "Pequeña cerradura inteligente Bluetooth pensada para cajones, muebles, taquillas o botiquines. Se abre desde el smartphone o con un código compartido temporalmente, sin cableado ni taladrado gracias a su adhesivo reforzado. Funciona con pila durante varios meses y avisa ante un intento de apertura forzada.",
+        "highlights": [
+          "Apertura desde el smartphone o código compartido",
+          "Montaje sin taladrar con adhesivo reforzado",
+          "Avisa ante intentos de apertura forzada",
+          "Varios meses de autonomía de pila"
+        ],
+        "inTheBox": [
+          "Cerradura Smart Cabinet Lock",
+          "Pila",
+          "Adhesivo de fijación reforzado",
+          "Guía de inicio rápido"
+        ]
+      },
+      "ar": {
+        "name": "Yale Smart Cabinet Lock",
+        "tagline": "أقفل الأدراج والخزائن والحقائب عبر البلوتوث.",
+        "description": "قفل ذكي صغير يعمل بالبلوتوث مصمم للأدراج والخزائن والحقائب أو خزائن الأدوية. يُفتح عبر الهاتف الذكي أو برمز يُشارَك مؤقتاً، دون أسلاك أو حفر بفضل شريطه اللاصق المقوّى. يعمل بالبطارية لعدة أشهر وينبّه عند أي محاولة فتح بالقوة.",
+        "highlights": [
+          "فتح عبر الهاتف الذكي أو رمز مشترك",
+          "تركيب دون حفر بشريط لاصق مقوّى",
+          "تنبيه عند محاولة الفتح بالقوة",
+          "عمر بطارية يمتد لعدة أشهر"
+        ],
+        "inTheBox": [
+          "قفل Smart Cabinet Lock",
+          "بطارية",
+          "شريط لاصق مقوّى للتثبيت",
+          "دليل البدء السريع"
+        ]
+      },
+      "zh": {
+        "name": "Yale Smart Cabinet Lock 智能柜锁",
+        "tagline": "蓝牙锁定柜子、抽屉与储物柜。",
+        "description": "小型蓝牙智能锁，专为抽屉、柜子、储物柜或药品柜设计。可通过手机或临时分享的密码开锁，凭借加强型粘贴安装，无需布线或打孔。电池供电可持续数月，并在检测到强行开启时发出警报。",
+        "highlights": [
+          "手机或分享密码开锁",
+          "加强型粘贴安装，无需打孔",
+          "强行开启时发出警报",
+          "电池续航可达数月"
+        ],
+        "inTheBox": [
+          "Smart Cabinet Lock 锁具",
+          "电池",
+          "加强型粘贴固定件",
+          "快速入门指南"
+        ]
+      }
+    },
+    "attributes": {
+      "protocol": [
+        "bluetooth"
+      ],
+      "placement": "interieur",
+      "power": [
+        "pile"
+      ],
+      "compat": [
+        "app-marque",
+        "safer-platform"
+      ]
+    },
+    "specs": [
+      {
+        "key": "unlockMethods",
+        "value": {
+          "fr": "Application, code partagé temporaire",
+          "en": "App, temporary shared code",
+          "es": "App, código compartido temporal",
+          "ar": "التطبيق، رمز مشترك مؤقت",
+          "zh": "App、临时共享密码"
+        }
+      },
+      {
+        "key": "protocol",
+        "value": "Bluetooth"
+      },
+      {
+        "key": "mounting",
+        "value": {
+          "fr": "Adhésif renforcé, sans perçage",
+          "en": "Reinforced adhesive, no drilling",
+          "es": "Adhesivo reforzado, sin perforación",
+          "ar": "لاصق معزز، دون ثقب",
+          "zh": "加强粘贴，无需打孔"
+        }
+      },
+      {
+        "key": "battery",
+        "value": {
+          "fr": "Pile, plusieurs mois d'autonomie",
+          "en": "Battery, several months of autonomy",
+          "es": "Pila, varios meses de autonomía",
+          "ar": "بطارية، عدة أشهر من الاستقلالية",
+          "zh": "电池，续航数月"
+        }
+      },
+      {
+        "key": "tamper",
+        "value": {
+          "fr": "Alerte d'ouverture forcée",
+          "en": "Forced-open alert",
+          "es": "Alerta de apertura forzada",
+          "ar": "تنبيه فتح بالقوة",
+          "zh": "强制开启报警"
+        }
+      },
+      {
+        "key": "dimensions",
+        "value": "60 × 40 × 20 mm"
+      }
+    ],
+    "pricing": {
+      "sourcePrice": 55,
+      "sourceCurrency": "EUR"
+    },
+    "availability": "sur-commande",
+    "warrantyMonths": 12,
+    "install": {
+      "level": "simple",
+      "duration": "10 min",
+      "prerequisites": {
+        "fr": "Surface propre et plane pour la pose adhésive, sans câblage.",
+        "en": "A clean, flat surface for adhesive mounting, no wiring.",
+        "es": "Superficie limpia y plana para el montaje adhesivo, sin cableado.",
+        "ar": "سطح نظيف ومستوٍ للتركيب اللاصق، دون أسلاك.",
+        "zh": "需有干净平整的粘贴表面，无需布线。"
+      }
+    },
+    "sourceUrl": "https://yalehome.com/en-us/smart-locks/smart-cabinet-lock/",
+    "accent": "#111827",
+    "symbol": "▣",
+    "solutions": [
+      "controle-acces/serrures-intelligentes"
+    ],
+    "related": [
+      "yale-linus-smart-lock-l2"
+    ]
+  },
+  {
+    "id": "yale-smart-opener",
+    "sku": "YL-OPENER",
+    "brand": "yale",
+    "sourceBrand": "Yale",
+    "model": "Smart Opener",
+    "category": "acces",
+    "subcategory": "portails-motorisation",
+    "i18n": {
+      "fr": {
+        "name": "Yale Smart Opener",
+        "tagline": "Pilotez votre porte de garage existante depuis votre smartphone.",
+        "description": "Contrôleur Wi-Fi qui se raccorde à la plupart des motorisations de porte de garage existantes pour les piloter à distance. Il envoie une notification à chaque ouverture ou fermeture et permet de vérifier l'état de la porte en temps réel depuis l'application Yale Access. Compatible avec les principaux assistants vocaux pour un pilotage vocal.",
+        "highlights": [
+          "Compatible avec la plupart des motorisations existantes",
+          "Notification à chaque ouverture/fermeture",
+          "État de la porte consultable en temps réel",
+          "Compatible Alexa et Google Home"
+        ],
+        "inTheBox": [
+          "Contrôleur Smart Opener",
+          "Capteur de porte",
+          "Câblage de raccordement",
+          "Bloc secteur",
+          "Guide de démarrage"
+        ]
+      },
+      "en": {
+        "name": "Yale Smart Opener",
+        "tagline": "Control your existing garage door from your phone.",
+        "description": "Wi-Fi controller that connects to most existing garage door openers to control them remotely. It sends a notification on every open or close and lets you check the door's status in real time from the Yale Access app. Compatible with the main voice assistants for hands-free control.",
+        "highlights": [
+          "Works with most existing garage door openers",
+          "Notification on every open/close",
+          "Real-time door status in the app",
+          "Compatible with Alexa and Google Home"
+        ],
+        "inTheBox": [
+          "Smart Opener controller",
+          "Door sensor",
+          "Wiring harness",
+          "Power adapter",
+          "Quick start guide"
+        ]
+      },
+      "es": {
+        "name": "Yale Smart Opener",
+        "tagline": "Controla tu puerta de garaje actual desde el móvil.",
+        "description": "Controlador Wi-Fi que se conecta a la mayoría de los motores de puerta de garaje existentes para controlarlos a distancia. Envía una notificación en cada apertura o cierre y permite comprobar el estado de la puerta en tiempo real desde la app Yale Access. Compatible con los principales asistentes de voz para un control manos libres.",
+        "highlights": [
+          "Compatible con la mayoría de motores existentes",
+          "Notificación en cada apertura/cierre",
+          "Estado de la puerta en tiempo real",
+          "Compatible con Alexa y Google Home"
+        ],
+        "inTheBox": [
+          "Controlador Smart Opener",
+          "Sensor de puerta",
+          "Cableado de conexión",
+          "Adaptador de corriente",
+          "Guía de inicio rápido"
+        ]
+      },
+      "ar": {
+        "name": "Yale Smart Opener",
+        "tagline": "تحكّم بباب مرآبك الحالي من هاتفك.",
+        "description": "وحدة تحكم Wi-Fi تتصل بمعظم محركات أبواب المرآب الحالية للتحكم بها عن بعد. تُرسل إشعاراً عند كل فتح أو إغلاق وتتيح معرفة حالة الباب لحظياً عبر تطبيق Yale Access. متوافقة مع مساعدي الصوت الرئيسيين للتحكم دون استخدام اليدين.",
+        "highlights": [
+          "متوافقة مع معظم محركات الأبواب الحالية",
+          "إشعار عند كل فتح أو إغلاق",
+          "حالة الباب لحظياً عبر التطبيق",
+          "متوافقة مع Alexa وGoogle Home"
+        ],
+        "inTheBox": [
+          "وحدة تحكم Smart Opener",
+          "حساس الباب",
+          "أسلاك توصيل",
+          "محول كهربائي",
+          "دليل البدء السريع"
+        ]
+      },
+      "zh": {
+        "name": "Yale Smart Opener 车库门控制器",
+        "tagline": "用手机控制现有车库门。",
+        "description": "Wi-Fi 控制器可连接大多数现有车库门电机，实现远程控制。每次开关门都会发送通知，并可通过 Yale Access 应用实时查看车库门状态。兼容主流语音助手，实现免手动控制。",
+        "highlights": [
+          "兼容大多数现有车库门电机",
+          "每次开关门均有通知",
+          "应用内实时查看车库门状态",
+          "兼容 Alexa 与 Google Home"
+        ],
+        "inTheBox": [
+          "Smart Opener 控制器",
+          "门磁传感器",
+          "连接线材",
+          "电源适配器",
+          "快速入门指南"
+        ]
+      }
+    },
+    "attributes": {
+      "protocol": [
+        "wifi"
+      ],
+      "placement": "interieur",
+      "power": [
+        "secteur"
+      ],
+      "compat": [
+        "alexa",
+        "google",
+        "app-marque",
+        "safer-platform"
+      ]
+    },
+    "specs": [
+      {
+        "key": "compatibility",
+        "value": {
+          "fr": "Compatible avec la plupart des motorisations de porte de garage",
+          "en": "Compatible with most garage door openers",
+          "es": "Compatible con la mayoría de motorizaciones de puerta de garaje",
+          "ar": "متوافق مع معظم محركات أبواب الجراج",
+          "zh": "兼容大多数车库门开门机"
+        }
+      },
+      {
+        "key": "protocol",
+        "value": "Wi-Fi 2,4 GHz"
+      },
+      {
+        "key": "sensors",
+        "value": {
+          "fr": "Capteur d'état de porte",
+          "en": "Door state sensor",
+          "es": "Sensor de estado de la puerta",
+          "ar": "مستشعر حالة الباب",
+          "zh": "车库门状态传感器"
+        }
+      },
+      {
+        "key": "power",
+        "value": {
+          "fr": "Secteur (bloc fourni)",
+          "en": "Mains power (adapter included)",
+          "es": "Red eléctrica (adaptador incluido)",
+          "ar": "كهرباء المنزل (محول مرفق)",
+          "zh": "市电供电（附电源适配器）"
+        }
+      },
+      {
+        "key": "app",
+        "value": "Yale Access"
+      },
+      {
+        "key": "operatingTemp",
+        "value": "-10 °C … +40 °C"
+      }
+    ],
+    "pricing": {
+      "sourcePrice": 99,
+      "sourceCurrency": "EUR"
+    },
+    "availability": "sur-devis",
+    "warrantyMonths": 24,
+    "install": {
+      "level": "expert",
+      "duration": "1 h",
+      "prerequisites": {
+        "fr": "Motorisation de porte de garage existante et prise secteur à proximité du moteur.",
+        "en": "An existing garage door opener and a mains outlet near the motor unit.",
+        "es": "Un motor de puerta de garaje existente y una toma de corriente cerca del motor.",
+        "ar": "محرك باب مرآب موجود ومنفذ كهرباء قريب من وحدة المحرك.",
+        "zh": "需已有车库门电机及电机附近的市电插座。"
+      }
+    },
+    "sourceUrl": "https://yalehome.com/en-us/smart-locks/smart-opener/",
+    "accent": "#111827",
+    "symbol": "⊕",
+    "solutions": [
+      "controle-acces/portails-connectes"
+    ],
+    "related": [
+      "yale-linus-smart-lock-l2"
+    ]
+  }
+]

@@ -1,29 +1,18 @@
+import type { Dictionary } from '@/lib/i18n/dictionaries';
+
 export type VerificationStatus = 'unverified' | 'verified' | 'certified';
+export const verificationOrder: VerificationStatus[] = ['unverified', 'verified', 'certified'];
+export const verificationColors: Record<VerificationStatus, string> = { unverified: '#a8b0c1', verified: '#52c6ff', certified: '#b8ff3d' };
 
-export const verificationLevels = [
-  {
-    status: 'unverified' as const,
-    label: 'Non vérifié',
-    color: '#a8b0c1',
-    summary: 'Profil créé, identité et compétences encore en cours de contrôle.',
-    criteria: ['Compte identifié et coordonnées confirmées', 'Code de conduite et consentement KYC acceptés', 'Dossier documentaire déposé dans l’espace sécurisé']
-  },
-  {
-    status: 'verified' as const,
-    label: 'Vérifié',
-    color: '#52c6ff',
-    summary: 'Identité, activité et socle technique validés par SafeR.',
-    criteria: ['Pièce d’identité authentifiée et correspondance avec le candidat', 'Téléphone, adresse et activité professionnelle contrôlés', 'Références vérifiables et test technique ≥ 75 %', 'Contrôle humain sans indicateur de risque critique ouvert']
-  },
-  {
-    status: 'certified' as const,
-    label: 'Certifié SafeR',
-    color: '#b8ff3d',
-    summary: 'Partenaire expérimenté, audité et formé aux standards d’installation SafeR.',
-    criteria: ['Statut Vérifié depuis au moins 90 jours', 'Au moins 10 missions terminées et 5 évaluations', 'Note moyenne ≥ 4,6/5 sans incident critique non résolu', 'Formation sécurité et parcours SafeR Academy valides', 'Audit qualité réussi et recertification annuelle']
-  }
-];
+export function isVerificationStatus(value: string): value is VerificationStatus {
+  return (verificationOrder as string[]).includes(value);
+}
 
+export function verificationLevels(d: Dictionary) {
+  return verificationOrder.map((status) => ({ status, color: verificationColors[status], ...d.partners.levels.items[status] }));
+}
+
+/** Canonical skill / zone identifiers (French labels are the stored values; translations come from d.partners.apply). */
 export const partnerSkills = ['Alarme intrusion', 'Vidéo-surveillance', 'Contrôle d’accès', 'Domotique', 'Réseau & Wi-Fi', 'Électricité basse tension', 'Incendie'];
 export const interventionZones = ['Abidjan Nord', 'Abidjan Sud', 'Abidjan Centre', 'Grand Abidjan', 'Bassam', 'Bingerville', 'Intérieur du pays'];
 

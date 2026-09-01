@@ -1,0 +1,24 @@
+{
+  "name": "safer-catalog-crawler",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Crawler nocturne du catalogue SafeR : vérifie prix, disponibilité et visuels auprès des sources officielles des marques (Crawlee, open source).",
+  "engines": { "node": ">=22.13.0" },
+  "scripts": {
+    "crawl": "node crawl.mjs",
+    "crawl:browser": "cross-env CRAWL_BROWSER=1 node crawl.mjs",
+    "crawl:dry": "node crawl.mjs --dry-run",
+    "test": "node --test test-extract.mjs"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0",
+    "crawlee": "^3.13.0"
+  },
+  "optionalDependencies": {
+    "playwright": "^1.50.0"
+  },
+  "devDependencies": {
+    "cross-env": "^7.0.3"
+  }
+}

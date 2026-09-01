@@ -1,0 +1,112 @@
+{
+  "checkedAt": "2026-09-01T21:51:46.065Z",
+  "dryRun": true,
+  "browser": false,
+  "totals": {
+    "products": 12,
+    "ok": 0,
+    "okNoPrice": 0,
+    "priceUpdated": 0,
+    "priceRejected": 0,
+    "imageAdded": 0,
+    "browserRequired": 0,
+    "robotsBlocked": 0,
+    "unreachable": 12
+  },
+  "brands": {
+    "ajax": {
+      "products": 12,
+      "ok": 0,
+      "priceUpdated": 0,
+      "browserRequired": 0,
+      "blocked": 0,
+      "failed": 12
+    }
+  },
+  "items": [
+    {
+      "id": "ajax-hub-2-4g",
+      "brand": "ajax",
+      "url": "https://ajax.systems/products/hub2-4g/",
+      "status": "unreachable",
+      "note": "Request blocked - received 403 status code."
+    },
+    {
+      "id": "ajax-hub-2-plus",
+      "brand": "ajax",
+      "url": "https://ajax.systems/products/hub2plus/",
+      "status": "unreachable",
+      "note": "Request blocked - received 403 status code."
+    },
+    {
+      "id": "ajax-motionprotect",
+      "brand": "ajax",
+      "url": "https://ajax.systems/products/motionprotect/",
+      "status": "unreachable",
+      "note": "Request blocked - received 403 status code."
+    },
+    {
+      "id": "ajax-motionprotect-plus",
+      "brand": "ajax",
+      "url": "https://ajax.systems/products/motionprotect-plus/",
+      "status": "unreachable",
+      "note": "Request blocked - received 403 status code."
+    },
+    {
+      "id": "ajax-doorprotect",
+      "brand": "ajax",
+      "url": "https://ajax.systems/products/doorprotect/",
+      "status": "unreachable",
+      "note": "Request blocked - received 403 status code."
+    },
+    {
+      "id": "ajax-doorprotect-plus",
+      "brand": "ajax",
+      "url": "https://ajax.systems/products/doorprotect-plus/",
+      "status": "unreachable",
+      "note": "Request blocked - received 403 status code."
+    },
+    {
+      "id": "ajax-fireprotect-2-hsc",
+      "brand": "ajax",
+      "url": "https://ajax.systems/products/fireprotect2-heat-smoke-co/",
+      "status": "unreachable",
+      "note": "Request blocked - received 403 status code."
+    },
+    {
+      "id": "ajax-leaksprotect",
+      "brand": "ajax",
+      "url": "https://ajax.systems/products/leaksprotect/",
+      "status": "unreachable",
+      "note": "Request blocked - received 403 status code."
+    },
+    {
+      "id": "ajax-homesiren",
+      "brand": "ajax",
+      "url": "https://ajax.systems/products/homesiren/",
+      "status": "unreachable",
+      "note": "Request blocked - received 403 status code."
+    },
+    {
+      "id": "ajax-streetsiren",
+      "brand": "ajax",
+      "url": "https://ajax.systems/products/streetsiren/",
+      "status": "unreachable",
+      "note": "Request blocked - received 403 status code."
+    },
+    {
+      "id": "ajax-keypad-plus",
+      "brand": "ajax",
+      "url": "https://ajax.systems/products/keypad-plus/",
+      "status": "unreachable",
+      "note": "Request blocked - received 403 status code."
+    },
+    {
+      "id": "ajax-button",
+      "brand": "ajax",
+      "url": "https://ajax.systems/products/button/",
+      "status": "unreachable",
+      "note": "Request blocked - received 403 status code."
+    }
+  ]
+}

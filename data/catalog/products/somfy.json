@@ -1,0 +1,1626 @@
+[
+  {
+    "id": "somfy-tahoma-switch",
+    "sku": "SF-TAHOMA-SW",
+    "brand": "somfy",
+    "sourceBrand": "Somfy",
+    "model": "TaHoma switch",
+    "category": "domotique",
+    "subcategory": "passerelles-hubs",
+    "i18n": {
+      "fr": {
+        "name": "Somfy TaHoma switch",
+        "tagline": "La passerelle qui connecte volets, portails et alarme en une app.",
+        "description": "Passerelle domotique Wi-Fi pilotant les équipements io-homecontrol et RTS de la maison : volets roulants, portails, éclairages et alarme Somfy. Elle centralise scénarios et automatisations dans l'application Somfy et se connecte aux principaux assistants vocaux. Installation simple par prise secteur, sans câblage supplémentaire.",
+        "highlights": [
+          "Pilote les équipements io-homecontrol et RTS",
+          "Scénarios et automatisations centralisés",
+          "Compatible Alexa, Google Home et Apple Home",
+          "Installation par simple prise secteur"
+        ],
+        "inTheBox": [
+          "Passerelle TaHoma switch",
+          "Bloc secteur",
+          "Câble Ethernet",
+          "Guide de démarrage"
+        ]
+      },
+      "en": {
+        "name": "Somfy TaHoma switch",
+        "tagline": "The gateway that connects shutters, gates and alarm in one app.",
+        "description": "Wi-Fi smart-home gateway controlling io-homecontrol and RTS equipment throughout the home: roller shutters, gates, lighting and Somfy alarm. It centralises scenes and automations in the Somfy app and connects to the main voice assistants. Simple plug-in setup, no extra wiring.",
+        "highlights": [
+          "Controls io-homecontrol and RTS equipment",
+          "Centralised scenes and automations",
+          "Compatible with Alexa, Google Home and Apple Home",
+          "Simple plug-in installation"
+        ],
+        "inTheBox": [
+          "TaHoma switch gateway",
+          "Power adapter",
+          "Ethernet cable",
+          "Quick start guide"
+        ]
+      },
+      "es": {
+        "name": "Somfy TaHoma switch",
+        "tagline": "La pasarela que conecta persianas, portones y alarma en una app.",
+        "description": "Pasarela domótica Wi-Fi que controla los equipos io-homecontrol y RTS del hogar: persianas enrollables, portones, iluminación y alarma Somfy. Centraliza escenas y automatizaciones en la app Somfy y se conecta a los principales asistentes de voz. Instalación sencilla mediante enchufe, sin cableado adicional.",
+        "highlights": [
+          "Controla equipos io-homecontrol y RTS",
+          "Escenas y automatizaciones centralizadas",
+          "Compatible con Alexa, Google Home y Apple Home",
+          "Instalación sencilla por enchufe"
+        ],
+        "inTheBox": [
+          "Pasarela TaHoma switch",
+          "Adaptador de corriente",
+          "Cable Ethernet",
+          "Guía de inicio rápido"
+        ]
+      },
+      "ar": {
+        "name": "Somfy TaHoma switch",
+        "tagline": "البوابة التي تربط الستائر والبوابات والإنذار في تطبيق واحد.",
+        "description": "بوابة منزلية ذكية تعمل بتقنية Wi-Fi وتتحكم بأجهزة io-homecontrol وRTS في المنزل: الستائر الكهربائية والبوابات والإضاءة وإنذار Somfy. تُركّز السيناريوهات والأتمتة في تطبيق Somfy وتتصل بمساعدي الصوت الرئيسيين. تركيب بسيط عبر مقبس كهربائي، دون أسلاك إضافية.",
+        "highlights": [
+          "تتحكم بأجهزة io-homecontrol وRTS",
+          "سيناريوهات وأتمتة مُركّزة",
+          "متوافقة مع Alexa وGoogle Home وApple Home",
+          "تركيب بسيط عبر المقبس الكهربائي"
+        ],
+        "inTheBox": [
+          "بوابة TaHoma switch",
+          "محول كهربائي",
+          "كابل إيثرنت",
+          "دليل البدء السريع"
+        ]
+      },
+      "zh": {
+        "name": "Somfy TaHoma switch 智能网关",
+        "tagline": "一个应用连接卷帘、大门与报警系统的智能网关。",
+        "description": "Wi-Fi 智能家居网关，可控制家中的 io-homecontrol 与 RTS 设备：卷帘门、大门、照明及 Somfy 报警系统。在 Somfy 应用中集中管理场景与自动化，并可连接主流语音助手。仅需插入电源即可完成安装，无需额外布线。",
+        "highlights": [
+          "控制 io-homecontrol 与 RTS 设备",
+          "集中管理场景与自动化",
+          "兼容 Alexa、Google Home 与 Apple Home",
+          "插电即用，安装简便"
+        ],
+        "inTheBox": [
+          "TaHoma switch 网关",
+          "电源适配器",
+          "以太网线",
+          "快速入门指南"
+        ]
+      }
+    },
+    "attributes": {
+      "protocol": [
+        "io-rts",
+        "wifi"
+      ],
+      "placement": "interieur",
+      "power": [
+        "secteur"
+      ],
+      "compat": [
+        "alexa",
+        "google",
+        "apple-home",
+        "app-marque",
+        "safer-platform"
+      ]
+    },
+    "specs": [
+      {
+        "key": "protocol",
+        "value": "io-homecontrol, RTS, Wi-Fi"
+      },
+      {
+        "key": "connectivity",
+        "value": "Wi-Fi 2,4 GHz, Ethernet"
+      },
+      {
+        "key": "capacity",
+        "value": {
+          "fr": "Jusqu'à 100 équipements io",
+          "en": "Up to 100 io devices",
+          "es": "Hasta 100 dispositivos io",
+          "ar": "حتى 100 جهاز io",
+          "zh": "最多支持100个io设备"
+        }
+      },
+      {
+        "key": "compatibility",
+        "value": "Alexa, Google Home, Apple Home"
+      },
+      {
+        "key": "app",
+        "value": "Somfy"
+      },
+      {
+        "key": "power",
+        "value": "230 V AC"
+      },
+      {
+        "key": "operatingTemp",
+        "value": "0 °C … +40 °C"
+      }
+    ],
+    "pricing": {
+      "sourcePrice": 149,
+      "sourceCurrency": "EUR"
+    },
+    "availability": "en-stock",
+    "warrantyMonths": 24,
+    "install": {
+      "level": "standard",
+      "duration": "30 min",
+      "prerequisites": {
+        "fr": "Alimentation secteur à proximité et accès Wi-Fi 2,4 GHz.",
+        "en": "Nearby mains power and 2.4 GHz Wi-Fi access.",
+        "es": "Alimentación de red cercana y acceso Wi-Fi de 2,4 GHz.",
+        "ar": "تيار كهربائي قريب ووصول Wi-Fi بتردد 2.4 جيجاهرتز.",
+        "zh": "附近有市电及 2.4 GHz Wi-Fi 接入。"
+      }
+    },
+    "sourceUrl": "https://www.somfy.fr/produits/1870499/tahoma-switch",
+    "accent": "#facc15",
+    "symbol": "⌁",
+    "featured": true,
+    "solutions": [
+      "domotique/scenarios-intelligents",
+      "domotique/pilotage-energie"
+    ],
+    "related": [
+      "somfy-home-alarm-advanced",
+      "somfy-oximo-io",
+      "somfy-outdoor-camera"
+    ]
+  },
+  {
+    "id": "somfy-home-alarm-advanced",
+    "sku": "SF-ALARM-ADV",
+    "brand": "somfy",
+    "sourceBrand": "Somfy",
+    "model": "Home Alarm Advanced",
+    "category": "alarme",
+    "subcategory": "centrales",
+    "i18n": {
+      "fr": {
+        "name": "Somfy Home Alarm Advanced",
+        "tagline": "Kit d'alarme connecté avec sirène et caméra intégrées.",
+        "description": "Centrale d'alarme sans fil intégrant une sirène 105 dB et une caméra HD avec vision nocturne pour lever le doute en cas d'intrusion. Elle communique par Wi-Fi et batterie de secours, et se pilote depuis l'application Somfy avec notifications en temps réel. Extensible avec détecteurs de mouvement, d'ouverture et sirènes supplémentaires.",
+        "highlights": [
+          "Sirène 105 dB et caméra intégrées",
+          "Levée de doute vidéo en cas d'alerte",
+          "Wi-Fi et batterie de secours",
+          "Extensible avec détecteurs supplémentaires"
+        ],
+        "inTheBox": [
+          "Centrale Home Alarm Advanced",
+          "Bloc secteur",
+          "2 badges de télécommande",
+          "Support de fixation",
+          "Guide de démarrage"
+        ]
+      },
+      "en": {
+        "name": "Somfy Home Alarm Advanced",
+        "tagline": "A connected alarm kit with built-in siren and camera.",
+        "description": "Wireless alarm panel with a built-in 105 dB siren and an HD night-vision camera to visually confirm an intrusion. It communicates over Wi-Fi with a backup battery, and is controlled from the Somfy app with real-time notifications. Expandable with additional motion detectors, opening sensors and sirens.",
+        "highlights": [
+          "Built-in 105 dB siren and camera",
+          "Visual confirmation of an alert",
+          "Wi-Fi with backup battery",
+          "Expandable with extra detectors"
+        ],
+        "inTheBox": [
+          "Home Alarm Advanced panel",
+          "Power adapter",
+          "2 remote badges",
+          "Mounting bracket",
+          "Quick start guide"
+        ]
+      },
+      "es": {
+        "name": "Somfy Home Alarm Advanced",
+        "tagline": "Kit de alarma conectada con sirena y cámara integradas.",
+        "description": "Central de alarma inalámbrica con sirena integrada de 105 dB y cámara HD con visión nocturna para verificar visualmente una intrusión. Se comunica por Wi-Fi con batería de respaldo y se controla desde la app Somfy con notificaciones en tiempo real. Ampliable con detectores de movimiento, apertura y sirenas adicionales.",
+        "highlights": [
+          "Sirena de 105 dB y cámara integradas",
+          "Verificación visual de la alerta",
+          "Wi-Fi con batería de respaldo",
+          "Ampliable con detectores adicionales"
+        ],
+        "inTheBox": [
+          "Central Home Alarm Advanced",
+          "Adaptador de corriente",
+          "2 mandos tipo badge",
+          "Soporte de fijación",
+          "Guía de inicio rápido"
+        ]
+      },
+      "ar": {
+        "name": "Somfy Home Alarm Advanced",
+        "tagline": "طقم إنذار متصل بصفارة وكاميرا مدمجتين.",
+        "description": "لوحة إنذار لاسلكية بصفارة مدمجة بقوة 105 ديسيبل وكاميرا HD برؤية ليلية للتحقق البصري من الاقتحام. تتصل عبر Wi-Fi مع بطارية احتياطية، وتُدار من تطبيق Somfy مع إشعارات لحظية. قابلة للتوسع بكاشفات حركة وفتح وصفارات إضافية.",
+        "highlights": [
+          "صفارة 105 ديسيبل وكاميرا مدمجتان",
+          "تحقق بصري من الإنذار",
+          "Wi-Fi مع بطارية احتياطية",
+          "قابلة للتوسع بكاشفات إضافية"
+        ],
+        "inTheBox": [
+          "لوحة Home Alarm Advanced",
+          "محول كهربائي",
+          "شارتا تحكم عن بعد",
+          "حامل تثبيت",
+          "دليل البدء السريع"
+        ]
+      },
+      "zh": {
+        "name": "Somfy Home Alarm Advanced 报警套装",
+        "tagline": "内置警笛与摄像头的联网报警套装。",
+        "description": "无线报警主机内置 105 分贝警笛与带夜视功能的高清摄像头，可对入侵事件进行视觉核实。通过 Wi-Fi 通信并配备备用电池，可通过 Somfy 应用控制并接收实时通知。可扩展移动探测器、开合探测器及额外警笛。",
+        "highlights": [
+          "内置 105 分贝警笛与摄像头",
+          "对警报进行视觉核实",
+          "Wi-Fi 通信配备用电池",
+          "可扩展额外探测器"
+        ],
+        "inTheBox": [
+          "Home Alarm Advanced 主机",
+          "电源适配器",
+          "2 个遥控徽章",
+          "固定支架",
+          "快速入门指南"
+        ]
+      }
+    },
+    "attributes": {
+      "protocol": [
+        "io-rts",
+        "wifi"
+      ],
+      "placement": "interieur",
+      "power": [
+        "secteur",
+        "batterie"
+      ],
+      "compat": [
+        "app-marque",
+        "safer-platform"
+      ]
+    },
+    "specs": [
+      {
+        "key": "siren",
+        "value": {
+          "fr": "105 dB intégrée",
+          "en": "Built-in, 105 dB",
+          "es": "Integrada, 105 dB",
+          "ar": "مدمجة، 105 ديسيبل",
+          "zh": "内置，105分贝"
+        }
+      },
+      {
+        "key": "resolution",
+        "value": "HD, vision nocturne"
+      },
+      {
+        "key": "connectivity",
+        "value": {
+          "fr": "Wi-Fi + batterie de secours",
+          "en": "Wi-Fi + backup battery",
+          "es": "Wi-Fi + batería de respaldo",
+          "ar": "Wi-Fi + بطارية احتياطية",
+          "zh": "Wi-Fi + 备用电池"
+        }
+      },
+      {
+        "key": "capacity",
+        "value": {
+          "fr": "Jusqu'à 60 équipements Somfy",
+          "en": "Up to 60 Somfy devices",
+          "es": "Hasta 60 dispositivos Somfy",
+          "ar": "حتى 60 جهاز Somfy",
+          "zh": "最多支持60个Somfy设备"
+        }
+      },
+      {
+        "key": "app",
+        "value": "Somfy"
+      },
+      {
+        "key": "operatingTemp",
+        "value": "-10 °C … +40 °C"
+      }
+    ],
+    "pricing": {
+      "sourcePrice": 399,
+      "sourceCurrency": "EUR"
+    },
+    "availability": "sur-commande",
+    "warrantyMonths": 24,
+    "install": {
+      "level": "standard",
+      "duration": "1 h",
+      "prerequisites": {
+        "fr": "Alimentation secteur et connexion Wi-Fi à l'emplacement de la centrale.",
+        "en": "Mains power and Wi-Fi connection at the panel's location.",
+        "es": "Alimentación de red y conexión Wi-Fi en la ubicación de la central.",
+        "ar": "تيار كهربائي واتصال Wi-Fi في موقع اللوحة.",
+        "zh": "主机安装位置需有市电与 Wi-Fi 连接。"
+      }
+    },
+    "sourceUrl": "https://www.somfy.fr/produits/2401499/kit-alarme-somfy-home-alarm-advanced",
+    "accent": "#facc15",
+    "symbol": "⌁",
+    "solutions": [
+      "alarmes-connectees/detection-intrusion"
+    ],
+    "related": [
+      "somfy-tahoma-switch",
+      "somfy-intellitag",
+      "somfy-outdoor-camera"
+    ]
+  },
+  {
+    "id": "somfy-intellitag",
+    "sku": "SF-INTELLITAG",
+    "brand": "somfy",
+    "sourceBrand": "Somfy",
+    "model": "IntelliTAG",
+    "category": "alarme",
+    "subcategory": "detecteurs-ouverture",
+    "i18n": {
+      "fr": {
+        "name": "Somfy IntelliTAG",
+        "tagline": "Détecteur invisible de choc et d'ouverture pour l'alarme Somfy.",
+        "description": "Détecteur sans fil à double fonction qui se colle sur une porte, une fenêtre ou un volet pour repérer les tentatives d'effraction par choc ou par ouverture. Discret et sans perçage, il se fixe en quelques minutes et se relie à la centrale Somfy Home Alarm. Autonomie de pile jusqu'à 4 ans.",
+        "highlights": [
+          "Détection combinée choc et ouverture",
+          "Pose adhésive, sans perçage",
+          "Compatible Somfy Home Alarm",
+          "Autonomie de pile jusqu'à 4 ans"
+        ],
+        "inTheBox": [
+          "Détecteur IntelliTAG",
+          "Pile",
+          "Adhésif de fixation",
+          "Guide de démarrage"
+        ]
+      },
+      "en": {
+        "name": "Somfy IntelliTAG",
+        "tagline": "An invisible shock and opening detector for Somfy alarms.",
+        "description": "Wireless dual-function detector that sticks onto a door, window or shutter to pick up break-in attempts by shock or by opening. Discreet and drill-free, it mounts in minutes and pairs with the Somfy Home Alarm panel. Battery life reaches up to 4 years.",
+        "highlights": [
+          "Combined shock and opening detection",
+          "Adhesive mounting, no drilling",
+          "Compatible with Somfy Home Alarm",
+          "Battery life up to 4 years"
+        ],
+        "inTheBox": [
+          "IntelliTAG detector",
+          "Battery",
+          "Adhesive mount",
+          "Quick start guide"
+        ]
+      },
+      "es": {
+        "name": "Somfy IntelliTAG",
+        "tagline": "Detector invisible de golpe y apertura para la alarma Somfy.",
+        "description": "Detector inalámbrico de doble función que se pega en una puerta, ventana o persiana para detectar intentos de intrusión por golpe o por apertura. Discreto y sin taladrar, se instala en minutos y se vincula a la central Somfy Home Alarm. La batería dura hasta 4 años.",
+        "highlights": [
+          "Detección combinada de golpe y apertura",
+          "Montaje adhesivo, sin taladrar",
+          "Compatible con Somfy Home Alarm",
+          "Duración de la batería de hasta 4 años"
+        ],
+        "inTheBox": [
+          "Detector IntelliTAG",
+          "Pila",
+          "Adhesivo de fijación",
+          "Guía de inicio rápido"
+        ]
+      },
+      "ar": {
+        "name": "Somfy IntelliTAG",
+        "tagline": "كاشف صدمة وفتح غير مرئي لإنذار Somfy.",
+        "description": "كاشف لاسلكي مزدوج الوظيفة يُلصق على باب أو نافذة أو ستارة لرصد محاولات الاقتحام عبر الصدمة أو الفتح. مدمج وغير مرئي ودون حفر، يُركَّب خلال دقائق ويرتبط بلوحة Somfy Home Alarm. تصل عمر البطارية إلى 4 سنوات.",
+        "highlights": [
+          "كشف مزدوج للصدمة والفتح",
+          "تركيب لاصق دون حفر",
+          "متوافق مع Somfy Home Alarm",
+          "عمر بطارية يصل إلى 4 سنوات"
+        ],
+        "inTheBox": [
+          "كاشف IntelliTAG",
+          "بطارية",
+          "شريط لاصق للتثبيت",
+          "دليل البدء السريع"
+        ]
+      },
+      "zh": {
+        "name": "Somfy IntelliTAG 探测器",
+        "tagline": "适用于 Somfy 报警系统的隐形震动与开合探测器。",
+        "description": "无线双功能探测器可粘贴于门、窗或卷帘上，通过震动或开合识别入侵企图。外形隐蔽且无需打孔，数分钟即可安装完成，并与 Somfy Home Alarm 主机联动。电池续航长达 4 年。",
+        "highlights": [
+          "震动与开合双重探测",
+          "粘贴安装，无需打孔",
+          "兼容 Somfy Home Alarm",
+          "电池续航长达 4 年"
+        ],
+        "inTheBox": [
+          "IntelliTAG 探测器",
+          "电池",
+          "粘贴固定件",
+          "快速入门指南"
+        ]
+      }
+    },
+    "attributes": {
+      "protocol": [
+        "io-rts"
+      ],
+      "placement": "interieur",
+      "power": [
+        "pile"
+      ],
+      "compat": [
+        "app-marque",
+        "safer-platform"
+      ]
+    },
+    "specs": [
+      {
+        "key": "detectionType",
+        "value": "Choc + ouverture (double fonction)"
+      },
+      {
+        "key": "mounting",
+        "value": {
+          "fr": "Adhésif, sans perçage",
+          "en": "Adhesive, no drilling",
+          "es": "Adhesivo, sin perforación",
+          "ar": "لاصق، دون ثقب",
+          "zh": "粘贴式，无需打孔"
+        }
+      },
+      {
+        "key": "battery",
+        "value": {
+          "fr": "Pile, jusqu'à 4 ans",
+          "en": "Battery, up to 4 years",
+          "es": "Pila, hasta 4 años",
+          "ar": "بطارية، حتى 4 سنوات",
+          "zh": "电池，续航长达4年"
+        }
+      },
+      {
+        "key": "compatibility",
+        "value": "Somfy Home Alarm"
+      },
+      {
+        "key": "dimensions",
+        "value": "50 × 15 × 10 mm"
+      },
+      {
+        "key": "operatingTemp",
+        "value": "-10 °C … +40 °C"
+      }
+    ],
+    "pricing": {
+      "sourcePrice": 45,
+      "sourceCurrency": "EUR"
+    },
+    "availability": "en-stock",
+    "warrantyMonths": 24,
+    "install": {
+      "level": "simple",
+      "duration": "10 min",
+      "prerequisites": {
+        "fr": "Centrale Somfy Home Alarm déjà installée, pose adhésive.",
+        "en": "An installed Somfy Home Alarm panel, adhesive mounting.",
+        "es": "Central Somfy Home Alarm ya instalada, montaje adhesivo.",
+        "ar": "لوحة Somfy Home Alarm مُركَّبة مسبقاً، تركيب لاصق.",
+        "zh": "需已安装 Somfy Home Alarm 主机，粘贴安装。"
+      }
+    },
+    "sourceUrl": "https://www.somfy.fr/produits/2401481/detecteur-intellitag",
+    "accent": "#facc15",
+    "symbol": "▣",
+    "solutions": [
+      "alarmes-connectees/detection-intrusion"
+    ],
+    "related": [
+      "somfy-home-alarm-advanced",
+      "somfy-door-keeper"
+    ]
+  },
+  {
+    "id": "somfy-outdoor-camera",
+    "sku": "SF-OUTDOORCAM",
+    "brand": "somfy",
+    "sourceBrand": "Somfy",
+    "model": "Outdoor Camera",
+    "category": "video",
+    "subcategory": "cameras-exterieures",
+    "i18n": {
+      "fr": {
+        "name": "Somfy Outdoor Camera",
+        "tagline": "Caméra extérieure avec sirène et projecteur dissuasifs.",
+        "description": "Caméra de surveillance extérieure Full HD avec détection de mouvement intelligente, sirène 110 dB et projecteur LED intégrés pour dissuader activement les intrus. Étanche IP44, elle diffuse un flux vidéo en direct et enregistre les événements sur carte microSD ou stockage cloud. Intégration complète à l'écosystème TaHoma.",
+        "highlights": [
+          "Sirène 110 dB et projecteur LED intégrés",
+          "Détection de mouvement intelligente",
+          "Résolution Full HD, vision nocturne",
+          "Intégration native à l'écosystème TaHoma"
+        ],
+        "inTheBox": [
+          "Caméra Outdoor Camera",
+          "Support de fixation",
+          "Câble d'alimentation",
+          "Guide de démarrage"
+        ]
+      },
+      "en": {
+        "name": "Somfy Outdoor Camera",
+        "tagline": "An outdoor camera with deterrent siren and floodlight.",
+        "description": "Full HD outdoor surveillance camera with smart motion detection, plus a built-in 110 dB siren and LED floodlight to actively deter intruders. IP44 weatherproof, it streams live video and records events to microSD card or cloud storage. Fully integrated into the TaHoma ecosystem.",
+        "highlights": [
+          "Built-in 110 dB siren and LED floodlight",
+          "Smart motion detection",
+          "Full HD resolution, night vision",
+          "Native integration with the TaHoma ecosystem"
+        ],
+        "inTheBox": [
+          "Outdoor Camera",
+          "Mounting bracket",
+          "Power cable",
+          "Quick start guide"
+        ]
+      },
+      "es": {
+        "name": "Somfy Outdoor Camera",
+        "tagline": "Cámara exterior con sirena y foco disuasorios.",
+        "description": "Cámara de videovigilancia exterior Full HD con detección de movimiento inteligente, sirena integrada de 110 dB y foco LED para disuadir activamente a los intrusos. Resistente al agua IP44, transmite vídeo en directo y graba los eventos en tarjeta microSD o almacenamiento en la nube. Integración total con el ecosistema TaHoma.",
+        "highlights": [
+          "Sirena de 110 dB y foco LED integrados",
+          "Detección de movimiento inteligente",
+          "Resolución Full HD, visión nocturna",
+          "Integración nativa con el ecosistema TaHoma"
+        ],
+        "inTheBox": [
+          "Cámara Outdoor Camera",
+          "Soporte de fijación",
+          "Cable de alimentación",
+          "Guía de inicio rápido"
+        ]
+      },
+      "ar": {
+        "name": "Somfy Outdoor Camera",
+        "tagline": "كاميرا خارجية بصفارة وكشاف رادعين.",
+        "description": "كاميرا مراقبة خارجية بدقة Full HD مزوّدة بكشف حركة ذكي وصفارة إنذار مدمجة بقوة 110 ديسيبل وكشاف LED لردع المتسللين بفعالية. مقاومة للماء بتصنيف IP44، تبث فيديو مباشراً وتسجّل الأحداث على بطاقة microSD أو التخزين السحابي. تكامل كامل مع نظام TaHoma.",
+        "highlights": [
+          "صفارة 110 ديسيبل وكشاف LED مدمجان",
+          "كشف حركة ذكي",
+          "دقة Full HD مع رؤية ليلية",
+          "تكامل أصلي مع نظام TaHoma"
+        ],
+        "inTheBox": [
+          "كاميرا Outdoor Camera",
+          "حامل تثبيت",
+          "كابل تغذية",
+          "دليل البدء السريع"
+        ]
+      },
+      "zh": {
+        "name": "Somfy Outdoor Camera 室外摄像机",
+        "tagline": "配备警笛与探照灯的震慑型室外摄像机。",
+        "description": "Full HD 室外监控摄像机具备智能移动侦测功能，并内置 110 分贝警笛与 LED 探照灯，主动震慑入侵者。IP44 防水，可实时视频推流并将事件录制至 microSD 卡或云存储，与 TaHoma 生态系统原生集成。",
+        "highlights": [
+          "内置 110 分贝警笛与 LED 探照灯",
+          "智能移动侦测",
+          "Full HD 分辨率，支持夜视",
+          "与 TaHoma 生态原生集成"
+        ],
+        "inTheBox": [
+          "Outdoor Camera 摄像机",
+          "安装支架",
+          "电源线",
+          "快速入门指南"
+        ]
+      }
+    },
+    "attributes": {
+      "protocol": [
+        "wifi"
+      ],
+      "placement": "exterieur",
+      "power": [
+        "secteur"
+      ],
+      "compat": [
+        "app-marque",
+        "safer-platform"
+      ],
+      "resolution": "1080p"
+    },
+    "specs": [
+      {
+        "key": "resolution",
+        "value": "1080p Full HD"
+      },
+      {
+        "key": "nightVision",
+        "value": "Vision nocturne infrarouge"
+      },
+      {
+        "key": "ai",
+        "value": {
+          "fr": "Détection de mouvement intelligente",
+          "en": "Smart motion detection",
+          "es": "Detección de movimiento inteligente",
+          "ar": "كشف حركة ذكي",
+          "zh": "智能移动侦测"
+        }
+      },
+      {
+        "key": "siren",
+        "value": {
+          "fr": "110 dB intégrée",
+          "en": "Built-in, 110 dB",
+          "es": "Integrada, 110 dB",
+          "ar": "مدمجة، 110 ديسيبل",
+          "zh": "内置，110分贝"
+        }
+      },
+      {
+        "key": "storage",
+        "value": {
+          "fr": "microSD 32 Go max, cloud en option",
+          "en": "microSD up to 32 GB, optional cloud",
+          "es": "microSD hasta 32 GB, nube opcional",
+          "ar": "microSD حتى 32 جيجابايت، سحابة اختيارية",
+          "zh": "microSD最高32GB，可选云存储"
+        }
+      },
+      {
+        "key": "weatherproof",
+        "value": "IP44"
+      },
+      {
+        "key": "connectivity",
+        "value": "Wi-Fi 2,4 GHz"
+      }
+    ],
+    "pricing": {
+      "sourcePrice": 299,
+      "sourceCurrency": "EUR"
+    },
+    "availability": "sur-commande",
+    "warrantyMonths": 24,
+    "install": {
+      "level": "standard",
+      "duration": "45 min",
+      "prerequisites": {
+        "fr": "Prise secteur à proximité et couverture Wi-Fi à l'emplacement.",
+        "en": "Nearby mains outlet and Wi-Fi coverage at the location.",
+        "es": "Toma de corriente cercana y cobertura Wi-Fi en el lugar.",
+        "ar": "منفذ كهرباء قريب وتغطية Wi-Fi في الموقع.",
+        "zh": "附近有电源插座及 Wi-Fi 覆盖。"
+      }
+    },
+    "sourceUrl": "https://www.somfy.fr/produits/2401493/camera-somfy-outdoor-camera",
+    "accent": "#facc15",
+    "symbol": "◉",
+    "solutions": [
+      "video-intelligente/cameras-exterieures",
+      "video-intelligente/verification-video"
+    ],
+    "related": [
+      "somfy-tahoma-switch",
+      "somfy-home-alarm-advanced"
+    ]
+  },
+  {
+    "id": "somfy-indoor-camera",
+    "sku": "SF-INDOORCAM",
+    "brand": "somfy",
+    "sourceBrand": "Somfy",
+    "model": "Indoor Camera",
+    "category": "video",
+    "subcategory": "cameras-interieures",
+    "i18n": {
+      "fr": {
+        "name": "Somfy Indoor Camera",
+        "tagline": "Caméra intérieure avec volet de confidentialité motorisé.",
+        "description": "Caméra de surveillance intérieure Full HD à champ de vision de 130°, avec audio bidirectionnel et détection de mouvement et de bruit. Son volet de confidentialité motorisé masque physiquement l'objectif d'une simple pression dans l'application, pour couper tout enregistrement. Alertes en temps réel et stockage sur carte microSD ou cloud sécurisé.",
+        "highlights": [
+          "Volet de confidentialité motorisé",
+          "Champ de vision 130°, audio bidirectionnel",
+          "Détection de mouvement et de bruit",
+          "Stockage microSD ou cloud sécurisé"
+        ],
+        "inTheBox": [
+          "Caméra Indoor Camera",
+          "Câble d'alimentation USB",
+          "Support de fixation",
+          "Guide de démarrage"
+        ]
+      },
+      "en": {
+        "name": "Somfy Indoor Camera",
+        "tagline": "An indoor camera with a motorised privacy shutter.",
+        "description": "Full HD indoor surveillance camera with a 130° field of view, two-way audio and motion and sound detection. Its motorised privacy shutter physically covers the lens with one tap in the app, cutting off all recording. Real-time alerts and storage on microSD card or secure cloud.",
+        "highlights": [
+          "Motorised privacy shutter",
+          "130° field of view, two-way audio",
+          "Motion and sound detection",
+          "microSD or secure cloud storage"
+        ],
+        "inTheBox": [
+          "Indoor Camera",
+          "USB power cable",
+          "Mounting stand",
+          "Quick start guide"
+        ]
+      },
+      "es": {
+        "name": "Somfy Indoor Camera",
+        "tagline": "Cámara interior con obturador de privacidad motorizado.",
+        "description": "Cámara de videovigilancia interior Full HD con un campo de visión de 130°, audio bidireccional y detección de movimiento y sonido. Su obturador de privacidad motorizado cubre físicamente el objetivo con solo pulsar en la app, cortando toda grabación. Alertas en tiempo real y almacenamiento en tarjeta microSD o nube segura.",
+        "highlights": [
+          "Obturador de privacidad motorizado",
+          "Campo de visión de 130°, audio bidireccional",
+          "Detección de movimiento y sonido",
+          "Almacenamiento microSD o nube segura"
+        ],
+        "inTheBox": [
+          "Cámara Indoor Camera",
+          "Cable de alimentación USB",
+          "Soporte de fijación",
+          "Guía de inicio rápido"
+        ]
+      },
+      "ar": {
+        "name": "Somfy Indoor Camera",
+        "tagline": "كاميرا داخلية بغطاء خصوصية آلي.",
+        "description": "كاميرا مراقبة داخلية بدقة Full HD وزاوية رؤية 130 درجة، مع صوت ثنائي الاتجاه وكشف للحركة والصوت. يُغطّي غطاء الخصوصية الآلي العدسة فعلياً بضغطة واحدة في التطبيق، مما يوقف أي تسجيل. تنبيهات لحظية وتخزين على بطاقة microSD أو سحابة آمنة.",
+        "highlights": [
+          "غطاء خصوصية آلي",
+          "زاوية رؤية 130 درجة وصوت ثنائي الاتجاه",
+          "كشف الحركة والصوت",
+          "تخزين على microSD أو سحابة آمنة"
+        ],
+        "inTheBox": [
+          "كاميرا Indoor Camera",
+          "كابل تغذية USB",
+          "حامل تثبيت",
+          "دليل البدء السريع"
+        ]
+      },
+      "zh": {
+        "name": "Somfy Indoor Camera 室内摄像机",
+        "tagline": "配备电动隐私挡板的室内摄像机。",
+        "description": "Full HD 室内监控摄像机拥有 130° 视野，支持双向语音及移动与声音侦测。电动隐私挡板可通过应用一键物理遮挡镜头，彻底停止录制。支持实时警报及 microSD 卡或安全云存储。",
+        "highlights": [
+          "电动隐私挡板",
+          "130° 视野与双向语音",
+          "移动与声音侦测",
+          "microSD 卡或安全云存储"
+        ],
+        "inTheBox": [
+          "Indoor Camera 摄像机",
+          "USB 电源线",
+          "支架底座",
+          "快速入门指南"
+        ]
+      }
+    },
+    "attributes": {
+      "protocol": [
+        "wifi"
+      ],
+      "placement": "interieur",
+      "power": [
+        "secteur"
+      ],
+      "compat": [
+        "app-marque",
+        "safer-platform"
+      ],
+      "resolution": "1080p"
+    },
+    "specs": [
+      {
+        "key": "resolution",
+        "value": "1080p Full HD"
+      },
+      {
+        "key": "fieldOfView",
+        "value": "130°"
+      },
+      {
+        "key": "twoWayAudio",
+        "value": {
+          "fr": "Oui, microphone et haut-parleur",
+          "en": "Yes, microphone and speaker",
+          "es": "Sí, micrófono y altavoz",
+          "ar": "نعم، ميكروفون ومكبر صوت",
+          "zh": "支持，麦克风和扬声器"
+        }
+      },
+      {
+        "key": "ai",
+        "value": {
+          "fr": "Détection de mouvement et de bruit",
+          "en": "Motion and sound detection",
+          "es": "Detección de movimiento y sonido",
+          "ar": "كشف الحركة والصوت",
+          "zh": "移动和声音侦测"
+        }
+      },
+      {
+        "key": "storage",
+        "value": {
+          "fr": "microSD 32 Go max, cloud en option",
+          "en": "microSD up to 32 GB, optional cloud",
+          "es": "microSD hasta 32 GB, nube opcional",
+          "ar": "microSD حتى 32 جيجابايت، سحابة اختيارية",
+          "zh": "microSD最高32GB，可选云存储"
+        }
+      },
+      {
+        "key": "connectivity",
+        "value": "Wi-Fi 2,4 GHz"
+      }
+    ],
+    "pricing": {
+      "sourcePrice": 179,
+      "sourceCurrency": "EUR"
+    },
+    "availability": "en-stock",
+    "warrantyMonths": 24,
+    "install": {
+      "level": "simple",
+      "duration": "10 min",
+      "prerequisites": {
+        "fr": "Prise secteur USB à proximité et couverture Wi-Fi.",
+        "en": "Nearby USB power outlet and Wi-Fi coverage.",
+        "es": "Toma USB cercana y cobertura Wi-Fi.",
+        "ar": "منفذ USB قريب وتغطية Wi-Fi.",
+        "zh": "附近有 USB 电源及 Wi-Fi 覆盖。"
+      }
+    },
+    "sourceUrl": "https://www.somfy.fr/produits/2401491/camera-somfy-indoor-camera",
+    "accent": "#facc15",
+    "symbol": "◉",
+    "solutions": [
+      "video-intelligente/verification-video"
+    ],
+    "related": [
+      "somfy-tahoma-switch",
+      "somfy-home-alarm-advanced"
+    ]
+  },
+  {
+    "id": "somfy-door-keeper",
+    "sku": "SF-DOORKEEPER",
+    "brand": "somfy",
+    "sourceBrand": "Somfy",
+    "model": "Door Keeper",
+    "category": "acces",
+    "subcategory": "serrures-connectees",
+    "i18n": {
+      "fr": {
+        "name": "Somfy Door Keeper",
+        "tagline": "Sait si votre porte est fermée et verrouillée, où que vous soyez.",
+        "description": "Capteur connecté qui distingue l'état d'une porte : ouverte, fermée ou fermée à clé, et remonte l'information en temps réel dans l'application Somfy. Il se fixe sans perçage sur la porte et son cadre, et alerte en cas d'oubli avant un départ. Compatible avec les serrures et cylindres électroniques Somfy.",
+        "highlights": [
+          "Distingue porte ouverte, fermée ou verrouillée",
+          "Alerte en cas d'oubli avant un départ",
+          "Pose sans perçage sur porte et cadre",
+          "Compatible cylindres électroniques Somfy"
+        ],
+        "inTheBox": [
+          "Capteur Door Keeper",
+          "Pile",
+          "Adhésif de fixation",
+          "Guide de démarrage"
+        ]
+      },
+      "en": {
+        "name": "Somfy Door Keeper",
+        "tagline": "Know if your door is shut and locked, wherever you are.",
+        "description": "Connected sensor that distinguishes a door's state — open, closed or locked — and reports it in real time in the Somfy app. It mounts without drilling on the door and its frame, and alerts you if you forget to lock up before leaving. Compatible with Somfy electronic locks and cylinders.",
+        "highlights": [
+          "Distinguishes open, closed or locked",
+          "Alerts if you forget to lock before leaving",
+          "No-drill mounting on door and frame",
+          "Compatible with Somfy electronic cylinders"
+        ],
+        "inTheBox": [
+          "Door Keeper sensor",
+          "Battery",
+          "Adhesive mount",
+          "Quick start guide"
+        ]
+      },
+      "es": {
+        "name": "Somfy Door Keeper",
+        "tagline": "Sabe si tu puerta está cerrada y con llave, estés donde estés.",
+        "description": "Sensor conectado que distingue el estado de una puerta: abierta, cerrada o cerrada con llave, y lo transmite en tiempo real a la app Somfy. Se instala sin taladrar en la puerta y su marco, y avisa si olvidas cerrar con llave antes de salir. Compatible con las cerraduras y cilindros electrónicos Somfy.",
+        "highlights": [
+          "Distingue puerta abierta, cerrada o con llave",
+          "Avisa si olvidas cerrar antes de salir",
+          "Montaje sin taladrar en puerta y marco",
+          "Compatible con cilindros electrónicos Somfy"
+        ],
+        "inTheBox": [
+          "Sensor Door Keeper",
+          "Pila",
+          "Adhesivo de fijación",
+          "Guía de inicio rápido"
+        ]
+      },
+      "ar": {
+        "name": "Somfy Door Keeper",
+        "tagline": "يعرف إن كان بابك مغلقاً ومقفلاً أينما كنت.",
+        "description": "حساس متصل يميّز حالة الباب: مفتوح، مغلق، أو مقفل، وينقل المعلومة لحظياً إلى تطبيق Somfy. يُركَّب دون حفر على الباب وإطاره، وينبّه في حال نسيان القفل قبل المغادرة. متوافق مع أقفال وأسطوانات Somfy الإلكترونية.",
+        "highlights": [
+          "يميّز بين الباب المفتوح والمغلق والمقفل",
+          "تنبيه عند نسيان القفل قبل المغادرة",
+          "تركيب دون حفر على الباب والإطار",
+          "متوافق مع أسطوانات Somfy الإلكترونية"
+        ],
+        "inTheBox": [
+          "حساس Door Keeper",
+          "بطارية",
+          "شريط لاصق للتثبيت",
+          "دليل البدء السريع"
+        ]
+      },
+      "zh": {
+        "name": "Somfy Door Keeper 门锁传感器",
+        "tagline": "无论身在何处，都能知道门是否已关闭并上锁。",
+        "description": "联网传感器可区分门的三种状态——打开、关闭或已上锁，并通过 Somfy 应用实时同步。无需打孔即可安装于门体与门框，若离家前忘记上锁会及时提醒。兼容 Somfy 电子锁芯。",
+        "highlights": [
+          "区分门的打开、关闭或上锁状态",
+          "离家前忘记上锁及时提醒",
+          "免打孔安装于门体与门框",
+          "兼容 Somfy 电子锁芯"
+        ],
+        "inTheBox": [
+          "Door Keeper 传感器",
+          "电池",
+          "粘贴固定件",
+          "快速入门指南"
+        ]
+      }
+    },
+    "attributes": {
+      "protocol": [
+        "io-rts"
+      ],
+      "placement": "interieur",
+      "power": [
+        "pile"
+      ],
+      "compat": [
+        "app-marque",
+        "safer-platform"
+      ]
+    },
+    "specs": [
+      {
+        "key": "detectionType",
+        "value": {
+          "fr": "État porte : ouverte / fermée / verrouillée",
+          "en": "Door state: open / closed / locked",
+          "es": "Estado de la puerta: abierta / cerrada / bloqueada",
+          "ar": "حالة الباب: مفتوح / مغلق / مقفل",
+          "zh": "门状态：打开/关闭/已上锁"
+        }
+      },
+      {
+        "key": "mounting",
+        "value": {
+          "fr": "Adhésif, sans perçage",
+          "en": "Adhesive, no drilling",
+          "es": "Adhesivo, sin perforación",
+          "ar": "لاصق، دون ثقب",
+          "zh": "粘贴式，无需打孔"
+        }
+      },
+      {
+        "key": "battery",
+        "value": {
+          "fr": "Pile, jusqu'à 2 ans",
+          "en": "Battery, up to 2 years",
+          "es": "Pila, hasta 2 años",
+          "ar": "بطارية، حتى سنتين",
+          "zh": "电池，续航长达2年"
+        }
+      },
+      {
+        "key": "compatibility",
+        "value": {
+          "fr": "Cylindres électroniques Somfy",
+          "en": "Somfy electronic cylinders",
+          "es": "Cilindros electrónicos Somfy",
+          "ar": "أسطوانات Somfy الإلكترونية",
+          "zh": "Somfy电子锁芯"
+        }
+      },
+      {
+        "key": "range",
+        "value": "io-homecontrol ≤ 300 m"
+      },
+      {
+        "key": "operatingTemp",
+        "value": "-10 °C … +40 °C"
+      }
+    ],
+    "pricing": {
+      "sourcePrice": 55,
+      "sourceCurrency": "EUR"
+    },
+    "availability": "sur-commande",
+    "warrantyMonths": 24,
+    "install": {
+      "level": "simple",
+      "duration": "10 min",
+      "prerequisites": {
+        "fr": "Porte et cadre propres pour la pose adhésive.",
+        "en": "Clean door and frame surface for adhesive mounting.",
+        "es": "Superficie limpia de puerta y marco para el montaje adhesivo.",
+        "ar": "سطح نظيف للباب والإطار للتركيب اللاصق.",
+        "zh": "门体与门框表面需干净以便粘贴安装。"
+      }
+    },
+    "sourceUrl": "https://www.somfy.fr/produits/2401488/somfy-door-keeper",
+    "accent": "#facc15",
+    "symbol": "▣",
+    "solutions": [
+      "controle-acces/serrures-intelligentes"
+    ],
+    "related": [
+      "somfy-tahoma-switch",
+      "somfy-intellitag"
+    ]
+  },
+  {
+    "id": "somfy-elixo-500-3s-io",
+    "sku": "SF-ELIXO500-3S-IO",
+    "brand": "somfy",
+    "sourceBrand": "Somfy",
+    "model": "Elixo 500 3S io",
+    "category": "acces",
+    "subcategory": "portails-motorisation",
+    "i18n": {
+      "fr": {
+        "name": "Somfy Elixo 500 3S io",
+        "tagline": "Motorisation à bras pour portails battants jusqu'à 500 kg.",
+        "description": "Motorisation à bras articulé pour portail battant, avec technologie io-homecontrol pour un pilotage à distance, une détection d'obstacle et un ralentissement automatique en fin de course. Conçue pour des vantaux jusqu'à 500 kg ou 2,5 m, elle intègre une gestion de l'éclairage de zone et se programme depuis l'application TaHoma. Pose et raccordement 230 V par un installateur certifié.",
+        "highlights": [
+          "Vantaux jusqu'à 500 kg ou 2,5 m",
+          "Détection d'obstacle et ralentissement automatique",
+          "Pilotage io-homecontrol via TaHoma",
+          "Éclairage de zone intégré"
+        ],
+        "inTheBox": [
+          "2 motorisations Elixo 500 3S io",
+          "Platines de fixation",
+          "2 télécommandes Keytis io",
+          "Notice d'installation"
+        ]
+      },
+      "en": {
+        "name": "Somfy Elixo 500 3S io",
+        "tagline": "An arm operator for swing gates up to 500 kg.",
+        "description": "Articulated-arm operator for swing gates, with io-homecontrol technology for remote control, obstacle detection and automatic slow-down at the end of travel. Designed for leaves up to 500 kg or 2.5 m, it includes zone lighting control and is programmed from the TaHoma app. Installation and 230 V wiring by a certified installer.",
+        "highlights": [
+          "Leaves up to 500 kg or 2.5 m",
+          "Obstacle detection and automatic slow-down",
+          "io-homecontrol control via TaHoma",
+          "Built-in zone lighting"
+        ],
+        "inTheBox": [
+          "2 Elixo 500 3S io operators",
+          "Mounting plates",
+          "2 Keytis io remotes",
+          "Installation manual"
+        ]
+      },
+      "es": {
+        "name": "Somfy Elixo 500 3S io",
+        "tagline": "Motorización de brazo para portones batientes de hasta 500 kg.",
+        "description": "Motorización de brazo articulado para portón batiente, con tecnología io-homecontrol para control remoto, detección de obstáculos y ralentización automática al final de recorrido. Diseñada para hojas de hasta 500 kg o 2,5 m, incluye gestión de iluminación de zona y se programa desde la app TaHoma. Instalación y conexión a 230 V por un instalador certificado.",
+        "highlights": [
+          "Hojas de hasta 500 kg o 2,5 m",
+          "Detección de obstáculos y ralentización automática",
+          "Control io-homecontrol vía TaHoma",
+          "Iluminación de zona integrada"
+        ],
+        "inTheBox": [
+          "2 motorizaciones Elixo 500 3S io",
+          "Placas de fijación",
+          "2 mandos Keytis io",
+          "Manual de instalación"
+        ]
+      },
+      "ar": {
+        "name": "Somfy Elixo 500 3S io",
+        "tagline": "محرك ذراع للبوابات المفصلية بوزن يصل إلى 500 كغ.",
+        "description": "محرك ذراع مفصلي للبوابات ذات المصراعين، بتقنية io-homecontrol للتحكم عن بعد وكشف العوائق والإبطاء التلقائي عند نهاية المسار. مصمم لمصاريع بوزن يصل إلى 500 كغ أو طول 2.5 متر، ويتضمن إدارة إضاءة المنطقة ويُبرمج من تطبيق TaHoma. يتطلب التركيب والتوصيل بتيار 230 فولت فنياً معتمداً.",
+        "highlights": [
+          "مصاريع بوزن يصل إلى 500 كغ أو طول 2.5 متر",
+          "كشف العوائق والإبطاء التلقائي",
+          "تحكم عبر io-homecontrol بواسطة TaHoma",
+          "إضاءة منطقة مدمجة"
+        ],
+        "inTheBox": [
+          "محركا Elixo 500 3S io",
+          "ألواح تثبيت",
+          "جهازا تحكم Keytis io",
+          "دليل التركيب"
+        ]
+      },
+      "zh": {
+        "name": "Somfy Elixo 500 3S io 摆闸电机",
+        "tagline": "适用于最重 500 公斤平开门的臂式电机。",
+        "description": "铰接臂式平开门电机，采用 io-homecontrol 技术，支持远程控制、障碍物检测与行程末端自动减速。适用于最重 500 公斤或长 2.5 米的门扇，内置区域照明管理，可通过 TaHoma 应用编程。需由认证安装人员完成安装与 230V 接线。",
+        "highlights": [
+          "适用门扇最重 500 公斤或长 2.5 米",
+          "障碍物检测与自动减速",
+          "通过 TaHoma 实现 io-homecontrol 控制",
+          "内置区域照明"
+        ],
+        "inTheBox": [
+          "2 台 Elixo 500 3S io 电机",
+          "固定底板",
+          "2 个 Keytis io 遥控器",
+          "安装说明书"
+        ]
+      }
+    },
+    "attributes": {
+      "protocol": [
+        "io-rts"
+      ],
+      "placement": "exterieur",
+      "power": [
+        "secteur"
+      ],
+      "compat": [
+        "app-marque",
+        "safer-platform"
+      ]
+    },
+    "specs": [
+      {
+        "key": "motorPower",
+        "value": {
+          "fr": "180 W par vantail",
+          "en": "180 W per leaf",
+          "es": "180 W por hoja",
+          "ar": "180 واط لكل مصراع",
+          "zh": "180W/每扇门"
+        }
+      },
+      {
+        "key": "maxWeight",
+        "value": {
+          "fr": "500 kg ou 2,5 m par vantail",
+          "en": "500 kg or 2.5 m per leaf",
+          "es": "500 kg o 2,5 m por hoja",
+          "ar": "500 كجم أو 2.5 م لكل مصراع",
+          "zh": "500kg或每扇2.5米"
+        }
+      },
+      {
+        "key": "gateType",
+        "value": "Portail battant, 2 vantaux"
+      },
+      {
+        "key": "protocol",
+        "value": "io-homecontrol"
+      },
+      {
+        "key": "openingTime",
+        "value": {
+          "fr": "Réglable, ralentissement automatique",
+          "en": "Adjustable, automatic slow-down",
+          "es": "Regulable, ralentización automática",
+          "ar": "قابل للتعديل، تباطؤ تلقائي",
+          "zh": "可调节，自动减速"
+        }
+      },
+      {
+        "key": "cycles",
+        "value": "30 cycles/j"
+      },
+      {
+        "key": "voltage",
+        "value": "230 V"
+      }
+    ],
+    "pricing": {
+      "sourcePrice": 550,
+      "sourceCurrency": "EUR"
+    },
+    "availability": "sur-devis",
+    "warrantyMonths": 24,
+    "install": {
+      "level": "expert",
+      "duration": "3 h",
+      "prerequisites": {
+        "fr": "Piliers maçonnés stables, alimentation 230 V à proximité, pose par installateur certifié.",
+        "en": "Solid masonry pillars, nearby 230 V power, installation by a certified installer.",
+        "es": "Pilares de obra estables, alimentación de 230 V cercana, instalación por instalador certificado.",
+        "ar": "أعمدة بناء ثابتة، تغذية 230 فولت قريبة، تركيب بواسطة فني معتمد.",
+        "zh": "需稳固的砌体门柱及附近 230V 电源，由认证安装人员施工。"
+      }
+    },
+    "sourceUrl": "https://www.somfy.fr/produits/1216349/motorisation-portail-battant-elixo-500-3s-io",
+    "accent": "#facc15",
+    "symbol": "⊕",
+    "solutions": [
+      "controle-acces/portails-connectes"
+    ],
+    "related": [
+      "somfy-tahoma-switch",
+      "somfy-freevia-600"
+    ]
+  },
+  {
+    "id": "somfy-freevia-600",
+    "sku": "SF-FREEVIA600",
+    "brand": "somfy",
+    "sourceBrand": "Somfy",
+    "model": "Freevia 600",
+    "category": "acces",
+    "subcategory": "portails-motorisation",
+    "i18n": {
+      "fr": {
+        "name": "Somfy Freevia 600",
+        "tagline": "Motorisation autoportante pour portail coulissant jusqu'à 600 kg.",
+        "description": "Motorisation autoportante à crémaillère intégrée pour portail coulissant jusqu'à 600 kg, sans nécessité de rail au sol. Technologie io-homecontrol pour un pilotage à distance, une détection d'obstacle et un fonctionnement silencieux même en cas de coupure secteur grâce à la manœuvre de secours. Programmation et scénarios via l'application TaHoma.",
+        "highlights": [
+          "Portails coulissants jusqu'à 600 kg",
+          "Sans rail au sol, pose simplifiée",
+          "Manœuvre de secours en cas de coupure",
+          "Pilotage io-homecontrol via TaHoma"
+        ],
+        "inTheBox": [
+          "Motorisation Freevia 600",
+          "Crémaillère",
+          "2 télécommandes Keytis io",
+          "Notice d'installation"
+        ]
+      },
+      "en": {
+        "name": "Somfy Freevia 600",
+        "tagline": "A self-supporting operator for sliding gates up to 600 kg.",
+        "description": "Self-supporting operator with built-in rack for sliding gates up to 600 kg, with no ground rail required. io-homecontrol technology enables remote control, obstacle detection and quiet operation, plus a manual release for power outages. Programming and scenes managed through the TaHoma app.",
+        "highlights": [
+          "Sliding gates up to 600 kg",
+          "No ground rail, simpler installation",
+          "Manual release during a power outage",
+          "io-homecontrol control via TaHoma"
+        ],
+        "inTheBox": [
+          "Freevia 600 operator",
+          "Rack",
+          "2 Keytis io remotes",
+          "Installation manual"
+        ]
+      },
+      "es": {
+        "name": "Somfy Freevia 600",
+        "tagline": "Motorización autoportante para portones correderos de hasta 600 kg.",
+        "description": "Motorización autoportante con cremallera integrada para portones correderos de hasta 600 kg, sin necesidad de riel en el suelo. La tecnología io-homecontrol permite control remoto, detección de obstáculos y funcionamiento silencioso, con desbloqueo manual en caso de corte eléctrico. Programación y escenas mediante la app TaHoma.",
+        "highlights": [
+          "Portones correderos de hasta 600 kg",
+          "Sin riel en el suelo, instalación simplificada",
+          "Desbloqueo manual ante un corte eléctrico",
+          "Control io-homecontrol vía TaHoma"
+        ],
+        "inTheBox": [
+          "Motorización Freevia 600",
+          "Cremallera",
+          "2 mandos Keytis io",
+          "Manual de instalación"
+        ]
+      },
+      "ar": {
+        "name": "Somfy Freevia 600",
+        "tagline": "محرك ذاتي الدعم للبوابات المنزلقة بوزن يصل إلى 600 كغ.",
+        "description": "محرك ذاتي الدعم بجريدة مسننة مدمجة للبوابات المنزلقة بوزن يصل إلى 600 كغ، دون الحاجة لسكة أرضية. تتيح تقنية io-homecontrol التحكم عن بعد وكشف العوائق وتشغيلاً هادئاً، مع تحرير يدوي عند انقطاع التيار. البرمجة والسيناريوهات تُدار عبر تطبيق TaHoma.",
+        "highlights": [
+          "بوابات منزلقة بوزن يصل إلى 600 كغ",
+          "دون سكة أرضية، تركيب أبسط",
+          "تحرير يدوي عند انقطاع التيار",
+          "تحكم عبر io-homecontrol بواسطة TaHoma"
+        ],
+        "inTheBox": [
+          "محرك Freevia 600",
+          "جريدة مسننة",
+          "جهازا تحكم Keytis io",
+          "دليل التركيب"
+        ]
+      },
+      "zh": {
+        "name": "Somfy Freevia 600 推拉门电机",
+        "tagline": "适用于最重 600 公斤推拉门的自支撑电机。",
+        "description": "自支撑齿条一体式电机，适用于最重 600 公斤的推拉门，无需地面轨道。采用 io-homecontrol 技术实现远程控制、障碍物检测与静音运行，并配备停电手动释放装置。可通过 TaHoma 应用编程与设置场景。",
+        "highlights": [
+          "适用推拉门最重 600 公斤",
+          "无需地面轨道，安装更简便",
+          "停电时可手动释放",
+          "通过 TaHoma 实现 io-homecontrol 控制"
+        ],
+        "inTheBox": [
+          "Freevia 600 电机",
+          "齿条",
+          "2 个 Keytis io 遥控器",
+          "安装说明书"
+        ]
+      }
+    },
+    "attributes": {
+      "protocol": [
+        "io-rts"
+      ],
+      "placement": "exterieur",
+      "power": [
+        "secteur"
+      ],
+      "compat": [
+        "app-marque",
+        "safer-platform"
+      ]
+    },
+    "specs": [
+      {
+        "key": "motorPower",
+        "value": "280 W"
+      },
+      {
+        "key": "maxWeight",
+        "value": "600 kg"
+      },
+      {
+        "key": "gateType",
+        "value": {
+          "fr": "Portail coulissant, sans rail au sol",
+          "en": "Sliding gate, no ground rail",
+          "es": "Puerta corredera, sin riel en el suelo",
+          "ar": "بوابة انزلاقية، بدون سكة أرضية",
+          "zh": "无地轨滑动门"
+        }
+      },
+      {
+        "key": "protocol",
+        "value": "io-homecontrol"
+      },
+      {
+        "key": "openingTime",
+        "value": {
+          "fr": "Réglable, détection d'obstacle",
+          "en": "Adjustable, obstacle detection",
+          "es": "Regulable, detección de obstáculos",
+          "ar": "قابل للتعديل، كشف العوائق",
+          "zh": "可调节，障碍物检测"
+        }
+      },
+      {
+        "key": "cycles",
+        "value": "40 cycles/j"
+      },
+      {
+        "key": "voltage",
+        "value": "230 V"
+      }
+    ],
+    "pricing": {
+      "sourcePrice": 480,
+      "sourceCurrency": "EUR"
+    },
+    "availability": "sur-devis",
+    "warrantyMonths": 24,
+    "install": {
+      "level": "expert",
+      "duration": "3 h",
+      "prerequisites": {
+        "fr": "Sol stabilisé sur toute la course du portail, alimentation 230 V à proximité.",
+        "en": "A stable surface along the gate's full travel, nearby 230 V power.",
+        "es": "Suelo estabilizado en todo el recorrido del portón, alimentación de 230 V cercana.",
+        "ar": "أرضية ثابتة على طول مسار البوابة، تغذية 230 فولت قريبة.",
+        "zh": "大门整个行程范围需地面稳固，附近有 230V 电源。"
+      }
+    },
+    "sourceUrl": "https://www.somfy.fr/produits/1216551/motorisation-portail-coulissant-freevia-600-io",
+    "accent": "#facc15",
+    "symbol": "⊕",
+    "solutions": [
+      "controle-acces/portails-connectes"
+    ],
+    "related": [
+      "somfy-tahoma-switch",
+      "somfy-elixo-500-3s-io"
+    ]
+  },
+  {
+    "id": "somfy-oximo-io",
+    "sku": "SF-OXIMO-IO",
+    "brand": "somfy",
+    "sourceBrand": "Somfy",
+    "model": "Oximo io",
+    "category": "domotique",
+    "subcategory": "volets-rideaux",
+    "i18n": {
+      "fr": {
+        "name": "Somfy Oximo io",
+        "tagline": "Moteur pour volet roulant, pilotable à distance et par la voix.",
+        "description": "Moteur radio io-homecontrol pour volet roulant, avec détection d'obstacle, arrêt de fin de course automatique et gestion du soleil et du vent lorsqu'il est associé aux capteurs Somfy. Il se pilote depuis l'application TaHoma, par télécommande ou via les principaux assistants vocaux, et s'intègre à des scénarios horaires. Installation dans le tube du volet par un professionnel.",
+        "highlights": [
+          "Détection d'obstacle et fin de course automatique",
+          "Pilotage app, télécommande ou vocal",
+          "Scénarios horaires et gestion soleil/vent",
+          "Intégration native à l'écosystème TaHoma"
+        ],
+        "inTheBox": [
+          "Moteur Oximo io",
+          "Manivelle de débrayage",
+          "Notice d'installation"
+        ]
+      },
+      "en": {
+        "name": "Somfy Oximo io",
+        "tagline": "A roller shutter motor with remote and voice control.",
+        "description": "io-homecontrol radio motor for roller shutters, with obstacle detection, automatic end-of-travel stop, and sun and wind management when paired with Somfy sensors. It is controlled from the TaHoma app, a remote, or the main voice assistants, and fits into scheduled scenes. Installed inside the shutter tube by a professional.",
+        "highlights": [
+          "Obstacle detection and automatic stop",
+          "App, remote or voice control",
+          "Scheduled scenes and sun/wind management",
+          "Native integration with the TaHoma ecosystem"
+        ],
+        "inTheBox": [
+          "Oximo io motor",
+          "Manual override crank",
+          "Installation manual"
+        ]
+      },
+      "es": {
+        "name": "Somfy Oximo io",
+        "tagline": "Motor para persiana enrollable, controlable a distancia y por voz.",
+        "description": "Motor radio io-homecontrol para persianas enrollables, con detección de obstáculos, parada automática al final del recorrido y gestión de sol y viento al vincularse con los sensores Somfy. Se controla desde la app TaHoma, con mando o mediante los principales asistentes de voz, y se integra en escenas programadas. Instalación dentro del tubo de la persiana por un profesional.",
+        "highlights": [
+          "Detección de obstáculos y parada automática",
+          "Control por app, mando o voz",
+          "Escenas programadas y gestión sol/viento",
+          "Integración nativa con el ecosistema TaHoma"
+        ],
+        "inTheBox": [
+          "Motor Oximo io",
+          "Manivela de desembrague",
+          "Manual de instalación"
+        ]
+      },
+      "ar": {
+        "name": "Somfy Oximo io",
+        "tagline": "محرك ستارة كهربائية يُتحكم به عن بعد وبالصوت.",
+        "description": "محرك راديوي بتقنية io-homecontrol للستائر الكهربائية، مع كشف العوائق وتوقف تلقائي عند نهاية المسار، وإدارة الشمس والرياح عند اقترانه بحساسات Somfy. يُتحكم به من تطبيق TaHoma أو جهاز تحكم عن بعد أو مساعدي الصوت الرئيسيين، ويندمج في سيناريوهات مجدولة زمنياً. يُركَّب داخل أنبوب الستارة بواسطة فني محترف.",
+        "highlights": [
+          "كشف العوائق وتوقف تلقائي",
+          "تحكم عبر التطبيق أو جهاز التحكم أو الصوت",
+          "سيناريوهات مجدولة وإدارة الشمس والرياح",
+          "تكامل أصلي مع نظام TaHoma"
+        ],
+        "inTheBox": [
+          "محرك Oximo io",
+          "مفتاح فك يدوي",
+          "دليل التركيب"
+        ]
+      },
+      "zh": {
+        "name": "Somfy Oximo io 卷帘电机",
+        "tagline": "支持远程与语音控制的卷帘电机。",
+        "description": "采用 io-homecontrol 无线技术的卷帘电机，具备障碍物检测、行程末端自动停止功能，并可在联动 Somfy 传感器时管理日照与风力。可通过 TaHoma 应用、遥控器或主流语音助手控制，并支持定时场景联动。需由专业人员安装于卷帘管内。",
+        "highlights": [
+          "障碍物检测与自动停止",
+          "支持应用、遥控或语音控制",
+          "定时场景与日照/风力管理",
+          "与 TaHoma 生态原生集成"
+        ],
+        "inTheBox": [
+          "Oximo io 电机",
+          "手动解锁摇杆",
+          "安装说明书"
+        ]
+      }
+    },
+    "attributes": {
+      "protocol": [
+        "io-rts"
+      ],
+      "placement": "interieur",
+      "power": [
+        "secteur"
+      ],
+      "compat": [
+        "app-marque",
+        "safer-platform"
+      ]
+    },
+    "specs": [
+      {
+        "key": "motorPower",
+        "value": "20 Nm"
+      },
+      {
+        "key": "protocol",
+        "value": "io-homecontrol"
+      },
+      {
+        "key": "openingTime",
+        "value": {
+          "fr": "Réglable, arrêt automatique",
+          "en": "Adjustable, automatic stop",
+          "es": "Regulable, parada automática",
+          "ar": "قابل للتعديل، توقف تلقائي",
+          "zh": "可调节，自动停止"
+        }
+      },
+      {
+        "key": "cycles",
+        "value": "Usage domestique quotidien"
+      },
+      {
+        "key": "voltage",
+        "value": "230 V"
+      },
+      {
+        "key": "compatibility",
+        "value": {
+          "fr": "TaHoma, télécommandes Situo io",
+          "en": "TaHoma, Situo io remotes",
+          "es": "TaHoma, mandos Situo io",
+          "ar": "TaHoma، أجهزة تحكم عن بُعد Situo io",
+          "zh": "TaHoma，Situo io遥控器"
+        }
+      }
+    ],
+    "pricing": {
+      "sourcePrice": 179,
+      "sourceCurrency": "EUR"
+    },
+    "availability": "sur-devis",
+    "warrantyMonths": 24,
+    "install": {
+      "level": "expert",
+      "duration": "1 h 30",
+      "prerequisites": {
+        "fr": "Coffre de volet compatible et alimentation 230 V, pose par un professionnel.",
+        "en": "A compatible shutter box and 230 V power, installed by a professional.",
+        "es": "Cajón de persiana compatible y alimentación de 230 V, instalación por un profesional.",
+        "ar": "صندوق ستارة متوافق وتغذية 230 فولت، تركيب بواسطة فني محترف.",
+        "zh": "需兼容的卷帘箱及 230V 电源，由专业人员安装。"
+      }
+    },
+    "sourceUrl": "https://www.somfy.fr/produits/1035183/moteur-volet-roulant-oximo-io",
+    "accent": "#facc15",
+    "symbol": "⌁",
+    "solutions": [
+      "domotique/scenarios-intelligents"
+    ],
+    "related": [
+      "somfy-tahoma-switch"
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "id": "reolink-argus-4-pro",
+    "sku": "RL-ARGUS4PRO",
+    "brand": "reolink",
+    "sourceBrand": "Reolink",
+    "model": "Argus 4 Pro",
+    "category": "video",
+    "subcategory": "cameras-exterieures",
+    "i18n": {
+      "fr": {
+        "name": "Reolink Argus 4 Pro",
+        "tagline": "Une vue 4K à 180°, sans angle mort.",
+        "description": "Caméra extérieure sans fil à double objectif offrant une image 4K panoramique de 180°, une vision nocturne couleur sans projecteur (ColorX) et une détection intelligente des personnes, véhicules et animaux. Alimentée par batterie, rechargeable par panneau solaire, elle s’installe en moins d’une heure sur une façade, un portail ou une cour.",
+        "highlights": ["Image 4K panoramique 180° sans couture", "Vision nocturne couleur ColorX sans projecteur", "Détection IA personnes / véhicules / animaux", "Wi-Fi 6 double bande et batterie longue durée"],
+        "inTheBox": ["Caméra Argus 4 Pro", "Support mural et visserie", "Câble de charge USB-C", "Guide de démarrage"]
+      },
+      "en": {
+        "name": "Reolink Argus 4 Pro",
+        "tagline": "A 180° 4K view with no blind spot.",
+        "description": "Dual-lens wireless outdoor camera delivering a seamless 180° 4K panorama, spotlight-free ColorX colour night vision and smart detection of people, vehicles and animals. Battery powered and solar rechargeable, it installs in under an hour on a façade, gate or courtyard.",
+        "highlights": ["Seamless 180° 4K panoramic image", "ColorX colour night vision without spotlight", "AI detection of people / vehicles / animals", "Dual-band Wi-Fi 6 and long-life battery"],
+        "inTheBox": ["Argus 4 Pro camera", "Wall mount and screws", "USB-C charging cable", "Quick start guide"]
+      },
+      "es": {
+        "name": "Reolink Argus 4 Pro",
+        "tagline": "Una vista 4K de 180°, sin ángulos muertos.",
+        "description": "Cámara exterior inalámbrica de doble lente con panorámica 4K de 180° sin costuras, visión nocturna en color ColorX sin foco y detección inteligente de personas, vehículos y animales. Funciona con batería recargable por panel solar y se instala en menos de una hora en fachadas, portones o patios.",
+        "highlights": ["Imagen panorámica 4K de 180° sin costuras", "Visión nocturna en color ColorX sin foco", "Detección IA de personas / vehículos / animales", "Wi-Fi 6 de doble banda y batería de larga duración"],
+        "inTheBox": ["Cámara Argus 4 Pro", "Soporte de pared y tornillos", "Cable de carga USB-C", "Guía de inicio rápido"]
+      },
+      "ar": {
+        "name": "Reolink Argus 4 Pro",
+        "tagline": "رؤية 4K بزاوية 180° دون نقاط عمياء.",
+        "description": "كاميرا خارجية لاسلكية بعدستين توفر صورة بانورامية 4K بزاوية 180° دون فواصل، ورؤية ليلية ملوّنة ColorX دون كشّاف، وكشفاً ذكياً للأشخاص والمركبات والحيوانات. تعمل بالبطارية وتُشحن بلوحة شمسية، وتُركَّب في أقل من ساعة على واجهة أو بوابة أو فناء.",
+        "highlights": ["صورة بانورامية 4K بزاوية 180° متصلة", "رؤية ليلية ملوّنة ColorX دون كشّاف", "كشف ذكي للأشخاص والمركبات والحيوانات", "Wi-Fi 6 ثنائي النطاق وبطارية طويلة العمر"],
+        "inTheBox": ["كاميرا Argus 4 Pro", "حامل جداري وبراغي", "كابل شحن USB-C", "دليل البدء السريع"]
+      },
+      "zh": {
+        "name": "Reolink Argus 4 Pro",
+        "tagline": "180° 4K 全景视野，无盲区。",
+        "description": "双镜头无线户外摄像机，提供无缝 180° 4K 全景画面、无需聚光灯的 ColorX 彩色夜视，以及对人员、车辆和动物的智能检测。电池供电、可太阳能充电，一小时内即可安装于外墙、大门或庭院。",
+        "highlights": ["无缝 180° 4K 全景画面", "ColorX 彩色夜视，无需聚光灯", "AI 检测人员 / 车辆 / 动物", "双频 Wi-Fi 6 与长效电池"],
+        "inTheBox": ["Argus 4 Pro 摄像机", "壁挂支架与螺丝", "USB-C 充电线", "快速入门指南"]
+      }
+    },
+    "attributes": { "protocol": ["wifi"], "placement": "exterieur", "power": ["batterie", "solaire"], "compat": ["alexa", "google", "app-marque", "safer-platform"], "resolution": "4k" },
+    "specs": [
+      { "key": "resolution", "value": "4K UHD (5120 × 1440)" },
+      { "key": "fieldOfView", "value": "180° horizontal" },
+      { "key": "nightVision", "value": "ColorX couleur, f/1.0" },
+      { "key": "ai", "value": "Personnes, véhicules, animaux" },
+      { "key": "connectivity", "value": "Wi-Fi 6 2,4 / 5 GHz" },
+      { "key": "battery", "value": "5 000 mAh, solaire en option" },
+      { "key": "storage", "value": "microSD 128 Go max, Reolink Cloud" },
+      { "key": "weatherproof", "value": "IP66" },
+      { "key": "operatingTemp", "value": "-10 °C à 55 °C" }
+    ],
+    "pricing": { "sourcePrice": 169.99, "sourceCurrency": "USD" },
+    "availability": "sur-commande",
+    "install": { "level": "standard", "duration": "45 min", "prerequisites": { "fr": "Wi-Fi 2,4 ou 5 GHz couvrant l’emplacement ; exposition solaire si panneau.", "en": "2.4 or 5 GHz Wi-Fi coverage at the location; sun exposure if solar panel.", "es": "Cobertura Wi-Fi de 2,4 o 5 GHz en el lugar; exposición solar si se usa panel.", "ar": "تغطية Wi-Fi بتردد 2.4 أو 5 جيجاهرتز في الموقع؛ تعرّض للشمس عند استخدام اللوحة.", "zh": "安装位置需有 2.4 或 5 GHz Wi-Fi 覆盖；使用太阳能板时需有日照。" } },
+    "sourceUrl": "https://reolink.com/product/argus-4-pro/",
+    "accent": "#52c6ff",
+    "symbol": "◉",
+    "featured": true,
+    "solutions": ["video-intelligente/cameras-exterieures", "video-intelligente/verification-video"],
+    "related": ["reolink-solar-panel-2"]
+  }
+]
