@@ -1,0 +1,292 @@
+@import 'tailwindcss';
+
+@font-face {
+  font-family: 'Saira';
+  src: url('/fonts/Saira-Light.ttf') format('truetype');
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Saira';
+  src: url('/fonts/Saira-Regular.ttf') format('truetype');
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Saira';
+  src: url('/fonts/Saira-SemiBold.ttf') format('truetype');
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Saira';
+  src: url('/fonts/Saira-Bold.ttf') format('truetype');
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+}
+
+:root {
+  --background: #000000;
+  --foreground: #ffffff;
+  --safer-blue: #4556f5;
+  --safer-sky: #52c6ff;
+  --safer-black: #000000;
+  --safer-mist: #e6e7e8;
+  --surface-page: #f3f5fb;
+  --surface-card: #ffffff;
+  --surface-soft: #e9edf5;
+  --text-primary: #071019;
+  --text-secondary: #435064;
+  --text-muted: #647087;
+  --line-subtle: rgba(7, 16, 25, 0.1);
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --font-sans: 'Saira', Arial, sans-serif;
+  --font-mono: 'Saira', Arial, sans-serif;
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: 'Saira', Arial, sans-serif;
+}
+
+html { scroll-behavior: smooth; }
+
+html[data-theme='light'] { color-scheme: light; }
+html[data-theme='dark'] { color-scheme: dark; }
+
+html[data-theme='dark'] {
+  --surface-page: #070910;
+  --surface-card: #111521;
+  --surface-soft: #181d2b;
+  --text-primary: #f7f8fc;
+  --text-secondary: #c7cedd;
+  --text-muted: #a9b3c7;
+  --line-subtle: rgba(255, 255, 255, 0.14);
+}
+
+body, main, section, article, aside, header, footer, input, select, textarea, button {
+  transition: background-color .25s ease, border-color .25s ease, color .25s ease;
+}
+
+::selection { background: #52c6ff; color: #000000; }
+
+button, a, input, select, textarea { -webkit-tap-highlight-color: transparent; }
+
+button, summary { cursor: pointer; }
+
+img, video { display: block; }
+
+/* Normalisation des anciennes couleurs vers le système officiel SafeR. */
+[class*="bg-[#07120f]"],
+[class*="bg-[#0b1d17]"],
+[class*="bg-[#06100d]"],
+[class*="bg-[#10221d]"],
+[class*="bg-[#12261f]"],
+[class*="bg-[#132a23]"] { background-color: #000000 !important; }
+
+[class*="bg-[#b8ff3d]"] { background-color: #52c6ff !important; }
+[class*="bg-[#cfe7df]"] { background-color: #dff5ff !important; }
+[class*="bg-[#e9eeea]"],
+[class*="bg-[#eef2ee]"],
+[class*="bg-[#f1f4f1]"],
+[class*="bg-[#eff3f0]"] { background-color: #f3f5fb !important; }
+[class*="text-[#b8ff3d]"],
+[class*="text-[#77a91a]"],
+[class*="text-[#75a919]"],
+[class*="text-[#659413]"],
+[class*="text-[#669516]"],
+[class*="text-[#80b51d]"] { color: #52c6ff !important; }
+[class*="text-[#07120f]"],
+[class*="text-[#0a1814]"],
+[class*="text-[#0b1d17]"] { color: #000000 !important; }
+[class*="border-[#b8ff3d]"],
+[class*="border-[#78a91e]"] { border-color: #52c6ff !important; }
+[class*="accent-[#78a91e]"] { accent-color: #4556f5 !important; }
+[class*="decoration-[#79aa21]"] { text-decoration-color: #4556f5 !important; }
+[class*="bg-[#77a81d]"] { background-color: #4556f5 !important; }
+
+.eyebrow {
+  color: #4556f5;
+  font-size: 0.75rem;
+  font-weight: 700;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+}
+
+.section-title {
+  font-size: clamp(2.5rem, 6vw, 4.5rem);
+  font-weight: 300;
+  letter-spacing: -0.04em;
+  line-height: 1.02;
+}
+
+.brand-grid {
+  background-image:
+    linear-gradient(rgba(82, 198, 255, 0.1) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(82, 198, 255, 0.1) 1px, transparent 1px);
+  background-size: 48px 48px;
+}
+
+.brand-cut {
+  clip-path: polygon(9% 0, 100% 0, 91% 100%, 0 100%);
+}
+
+.media-grade {
+  position: relative;
+  isolation: isolate;
+}
+
+.media-grade::after {
+  position: absolute;
+  inset: 0;
+  z-index: 1;
+  content: '';
+  pointer-events: none;
+  background: linear-gradient(135deg, rgba(69, 86, 245, 0.58), rgba(82, 198, 255, 0.05) 56%, rgba(0, 0, 0, 0.38));
+  mix-blend-mode: multiply;
+}
+
+.offers-hero {
+  background-image: linear-gradient(90deg, rgba(0,0,0,.96), rgba(0,0,0,.72) 48%, rgba(69,86,245,.34)), url('https://images.pexels.com/photos/6994181/pexels-photo-6994181.jpeg?auto=compress&dpr=1&h=1100&w=1800');
+  background-position: center;
+  background-size: cover;
+}
+
+.offers-page > section:first-child {
+  position: relative;
+  overflow: hidden;
+  background-image: linear-gradient(90deg, rgba(0,0,0,.96), rgba(0,0,0,.72) 48%, rgba(69,86,245,.34)), url('https://images.pexels.com/photos/6994181/pexels-photo-6994181.jpeg?auto=compress&dpr=1&h=1100&w=1800') !important;
+  background-position: center;
+  background-size: cover;
+}
+
+.offers-page > section:first-child::after,
+.districts-page > section:first-child::after {
+  position: absolute;
+  inset: 0;
+  content: '';
+  pointer-events: none;
+  background-image: linear-gradient(rgba(82,198,255,.08) 1px, transparent 1px), linear-gradient(90deg,rgba(82,198,255,.08) 1px, transparent 1px);
+  background-size: 52px 52px;
+}
+
+.districts-hero {
+  background-image: linear-gradient(90deg, rgba(0,0,0,.96), rgba(0,0,0,.58)), url('https://images.pexels.com/photos/30692441/pexels-photo-30692441/free-photo-of-security-officer-in-dark-control-room-with-monitors.jpeg?auto=compress&dpr=1&h=1100&w=1800');
+  background-position: center;
+  background-size: cover;
+}
+
+.districts-page > section:first-child {
+  background-image: linear-gradient(90deg, rgba(0,0,0,.96), rgba(0,0,0,.58)), url('https://images.pexels.com/photos/30692441/pexels-photo-30692441/free-photo-of-security-officer-in-dark-control-room-with-monitors.jpeg?auto=compress&dpr=1&h=1100&w=1800') !important;
+  background-position: center;
+  background-size: cover;
+}
+
+.client-aside-photo {
+  background-image: linear-gradient(180deg, rgba(0,0,0,.08), rgba(0,0,0,.9)), url('https://images.pexels.com/photos/35551115/pexels-photo-35551115/free-photo-of-minimalistic-security-camera-on-modern-building.jpeg?auto=compress&dpr=1&h=900&w=900');
+  background-position: center;
+  background-size: cover;
+}
+
+.client-page aside {
+  background-image: linear-gradient(180deg, rgba(0,0,0,.1), rgba(0,0,0,.92)), url('https://images.pexels.com/photos/35551115/pexels-photo-35551115/free-photo-of-minimalistic-security-camera-on-modern-building.jpeg?auto=compress&dpr=1&h=900&w=900') !important;
+  background-position: center;
+  background-size: cover;
+}
+
+html[data-theme='dark'] body,
+html[data-theme='dark'] main { background-color: var(--surface-page) !important; color: var(--text-primary) !important; }
+html[data-theme='dark'] [class*="bg-white"],
+html[data-theme='dark'] [class*="bg-[#f"],
+html[data-theme='dark'] [class*="bg-[#e"],
+html[data-theme='dark'] [class*="bg-[#cfe7df]"] { background-color: var(--surface-card) !important; }
+html[data-theme='dark'] [class*="text-black"],
+html[data-theme='dark'] [class*="text-[#0"],
+html[data-theme='dark'] [class*="text-[#0a1814]"],
+html[data-theme='dark'] [class*="text-[#07120f]"],
+html[data-theme='dark'] [class*="text-[#0b1d17]"] { color: var(--text-primary) !important; }
+html[data-theme='dark'] .theme-page [class*="bg-white"] { color: var(--text-primary); }
+html[data-theme='dark'] [class*="border-black"] { border-color: var(--line-subtle) !important; }
+html[data-theme='dark'] input,
+html[data-theme='dark'] select,
+html[data-theme='dark'] textarea { background-color: var(--surface-soft) !important; border-color: rgba(255,255,255,.2) !important; color: #ffffff !important; }
+html[data-theme='dark'] input::placeholder,
+html[data-theme='dark'] textarea::placeholder { color: #9ba6bb !important; opacity: 1; }
+html[data-theme='dark'] [class*="bg-[#b8ff3d]"],
+html[data-theme='dark'] [class*="bg-[#52c6ff]"] { background-color: #52c6ff !important; color: #000000 !important; }
+html[data-theme='dark'] [class*="bg-[#4556f5]"] { background-color: #4556f5 !important; color: #ffffff !important; }
+html[data-theme='dark'] [class*="bg-[#b8ff3d]"] [class*="text-black"],
+html[data-theme='dark'] [class*="bg-[#b8ff3d]"] [class*="text-[#07120f]"],
+html[data-theme='dark'] [class*="bg-[#52c6ff]"] [class*="text-black"],
+html[data-theme='dark'] [class*="bg-[#52c6ff]"] [class*="text-[#07120f]"] { color: rgba(0, 0, 0, .72) !important; }
+html[data-theme='dark'] [class*="bg-[#b8ff3d]"] h1,
+html[data-theme='dark'] [class*="bg-[#b8ff3d]"] h2,
+html[data-theme='dark'] [class*="bg-[#b8ff3d]"] h3,
+html[data-theme='dark'] [class*="bg-[#52c6ff]"] h1,
+html[data-theme='dark'] [class*="bg-[#52c6ff]"] h2,
+html[data-theme='dark'] [class*="bg-[#52c6ff]"] h3 { color: #000000 !important; }
+html[data-theme='dark'] main [class*="text-white/35"],
+html[data-theme='dark'] main [class*="text-white/40"],
+html[data-theme='dark'] main [class*="text-white/45"] { color: rgba(255,255,255,.72) !important; }
+html[data-theme='dark'] main [class*="text-white/50"],
+html[data-theme='dark'] main [class*="text-white/55"] { color: rgba(255,255,255,.90) !important; }
+html[data-theme='dark'] main [class*="text-white/60"],
+html[data-theme='dark'] main [class*="text-white/65"],
+html[data-theme='dark'] main [class*="text-white/70"],
+html[data-theme='dark'] main [class*="text-white/75"] { color: rgba(255,255,255,.88) !important; }
+html[data-theme='dark'] main p[class*="opacity-"],
+html[data-theme='dark'] main span[class*="opacity-"] { opacity: .76 !important; }
+html[data-theme='dark'] .eyebrow { color: #79d3ff; }
+html[data-theme='dark'] .media-grade img { filter: brightness(1.06) saturate(1.04); }
+html[data-theme='dark'] .media-grade::after { background: linear-gradient(135deg, rgba(69, 86, 245, .32), rgba(82, 198, 255, .02) 58%, rgba(0, 0, 0, .24)); mix-blend-mode: normal; }
+html[data-theme='dark'] .catalog-badge { background: rgba(82, 198, 255, .15) !important; border: 1px solid rgba(82, 198, 255, .24); color: #bcecff !important; }
+html[data-theme='dark'] table { color: var(--text-primary); }
+html[data-theme='dark'] .site-header[data-surface='light'] { color: #ffffff !important; }
+html[data-theme='dark'] .site-header[data-surface='light'] .site-logo-on-light { display: none; }
+html[data-theme='dark'] .site-header[data-surface='light'] .site-logo-on-dark { display: block; }
+html[dir='rtl'] body { text-align: right; }
+html[dir='rtl'] .brand-cut { transform: scaleX(-1); }
+
+.preference-controls select option { color: #000000; background: #ffffff; }
+
+.product-showcase video,
+.product-showcase > div > img {
+  filter: saturate(.92) contrast(1.04) brightness(.88);
+}
+
+.product-showcase [role='tab'] {
+  min-height: 66px;
+}
+
+.store-product-visual {
+  background: radial-gradient(circle at 18% 8%, #ffffff 0%, color-mix(in srgb, var(--product-accent) 42%, white) 58%, var(--product-accent) 100%);
+}
+
+.store-product-card {
+  box-shadow: 0 24px 70px rgba(18, 28, 48, .05);
+}
+
+html[data-theme='dark'] .store-product-visual [class*="text-black"],
+html[data-theme='dark'] .verification-badge { color: rgba(0, 0, 0, .76) !important; }
+html[data-theme='dark'] .partner-feedback { background: #1a2232 !important; color: #f7f8fc !important; }
+
+@media (max-width: 639px) {
+  .product-showcase [role='tab'] { min-height: 56px; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html { scroll-behavior: auto; }
+  *, *::before, *::after { animation-duration: 0.01ms !important; animation-iteration-count: 1 !important; transition-duration: 0.01ms !important; }
+}

@@ -1,0 +1,228 @@
+{
+  "lastCatalogSync": "2026-08-31T17:55:48.785Z",
+  "schedule": "00:00 Africa/Abidjan",
+  "products": [
+    {
+      "id": "guard-h2-ci",
+      "name": "SafeR Guard H2·CI",
+      "reference": "SR-AJ-H2-4G-CI",
+      "category": "Sécurité",
+      "headline": "Le centre nerveux de votre protection.",
+      "description": "Centrale multi-canal avec scénarios, secours cellulaire et supervision SafeR 24/7 selon configuration.",
+      "priceXof": 185000,
+      "monthlyXof": 14900,
+      "accent": "#52c6ff",
+      "symbol": "⌂",
+      "sourceEcosystem": "Ajax Systems",
+      "sourceModel": "Hub 2 (4G) Jeweller",
+      "sourceUrl": "https://support.ajax.systems/en/manuals/hub-2/",
+      "stock": "Configuration sur devis",
+      "tags": [
+        "Ethernet",
+        "Double SIM",
+        "Alertes"
+      ],
+      "crawl": {
+        "status": "ok",
+        "lastChecked": "2026-08-31T17:55:48.785Z",
+        "sourceAvailability": "À confirmer",
+        "sourceTitle": "Hub 2 (2G) / (4G) user manual | Ajax Support"
+      }
+    },
+    {
+      "id": "vision-a4p-ci",
+      "name": "SafeR Vision A4P·CI",
+      "reference": "SR-RL-A4P-CI",
+      "category": "Vidéo",
+      "headline": "Une vue large, sans angle mort.",
+      "description": "Caméra extérieure sur batterie, détection intelligente et image panoramique adaptée aux villas et petits sites.",
+      "priceXof": 149000,
+      "monthlyXof": 6900,
+      "accent": "#b8ff3d",
+      "symbol": "◉",
+      "sourceEcosystem": "Reolink",
+      "sourceModel": "Argus 4 Pro",
+      "sourceUrl": "https://reolink.com/product/argus-4-pro/",
+      "stock": "Disponible sur commande",
+      "tags": [
+        "4K",
+        "180°",
+        "Sans fil"
+      ],
+      "crawl": {
+        "status": "ok",
+        "lastChecked": "2026-08-31T17:55:48.785Z",
+        "sourceAvailability": "Disponible à la source",
+        "sourceTitle": "[Official] Reolink Argus 4 Pro - 4K 180° Wireless Solar Security Camera",
+        "sourcePrice": "169.99",
+        "sourceCurrency": "USD"
+      }
+    },
+    {
+      "id": "door-d340-ci",
+      "name": "SafeR Door D340·CI",
+      "reference": "SR-EF-T8214-CI",
+      "category": "Accès",
+      "headline": "Voyez chaque visiteur, de la tête aux pieds.",
+      "description": "Sonnette vidéo double caméra avec détection de colis et conversation à distance depuis l’application.",
+      "priceXof": 145000,
+      "monthlyXof": 4900,
+      "accent": "#4556f5",
+      "symbol": "↗",
+      "sourceEcosystem": "eufy Security",
+      "sourceModel": "Video Doorbell E340 · T8214111",
+      "sourceUrl": "https://www.eufy.com/products/t8214111",
+      "stock": "Disponible sur commande",
+      "tags": [
+        "Double caméra",
+        "2K",
+        "Vision nocturne"
+      ],
+      "crawl": {
+        "status": "ok",
+        "lastChecked": "2026-08-31T17:55:48.785Z",
+        "sourceAvailability": "Disponible à la source",
+        "sourceTitle": "Video Doorbell E340 -Doorbell Camera Without Subscription - eufy US",
+        "sourcePrice": "149.99",
+        "sourceCurrency": "USD"
+      }
+    },
+    {
+      "id": "habitat-tsw-ci",
+      "name": "SafeR Habitat TSW·CI",
+      "reference": "SR-SF-1875-CI",
+      "category": "Domotique",
+      "headline": "Toute la maison dans une seule scène.",
+      "description": "Hub domotique pour centraliser volets, éclairage, portail, énergie et routines de sécurité.",
+      "priceXof": 168000,
+      "monthlyXof": 5900,
+      "accent": "#ffca55",
+      "symbol": "⌁",
+      "sourceEcosystem": "Somfy",
+      "sourceModel": "TaHoma Switch · 1870595",
+      "sourceUrl": "https://www.somfy.fr/produits/1870595/tahoma-switch-la-box-domotique-pour-piloter-votre-logement-connecte",
+      "stock": "Configuration sur devis",
+      "tags": [
+        "Scénarios",
+        "Confort",
+        "Énergie"
+      ],
+      "crawl": {
+        "status": "ok",
+        "lastChecked": "2026-08-31T17:55:48.785Z",
+        "sourceAvailability": "À confirmer",
+        "sourceTitle": "La box domotique TaHoma® switch | Somfy"
+      }
+    },
+    {
+      "id": "link-gz3-ci",
+      "name": "SafeR Link GZ3·CI",
+      "reference": "SR-TY-GWZ3-100-CI",
+      "category": "Connectivité",
+      "headline": "Le pont discret entre vos équipements.",
+      "description": "Passerelle multi-équipements pour projets compatibles, avec référencement OEM consigné dans le dossier technique.",
+      "priceXof": 79000,
+      "monthlyXof": 3900,
+      "accent": "#d8a8ff",
+      "symbol": "◎",
+      "sourceEcosystem": "TuyaOS",
+      "sourceModel": "Gateway PCBA · Zigbee 3.0",
+      "sourceUrl": "https://developer.tuya.com/en/docs/iot/gateway?id=Kbenqcqemkn4n",
+      "stock": "Selon compatibilité",
+      "tags": [
+        "Zigbee 3.0",
+        "Multi-marques",
+        "Scénarios"
+      ],
+      "crawl": {
+        "status": "ok",
+        "lastChecked": "2026-08-31T17:55:48.785Z",
+        "sourceAvailability": "À confirmer",
+        "sourceTitle": "Gateway-Tuya Developer Platform-Tuya Developer"
+      }
+    },
+    {
+      "id": "motion-p2-ci",
+      "name": "SafeR Motion P2·CI",
+      "reference": "SR-AJ-MP2-CI",
+      "category": "Détection",
+      "headline": "Détecter une présence, ignorer le bruit.",
+      "description": "Détecteur de mouvement intérieur avec filtrage des événements et intégration aux scénarios d’alarme SafeR.",
+      "priceXof": 58000,
+      "monthlyXof": 1900,
+      "accent": "#52c6ff",
+      "symbol": "◌",
+      "sourceEcosystem": "Ajax Systems",
+      "sourceModel": "MotionProtect",
+      "sourceUrl": "https://ajax.systems/products/motionprotect/",
+      "stock": "Disponible sur commande",
+      "tags": [
+        "Mouvement",
+        "Sans fil",
+        "Anti-fausse alerte"
+      ],
+      "crawl": {
+        "status": "ok",
+        "lastChecked": "2026-08-31T17:55:48.785Z",
+        "sourceAvailability": "À confirmer",
+        "sourceTitle": "MotionProtect — Wireless motion sensor with immunity to animals"
+      }
+    },
+    {
+      "id": "fire-f2-ci",
+      "name": "SafeR Fire F2·CI",
+      "reference": "SR-AJ-FP2-CI",
+      "category": "Incendie",
+      "headline": "Fumée, chaleur et CO sous surveillance.",
+      "description": "Détection incendie multi-capteurs avec alerte locale et remontée vers l’écosystème SafeR selon le projet.",
+      "priceXof": 69000,
+      "monthlyXof": 1900,
+      "accent": "#ff7b62",
+      "symbol": "△",
+      "sourceEcosystem": "Ajax Systems",
+      "sourceModel": "FireProtect 2",
+      "sourceUrl": "https://ajax.systems/products/fireprotect-2/",
+      "stock": "Disponible sur commande",
+      "tags": [
+        "Fumée",
+        "Chaleur",
+        "CO"
+      ],
+      "crawl": {
+        "status": "unreachable",
+        "lastChecked": "2026-08-31T17:55:48.785Z",
+        "sourceAvailability": "À confirmer",
+        "note": "HTTP 404"
+      }
+    },
+    {
+      "id": "vision-ptu-ci",
+      "name": "SafeR Vision PTU·CI",
+      "reference": "SR-RL-APTU-CI",
+      "category": "Vidéo",
+      "headline": "Une surveillance active pour les grands extérieurs.",
+      "description": "Caméra orientable sur batterie, pensée pour cours, entrées secondaires et zones à couverture mobile.",
+      "priceXof": 165000,
+      "monthlyXof": 6900,
+      "accent": "#b8ff3d",
+      "symbol": "⟲",
+      "sourceEcosystem": "Reolink",
+      "sourceModel": "Argus PT Ultra",
+      "sourceUrl": "https://reolink.com/product/argus-pt-ultra/",
+      "stock": "Disponible sur commande",
+      "tags": [
+        "4K",
+        "Pan & tilt",
+        "Batterie"
+      ],
+      "crawl": {
+        "status": "ok",
+        "lastChecked": "2026-08-31T17:55:48.785Z",
+        "sourceAvailability": "Disponible à la source",
+        "sourceTitle": "Reolink Argus PT Ultra | 4K Solar/Battery Security Camera",
+        "sourcePrice": "134.99",
+        "sourceCurrency": "USD"
+      }
+    }
+  ]
+}
