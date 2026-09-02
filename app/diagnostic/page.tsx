@@ -5,7 +5,7 @@ import { getI18n, pageMetadata } from '@/lib/i18n/server';
 
 export async function generateMetadata(): Promise<Metadata> {
   const { d, locale } = await getI18n();
-  return pageMetadata(d, locale, { title: d.diagnostic.meta.title, description: d.diagnostic.meta.description, path: '/diagnostic' });
+  return pageMetadata(d, locale, { title: d.diagnostic.meta.title, description: d.diagnostic.meta.description, path: '/diagnostic', slot: 'diagnostic' });
 }
 
 export default function DiagnosticPage() {

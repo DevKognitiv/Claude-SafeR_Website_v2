@@ -8,7 +8,7 @@ import { allRoutes, type RouteGroup } from '@/lib/routes';
 
 export async function generateMetadata(): Promise<Metadata> {
   const { d, locale } = await getI18n();
-  return pageMetadata(d, locale, { title: d.sitemapPage.title, description: d.sitemapPage.description, path: '/plan-du-site' });
+  return pageMetadata(d, locale, { title: d.sitemapPage.title, description: d.sitemapPage.description, path: '/plan-du-site', slot: 'legal' });
 }
 
 export default async function SiteMapPage() {

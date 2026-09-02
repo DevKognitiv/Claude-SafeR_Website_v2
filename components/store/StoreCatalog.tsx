@@ -7,7 +7,7 @@ import ProductCard from '@/components/store/ProductCard';
 import SelectionBars from '@/components/store/SelectionBars';
 import { useI18n } from '@/lib/i18n/client';
 import { fmt } from '@/lib/i18n/config';
-import { parseFilters, serializeFilters, type FacetKey, type FilterState, type SortKey } from '@/lib/catalog';
+import { parseFilters, serializeFilters, type FacetKey, type FilterState, type SortKey } from '@/lib/catalog/filters';
 import { COMPARE_MAX, useSelection } from '@/lib/catalog/selection';
 import type { StoreItem } from '@/lib/catalog/view';
 
@@ -46,7 +46,7 @@ function matches(item: StoreItem, state: FilterState, key?: FacetKey): boolean {
     if (!selected.some((v) => values.includes(v))) return false;
   }
   if (state.q) {
-    const haystack = [item.name, item.tagline, item.description, item.sku, item.model, item.brandName, item.sourceBrand, ...item.highlights].join(' ').toLowerCase();
+    const haystack = [item.name, item.tagline, item.description, item.sku, item.model, item.brandName, ...item.highlights].join(' ').toLowerCase();
     if (!state.q.toLowerCase().split(/\s+/).filter(Boolean).every((term) => haystack.includes(term))) return false;
   }
   return true;

@@ -16,7 +16,7 @@ export async function generateMetadata({ params }: { params: Params }): Promise<
   if (!isPackId(pack)) return {};
   const { d, locale } = await getI18n();
   const p = d.offers.packs[pack];
-  return pageMetadata(d, locale, { title: `${d.offers.packPage.metaPrefix} ${p.name}`, description: `${p.pitch} ${p.forWho}`, path: `/offres/${pack}` });
+  return pageMetadata(d, locale, { title: `${d.offers.packPage.metaPrefix} ${p.name}`, description: `${p.pitch} ${p.forWho}`, path: `/offres/${pack}`, slot: 'offers' });
 }
 
 export default async function PackPage({ params }: { params: Params }) {

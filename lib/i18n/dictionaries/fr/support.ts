@@ -111,7 +111,7 @@ export const support = {
       paiement: {
         title: 'Paiement & abonnement', summary: 'Moyens de paiement, factures et résiliation.',
         items: [
-          ['Puis-je payer avec Mobile Money ?', 'Oui. Le parcours prévoit Mobile Money, carte bancaire et, selon votre dossier, des modalités échelonnées.'],
+          ['Puis-je payer avec Mobile Money ?', 'Oui : Orange Money, MTN MoMo, Wave et carte bancaire. Selon votre dossier, des modalités échelonnées sont possibles.'],
           ['Les prix affichés sont-ils définitifs ?', 'Ce sont des bases indicatives. Votre devis final dépend de la surface, des accès, du niveau de couverture et des options retenues.'],
           ['Puis-je changer de pack ?', 'Oui, à tout moment depuis votre espace client. Le changement prend effet à l’échéance suivante.'],
           ['Comment résilier ?', 'Depuis votre espace client ou par écrit, avec un préavis d’un mois. Les équipements achetés restent votre propriété.'],
@@ -129,7 +129,7 @@ export const support = {
         title: 'Équipements & compatibilité', summary: 'Marques, protocoles et existant.',
         items: [
           ['Dois-je changer tous mes équipements existants ?', 'Pas forcément. Nos techniciens évaluent les équipements compatibles et proposent une migration progressive lorsque c’est pertinent.'],
-          ['Quelles marques utilisez-vous ?', 'Des marques reconnues (Ajax, Reolink, eufy, Somfy, Aqara, Hikvision, Ezviz, Dahua, Sonoff…) et la gamme SafeR issue de l’écosystème Tuya. Chaque référence est indiquée dans le Store.'],
+          ['Quelles marques utilisez-vous ?', 'Des marques reconnues mondialement (Ajax, Reolink, eufy, Somfy, Aqara, Hikvision, EZVIZ, Dahua, SONOFF, Yale…) et la gamme SafeR, personnalisée et testée à Abidjan. Chaque équipement du Store est installé et garanti par SafeR.'],
           ['Les équipements résistent-ils au climat ?', 'Les équipements extérieurs retenus sont certifiés IP65 ou plus et installés avec des protections adaptées à l’humidité et à la chaleur.'],
         ],
       },

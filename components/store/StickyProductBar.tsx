@@ -3,7 +3,7 @@
 import Link from '@/components/Link';
 import { useEffect, useState } from 'react';
 import { useI18n } from '@/lib/i18n/client';
-import { formatXof } from '@/lib/catalog';
+import { formatXof } from '@/lib/catalog/format';
 import { useSelection } from '@/lib/catalog/selection';
 
 /** Mobile sticky purchase bar: price + add + quote, shown once the hero scrolls out of view. */

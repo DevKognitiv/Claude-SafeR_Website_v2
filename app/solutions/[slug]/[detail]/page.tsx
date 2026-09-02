@@ -3,6 +3,8 @@ import Link from '@/components/Link';
 import { notFound } from 'next/navigation';
 import Breadcrumbs from '@/components/Breadcrumbs';
 import SiteHeader from '@/components/SiteHeader';
+import SmartImage from '@/components/SmartImage';
+import { pageImage } from '@/lib/images';
 import SiteFooter from '@/components/SiteFooter';
 import ProductCard from '@/components/store/ProductCard';
 import JsonLd from '@/components/JsonLd';
@@ -24,7 +26,7 @@ export async function generateMetadata({ params }: { params: Params }): Promise<
   const { d, locale } = await getI18n();
   const detail = getDetailCopy(d, slug, detailSlug);
   if (!detail) return {};
-  return pageMetadata(d, locale, { title: detail.title, description: detail.description, path: `/solutions/${slug}/${detailSlug}`, image: getSolutionStructure(slug)!.image, imageAlt: detail.title });
+  return pageMetadata(d, locale, { title: detail.title, description: detail.description, path: `/solutions/${slug}/${detailSlug}`, image: pageImage(getSolutionStructure(slug)!.image).src, imageAlt: d.images[getSolutionStructure(slug)!.image] });
 }
 
 export default async function SolutionDetailPage({ params }: { params: Params }) {
@@ -42,7 +44,7 @@ export default async function SolutionDetailPage({ params }: { params: Params })
   return (
     <main id="contenu" className="theme-page bg-[#f3f5fb] text-black">
       <JsonLd data={faqJsonLd} />
-      <section className="bg-black text-white"><SiteHeader /><div className="mx-auto max-w-7xl px-5 pb-20 pt-4 lg:px-8"><Breadcrumbs items={[{ label: d.nav.solutions, href: '/solutions' }, { label: solution.title, href: `/solutions/${slug}` }, { label: detail.title }]} /><div className="mt-12 grid gap-10 lg:grid-cols-[.9fr_1.1fr] lg:items-center"><div><p className="text-xs font-bold uppercase tracking-[.16em] text-[#52c6ff]">{detail.short} · {solution.title}</p><h1 className="mt-5 text-5xl font-light leading-[1] tracking-[-.05em] sm:text-6xl">{detail.title}</h1><p className="mt-6 max-w-xl text-lg leading-8 text-white/60">{detail.description}</p><div className="mt-8 flex flex-col gap-3 sm:flex-row"><Link href="/diagnostic" className="rounded-full bg-[#4556f5] px-7 py-4 text-center text-sm font-bold text-white">{d.common.assessment}</Link><Link href={`/solutions/${slug}/${detailSlug}/equipements`} className="rounded-full border border-white/15 px-7 py-4 text-center text-sm font-bold">{s.viewEquipment}</Link></div></div><div className="media-grade relative min-h-[420px] overflow-hidden rounded-[34px]"><img src={structure.image} alt={detail.title} className="absolute inset-0 h-full w-full object-cover" /><span className="absolute bottom-6 right-6 z-10 rounded-full bg-black/70 px-4 py-2 text-xs font-semibold backdrop-blur">SafeR · {detail.short}</span></div></div></div></section>
+      <section className="bg-black text-white"><SiteHeader /><div className="mx-auto max-w-7xl px-5 pb-20 pt-4 lg:px-8"><Breadcrumbs items={[{ label: d.nav.solutions, href: '/solutions' }, { label: solution.title, href: `/solutions/${slug}` }, { label: detail.title }]} /><div className="mt-12 grid gap-10 lg:grid-cols-[.9fr_1.1fr] lg:items-center"><div><p className="text-xs font-bold uppercase tracking-[.16em] text-[#52c6ff]">{detail.short} · {solution.title}</p><h1 className="mt-5 text-5xl font-light leading-[1] tracking-[-.05em] sm:text-6xl">{detail.title}</h1><p className="mt-6 max-w-xl text-lg leading-8 text-white/60">{detail.description}</p><div className="mt-8 flex flex-col gap-3 sm:flex-row"><Link href="/diagnostic" className="rounded-full bg-[#4556f5] px-7 py-4 text-center text-sm font-bold text-white">{d.common.assessment}</Link><Link href={`/solutions/${slug}/${detailSlug}/equipements`} className="rounded-full border border-white/15 px-7 py-4 text-center text-sm font-bold">{s.viewEquipment}</Link></div></div><div className="media-grade relative min-h-[420px] overflow-hidden rounded-[34px]"><SmartImage slot={structure.image} alt={d.images[structure.image]} loading="eager" className="absolute inset-0 h-full w-full object-cover" /><span className="absolute bottom-6 right-6 z-10 rounded-full bg-black/70 px-4 py-2 text-xs font-semibold backdrop-blur">SafeR · {detail.short}</span></div></div></div></section>
 
       <section className="px-5 py-20 lg:px-8 lg:py-28"><div className="mx-auto grid max-w-7xl gap-12 lg:grid-cols-[.8fr_1.2fr]"><div><p className="eyebrow">{s.includedEyebrow}</p><h2 className="section-title mt-5">{s.includedTitle}</h2></div><div className="grid gap-4 sm:grid-cols-2">{detail.included.map((item, index) => <article key={item} className="rounded-[26px] border border-black/8 bg-white p-6"><span className="text-sm font-semibold text-[#4556f5]">0{index + 1}</span><p className="mt-12 text-xl font-semibold">{item}</p></article>)}</div></div></section>
 

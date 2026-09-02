@@ -34,7 +34,7 @@ export const offers = {
     intro: 'Votre système peut évoluer après l’installation. Ajoutez un accès, une caméra ou un scénario directement depuis votre espace client.',
     viewOption: 'Voir cette option',
   },
-  hesitate: { eyebrow: 'Vous hésitez ?', title: 'Laissez SafeR vous guider.' },
+  hesitate: { eyebrow: 'Vous hésitez ?', title: 'On en parle tranquillement, sans engagement.' },
   packs: {
     essentiel: {
       name: 'SafeR Essentiel',

@@ -7,6 +7,7 @@
   },
   "scripts": {
     "dev": "vinext dev",
+    "prebuild": "node scripts/build-image-manifest.mjs",
     "build": "vinext build",
     "start": "vinext start",
     "lint": "eslint . --ignore-pattern dist --ignore-pattern .next",
@@ -15,7 +16,8 @@
     "catalog:crawl": "npm --prefix crawler run crawl && node scripts/build-catalog.mjs",
     "i18n:check": "node scripts/check-i18n.mjs",
     "typecheck": "tsc --noEmit",
-    "audit:site": "node scripts/audit-site.mjs"
+    "audit:site": "node scripts/audit-site.mjs",
+    "images:manifest": "node scripts/build-image-manifest.mjs"
   },
   "dependencies": {
     "next": "16.2.6",

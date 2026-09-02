@@ -9,7 +9,7 @@ import { getI18n, pageMetadata } from '@/lib/i18n/server';
 
 export async function generateMetadata(): Promise<Metadata> {
   const { d, locale } = await getI18n();
-  return pageMetadata(d, locale, { title: d.store.brands.meta.title, description: d.store.brands.meta.description, path: '/store/marques' });
+  return pageMetadata(d, locale, { title: d.store.brands.meta.title, description: d.store.brands.meta.description, path: '/store/marques', slot: 'store' });
 }
 
 export default async function BrandsPage() {

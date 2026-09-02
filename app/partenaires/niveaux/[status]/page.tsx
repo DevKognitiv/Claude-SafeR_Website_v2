@@ -16,7 +16,7 @@ export async function generateMetadata({ params }: { params: Params }): Promise<
   if (!isVerificationStatus(status)) return {};
   const { d, locale } = await getI18n();
   const level = d.partners.levels.items[status];
-  return pageMetadata(d, locale, { title: `${d.partners.levelPage.metaPrefix} · ${level.label}`, description: level.description, path: `/partenaires/niveaux/${status}` });
+  return pageMetadata(d, locale, { title: `${d.partners.levelPage.metaPrefix} · ${level.label}`, description: level.description, path: `/partenaires/niveaux/${status}`, slot: 'partners' });
 }
 
 export default async function PartnerLevelPage({ params }: { params: Params }) {

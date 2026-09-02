@@ -17,7 +17,7 @@ export async function generateMetadata({ params }: { params: Params }): Promise<
   if (!isFaqTheme(theme)) return {};
   const { d, locale } = await getI18n();
   const t = d.support.faq.themes[theme];
-  return pageMetadata(d, locale, { title: `${t.title} · ${d.support.faq.eyebrow}`, description: t.summary, path: `/support/faq/${theme}` });
+  return pageMetadata(d, locale, { title: `${t.title} · ${d.support.faq.eyebrow}`, description: t.summary, path: `/support/faq/${theme}`, slot: 'support' });
 }
 
 export default async function FaqThemePage({ params }: { params: Params }) {

@@ -7,7 +7,7 @@ import { getI18n, pageMetadata } from '@/lib/i18n/server';
 
 export async function generateMetadata(): Promise<Metadata> {
   const { d, locale } = await getI18n();
-  return pageMetadata(d, locale, { title: d.about.radiant.meta.title, description: d.about.radiant.meta.description, path: '/a-propos/radiant' });
+  return pageMetadata(d, locale, { title: d.about.radiant.meta.title, description: d.about.radiant.meta.description, path: '/a-propos/radiant', slot: 'about' });
 }
 
 export default async function RadiantPage() {

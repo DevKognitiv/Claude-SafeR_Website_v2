@@ -8,7 +8,7 @@ import { CONTACT_EMAIL } from '@/lib/site';
 
 export async function generateMetadata(): Promise<Metadata> {
   const { d, locale } = await getI18n();
-  return pageMetadata(d, locale, { title: d.about.careers.meta.title, description: d.about.careers.meta.description, path: '/a-propos/carrieres' });
+  return pageMetadata(d, locale, { title: d.about.careers.meta.title, description: d.about.careers.meta.description, path: '/a-propos/carrieres', slot: 'about' });
 }
 
 export default async function CareersPage() {

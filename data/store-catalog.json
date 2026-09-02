@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-01T22:25:14.056Z",
+  "generatedAt": "2026-09-01T23:21:13.716Z",
   "lastCatalogSync": "2026-08-31T17:55:48.785Z",
   "schedule": "00:00 UTC",
   "pricing": {
@@ -162,8 +162,8 @@
       "id": "safer",
       "name": "SafeR",
       "sourceBrand": "Tuya",
-      "origin": "Côte d’Ivoire · écosystème Tuya",
-      "website": "https://expo.tuya.com/",
+      "origin": "Abidjan, Côte d’Ivoire",
+      "website": "https://safer-smart-security-ci.kognitiv-tec-4721.chatgpt.site/store/marques/safer",
       "accent": "#4556f5",
       "count": 24
     },

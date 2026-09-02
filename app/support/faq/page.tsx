@@ -9,7 +9,7 @@ import { faqThemes } from '@/lib/support';
 
 export async function generateMetadata(): Promise<Metadata> {
   const { d, locale } = await getI18n();
-  return pageMetadata(d, locale, { title: d.support.faq.meta.title, description: d.support.faq.meta.description, path: '/support/faq' });
+  return pageMetadata(d, locale, { title: d.support.faq.meta.title, description: d.support.faq.meta.description, path: '/support/faq', slot: 'support' });
 }
 
 export default async function FaqPage() {

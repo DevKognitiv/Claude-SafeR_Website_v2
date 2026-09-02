@@ -8,7 +8,7 @@ import { guideIds } from '@/lib/support';
 
 export async function generateMetadata(): Promise<Metadata> {
   const { d, locale } = await getI18n();
-  return pageMetadata(d, locale, { title: d.support.guides.meta.title, description: d.support.guides.meta.description, path: '/support/guides' });
+  return pageMetadata(d, locale, { title: d.support.guides.meta.title, description: d.support.guides.meta.description, path: '/support/guides', slot: 'support' });
 }
 
 export default async function GuidesPage() {

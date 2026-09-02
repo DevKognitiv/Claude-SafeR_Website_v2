@@ -1,8 +1,9 @@
-import type { Metadata } from 'next';
+import type { Metadata, Viewport } from 'next';
 import { cookies } from 'next/headers';
 import './globals.css';
 import { LocaleProvider } from '@/lib/i18n/client';
 import RevealObserver from '@/components/RevealObserver';
+import SiteJsonLd from '@/components/SiteJsonLd';
 import { getI18n } from '@/lib/i18n/server';
 import { localeMeta, locales } from '@/lib/i18n/config';
 
@@ -34,8 +35,20 @@ export async function generateMetadata(): Promise<Metadata> {
       ],
     },
     alternates: { canonical: '/' },
+    manifest: '/manifest.webmanifest',
+    robots: { index: true, follow: true, googleBot: { index: true, follow: true, 'max-image-preview': 'large', 'max-snippet': -1 } },
+    formatDetection: { telephone: true, email: true },
   };
 }
+
+export const viewport: Viewport = {
+  themeColor: [
+    { media: '(prefers-color-scheme: light)', color: '#4556f5' },
+    { media: '(prefers-color-scheme: dark)', color: '#07120f' },
+  ],
+  width: 'device-width',
+  initialScale: 1,
+};
 
 const themeScript = `(function(){try{var t=localStorage.getItem('safer-theme');if(t!=='dark'&&t!=='light'){var m=document.cookie.match(/(?:^|; )safer-theme=(dark|light)/);t=m?m[1]:(window.matchMedia('(prefers-color-scheme: dark)').matches?'dark':'light');}document.documentElement.dataset.theme=t;}catch(e){}})();`;
 
@@ -49,6 +62,7 @@ export default async function RootLayout({ children }: Readonly<{ children: Reac
     <html lang={meta.htmlLang} dir={meta.dir} data-locale={locale} data-theme={theme} suppressHydrationWarning>
       <head>
         <script dangerouslySetInnerHTML={{ __html: themeScript }} />
+        <SiteJsonLd d={d} htmlLang={meta.htmlLang} />
       </head>
       <body className="antialiased">
         <a href="#contenu" className="skip-link">{d.common.skipToContent}</a>

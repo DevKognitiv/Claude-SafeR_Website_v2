@@ -5,7 +5,7 @@ import { useSearchParams } from 'next/navigation';
 import { Suspense, useEffect, useMemo } from 'react';
 import { useI18n } from '@/lib/i18n/client';
 import { fmt } from '@/lib/i18n/config';
-import { formatXof } from '@/lib/catalog';
+import { formatXof } from '@/lib/catalog/format';
 import { useSelection } from '@/lib/catalog/selection';
 import type { StoreItem } from '@/lib/catalog/view';
 import { ProductVisual } from '@/components/store/ProductCard';

@@ -1,6 +1,7 @@
 import type { Metadata } from 'next';
 import Link from '@/components/Link';
 import SiteHeader from '@/components/SiteHeader';
+import HeroBackdrop from '@/components/HeroBackdrop';
 import SiteFooter from '@/components/SiteFooter';
 import TrustStrip from '@/components/TrustStrip';
 import { GlyphIcon } from '@/components/Icon';
@@ -10,7 +11,7 @@ import { optionOrder, packOrder } from '@/lib/packs';
 
 export async function generateMetadata(): Promise<Metadata> {
   const { d, locale } = await getI18n();
-  return pageMetadata(d, locale, { title: d.offers.meta.title, description: d.offers.meta.description, path: '/offres' });
+  return pageMetadata(d, locale, { title: d.offers.meta.title, description: d.offers.meta.description, path: '/offres', slot: 'offers' });
 }
 
 export default async function OffersPage() {
@@ -20,7 +21,7 @@ export default async function OffersPage() {
   const cell = (value: string) => value === 'yes' ? <span className="grid size-6 place-items-center rounded-full bg-[#b8ff3d] text-xs">✓</span> : value;
 
   return <main id="contenu" className="theme-page offers-page bg-[#f1f4f1] text-[#0a1814]">
-    <section className="bg-[#07120f] pb-24 text-white"><SiteHeader /><div className="mx-auto max-w-7xl px-5 pt-14 text-center lg:px-8 lg:pt-20"><p className="text-xs font-bold uppercase tracking-[.16em] text-[#b8ff3d]">{o.hero.eyebrow}</p><h1 className="mx-auto mt-6 max-w-4xl text-5xl font-semibold leading-[1] tracking-[-.05em] sm:text-6xl lg:text-7xl">{o.hero.title1}<br />{o.hero.title2}</h1><p className="mx-auto mt-6 max-w-xl leading-7 text-white/55">{o.hero.intro}</p></div></section>
+    <section className="relative overflow-hidden bg-[#07120f] pb-24 text-white"><HeroBackdrop slot="offers" alt={d.images.offers} opacity="opacity-35" tone="green" align="center" priority /><SiteHeader /><div className="relative mx-auto max-w-7xl px-5 pt-14 text-center lg:px-8 lg:pt-20"><p className="text-xs font-bold uppercase tracking-[.16em] text-[#b8ff3d]">{o.hero.eyebrow}</p><h1 className="mx-auto mt-6 max-w-4xl text-5xl font-semibold leading-[1] tracking-[-.05em] sm:text-6xl lg:text-7xl">{o.hero.title1}<br />{o.hero.title2}</h1><p className="mx-auto mt-6 max-w-xl leading-7 text-white/55">{o.hero.intro}</p></div></section>
     <section className="px-5 py-20 lg:px-8 lg:py-28"><div className="mx-auto max-w-7xl"><div className="grid gap-5 lg:grid-cols-3">
       {packs.map((pack, i) => <article key={pack.id} data-reveal="" data-reveal-delay={String(i + 1)} className={`card-lift rounded-[30px] p-7 ${i === 1 ? 'bg-[#b8ff3d] shadow-xl' : 'bg-white border border-black/8'}`}><p className="text-xs font-bold uppercase tracking-[.12em] text-black/40">{pack.tag}</p><h2 className="mt-6 text-3xl font-semibold">{pack.name}</h2><p className="mt-3 min-h-12 text-sm leading-6 text-black/50">{pack.pitch}</p><div className="my-7 border-y border-black/10 py-6"><span className="price text-3xl font-semibold">{pack.price}</span>{pack.id !== 'signature' && <span className="ml-2 text-sm">{o.perMonth}</span>}</div><ul className="space-y-2 text-sm text-black/65">{pack.items.map((item) => <li key={item} className="flex gap-3"><span className="text-[#4556f5]">✓</span>{item}</li>)}</ul><div className="mt-8 grid gap-2"><Link href={`/diagnostic?pack=${pack.id}`} className="block rounded-full bg-[#0b1d17] px-6 py-4 text-center text-sm font-bold text-white">{fmt(o.choose, { name: pack.shortName })}</Link><Link href={`/offres/${pack.id}`} className="block text-center text-xs font-semibold underline underline-offset-4">{o.seeDetails}</Link></div></article>)}
     </div><p className="mt-6 text-center text-xs text-black/40">{o.disclaimer}</p></div></section>

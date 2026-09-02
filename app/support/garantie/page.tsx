@@ -7,7 +7,7 @@ import { getI18n, pageMetadata } from '@/lib/i18n/server';
 
 export async function generateMetadata(): Promise<Metadata> {
   const { d, locale } = await getI18n();
-  return pageMetadata(d, locale, { title: d.support.warranty.meta.title, description: d.support.warranty.meta.description, path: '/support/garantie' });
+  return pageMetadata(d, locale, { title: d.support.warranty.meta.title, description: d.support.warranty.meta.description, path: '/support/garantie', slot: 'maintenance' });
 }
 
 export default async function WarrantyPage() {

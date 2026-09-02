@@ -3,6 +3,8 @@
 import Link from '@/components/Link';
 import { useEffect, useRef, useState } from 'react';
 import { productFamilies } from '@/lib/products';
+import { pageImage } from '@/lib/images';
+import SmartImage from '@/components/SmartImage';
 import { useDictionary } from '@/lib/i18n/client';
 
 type NetworkInformation = { saveData?: boolean; effectiveType?: string };
@@ -52,7 +54,7 @@ export default function ProductShowcase({ compact = false }: { compact?: boolean
   return (
     <section aria-label={sc.aria} className={`product-showcase relative overflow-hidden bg-black text-white ${compact ? 'rounded-[34px]' : ''}`}>
       <div className={`relative ${compact ? 'min-h-[680px]' : 'min-h-[760px] lg:min-h-[820px]'}`}>
-        <img src={slide.poster} alt={sc.posterAlt} className="absolute inset-0 h-full w-full object-cover object-center" />
+        <SmartImage slot={slide.poster} alt={sc.posterAlt} className="absolute inset-0 h-full w-full object-cover object-center" />
         {!lowBandwidth && !mediaFailed && (
           <video
             ref={videoRef}
@@ -62,7 +64,7 @@ export default function ProductShowcase({ compact = false }: { compact?: boolean
             loop
             playsInline
             preload="metadata"
-            poster={slide.poster}
+            poster={pageImage(slide.poster).src}
             onError={() => setMediaFailed(true)}
             aria-hidden="true"
           >
@@ -96,10 +98,6 @@ export default function ProductShowcase({ compact = false }: { compact?: boolean
             <div className="mt-7 flex flex-wrap gap-2">
               {slide.features.map((feature) => <span key={feature} className="rounded-full border border-white/16 bg-black/32 px-3.5 py-2 text-xs text-white/82 backdrop-blur-md">{feature}</span>)}
             </div>
-            {compact && <div className="mt-8 grid max-w-2xl gap-3 rounded-[22px] border border-white/14 bg-black/48 p-4 text-xs backdrop-blur-lg sm:grid-cols-2">
-              <div><span className="block uppercase tracking-[.12em] text-white/48">{sc.reference}</span><strong className="mt-1 block text-sm text-white">{slide.safeRReference}</strong></div>
-              <div><span className="block uppercase tracking-[.12em] text-white/48">{sc.base}</span><strong className="mt-1 block text-sm text-white">{slide.sourceEcosystem} · {slide.sourceReference}</strong></div>
-            </div>}
             <div className="mt-8 flex flex-col gap-3 sm:flex-row">
               <Link href={`/store?q=${encodeURIComponent(slide.storeSku)}`} className="rounded-full bg-[#4556f5] px-6 py-3.5 text-center text-sm font-bold text-white transition hover:bg-[#52c6ff] hover:text-black">{sc.configure}</Link>
               {!compact && <Link href="/produits" className="rounded-full border border-white/18 px-6 py-3.5 text-center text-sm font-bold text-white transition hover:bg-white/10">{sc.explore}</Link>}

@@ -21,7 +21,7 @@ export async function generateMetadata({ params }: { params: Params }): Promise<
   if (!isOptionId(option)) return {};
   const { d, locale } = await getI18n();
   const o = d.offers.options[option];
-  return pageMetadata(d, locale, { title: `${o.title} · ${d.offers.optionPage.eyebrow}`, description: o.description, path: `/offres/options/${option}` });
+  return pageMetadata(d, locale, { title: `${o.title} · ${d.offers.optionPage.eyebrow}`, description: o.description, path: `/offres/options/${option}`, slot: 'offers' });
 }
 
 export default async function OptionPage({ params }: { params: Params }) {

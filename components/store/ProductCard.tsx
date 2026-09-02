@@ -4,7 +4,7 @@ import Link from '@/components/Link';
 import { useState, type CSSProperties } from 'react';
 import { useI18n } from '@/lib/i18n/client';
 import { fmt } from '@/lib/i18n/config';
-import { formatXof } from '@/lib/catalog';
+import { formatXof } from '@/lib/catalog/format';
 import type { StoreItem } from '@/lib/catalog/view';
 import Icon, { subcategoryIcon } from '@/components/Icon';
 
@@ -60,7 +60,7 @@ export default function ProductCard({ item, inCart = 0, comparing = false, compa
             <h3 className="mt-1 text-xl font-semibold leading-tight tracking-tight"><Link href={item.path} className="hover:underline">{item.name}</Link></h3>
             <p className="mt-1 text-[11px] font-semibold text-black/45">{s.card.ref} {item.sku}</p>
           </div>
-          <span className="catalog-badge shrink-0 rounded-full bg-[#e7f7ff] px-3 py-1.5 text-[10px] font-bold text-[#183e68]">SafeR</span>
+          
         </div>
         <p className="mt-4 text-sm leading-6 text-black/58">{item.tagline}</p>
         <div className="mt-4 flex flex-wrap gap-2">
@@ -80,7 +80,7 @@ export default function ProductCard({ item, inCart = 0, comparing = false, compa
                 {onCompare && <button type="button" onClick={() => onCompare(item.id)} disabled={compareDisabled && !comparing} aria-pressed={comparing} className={`text-[11px] font-semibold underline underline-offset-4 disabled:opacity-40 ${comparing ? 'text-[#4556f5]' : 'text-black/55'}`} aria-label={fmt(s.card.compareAria, { name: item.name })}>{comparing ? s.card.comparing : s.card.compare}</button>}
               </div>
             </div>
-            <p className="mt-4 flex flex-wrap items-center gap-x-2 text-[10px] leading-4 text-black/42"><span className="inline-flex items-center gap-1.5 font-semibold text-black/60"><span aria-hidden="true" className={`size-1.5 rounded-full ${item.availability === 'en-stock' ? 'bg-[#1f8a4c]' : item.availability === 'indisponible' ? 'bg-[#b42318]' : 'bg-[#b26a00]'}`} />{availability}</span><span>· {s.card.base} : {item.sourceBrand} {item.model}</span></p>
+            <p className="mt-4 flex flex-wrap items-center gap-x-2 text-[10px] leading-4 text-black/42"><span className="inline-flex items-center gap-1.5 font-semibold text-black/60"><span aria-hidden="true" className={`size-1.5 rounded-full ${item.availability === 'en-stock' ? 'bg-[#1f8a4c]' : item.availability === 'indisponible' ? 'bg-[#b42318]' : 'bg-[#b26a00]'}`} />{availability}</span></p>
           </div>
         </div>
       </div>

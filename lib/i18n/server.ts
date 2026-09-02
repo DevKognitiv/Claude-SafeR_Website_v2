@@ -2,6 +2,7 @@ import { cookies, headers } from 'next/headers';
 import type { Metadata } from 'next';
 import { LOCALE_COOKIE, defaultLocale, isLocale, localeMeta, negotiateLocale, type Locale } from './config';
 import { loadDictionary, type Dictionary } from './dictionaries';
+import { pageImage, type ImageSlot } from '@/lib/images';
 
 /** Resolves the active locale from the preference cookie, then Accept-Language. */
 export async function getLocale(): Promise<Locale> {
@@ -32,8 +33,9 @@ export function formatDate(date: Date | string | number, locale: Locale, options
 }
 
 /** Builds page metadata with a localized title/description and canonical path. */
-export function pageMetadata(d: Dictionary, locale: Locale, input: { title: string; description: string; path: string; image?: string; imageAlt?: string }): Metadata {
-  const image = input.image ?? '/og.png';
+export function pageMetadata(d: Dictionary, locale: Locale, input: { title: string; description: string; path: string; image?: string; imageAlt?: string; slot?: ImageSlot }): Metadata {
+  const image = input.image ?? (input.slot ? pageImage(input.slot).src : '/og.png');
+  const imageAlt = input.imageAlt ?? (input.slot ? d.images[input.slot] : input.title);
   return {
     title: input.title,
     description: input.description,
@@ -44,7 +46,7 @@ export function pageMetadata(d: Dictionary, locale: Locale, input: { title: stri
       url: input.path,
       locale: localeMeta[locale].ogLocale,
       type: 'website',
-      images: [{ url: image, alt: input.imageAlt ?? input.title }],
+      images: [{ url: image, alt: imageAlt }],
     },
     twitter: { card: 'summary_large_image', title: `${input.title} — ${d.meta.siteName}`, description: input.description, images: [image] },
   };

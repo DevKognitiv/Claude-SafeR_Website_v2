@@ -18,7 +18,7 @@ export async function generateMetadata({ params }: { params: Params }): Promise<
   if (!isSegmentId(segment)) return {};
   const { d, locale } = await getI18n();
   const seg = d.collective.segments[segment];
-  return pageMetadata(d, locale, { title: `${seg.title} · ${d.collective.hero.eyebrow}`, description: seg.description, path: `/quartiers/${segment}` });
+  return pageMetadata(d, locale, { title: `${seg.title} · ${d.collective.hero.eyebrow}`, description: seg.description, path: `/quartiers/${segment}`, slot: 'collective' });
 }
 
 export default async function SegmentPage({ params }: { params: Params }) {

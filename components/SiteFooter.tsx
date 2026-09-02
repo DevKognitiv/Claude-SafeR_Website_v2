@@ -40,6 +40,7 @@ export default async function SiteFooter() {
         <p>{fmt(d.footer.copyright, { year })}</p>
         <nav aria-label={d.nav.legal} className="flex flex-wrap gap-x-5 gap-y-2">
           {legalLinks.map(([label, href]) => <Link key={href} href={href} className="hover:text-white">{label}</Link>)}
+          <a href={d.footer.poweredByHref} target="_blank" rel="noopener noreferrer" className="font-semibold text-white/60 hover:text-[#52c6ff]">{d.footer.poweredBy}</a>
         </nav>
         <p>{d.footer.payments}</p>
       </div>

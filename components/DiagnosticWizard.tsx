@@ -1,11 +1,12 @@
 'use client';
 
 import Link from '@/components/Link';
+import SmartImage from '@/components/SmartImage';
 import { useSearchParams } from 'next/navigation';
 import { Suspense, useMemo, useState } from 'react';
 import { useI18n } from '@/lib/i18n/client';
 import { fmt } from '@/lib/i18n/config';
-import { formatXof } from '@/lib/catalog';
+import { formatXof } from '@/lib/catalog/format';
 import { isPackId, packMonthlyXof, type PackId } from '@/lib/packs';
 
 type Contact = { name: string; phone: string; email: string; consent: boolean };
@@ -103,7 +104,7 @@ function Wizard() {
         {step === 4 && <div><p className="text-xs font-bold uppercase tracking-[.14em] text-[#669516]">{t.step4.eyebrow}</p><h1 className="mt-3 text-3xl font-semibold tracking-[-.035em] sm:text-4xl">{t.step4.title}</h1><p className="mt-3 text-sm text-black/45">{t.step4.text}</p><div className="mt-8 grid gap-5 sm:grid-cols-2"><label className="text-sm font-semibold">{t.step4.name}<input required value={contact.name} onChange={(e) => setContact({ ...contact, name: e.target.value })} className={input} placeholder={t.step4.namePlaceholder} autoComplete="name" /></label><label className="text-sm font-semibold">{t.step4.phone}<input required type="tel" value={contact.phone} onChange={(e) => setContact({ ...contact, phone: e.target.value })} className={input} placeholder={t.step4.phonePlaceholder} autoComplete="tel" /></label><label className="text-sm font-semibold sm:col-span-2">{t.step4.email}<input type="email" value={contact.email} onChange={(e) => setContact({ ...contact, email: e.target.value })} className={input} placeholder={t.step4.emailPlaceholder} autoComplete="email" /></label></div><label className="mt-6 flex items-start gap-3 text-xs leading-5 text-black/45"><input type="checkbox" checked={contact.consent} onChange={(e) => setContact({ ...contact, consent: e.target.checked })} className="mt-1 accent-[#78a91e]" />{t.step4.consent}</label>{error && <p role="alert" className="mt-4 rounded-2xl bg-[#fff0ed] p-3 text-xs text-[#6b1b0e]">{error}</p>}</div>}
         <div className="mt-10 flex items-center justify-between border-t border-black/8 pt-6"><button type="button" onClick={() => setStep(Math.max(1, step - 1))} className={`text-sm font-semibold ${step === 1 ? 'invisible' : ''}`}>{d.common.back}</button><button type="button" disabled={leadState === 'sending' || (step === 2 && needs.length === 0)} onClick={() => step < 4 ? setStep(step + 1) : finish()} className="rounded-full bg-[#0b1d17] px-7 py-3.5 text-sm font-bold text-white disabled:opacity-50">{step === 4 ? (leadState === 'sending' ? d.common.sending : t.seeRecommendation) : t.next}</button></div>
       </section>
-      <aside className="h-fit rounded-[28px] bg-[#0b1d17] p-6 text-white lg:sticky lg:top-6"><p className="text-xs font-bold uppercase tracking-[.14em] text-[#b8ff3d]">{t.aside.eyebrow}</p><h2 className="mt-4 text-xl font-semibold">{t.aside.title}</h2><ul className="mt-6 space-y-4 text-sm text-white/60">{t.aside.bullets.map((b) => <li key={b} className="flex gap-3"><span className="text-[#b8ff3d]">✓</span>{b}</li>)}</ul>{preselected && <p className="mt-6 rounded-2xl bg-white/8 p-4 text-xs text-white/70">{packCopy.name}</p>}<div className="mt-8 border-t border-white/10 pt-6"><p className="text-xs text-white/35">{t.aside.help}</p><a href={d.common.phoneHref} className="mt-1 block text-sm font-semibold">{d.common.phoneDisplay}</a></div></aside>
+      <aside className="relative h-fit overflow-hidden rounded-[28px] bg-[#0b1d17] p-6 text-white lg:sticky lg:top-6"><div className="pointer-events-none absolute inset-x-0 top-0 h-40"><SmartImage slot="diagnostic" alt={d.images.diagnostic} className="h-full w-full object-cover opacity-45" /><div className="absolute inset-0 bg-[linear-gradient(180deg,rgba(11,29,23,.2)_0%,#0b1d17_100%)]" /></div><p className="relative text-xs font-bold uppercase tracking-[.14em] text-[#b8ff3d]">{t.aside.eyebrow}</p><h2 className="mt-4 text-xl font-semibold">{t.aside.title}</h2><ul className="mt-6 space-y-4 text-sm text-white/60">{t.aside.bullets.map((b) => <li key={b} className="flex gap-3"><span className="text-[#b8ff3d]">✓</span>{b}</li>)}</ul>{preselected && <p className="mt-6 rounded-2xl bg-white/8 p-4 text-xs text-white/70">{packCopy.name}</p>}<div className="mt-8 border-t border-white/10 pt-6"><p className="text-xs text-white/35">{t.aside.help}</p><a href={d.common.phoneHref} className="mt-1 block text-sm font-semibold">{d.common.phoneDisplay}</a></div></aside>
     </div>
   );
 }

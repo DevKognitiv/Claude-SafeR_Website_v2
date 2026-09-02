@@ -3,7 +3,7 @@
 import Link from '@/components/Link';
 import { useI18n } from '@/lib/i18n/client';
 import { fmt } from '@/lib/i18n/config';
-import { formatXof } from '@/lib/catalog';
+import { formatXof } from '@/lib/catalog/format';
 import type { useSelection } from '@/lib/catalog/selection';
 import type { StoreItem } from '@/lib/catalog/view';
 

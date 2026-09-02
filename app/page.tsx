@@ -1,40 +1,28 @@
 import Link from '@/components/Link';
 import SiteHeader from '@/components/SiteHeader';
+import SmartImage from '@/components/SmartImage';
+import { pageImage } from '@/lib/images';
 import SiteFooter from '@/components/SiteFooter';
 import ProductShowcase from '@/components/ProductShowcase';
-import JsonLd from '@/components/JsonLd';
 import Icon, { type IconName } from '@/components/Icon';
 import TrustStrip from '@/components/TrustStrip';
 import { catalog } from '@/lib/catalog';
 import { getI18n } from '@/lib/i18n/server';
 import { packOrder } from '@/lib/packs';
-import { CONTACT_PHONE_HREF, SITE_URL } from '@/lib/site';
+import { CONTACT_PHONE_HREF } from '@/lib/site';
 
 export default async function Home() {
-  const { d, meta } = await getI18n();
+  const { d } = await getI18n();
   const h = d.home;
   const packs = packOrder.map((id) => ({ id, ...d.offers.packs[id], featured: id === 'serenite' }));
   const brandNames = Object.values(catalog.brands).filter((b) => b.count > 0).map((b) => b.name);
   const ecosystemIcons: IconName[] = ['camera', 'shield', 'key', 'home'];
 
-  const orgJsonLd = {
-    '@context': 'https://schema.org',
-    '@type': 'Organization',
-    name: 'SafeR',
-    legalName: 'RADIANT ASSISTANCE SECURITY',
-    url: SITE_URL,
-    logo: `${SITE_URL}/brand/safer-logo.png`,
-    telephone: '+2250150202020',
-    address: { '@type': 'PostalAddress', addressLocality: 'Abidjan', addressRegion: 'Plateau', addressCountry: 'CI' },
-    areaServed: 'CI',
-    inLanguage: meta.htmlLang,
-  };
 
   return (
     <main id="contenu" className="theme-page overflow-hidden bg-[#f1f4f1] text-[#0a1814]">
-      <JsonLd data={orgJsonLd} />
       <section className="relative min-h-screen overflow-hidden bg-black text-white">
-        <video className="absolute inset-0 h-full w-full object-cover opacity-55" autoPlay muted loop playsInline poster="/media/safer-abidjan-showroom-v1.png" aria-hidden="true">
+        <video className="absolute inset-0 h-full w-full object-cover opacity-55" autoPlay muted loop playsInline poster={pageImage('home').src} aria-hidden="true">
           <source src="https://videos.pexels.com/video-files/5744424/5744424-hd_1280_720_30fps.mp4" type="video/mp4" />
         </video>
         <div className="absolute inset-0 bg-[linear-gradient(90deg,#000_0%,rgba(0,0,0,.88)_38%,rgba(0,0,0,.18)_100%)]" />
@@ -82,7 +70,7 @@ export default async function Home() {
       <section className="bg-black px-5 py-20 text-white lg:px-8 lg:py-28">
         <div className="mx-auto grid max-w-7xl gap-5 lg:grid-cols-[1.12fr_.88fr]">
           <div className="media-grade relative min-h-[520px] overflow-hidden rounded-[36px]">
-            <img src="/media/safer-abidjan-showroom-v1.png" alt={h.gallery.imageAlt} className="absolute inset-0 h-full w-full object-cover" />
+            <SmartImage slot="showroom" alt={d.images.showroom} className="absolute inset-0 h-full w-full object-cover" />
             <div className="absolute inset-x-0 bottom-0 z-10 p-7 sm:p-10">
               <p className="text-xs font-bold uppercase tracking-[.16em] text-[#bcecff]">{h.gallery.eyebrow}</p>
               <h2 className="mt-4 max-w-2xl text-4xl font-light leading-[1.02] tracking-[-.04em] sm:text-5xl">{h.gallery.title1}<br /><span className="font-semibold">{h.gallery.title2}</span></h2>
@@ -90,7 +78,7 @@ export default async function Home() {
           </div>
           <div className="grid gap-5 sm:grid-cols-2 lg:grid-cols-1">
             <div className="relative min-h-[248px] overflow-hidden rounded-[30px] bg-[#4556f5] p-7">
-              <img src="https://images.pexels.com/videos/25951436/adjust-automation-bedroom-button-25951436.jpeg?auto=compress&dpr=1&h=750&w=1260" alt={h.gallery.smartHomeAlt} className="absolute inset-0 h-full w-full object-cover opacity-45 mix-blend-multiply" loading="lazy" />
+              <SmartImage slot="solution-domotique" alt={d.images['solution-domotique']} className="absolute inset-0 h-full w-full object-cover opacity-45 mix-blend-multiply" />
               <div className="relative z-10 flex h-full flex-col justify-between"><span className="text-xs font-bold uppercase tracking-[.16em] text-white/65">{h.gallery.smartHome}</span><p className="max-w-sm text-2xl font-semibold">{h.gallery.smartHomeText}</p></div>
             </div>
             <div className="relative min-h-[248px] overflow-hidden rounded-[30px] bg-[#52c6ff] p-7 text-black">

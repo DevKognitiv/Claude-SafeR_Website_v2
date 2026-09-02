@@ -1,0 +1,16 @@
+{
+  "name": "SafeR — Smart Home Security",
+  "short_name": "SafeR",
+  "description": "Sécurité intelligente et connectée pour votre maison, votre quartier et votre ville en Côte d’Ivoire.",
+  "lang": "fr",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#07120f",
+  "theme_color": "#4556f5",
+  "icons": [
+    { "src": "/brand/favicon-64.png", "sizes": "64x64", "type": "image/png" },
+    { "src": "/brand/app-icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "/brand/app-icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}

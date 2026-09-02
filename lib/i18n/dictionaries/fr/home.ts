@@ -46,7 +46,7 @@ export const home = {
     eyebrow: 'Un écosystème. Zéro angle mort.',
     title1: 'Tout ce qui compte,',
     title2: 'connecté et protégé.',
-    intro: 'Des équipements choisis pour le contexte ivoirien, une plateforme claire et une équipe qui veille vraiment. SafeR transforme des dispositifs isolés en une protection cohérente.',
+    intro: 'Des équipements choisis pour le contexte ivoirien — chaleur, pluies, coupures, réseau mobile —, une plateforme claire et une équipe qui veille vraiment, de Cocody à Yopougon. SafeR transforme des dispositifs isolés en une protection cohérente.',
     cards: [
       { n: '01', title: 'Vidéo intelligente', text: 'Caméras HD, vision nocturne et analyse assistée pour distinguer l’essentiel du bruit.', tag: 'Voir avant d’agir', href: '/solutions/video-intelligente' },
       { n: '02', title: 'Alarme connectée', text: 'Détection intrusion, fumée et fuite d’eau, reliée à notre centre de veille 24/7.', tag: 'Alerte en temps réel', href: '/solutions/alarmes-connectees' },
@@ -79,7 +79,7 @@ export const home = {
       ['05', 'Protection 24/7', 'Pilotez vos équipements et recevez les alertes utiles.'],
       ['06', 'Évolution', 'Maintenance, renouvellement et options depuis votre espace.'],
     ],
-    free: 'Votre diagnostic est gratuit et sans engagement.',
+    free: 'Votre diagnostic est gratuit et sans engagement — y a pas drap, vous décidez ensuite.',
   },
   app: {
     eyebrow: 'L’application SafeR',
@@ -136,8 +136,8 @@ export const home = {
     title: 'La tranquillité se raconte.',
     note: 'Témoignages de démonstration à remplacer par des avis clients vérifiés avant lancement.',
     items: [
-      { quote: '“Je vois qui arrive, je contrôle le portail et je sais que quelqu’un veille en cas de besoin.”', name: 'Famille K.', place: 'Cocody · exemple' },
-      { quote: '“Le suivi d’installation et les alertes sont simples. Tout se fait depuis le téléphone.”', name: 'M. Yao A.', place: 'Marcory · exemple' },
+      { quote: '“À la maison à Cocody, on dort tranquille : je vois qui arrive, je pilote le portail et le centre de veille répond. C’est du sérieux.”', name: 'Famille K.', place: 'Cocody · exemple' },
+      { quote: '“Ma boutique à Marcory est surveillée même la nuit. Une alerte, un appel, c’est réglé. Avec SafeR, on est ensemble.”', name: 'M. Yao A.', place: 'Marcory · exemple' },
     ],
   },
   faq: {
@@ -148,13 +148,13 @@ export const home = {
       ['SafeR fonctionne-t-il pendant une coupure d’électricité ?', 'Oui. Selon la configuration, une alimentation de secours et une connectivité redondante maintiennent les fonctions essentielles. Le diagnostic confirme l’autonomie recommandée.'],
       ['Dois-je changer tous mes équipements existants ?', 'Pas forcément. Nos techniciens évaluent les équipements compatibles et proposent une migration progressive lorsque c’est pertinent.'],
       ['Comment se passe une intervention ?', 'Une alerte est d’abord qualifiée. Selon votre protocole, SafeR contacte les personnes désignées et déclenche l’intervention adaptée.'],
-      ['Puis-je payer avec Mobile Money ?', 'Oui. Le parcours prévoit Mobile Money, carte bancaire et, selon votre dossier, des modalités échelonnées.'],
+      ['Puis-je payer avec Mobile Money ?', 'Oui : Orange Money, MTN MoMo, Wave et carte bancaire. Selon votre dossier, des modalités échelonnées sont possibles.'],
       ['Les prix affichés sont-ils définitifs ?', 'Ce sont des bases indicatives. Votre devis final dépend de la surface, des accès, du niveau de couverture et des options retenues.'],
     ],
     more: 'Toutes les questions fréquentes',
   },
   cta: {
-    eyebrow: 'Votre sérénité commence ici',
+    eyebrow: 'Votre sérénité commence ici. On est ensemble.',
     title1: 'Dites-nous ce que',
     title2: 'vous voulez protéger.',
   },

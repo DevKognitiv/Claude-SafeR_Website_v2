@@ -17,7 +17,7 @@ export async function generateMetadata({ params }: { params: Params }): Promise<
   if (!isMaintenancePlan(plan)) return {};
   const { d, locale } = await getI18n();
   const p = d.support.maintenance.plans[plan];
-  return pageMetadata(d, locale, { title: `${d.support.maintenance.planEyebrow} ${p.title}`, description: p.description, path: `/support/maintenance/${plan}` });
+  return pageMetadata(d, locale, { title: `${d.support.maintenance.planEyebrow} ${p.title}`, description: p.description, path: `/support/maintenance/${plan}`, slot: 'maintenance' });
 }
 
 export default async function MaintenancePlanPage({ params }: { params: Params }) {

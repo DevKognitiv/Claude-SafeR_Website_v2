@@ -7,7 +7,7 @@ import { getI18n, pageMetadata } from '@/lib/i18n/server';
 
 export async function generateMetadata(): Promise<Metadata> {
   const { d, locale } = await getI18n();
-  return pageMetadata(d, locale, { title: d.partners.code.meta.title, description: d.partners.code.meta.description, path: '/partenaires/code-de-conduite' });
+  return pageMetadata(d, locale, { title: d.partners.code.meta.title, description: d.partners.code.meta.description, path: '/partenaires/code-de-conduite', slot: 'partners' });
 }
 
 export default async function CodeOfConductPage() {

@@ -43,7 +43,7 @@ export const about = {
     eyebrow: 'Nos engagements',
     title: 'Ce que nous vous devons.',
     items: [
-      ['Transparence', 'Chaque référence SafeR indique sa base technologique. Les prix affichés sont expliqués et le devis final détaillé ligne par ligne.'],
+      ['Transparence', 'Des offres lisibles, des prix expliqués et un devis final détaillé ligne par ligne. Aucun frais caché, aucune surprise après l’installation.'],
       ['Qualité d’installation', 'Seuls des partenaires vérifiés ou certifiés interviennent, avec un dossier technique remis au client.'],
       ['Protection des données', 'Collecte minimale, chiffrement, accès restreints et droits d’accès, de rectification et de suppression respectés.'],
       ['Disponibilité', 'Un centre de veille 24/7, un support technique six jours sur sept et des délais d’intervention annoncés.'],
@@ -159,7 +159,7 @@ export const diagnostic = {
     confirm: 'Confirmer ce créneau',
     confirmed: 'Créneau demandé ✓',
     payment: 'Paiement Mobile Money ou carte après validation du devis.',
-    saved: 'Votre demande a bien été enregistrée. Un conseiller vous recontacte sous 24 h ouvrées.',
+    saved: 'Votre demande est bien enregistrée. Un conseiller vous recontacte sous 24 h ouvrées — restez tranquille, on s’occupe du reste.',
   },
 };
 
@@ -171,7 +171,7 @@ export const legal = {
       ['Éditeur du site', 'Le site SafeR est édité par RADIANT ASSISTANCE SECURITY, société à responsabilité limitée de droit ivoirien, dont le siège est situé au Plateau, Abidjan, Côte d’Ivoire. SafeR est une marque commerciale de RADIANT ASSISTANCE SECURITY. Contact : contact@safer.ci · +225 01 50 20 20 20.'],
       ['Direction de la publication', 'La direction de la publication est assurée par la gérance de RADIANT ASSISTANCE SECURITY.'],
       ['Hébergement', 'Le site est hébergé sur une infrastructure cloud sécurisée avec diffusion via un réseau de distribution de contenu. Les données applicatives sont stockées sur des services chiffrés au repos.'],
-      ['Propriété intellectuelle', 'L’ensemble des contenus (textes, visuels, logos, architecture) est protégé. Les marques et modèles d’équipements cités (Ajax, Reolink, eufy, Somfy, Aqara, Hikvision, Ezviz, Dahua, Sonoff, Tuya…) restent la propriété de leurs titulaires respectifs. Les appellations SafeR désignent une nomenclature commerciale d’intégration.'],
+      ['Propriété intellectuelle', 'L’ensemble des contenus (textes, visuels, logos, architecture) est protégé. Les marques et modèles d’équipements cités restent la propriété de leurs titulaires respectifs ; SafeR est une marque de RADIANT ASSISTANCE SECURITY.'],
       ['Responsabilité', 'Les informations, prix et disponibilités présentés sont indicatifs et font l’objet d’une confirmation lors du devis. RADIANT ASSISTANCE SECURITY ne saurait être tenue responsable des dommages résultant d’une utilisation non conforme des équipements.'],
       ['Droit applicable', 'Le présent site est soumis au droit ivoirien. Tout litige relève des juridictions compétentes d’Abidjan.'],
     ],

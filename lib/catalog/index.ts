@@ -1,10 +1,12 @@
 import catalogData from '@/data/store-catalog.json';
 import type { Locale } from '@/lib/i18n/config';
 import { defaultLocale } from '@/lib/i18n/config';
+import { facetKeys, type CategoryId, type FacetKey, type FilterState, type SortKey } from './filters';
 
-export type CategoryId = 'video' | 'alarme' | 'acces' | 'domotique' | 'energie';
+export * from './filters';
+export * from './format';
+
 export type InstallLevel = 'simple' | 'standard' | 'expert';
-export type SortKey = 'featured' | 'priceAsc' | 'priceDesc' | 'newest' | 'name';
 
 export type ProductCopy = { name: string; tagline: string; description: string; highlights: string[]; inTheBox?: string[] };
 
@@ -54,19 +56,6 @@ export type Catalog = {
 
 export const catalog = catalogData as unknown as Catalog;
 export const products = catalog.products;
-export const categoryIds = Object.keys(catalog.taxonomy.categories) as CategoryId[];
-export const facetKeys = ['brand', 'protocol', 'placement', 'power', 'compat', 'resolution', 'availability', 'price'] as const;
-export type FacetKey = (typeof facetKeys)[number];
-
-export function isCategoryId(value: string): value is CategoryId {
-  return (categoryIds as string[]).includes(value);
-}
-
-/** Spec values are either language-neutral strings or per-locale objects. */
-export function specValue(value: string | Record<string, string>, locale: Locale): string {
-  if (typeof value === 'string') return value;
-  return value[locale] ?? value[defaultLocale] ?? Object.values(value)[0] ?? '';
-}
 
 export function getCopy(product: Product, locale: Locale): ProductCopy {
   return product.i18n[locale] ?? product.i18n[defaultLocale] ?? Object.values(product.i18n)[0];
@@ -119,66 +108,6 @@ export function relatedProducts(product: Product, limit = 4): Product[] {
   const sameSub = products.filter((p) => p.id !== product.id && p.subcategory === product.subcategory && !explicit.includes(p));
   const sameCat = products.filter((p) => p.id !== product.id && p.category === product.category && !explicit.includes(p) && !sameSub.includes(p));
   return [...explicit, ...sameSub, ...sameCat].slice(0, limit);
-}
-
-export function formatXof(value: number | null | undefined, locale: Locale = 'fr'): string {
-  if (value == null) return '—';
-  const intl = locale === 'ar' ? 'ar-MA-u-nu-latn' : locale === 'zh' ? 'zh-CN' : locale === 'en' ? 'en-GB' : locale === 'es' ? 'es-ES' : 'fr-FR';
-  return new Intl.NumberFormat(intl, { maximumFractionDigits: 0 }).format(value).replace(/[\u202f\u00a0]/g, ' ');
-}
-
-export type FilterState = {
-  q?: string;
-  category?: CategoryId;
-  subcategory?: string;
-  brand?: string[];
-  protocol?: string[];
-  placement?: string[];
-  power?: string[];
-  compat?: string[];
-  resolution?: string[];
-  availability?: string[];
-  price?: string[];
-  sort?: SortKey;
-};
-
-const multiKeys: (keyof FilterState)[] = ['brand', 'protocol', 'placement', 'power', 'compat', 'resolution', 'availability', 'price'];
-
-export function parseFilters(params: URLSearchParams | Record<string, string | string[] | undefined>): FilterState {
-  const get = (key: string): string[] => {
-    if (params instanceof URLSearchParams) return params.getAll(key).flatMap((v) => v.split(',')).filter(Boolean);
-    const value = params[key];
-    if (!value) return [];
-    return (Array.isArray(value) ? value : [value]).flatMap((v) => v.split(',')).filter(Boolean);
-  };
-  const state: FilterState = {};
-  const q = get('q')[0];
-  if (q) state.q = q.slice(0, 80);
-  const category = get('category')[0];
-  if (category && isCategoryId(category)) state.category = category;
-  const subcategory = get('subcategory')[0];
-  if (subcategory) state.subcategory = subcategory;
-  for (const key of multiKeys) {
-    const values = get(key);
-    if (values.length) (state as Record<string, unknown>)[key] = Array.from(new Set(values));
-  }
-  const sort = get('sort')[0];
-  if (sort && ['featured', 'priceAsc', 'priceDesc', 'newest', 'name'].includes(sort)) state.sort = sort as SortKey;
-  return state;
-}
-
-export function serializeFilters(state: FilterState): string {
-  const params = new URLSearchParams();
-  if (state.q) params.set('q', state.q);
-  if (state.category) params.set('category', state.category);
-  if (state.subcategory) params.set('subcategory', state.subcategory);
-  for (const key of multiKeys) {
-    const values = state[key] as string[] | undefined;
-    if (values?.length) params.set(key, values.join(','));
-  }
-  if (state.sort && state.sort !== 'featured') params.set('sort', state.sort);
-  const query = params.toString();
-  return query ? `?${query}` : '';
 }
 
 function matchesText(product: Product, locale: Locale, q: string): boolean {

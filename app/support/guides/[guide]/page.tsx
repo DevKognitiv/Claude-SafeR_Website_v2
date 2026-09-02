@@ -17,7 +17,7 @@ export async function generateMetadata({ params }: { params: Params }): Promise<
   if (!isGuideId(guide)) return {};
   const { d, locale } = await getI18n();
   const item = d.support.guides.items[guide];
-  return pageMetadata(d, locale, { title: `${item.title} · ${d.support.guides.eyebrow}`, description: item.summary, path: `/support/guides/${guide}` });
+  return pageMetadata(d, locale, { title: `${item.title} · ${d.support.guides.eyebrow}`, description: item.summary, path: `/support/guides/${guide}`, slot: 'support' });
 }
 
 export default async function GuidePage({ params }: { params: Params }) {

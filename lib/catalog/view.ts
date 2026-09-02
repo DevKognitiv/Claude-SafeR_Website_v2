@@ -12,7 +12,6 @@ export type StoreItem = {
   highlights: string[];
   brand: string;
   brandName: string;
-  sourceBrand: string;
   model: string;
   category: Product['category'];
   subcategory: string;
@@ -41,7 +40,6 @@ export function toStoreItem(product: Product, locale: Locale): StoreItem {
     highlights: copy.highlights.slice(0, 3),
     brand: product.brand,
     brandName: product.brandName,
-    sourceBrand: product.sourceBrand,
     model: product.model,
     category: product.category,
     subcategory: product.subcategory,

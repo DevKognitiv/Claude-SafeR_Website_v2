@@ -10,7 +10,7 @@ export const dynamic = 'force-dynamic';
 
 export async function generateMetadata(): Promise<Metadata> {
   const { d, locale } = await getI18n();
-  return pageMetadata(d, locale, { title: d.partners.apply.meta.title, description: d.partners.apply.meta.description, path: '/partenaires/inscription' });
+  return pageMetadata(d, locale, { title: d.partners.apply.meta.title, description: d.partners.apply.meta.description, path: '/partenaires/inscription', slot: 'partners' });
 }
 
 export default async function PartnerApplicationPage() {

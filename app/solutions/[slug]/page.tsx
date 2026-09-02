@@ -3,6 +3,8 @@ import Link from '@/components/Link';
 import { notFound } from 'next/navigation';
 import Breadcrumbs from '@/components/Breadcrumbs';
 import SiteHeader from '@/components/SiteHeader';
+import SmartImage from '@/components/SmartImage';
+import { pageImage } from '@/lib/images';
 import SiteFooter from '@/components/SiteFooter';
 import { getI18n, pageMetadata } from '@/lib/i18n/server';
 import { getDetailCopy, getSolutionStructure, isSolutionSlug, solutionStructures } from '@/lib/solutions';
@@ -19,7 +21,7 @@ export async function generateMetadata({ params }: { params: Params }): Promise<
   if (!isSolutionSlug(slug)) return {};
   const { d, locale } = await getI18n();
   const copy = d.solutions.items[slug];
-  return pageMetadata(d, locale, { title: copy.title, description: copy.description, path: `/solutions/${slug}`, image: getSolutionStructure(slug)!.image, imageAlt: copy.title });
+  return pageMetadata(d, locale, { title: copy.title, description: copy.description, path: `/solutions/${slug}`, image: pageImage(getSolutionStructure(slug)!.image).src, imageAlt: d.images[getSolutionStructure(slug)!.image] });
 }
 
 export default async function SolutionCategoryPage({ params }: { params: Params }) {
@@ -33,7 +35,7 @@ export default async function SolutionCategoryPage({ params }: { params: Params 
   return (
     <main id="contenu" className="theme-page bg-[#f3f5fb] text-black">
       <section className="relative min-h-[78vh] overflow-hidden bg-black text-white">
-        <img src={structure.image} alt="" className="absolute inset-0 h-full w-full object-cover opacity-45" />
+        <SmartImage slot={structure.image} alt={d.images[structure.image]} loading="eager" className="absolute inset-0 h-full w-full object-cover opacity-45" />
         <div className="absolute inset-0 bg-gradient-to-r from-black via-black/80 to-[#4556f5]/25" />
         <SiteHeader />
         <div className="relative mx-auto flex min-h-[calc(78vh-96px)] max-w-7xl flex-col justify-between px-5 pb-20 pt-4 lg:px-8">

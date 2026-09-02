@@ -12,7 +12,6 @@ import { formatXof, getCopy, productPath, relatedProducts, specValue, type Produ
 import { toStoreItem } from '@/lib/catalog/view';
 import { fmt, type Locale } from '@/lib/i18n/config';
 import type { Dictionary } from '@/lib/i18n/dictionaries';
-import { formatDate } from '@/lib/i18n/server';
 import { SITE_URL } from '@/lib/site';
 
 export const productSections = ['caracteristiques', 'installation', 'compatibilite', 'garantie'] as const;
@@ -35,7 +34,6 @@ export default function ProductPage({ product, d, locale, section }: Props) {
   const specKeys = s.specKeys as Record<string, string>;
   const availability = attr.availability[product.availability] ?? product.availability;
   const related = relatedProducts(product).map((r) => toStoreItem(r, locale));
-  const isTuya = product.brand === 'safer';
   const active: ProductSection = section ?? 'caracteristiques';
 
   const jsonLd = {
@@ -44,7 +42,7 @@ export default function ProductPage({ product, d, locale, section }: Props) {
     name: copy.name,
     description: copy.description,
     sku: product.sku,
-    mpn: product.sourceSku ?? product.model,
+    mpn: product.sku,
     brand: { '@type': 'Brand', name: product.brandName },
     category: `${cat.title} > ${subcategory}`,
     url: `${SITE_URL}${path}`,
@@ -75,8 +73,6 @@ export default function ProductPage({ product, d, locale, section }: Props) {
               <p className="eyebrow">{p.specs}</p>
               <dl className="mt-6 divide-y divide-black/8">
                 {product.specs.map((spec, i) => <div key={`${spec.key}-${i}`} className="grid gap-1 py-3.5 sm:grid-cols-[.9fr_1.1fr] sm:gap-6"><dt className="text-sm text-black/50">{specKeys[spec.key] ?? spec.key}</dt><dd className="text-sm font-semibold">{specValue(spec.value, locale)}</dd></div>)}
-                <div className="grid gap-1 py-3.5 sm:grid-cols-[.9fr_1.1fr] sm:gap-6"><dt className="text-sm text-black/50">{p.sku}</dt><dd className="text-sm font-semibold">{product.sku}{product.sourceSku && product.sourceSku !== product.sku ? <span className="ml-2 text-xs font-normal text-black/45">({product.sourceSku})</span> : null}</dd></div>
-                <div className="grid gap-1 py-3.5 sm:grid-cols-[.9fr_1.1fr] sm:gap-6"><dt className="text-sm text-black/50">{p.source}</dt><dd className="text-sm font-semibold">{product.sourceBrand} · {product.model}</dd></div>
               </dl>
             </div>
           </div>
@@ -154,11 +150,10 @@ export default function ProductPage({ product, d, locale, section }: Props) {
               <div className="text-xs text-white/55"><p><span className="text-white/40">{p.availability} :</span> {availability}</p><p className="mt-1"><span className="text-white/40">{p.sku} :</span> {product.sku}</p><p className="mt-1">{fmt(p.warrantyShort, { months: product.warrantyMonths })}</p></div>
             </div>
             <div className="mt-8"><ProductActions id={product.id} sku={product.sku} name={copy.name} /></div>
-            <p className="mt-5 max-w-xl text-[11px] leading-5 text-white/45">{p.priceNote}{product.crawl?.lastChecked ? ` ${fmt(p.lastChecked, { date: formatDate(product.crawl.lastChecked, locale) })}.` : ''}</p>
+            <p className="mt-5 max-w-xl text-[11px] leading-5 text-white/45">{p.priceNote}</p>
           </div>
-          <div className="relative overflow-hidden rounded-[34px] border border-white/10"><ProductVisual item={item} className="min-h-[380px] lg:min-h-[460px]" /><span className="absolute bottom-5 right-5 rounded-full bg-black/70 px-4 py-2 text-xs font-semibold backdrop-blur">{product.brandName} · {product.model}</span></div>
+          <div className="relative overflow-hidden rounded-[34px] border border-white/10"><ProductVisual item={item} className="min-h-[380px] lg:min-h-[460px]" /><span className="absolute bottom-5 right-5 rounded-full bg-black/70 px-4 py-2 text-xs font-semibold backdrop-blur">{product.brandName}</span></div>
         </div>
-        {isTuya && <p className="mt-10 max-w-3xl rounded-2xl border border-[#52c6ff]/30 bg-[#4556f5]/15 p-4 text-xs leading-5 text-[#bcecff]">{p.tuyaNotice}</p>}
       </div></section>
       <TrustStrip compact />
       <StickyProductBar id={product.id} sku={product.sku} name={copy.name} priceXof={product.priceXof} />

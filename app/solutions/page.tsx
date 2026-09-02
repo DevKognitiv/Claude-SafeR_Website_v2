@@ -1,13 +1,15 @@
 import type { Metadata } from 'next';
 import Link from '@/components/Link';
 import SiteHeader from '@/components/SiteHeader';
+import HeroBackdrop from '@/components/HeroBackdrop';
+import SmartImage from '@/components/SmartImage';
 import SiteFooter from '@/components/SiteFooter';
 import { getI18n, pageMetadata } from '@/lib/i18n/server';
 import { solutionStructures } from '@/lib/solutions';
 
 export async function generateMetadata(): Promise<Metadata> {
   const { d, locale } = await getI18n();
-  return pageMetadata(d, locale, { title: d.solutions.meta.title, description: d.solutions.meta.description, path: '/solutions' });
+  return pageMetadata(d, locale, { title: d.solutions.meta.title, description: d.solutions.meta.description, path: '/solutions', slot: 'solutions' });
 }
 
 export default async function SolutionsPage() {
@@ -16,6 +18,7 @@ export default async function SolutionsPage() {
   return (
     <main id="contenu" className="theme-page bg-[#f3f5fb] text-black">
       <section className="relative overflow-hidden bg-black pb-24 text-white">
+        <HeroBackdrop slot="solutions" alt={d.images.solutions} opacity="opacity-40" align="center" priority />
         <div className="brand-grid absolute inset-0 opacity-45" />
         <div className="brand-cut absolute -right-32 bottom-0 h-40 w-[62%] bg-[#4556f5]" />
         <SiteHeader />
@@ -29,7 +32,7 @@ export default async function SolutionsPage() {
         <div className="mx-auto grid max-w-7xl gap-5 md:grid-cols-2">
           {solutionStructures.map((solution, index) => { const copy = s.items[solution.slug]; return (
             <Link key={solution.slug} href={`/solutions/${solution.slug}`} className="group relative min-h-[470px] overflow-hidden rounded-[34px] bg-black text-white">
-              <img src={solution.image} alt="" className="absolute inset-0 h-full w-full object-cover opacity-55 transition duration-700 group-hover:scale-105" loading="lazy" />
+              <SmartImage slot={solution.image} alt={d.images[solution.image]} className="absolute inset-0 h-full w-full object-cover opacity-55 transition duration-700 group-hover:scale-105" />
               <div className="absolute inset-0 bg-gradient-to-t from-black via-black/40 to-transparent" />
               <div className="absolute inset-x-0 bottom-0 p-7 sm:p-9">
                 <div className="mb-8 flex items-center justify-between"><span className="text-xs font-bold uppercase tracking-[.16em] text-[#bcecff]">{copy.eyebrow}</span><span className="grid size-11 place-items-center rounded-full border border-white/20 bg-white/10 transition group-hover:bg-[#52c6ff] group-hover:text-black">↗</span></div>

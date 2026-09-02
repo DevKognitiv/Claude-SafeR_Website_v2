@@ -1,46 +1,225 @@
 {
   "categories": {
-    "video": ["cameras-interieures", "cameras-exterieures", "cameras-ptz", "sonnettes-video", "enregistreurs-kits"],
-    "alarme": ["centrales", "detecteurs-mouvement", "detecteurs-ouverture", "detecteurs-fumee-gaz", "detecteurs-fuite", "sirenes", "claviers-telecommandes", "boutons-sos"],
-    "acces": ["serrures-connectees", "portails-motorisation", "interphones", "lecteurs-claviers"],
-    "domotique": ["passerelles-hubs", "prises-interrupteurs", "eclairage", "capteurs-climat", "volets-rideaux", "controle-climatisation"],
-    "energie": ["routeurs-4g", "alimentation-secours", "solaire"]
+    "video": [
+      "cameras-interieures",
+      "cameras-exterieures",
+      "cameras-ptz",
+      "sonnettes-video",
+      "enregistreurs-kits"
+    ],
+    "alarme": [
+      "centrales",
+      "detecteurs-mouvement",
+      "detecteurs-ouverture",
+      "detecteurs-fumee-gaz",
+      "detecteurs-fuite",
+      "sirenes",
+      "claviers-telecommandes",
+      "boutons-sos"
+    ],
+    "acces": [
+      "serrures-connectees",
+      "portails-motorisation",
+      "interphones",
+      "lecteurs-claviers"
+    ],
+    "domotique": [
+      "passerelles-hubs",
+      "prises-interrupteurs",
+      "eclairage",
+      "capteurs-climat",
+      "volets-rideaux",
+      "controle-climatisation"
+    ],
+    "energie": [
+      "routeurs-4g",
+      "alimentation-secours",
+      "solaire"
+    ]
   },
   "attributes": {
-    "protocol": ["wifi", "zigbee", "zwave", "thread-matter", "rf-proprietaire", "filaire-poe", "4g-lte", "bluetooth", "io-rts"],
-    "placement": ["interieur", "exterieur", "interieur-exterieur"],
-    "power": ["batterie", "pile", "secteur", "poe", "solaire"],
-    "compat": ["alexa", "google", "apple-home", "smartthings", "matter", "smart-life", "app-marque", "safer-platform"],
-    "resolution": ["1080p", "2k", "3k", "4k"],
-    "availability": ["en-stock", "sur-commande", "sur-devis", "precommande", "indisponible"]
+    "protocol": [
+      "wifi",
+      "zigbee",
+      "zwave",
+      "thread-matter",
+      "rf-proprietaire",
+      "filaire-poe",
+      "4g-lte",
+      "bluetooth",
+      "io-rts"
+    ],
+    "placement": [
+      "interieur",
+      "exterieur",
+      "interieur-exterieur"
+    ],
+    "power": [
+      "batterie",
+      "pile",
+      "secteur",
+      "poe",
+      "solaire"
+    ],
+    "compat": [
+      "alexa",
+      "google",
+      "apple-home",
+      "smartthings",
+      "matter",
+      "smart-life",
+      "app-marque",
+      "safer-platform"
+    ],
+    "resolution": [
+      "1080p",
+      "2k",
+      "3k",
+      "4k"
+    ],
+    "availability": [
+      "en-stock",
+      "sur-commande",
+      "sur-devis",
+      "precommande",
+      "indisponible"
+    ]
   },
   "brands": {
-    "safer": { "name": "SafeR", "sourceBrand": "Tuya", "origin": "Côte d’Ivoire · écosystème Tuya", "website": "https://expo.tuya.com/", "accent": "#4556f5" },
-    "ajax": { "name": "Ajax Systems", "origin": "Ukraine", "website": "https://ajax.systems/", "accent": "#52c6ff" },
-    "hikvision": { "name": "Hikvision", "origin": "Chine", "website": "https://www.hikvision.com/", "accent": "#e63946" },
-    "ezviz": { "name": "EZVIZ", "origin": "Chine", "website": "https://www.ezviz.com/", "accent": "#1f8ef1" },
-    "dahua": { "name": "Dahua", "origin": "Chine", "website": "https://www.dahuasecurity.com/", "accent": "#c1121f" },
-    "reolink": { "name": "Reolink", "origin": "Chine / Hong Kong", "website": "https://reolink.com/", "accent": "#0ea5e9" },
-    "eufy": { "name": "eufy Security", "origin": "Chine (Anker)", "website": "https://www.eufy.com/", "accent": "#0f766e" },
-    "aqara": { "name": "Aqara", "origin": "Chine", "website": "https://www.aqara.com/", "accent": "#6d28d9" },
-    "sonoff": { "name": "SONOFF", "origin": "Chine (ITEAD)", "website": "https://sonoff.tech/", "accent": "#f59e0b" },
-    "somfy": { "name": "Somfy", "origin": "France", "website": "https://www.somfy.fr/", "accent": "#facc15" },
-    "yale": { "name": "Yale", "origin": "Suède / États-Unis (ASSA ABLOY)", "website": "https://www.yalehome.com/", "accent": "#111827" },
-    "teltonika": { "name": "Teltonika Networks", "origin": "Lituanie", "website": "https://teltonika-networks.com/", "accent": "#2563eb" },
-    "ecoflow": { "name": "EcoFlow", "origin": "Chine", "website": "https://www.ecoflow.com/", "accent": "#16a34a" }
+    "safer": {
+      "name": "SafeR",
+      "sourceBrand": "Tuya",
+      "origin": "Abidjan, Côte d’Ivoire",
+      "website": "https://safer-smart-security-ci.kognitiv-tec-4721.chatgpt.site/store/marques/safer",
+      "accent": "#4556f5"
+    },
+    "ajax": {
+      "name": "Ajax Systems",
+      "origin": "Ukraine",
+      "website": "https://ajax.systems/",
+      "accent": "#52c6ff"
+    },
+    "hikvision": {
+      "name": "Hikvision",
+      "origin": "Chine",
+      "website": "https://www.hikvision.com/",
+      "accent": "#e63946"
+    },
+    "ezviz": {
+      "name": "EZVIZ",
+      "origin": "Chine",
+      "website": "https://www.ezviz.com/",
+      "accent": "#1f8ef1"
+    },
+    "dahua": {
+      "name": "Dahua",
+      "origin": "Chine",
+      "website": "https://www.dahuasecurity.com/",
+      "accent": "#c1121f"
+    },
+    "reolink": {
+      "name": "Reolink",
+      "origin": "Chine / Hong Kong",
+      "website": "https://reolink.com/",
+      "accent": "#0ea5e9"
+    },
+    "eufy": {
+      "name": "eufy Security",
+      "origin": "Chine (Anker)",
+      "website": "https://www.eufy.com/",
+      "accent": "#0f766e"
+    },
+    "aqara": {
+      "name": "Aqara",
+      "origin": "Chine",
+      "website": "https://www.aqara.com/",
+      "accent": "#6d28d9"
+    },
+    "sonoff": {
+      "name": "SONOFF",
+      "origin": "Chine (ITEAD)",
+      "website": "https://sonoff.tech/",
+      "accent": "#f59e0b"
+    },
+    "somfy": {
+      "name": "Somfy",
+      "origin": "France",
+      "website": "https://www.somfy.fr/",
+      "accent": "#facc15"
+    },
+    "yale": {
+      "name": "Yale",
+      "origin": "Suède / États-Unis (ASSA ABLOY)",
+      "website": "https://www.yalehome.com/",
+      "accent": "#111827"
+    },
+    "teltonika": {
+      "name": "Teltonika Networks",
+      "origin": "Lituanie",
+      "website": "https://teltonika-networks.com/",
+      "accent": "#2563eb"
+    },
+    "ecoflow": {
+      "name": "EcoFlow",
+      "origin": "Chine",
+      "website": "https://www.ecoflow.com/",
+      "accent": "#16a34a"
+    }
   },
   "solutionSubcategories": {
-    "video-intelligente/cameras-exterieures": ["cameras-exterieures", "cameras-ptz", "enregistreurs-kits"],
-    "video-intelligente/sonnette-video": ["sonnettes-video", "interphones"],
-    "video-intelligente/verification-video": ["cameras-interieures", "cameras-exterieures", "enregistreurs-kits"],
-    "alarmes-connectees/detection-intrusion": ["centrales", "detecteurs-mouvement", "detecteurs-ouverture", "sirenes", "claviers-telecommandes"],
-    "alarmes-connectees/detection-incendie": ["detecteurs-fumee-gaz"],
-    "alarmes-connectees/bouton-sos": ["boutons-sos", "claviers-telecommandes"],
-    "controle-acces/portails-connectes": ["portails-motorisation", "lecteurs-claviers"],
-    "controle-acces/serrures-intelligentes": ["serrures-connectees"],
-    "controle-acces/gestion-visiteurs": ["interphones", "lecteurs-claviers", "sonnettes-video"],
-    "domotique/scenarios-intelligents": ["passerelles-hubs", "prises-interrupteurs", "eclairage"],
-    "domotique/pilotage-energie": ["controle-climatisation", "prises-interrupteurs", "capteurs-climat"],
-    "domotique/detection-fuites": ["detecteurs-fuite", "passerelles-hubs"]
+    "video-intelligente/cameras-exterieures": [
+      "cameras-exterieures",
+      "cameras-ptz",
+      "enregistreurs-kits"
+    ],
+    "video-intelligente/sonnette-video": [
+      "sonnettes-video",
+      "interphones"
+    ],
+    "video-intelligente/verification-video": [
+      "cameras-interieures",
+      "cameras-exterieures",
+      "enregistreurs-kits"
+    ],
+    "alarmes-connectees/detection-intrusion": [
+      "centrales",
+      "detecteurs-mouvement",
+      "detecteurs-ouverture",
+      "sirenes",
+      "claviers-telecommandes"
+    ],
+    "alarmes-connectees/detection-incendie": [
+      "detecteurs-fumee-gaz"
+    ],
+    "alarmes-connectees/bouton-sos": [
+      "boutons-sos",
+      "claviers-telecommandes"
+    ],
+    "controle-acces/portails-connectes": [
+      "portails-motorisation",
+      "lecteurs-claviers"
+    ],
+    "controle-acces/serrures-intelligentes": [
+      "serrures-connectees"
+    ],
+    "controle-acces/gestion-visiteurs": [
+      "interphones",
+      "lecteurs-claviers",
+      "sonnettes-video"
+    ],
+    "domotique/scenarios-intelligents": [
+      "passerelles-hubs",
+      "prises-interrupteurs",
+      "eclairage"
+    ],
+    "domotique/pilotage-energie": [
+      "controle-climatisation",
+      "prises-interrupteurs",
+      "capteurs-climat"
+    ],
+    "domotique/detection-fuites": [
+      "detecteurs-fuite",
+      "passerelles-hubs"
+    ]
   }
 }
