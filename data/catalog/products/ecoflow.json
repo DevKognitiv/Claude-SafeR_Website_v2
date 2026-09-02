@@ -171,7 +171,15 @@
     "related": [
       "ecoflow-delta-2",
       "ecoflow-110w-solar-panel"
-    ]
+    ],
+    "crawl": {
+      "status": "ok",
+      "lastChecked": "2026-09-02T03:40:30.333Z",
+      "sourceTitle": "EcoFlow RIVER 2 Portable Power Station | EcoFlow US | EcoFlow US",
+      "sourcePrice": "11999",
+      "sourceCurrency": "USD",
+      "note": "out-of-range 199→11999"
+    }
   },
   {
     "id": "ecoflow-delta-2",
@@ -350,7 +358,13 @@
     "related": [
       "ecoflow-river-2",
       "ecoflow-110w-solar-panel"
-    ]
+    ],
+    "crawl": {
+      "status": "ok-no-price",
+      "lastChecked": "2026-09-02T03:40:30.333Z",
+      "sourceTitle": "New EcoFlow DELTA 2 Portable Power Station | EcoFlow US",
+      "sourceCurrency": "USD"
+    }
   },
   {
     "id": "ecoflow-110w-solar-panel",
@@ -536,6 +550,12 @@
     "related": [
       "ecoflow-river-2",
       "ecoflow-delta-2"
-    ]
+    ],
+    "crawl": {
+      "status": "ok-no-price",
+      "lastChecked": "2026-09-02T03:40:30.333Z",
+      "sourceTitle": "EcoFlow 110W Solar Panel | Clean Energy | Solar Panels | EcoFlow US",
+      "sourceCurrency": "USD"
+    }
   }
 ]

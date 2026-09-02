@@ -181,7 +181,16 @@
     "related": [
       "teltonika-rut956",
       "teltonika-rutx11"
-    ]
+    ],
+    "crawl": {
+      "status": "ok-no-price",
+      "lastChecked": "2026-09-02T03:40:30.333Z",
+      "sourceTitle": "RUT241",
+      "sourceAvailability": "in-stock",
+      "sourceCurrency": "USD",
+      "imageUrl": "https://static.wixstatic.com/media/814ec4_0e7216b7d68a469c8ddd34e1147312d2~mv2.jpg/v1/fill/w_1920,h_1008,al_c,q_85/social-social-product-461.jpg"
+    },
+    "imageUrl": "https://static.wixstatic.com/media/814ec4_0e7216b7d68a469c8ddd34e1147312d2~mv2.jpg/v1/fill/w_1920,h_1008,al_c,q_85/social-social-product-461.jpg"
   },
   {
     "id": "teltonika-rut956",
@@ -370,7 +379,16 @@
     "related": [
       "teltonika-rut241",
       "teltonika-rutx11"
-    ]
+    ],
+    "crawl": {
+      "status": "ok-no-price",
+      "lastChecked": "2026-09-02T03:40:30.333Z",
+      "sourceTitle": "RUT956",
+      "sourceAvailability": "in-stock",
+      "sourceCurrency": "USD",
+      "imageUrl": "https://static.wixstatic.com/media/814ec4_301620fa362641499b60078954ade8fd~mv2.jpg/v1/fill/w_1920,h_1008,al_c,q_85/social-social-product-19.jpg"
+    },
+    "imageUrl": "https://static.wixstatic.com/media/814ec4_301620fa362641499b60078954ade8fd~mv2.jpg/v1/fill/w_1920,h_1008,al_c,q_85/social-social-product-19.jpg"
   },
   {
     "id": "teltonika-rutx11",
@@ -550,6 +568,15 @@
     "related": [
       "teltonika-rut241",
       "teltonika-rut956"
-    ]
+    ],
+    "crawl": {
+      "status": "ok-no-price",
+      "lastChecked": "2026-09-02T03:40:30.333Z",
+      "sourceTitle": "RUTX11",
+      "sourceAvailability": "in-stock",
+      "sourceCurrency": "USD",
+      "imageUrl": "https://static.wixstatic.com/media/57c734_01b8346ac1ab4f7fb219c76678ddedb1~mv2.jpg/v1/fill/w_1920,h_760,al_c,q_85/RUTX11_1920x760-hero.jpg"
+    },
+    "imageUrl": "https://static.wixstatic.com/media/57c734_01b8346ac1ab4f7fb219c76678ddedb1~mv2.jpg/v1/fill/w_1920,h_760,al_c,q_85/RUTX11_1920x760-hero.jpg"
   }
 ]

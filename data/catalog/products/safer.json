@@ -191,7 +191,13 @@
       "safer-motion-p1",
       "safer-contact-d1",
       "safer-plug-16a"
-    ]
+    ],
+    "crawl": {
+      "status": "ok-no-price",
+      "lastChecked": "2026-09-02T03:40:30.333Z",
+      "sourceCurrency": "USD",
+      "note": "browser"
+    }
   },
   {
     "id": "safer-link-bz",
@@ -378,7 +384,12 @@
       "safer-link-gz3",
       "safer-sos-b1",
       "safer-remote-r4"
-    ]
+    ],
+    "crawl": {
+      "status": "unreachable",
+      "lastChecked": "2026-09-02T03:40:30.333Z",
+      "note": "no result"
+    }
   },
   {
     "id": "safer-cam-dome-2k",
@@ -569,7 +580,14 @@
     "related": [
       "safer-cam-mini-1080",
       "safer-link-gz3"
-    ]
+    ],
+    "crawl": {
+      "status": "ok-no-price",
+      "lastChecked": "2026-09-02T03:40:30.333Z",
+      "sourceTitle": "Smart Indoor Pan - Tilt Cameras|Smart Cameras | IP Camera&Lock| Expo Powered by Tuya",
+      "sourceCurrency": "USD",
+      "note": "browser"
+    }
   },
   {
     "id": "safer-cam-mini-1080",
@@ -754,7 +772,13 @@
     "related": [
       "safer-cam-dome-2k",
       "safer-link-gz3"
-    ]
+    ],
+    "crawl": {
+      "status": "ok-no-price",
+      "lastChecked": "2026-09-02T03:40:30.333Z",
+      "sourceCurrency": "USD",
+      "note": "browser"
+    }
   },
   {
     "id": "safer-cam-bullet-4k",
@@ -953,7 +977,13 @@
       "safer-cam-solar-2k",
       "safer-cam-ptz-3mp",
       "safer-link-gz3"
-    ]
+    ],
+    "crawl": {
+      "status": "ok-no-price",
+      "lastChecked": "2026-09-02T03:40:30.333Z",
+      "sourceCurrency": "USD",
+      "note": "browser"
+    }
   },
   {
     "id": "safer-cam-solar-2k",
@@ -1157,7 +1187,14 @@
     "related": [
       "safer-cam-bullet-4k",
       "safer-link-gz3"
-    ]
+    ],
+    "crawl": {
+      "status": "ok-no-price",
+      "lastChecked": "2026-09-02T03:40:30.333Z",
+      "sourceTitle": "Smart Battery Powered Cameras |Smart Cameras | IP Camera&Lock | Expo Powered by Tuya",
+      "sourceCurrency": "USD",
+      "note": "browser"
+    }
   },
   {
     "id": "safer-cam-ptz-3mp",
@@ -1359,7 +1396,13 @@
     "related": [
       "safer-cam-bullet-4k",
       "safer-hub-alarm-4g"
-    ]
+    ],
+    "crawl": {
+      "status": "ok-no-price",
+      "lastChecked": "2026-09-02T03:40:30.333Z",
+      "sourceCurrency": "USD",
+      "note": "browser"
+    }
   },
   {
     "id": "safer-bell-2k",
@@ -1551,7 +1594,14 @@
     "related": [
       "safer-lock-d1",
       "safer-cam-bullet-4k"
-    ]
+    ],
+    "crawl": {
+      "status": "ok-no-price",
+      "lastChecked": "2026-09-02T03:40:30.333Z",
+      "sourceTitle": "Smart Video Doorbells |Smart Cameras | IP Camera&Lock | Expo Powered by Tuya",
+      "sourceCurrency": "USD",
+      "note": "browser"
+    }
   },
   {
     "id": "safer-hub-alarm-4g",
@@ -1755,7 +1805,14 @@
       "safer-siren-s2",
       "safer-remote-r4",
       "safer-sos-b1"
-    ]
+    ],
+    "crawl": {
+      "status": "ok-no-price",
+      "lastChecked": "2026-09-02T03:40:30.333Z",
+      "sourceTitle": "Smart Alarm (System) Hub  |  Sensors | Expo Powered by Tuya",
+      "sourceCurrency": "USD",
+      "note": "browser"
+    }
   },
   {
     "id": "safer-motion-p1",
@@ -1939,7 +1996,14 @@
       "safer-hub-alarm-4g",
       "safer-link-gz3",
       "safer-siren-s2"
-    ]
+    ],
+    "crawl": {
+      "status": "ok-no-price",
+      "lastChecked": "2026-09-02T03:40:30.333Z",
+      "sourceTitle": "Smart PIR Motion Detector |Security Sensor |Sensors | Expo Powered by Tuya",
+      "sourceCurrency": "USD",
+      "note": "browser"
+    }
   },
   {
     "id": "safer-contact-d1",
@@ -2135,7 +2199,14 @@
       "safer-hub-alarm-4g",
       "safer-link-gz3",
       "safer-lock-d1"
-    ]
+    ],
+    "crawl": {
+      "status": "ok-no-price",
+      "lastChecked": "2026-09-02T03:40:30.333Z",
+      "sourceTitle": "Smart Door & Window Sensor |Security Sensor |Sensors | Expo Powered by Tuya",
+      "sourceCurrency": "USD",
+      "note": "browser"
+    }
   },
   {
     "id": "safer-smoke-s1",
@@ -2330,7 +2401,14 @@
     "related": [
       "safer-hub-alarm-4g",
       "safer-gas-g1"
-    ]
+    ],
+    "crawl": {
+      "status": "ok-no-price",
+      "lastChecked": "2026-09-02T03:40:30.333Z",
+      "sourceTitle": "Smart Smoke Alarm - Detector | Fire Fighting |Sensors | Expo Powered by Tuya",
+      "sourceCurrency": "USD",
+      "note": "browser"
+    }
   },
   {
     "id": "safer-gas-g1",
@@ -2525,7 +2603,14 @@
     "related": [
       "safer-hub-alarm-4g",
       "safer-smoke-s1"
-    ]
+    ],
+    "crawl": {
+      "status": "ok-no-price",
+      "lastChecked": "2026-09-02T03:40:30.333Z",
+      "sourceTitle": "Smart Gas Alarm- Detector | Fire Fighting |Sensors | Expo Powered by Tuya",
+      "sourceCurrency": "USD",
+      "note": "browser"
+    }
   },
   {
     "id": "safer-leak-l1",
@@ -2708,7 +2793,12 @@
     "related": [
       "safer-link-gz3",
       "safer-hub-alarm-4g"
-    ]
+    ],
+    "crawl": {
+      "status": "unreachable",
+      "lastChecked": "2026-09-02T03:40:30.333Z",
+      "note": "no result"
+    }
   },
   {
     "id": "safer-siren-s2",
@@ -2902,7 +2992,14 @@
     "related": [
       "safer-hub-alarm-4g",
       "safer-motion-p1"
-    ]
+    ],
+    "crawl": {
+      "status": "ok-no-price",
+      "lastChecked": "2026-09-02T03:40:30.333Z",
+      "sourceTitle": "Smart Strobe Siren |Security Sensor |Sensors | Expo Powered by Tuya",
+      "sourceCurrency": "USD",
+      "note": "browser"
+    }
   },
   {
     "id": "safer-remote-r4",
@@ -3098,7 +3195,14 @@
     "related": [
       "safer-hub-alarm-4g",
       "safer-link-gz3"
-    ]
+    ],
+    "crawl": {
+      "status": "ok-no-price",
+      "lastChecked": "2026-09-02T03:40:30.333Z",
+      "sourceTitle": "Smart Light Switch Scene Controllers | Switches | Electrical | Expo Powered by Tuya",
+      "sourceCurrency": "USD",
+      "note": "browser"
+    }
   },
   {
     "id": "safer-sos-b1",
@@ -3290,7 +3394,14 @@
     "related": [
       "safer-hub-alarm-4g",
       "safer-remote-r4"
-    ]
+    ],
+    "crawl": {
+      "status": "ok-no-price",
+      "lastChecked": "2026-09-02T03:40:30.333Z",
+      "sourceTitle": "Smart Security Sensor | Sensors | Expo Powered by Tuya",
+      "sourceCurrency": "USD",
+      "note": "browser"
+    }
   },
   {
     "id": "safer-lock-d1",
@@ -3490,7 +3601,14 @@
     "related": [
       "safer-bell-2k",
       "safer-contact-d1"
-    ]
+    ],
+    "crawl": {
+      "status": "ok-no-price",
+      "lastChecked": "2026-09-02T03:40:30.333Z",
+      "sourceTitle": "Smart Locks | IP Camera&Lock | Expo Powered by Tuya",
+      "sourceCurrency": "USD",
+      "note": "browser"
+    }
   },
   {
     "id": "safer-plug-16a",
@@ -3648,7 +3766,14 @@
     "related": [
       "safer-switch-w1",
       "safer-link-gz3"
-    ]
+    ],
+    "crawl": {
+      "status": "ok-no-price",
+      "lastChecked": "2026-09-02T03:40:30.333Z",
+      "sourceTitle": "2026 Global IoT Online Exposition | Home Automation Solutions | Smart Home - Tuya Smart",
+      "sourceCurrency": "USD",
+      "note": "browser"
+    }
   },
   {
     "id": "safer-switch-w1",
@@ -3829,7 +3954,14 @@
     "related": [
       "safer-plug-16a",
       "safer-bulb-e27"
-    ]
+    ],
+    "crawl": {
+      "status": "ok-no-price",
+      "lastChecked": "2026-09-02T03:40:30.333Z",
+      "sourceTitle": "Smart Light Switches | Switches | Electrical | Expo Powered by Tuya",
+      "sourceCurrency": "USD",
+      "note": "browser"
+    }
   },
   {
     "id": "safer-bulb-e27",
@@ -3992,7 +4124,14 @@
     "related": [
       "safer-switch-w1",
       "safer-link-gz3"
-    ]
+    ],
+    "crawl": {
+      "status": "ok-no-price",
+      "lastChecked": "2026-09-02T03:40:30.333Z",
+      "sourceTitle": "Smart Light Bulbs | Light Bulbs | Lighting | Expo Powered by Tuya",
+      "sourceCurrency": "USD",
+      "note": "browser"
+    }
   },
   {
     "id": "safer-climate-t1",
@@ -4171,7 +4310,12 @@
     "related": [
       "safer-ac-ir1",
       "safer-link-gz3"
-    ]
+    ],
+    "crawl": {
+      "status": "unreachable",
+      "lastChecked": "2026-09-02T03:40:30.333Z",
+      "note": "no result"
+    }
   },
   {
     "id": "safer-ac-ir1",
@@ -4352,7 +4496,14 @@
     "related": [
       "safer-climate-t1",
       "safer-link-gz3"
-    ]
+    ],
+    "crawl": {
+      "status": "ok-no-price",
+      "lastChecked": "2026-09-02T03:40:30.333Z",
+      "sourceTitle": "Smart Air Conditioner Mate – AC Control Converters | Indoor Outlets | Expo Powered by Tuya",
+      "sourceCurrency": "USD",
+      "note": "browser"
+    }
   },
   {
     "id": "safer-curtain-m1",
@@ -4543,6 +4694,13 @@
     "related": [
       "safer-link-gz3",
       "safer-switch-w1"
-    ]
+    ],
+    "crawl": {
+      "status": "ok-no-price",
+      "lastChecked": "2026-09-02T03:40:30.333Z",
+      "sourceTitle": "Smart Curtain Switches | Switches | Electrical | Expo Powered by Tuya",
+      "sourceCurrency": "USD",
+      "note": "browser"
+    }
   }
 ]

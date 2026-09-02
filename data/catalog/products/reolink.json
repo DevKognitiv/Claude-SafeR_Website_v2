@@ -12,59 +12,198 @@
         "name": "Reolink Argus 4 Pro",
         "tagline": "Une vue 4K à 180°, sans angle mort.",
         "description": "Caméra extérieure sans fil à double objectif offrant une image 4K panoramique de 180°, une vision nocturne couleur sans projecteur (ColorX) et une détection intelligente des personnes, véhicules et animaux. Alimentée par batterie, rechargeable par panneau solaire, elle s’installe en moins d’une heure sur une façade, un portail ou une cour.",
-        "highlights": ["Image 4K panoramique 180° sans couture", "Vision nocturne couleur ColorX sans projecteur", "Détection IA personnes / véhicules / animaux", "Wi-Fi 6 double bande et batterie longue durée"],
-        "inTheBox": ["Caméra Argus 4 Pro", "Support mural et visserie", "Câble de charge USB-C", "Guide de démarrage"]
+        "highlights": [
+          "Image 4K panoramique 180° sans couture",
+          "Vision nocturne couleur ColorX sans projecteur",
+          "Détection IA personnes / véhicules / animaux",
+          "Wi-Fi 6 double bande et batterie longue durée"
+        ],
+        "inTheBox": [
+          "Caméra Argus 4 Pro",
+          "Support mural et visserie",
+          "Câble de charge USB-C",
+          "Guide de démarrage"
+        ]
       },
       "en": {
         "name": "Reolink Argus 4 Pro",
         "tagline": "A 180° 4K view with no blind spot.",
         "description": "Dual-lens wireless outdoor camera delivering a seamless 180° 4K panorama, spotlight-free ColorX colour night vision and smart detection of people, vehicles and animals. Battery powered and solar rechargeable, it installs in under an hour on a façade, gate or courtyard.",
-        "highlights": ["Seamless 180° 4K panoramic image", "ColorX colour night vision without spotlight", "AI detection of people / vehicles / animals", "Dual-band Wi-Fi 6 and long-life battery"],
-        "inTheBox": ["Argus 4 Pro camera", "Wall mount and screws", "USB-C charging cable", "Quick start guide"]
+        "highlights": [
+          "Seamless 180° 4K panoramic image",
+          "ColorX colour night vision without spotlight",
+          "AI detection of people / vehicles / animals",
+          "Dual-band Wi-Fi 6 and long-life battery"
+        ],
+        "inTheBox": [
+          "Argus 4 Pro camera",
+          "Wall mount and screws",
+          "USB-C charging cable",
+          "Quick start guide"
+        ]
       },
       "es": {
         "name": "Reolink Argus 4 Pro",
         "tagline": "Una vista 4K de 180°, sin ángulos muertos.",
         "description": "Cámara exterior inalámbrica de doble lente con panorámica 4K de 180° sin costuras, visión nocturna en color ColorX sin foco y detección inteligente de personas, vehículos y animales. Funciona con batería recargable por panel solar y se instala en menos de una hora en fachadas, portones o patios.",
-        "highlights": ["Imagen panorámica 4K de 180° sin costuras", "Visión nocturna en color ColorX sin foco", "Detección IA de personas / vehículos / animales", "Wi-Fi 6 de doble banda y batería de larga duración"],
-        "inTheBox": ["Cámara Argus 4 Pro", "Soporte de pared y tornillos", "Cable de carga USB-C", "Guía de inicio rápido"]
+        "highlights": [
+          "Imagen panorámica 4K de 180° sin costuras",
+          "Visión nocturna en color ColorX sin foco",
+          "Detección IA de personas / vehículos / animales",
+          "Wi-Fi 6 de doble banda y batería de larga duración"
+        ],
+        "inTheBox": [
+          "Cámara Argus 4 Pro",
+          "Soporte de pared y tornillos",
+          "Cable de carga USB-C",
+          "Guía de inicio rápido"
+        ]
       },
       "ar": {
         "name": "Reolink Argus 4 Pro",
         "tagline": "رؤية 4K بزاوية 180° دون نقاط عمياء.",
         "description": "كاميرا خارجية لاسلكية بعدستين توفر صورة بانورامية 4K بزاوية 180° دون فواصل، ورؤية ليلية ملوّنة ColorX دون كشّاف، وكشفاً ذكياً للأشخاص والمركبات والحيوانات. تعمل بالبطارية وتُشحن بلوحة شمسية، وتُركَّب في أقل من ساعة على واجهة أو بوابة أو فناء.",
-        "highlights": ["صورة بانورامية 4K بزاوية 180° متصلة", "رؤية ليلية ملوّنة ColorX دون كشّاف", "كشف ذكي للأشخاص والمركبات والحيوانات", "Wi-Fi 6 ثنائي النطاق وبطارية طويلة العمر"],
-        "inTheBox": ["كاميرا Argus 4 Pro", "حامل جداري وبراغي", "كابل شحن USB-C", "دليل البدء السريع"]
+        "highlights": [
+          "صورة بانورامية 4K بزاوية 180° متصلة",
+          "رؤية ليلية ملوّنة ColorX دون كشّاف",
+          "كشف ذكي للأشخاص والمركبات والحيوانات",
+          "Wi-Fi 6 ثنائي النطاق وبطارية طويلة العمر"
+        ],
+        "inTheBox": [
+          "كاميرا Argus 4 Pro",
+          "حامل جداري وبراغي",
+          "كابل شحن USB-C",
+          "دليل البدء السريع"
+        ]
       },
       "zh": {
         "name": "Reolink Argus 4 Pro",
         "tagline": "180° 4K 全景视野，无盲区。",
         "description": "双镜头无线户外摄像机，提供无缝 180° 4K 全景画面、无需聚光灯的 ColorX 彩色夜视，以及对人员、车辆和动物的智能检测。电池供电、可太阳能充电，一小时内即可安装于外墙、大门或庭院。",
-        "highlights": ["无缝 180° 4K 全景画面", "ColorX 彩色夜视，无需聚光灯", "AI 检测人员 / 车辆 / 动物", "双频 Wi-Fi 6 与长效电池"],
-        "inTheBox": ["Argus 4 Pro 摄像机", "壁挂支架与螺丝", "USB-C 充电线", "快速入门指南"]
+        "highlights": [
+          "无缝 180° 4K 全景画面",
+          "ColorX 彩色夜视，无需聚光灯",
+          "AI 检测人员 / 车辆 / 动物",
+          "双频 Wi-Fi 6 与长效电池"
+        ],
+        "inTheBox": [
+          "Argus 4 Pro 摄像机",
+          "壁挂支架与螺丝",
+          "USB-C 充电线",
+          "快速入门指南"
+        ]
       }
     },
-    "attributes": { "protocol": ["wifi"], "placement": "exterieur", "power": ["batterie", "solaire"], "compat": ["alexa", "google", "app-marque", "safer-platform"], "resolution": "4k" },
+    "attributes": {
+      "protocol": [
+        "wifi"
+      ],
+      "placement": "exterieur",
+      "power": [
+        "batterie",
+        "solaire"
+      ],
+      "compat": [
+        "alexa",
+        "google",
+        "app-marque",
+        "safer-platform"
+      ],
+      "resolution": "4k"
+    },
     "specs": [
-      { "key": "resolution", "value": "4K UHD (5120 × 1440)" },
-      { "key": "fieldOfView", "value": "180° horizontal" },
-      { "key": "nightVision", "value": { "fr": "ColorX couleur, f/1.0", "en": "ColorX colour, f/1.0", "es": "ColorX en color, f/1.0", "ar": "ColorX ملوّن، f/1.0", "zh": "ColorX 彩色，f/1.0" } },
-      { "key": "ai", "value": { "fr": "Personnes, véhicules, animaux", "en": "People, vehicles, animals", "es": "Personas, vehículos, animales", "ar": "أشخاص، مركبات، حيوانات", "zh": "人员、车辆、动物" } },
-      { "key": "connectivity", "value": "Wi-Fi 6 2,4 / 5 GHz" },
-      { "key": "battery", "value": { "fr": "5 000 mAh, solaire en option", "en": "5,000 mAh, solar optional", "es": "5.000 mAh, solar opcional", "ar": "5000 مللي أمبير، طاقة شمسية اختيارية", "zh": "5000 毫安，太阳能可选" } },
-      { "key": "storage", "value": "microSD ≤ 128 Go, Reolink Cloud" },
-      { "key": "weatherproof", "value": "IP66" },
-      { "key": "operatingTemp", "value": "-10 °C … 55 °C" }
+      {
+        "key": "resolution",
+        "value": "4K UHD (5120 × 1440)"
+      },
+      {
+        "key": "fieldOfView",
+        "value": "180° horizontal"
+      },
+      {
+        "key": "nightVision",
+        "value": {
+          "fr": "ColorX couleur, f/1.0",
+          "en": "ColorX colour, f/1.0",
+          "es": "ColorX en color, f/1.0",
+          "ar": "ColorX ملوّن، f/1.0",
+          "zh": "ColorX 彩色，f/1.0"
+        }
+      },
+      {
+        "key": "ai",
+        "value": {
+          "fr": "Personnes, véhicules, animaux",
+          "en": "People, vehicles, animals",
+          "es": "Personas, vehículos, animales",
+          "ar": "أشخاص، مركبات، حيوانات",
+          "zh": "人员、车辆、动物"
+        }
+      },
+      {
+        "key": "connectivity",
+        "value": "Wi-Fi 6 2,4 / 5 GHz"
+      },
+      {
+        "key": "battery",
+        "value": {
+          "fr": "5 000 mAh, solaire en option",
+          "en": "5,000 mAh, solar optional",
+          "es": "5.000 mAh, solar opcional",
+          "ar": "5000 مللي أمبير، طاقة شمسية اختيارية",
+          "zh": "5000 毫安，太阳能可选"
+        }
+      },
+      {
+        "key": "storage",
+        "value": "microSD ≤ 128 Go, Reolink Cloud"
+      },
+      {
+        "key": "weatherproof",
+        "value": "IP66"
+      },
+      {
+        "key": "operatingTemp",
+        "value": "-10 °C … 55 °C"
+      }
     ],
-    "pricing": { "sourcePrice": 169.99, "sourceCurrency": "USD" },
+    "pricing": {
+      "sourcePrice": 169.99,
+      "sourceCurrency": "USD"
+    },
     "availability": "sur-commande",
-    "install": { "level": "standard", "duration": "45 min", "prerequisites": { "fr": "Wi-Fi 2,4 ou 5 GHz couvrant l’emplacement ; exposition solaire si panneau.", "en": "2.4 or 5 GHz Wi-Fi coverage at the location; sun exposure if solar panel.", "es": "Cobertura Wi-Fi de 2,4 o 5 GHz en el lugar; exposición solar si se usa panel.", "ar": "تغطية Wi-Fi بتردد 2.4 أو 5 جيجاهرتز في الموقع؛ تعرّض للشمس عند استخدام اللوحة.", "zh": "安装位置需有 2.4 或 5 GHz Wi-Fi 覆盖；使用太阳能板时需有日照。" } },
+    "install": {
+      "level": "standard",
+      "duration": "45 min",
+      "prerequisites": {
+        "fr": "Wi-Fi 2,4 ou 5 GHz couvrant l’emplacement ; exposition solaire si panneau.",
+        "en": "2.4 or 5 GHz Wi-Fi coverage at the location; sun exposure if solar panel.",
+        "es": "Cobertura Wi-Fi de 2,4 o 5 GHz en el lugar; exposición solar si se usa panel.",
+        "ar": "تغطية Wi-Fi بتردد 2.4 أو 5 جيجاهرتز في الموقع؛ تعرّض للشمس عند استخدام اللوحة.",
+        "zh": "安装位置需有 2.4 或 5 GHz Wi-Fi 覆盖；使用太阳能板时需有日照。"
+      }
+    },
     "sourceUrl": "https://reolink.com/product/argus-4-pro/",
     "accent": "#0ea5e9",
     "symbol": "◉",
     "featured": true,
-    "solutions": ["video-intelligente/cameras-exterieures", "video-intelligente/verification-video"],
-    "related": ["reolink-solar-panel-2"]
+    "solutions": [
+      "video-intelligente/cameras-exterieures",
+      "video-intelligente/verification-video"
+    ],
+    "related": [
+      "reolink-solar-panel-2"
+    ],
+    "crawl": {
+      "status": "ok",
+      "lastChecked": "2026-09-02T03:40:30.333Z",
+      "sourceTitle": "Argus 4 Pro",
+      "sourceAvailability": "in-stock",
+      "sourcePrice": "169.99",
+      "sourceCurrency": "USD",
+      "imageUrl": "https://home-cdn.reolink.us/wp-content/uploads/2024/06/argus-4-pro-white-1pack.png.webp"
+    },
+    "imageUrl": "https://home-cdn.reolink.us/wp-content/uploads/2024/06/argus-4-pro-white-1pack.png.webp"
   },
   {
     "id": "reolink-argus-pt-ultra",
@@ -79,58 +218,197 @@
         "name": "Reolink Argus PT Ultra",
         "tagline": "Caméra motorisée 4K qui suit le mouvement partout dans la cour.",
         "description": "Caméra extérieure sans fil motorisée offrant une rotation à 355° et une inclinaison à 140°, avec suivi automatique des personnes et véhicules en 4K. Batterie amovible de forte capacité, rechargeable au panneau solaire, pour couvrir de larges cours ou portails sans zone morte.",
-        "highlights": ["Rotation 355° et inclinaison 140° motorisées", "Suivi automatique 4K des personnes et véhicules", "Vision nocturne couleur ColorX", "Batterie amovible 6 500 mAh, solaire compatible"],
-        "inTheBox": ["Caméra Argus PT Ultra", "Support de fixation", "Câble de charge USB-C", "Batterie amovible", "Guide de démarrage"]
+        "highlights": [
+          "Rotation 355° et inclinaison 140° motorisées",
+          "Suivi automatique 4K des personnes et véhicules",
+          "Vision nocturne couleur ColorX",
+          "Batterie amovible 6 500 mAh, solaire compatible"
+        ],
+        "inTheBox": [
+          "Caméra Argus PT Ultra",
+          "Support de fixation",
+          "Câble de charge USB-C",
+          "Batterie amovible",
+          "Guide de démarrage"
+        ]
       },
       "en": {
         "name": "Reolink Argus PT Ultra",
         "tagline": "A motorised 4K camera that follows motion across the yard.",
         "description": "Wireless outdoor pan-tilt camera with 355° rotation and 140° tilt, automatically tracking people and vehicles in 4K. High-capacity removable battery, solar rechargeable, to cover wide yards or gates without a blind spot.",
-        "highlights": ["Motorised 355° pan and 140° tilt", "4K auto-tracking of people and vehicles", "ColorX colour night vision", "6,500 mAh removable battery, solar compatible"],
-        "inTheBox": ["Argus PT Ultra camera", "Mounting bracket", "USB-C charging cable", "Removable battery", "Quick start guide"]
+        "highlights": [
+          "Motorised 355° pan and 140° tilt",
+          "4K auto-tracking of people and vehicles",
+          "ColorX colour night vision",
+          "6,500 mAh removable battery, solar compatible"
+        ],
+        "inTheBox": [
+          "Argus PT Ultra camera",
+          "Mounting bracket",
+          "USB-C charging cable",
+          "Removable battery",
+          "Quick start guide"
+        ]
       },
       "es": {
         "name": "Reolink Argus PT Ultra",
         "tagline": "Cámara motorizada 4K que sigue el movimiento en todo el patio.",
         "description": "Cámara exterior inalámbrica motorizada con rotación de 355° e inclinación de 140°, con seguimiento automático de personas y vehículos en 4K. Batería extraíble de alta capacidad, recargable con panel solar, para cubrir patios o portones amplios sin zonas muertas.",
-        "highlights": ["Rotación 355° e inclinación 140° motorizadas", "Seguimiento automático 4K de personas y vehículos", "Visión nocturna en color ColorX", "Batería extraíble de 6.500 mAh, compatible con solar"],
-        "inTheBox": ["Cámara Argus PT Ultra", "Soporte de fijación", "Cable de carga USB-C", "Batería extraíble", "Guía de inicio rápido"]
+        "highlights": [
+          "Rotación 355° e inclinación 140° motorizadas",
+          "Seguimiento automático 4K de personas y vehículos",
+          "Visión nocturna en color ColorX",
+          "Batería extraíble de 6.500 mAh, compatible con solar"
+        ],
+        "inTheBox": [
+          "Cámara Argus PT Ultra",
+          "Soporte de fijación",
+          "Cable de carga USB-C",
+          "Batería extraíble",
+          "Guía de inicio rápido"
+        ]
       },
       "ar": {
         "name": "Reolink Argus PT Ultra",
         "tagline": "كاميرا محورية 4K تتابع الحركة في كل أنحاء الفناء.",
         "description": "كاميرا خارجية لاسلكية محورية بدوران 355° وإمالة 140°، مع تتبع تلقائي للأشخاص والمركبات بدقة 4K. بطارية قابلة للإزالة عالية السعة، تُشحن بلوحة شمسية، لتغطية الأفنية الواسعة أو البوابات دون نقاط عمياء.",
-        "highlights": ["دوران محوري 355° وإمالة 140°", "تتبع تلقائي 4K للأشخاص والمركبات", "رؤية ليلية ملوّنة ColorX", "بطارية قابلة للإزالة 6500 مللي أمبير، متوافقة مع الطاقة الشمسية"],
-        "inTheBox": ["كاميرا Argus PT Ultra", "حامل تثبيت", "كابل شحن USB-C", "بطارية قابلة للإزالة", "دليل البدء السريع"]
+        "highlights": [
+          "دوران محوري 355° وإمالة 140°",
+          "تتبع تلقائي 4K للأشخاص والمركبات",
+          "رؤية ليلية ملوّنة ColorX",
+          "بطارية قابلة للإزالة 6500 مللي أمبير، متوافقة مع الطاقة الشمسية"
+        ],
+        "inTheBox": [
+          "كاميرا Argus PT Ultra",
+          "حامل تثبيت",
+          "كابل شحن USB-C",
+          "بطارية قابلة للإزالة",
+          "دليل البدء السريع"
+        ]
       },
       "zh": {
         "name": "Reolink Argus PT Ultra",
         "tagline": "4K 云台摄像机，全院追踪移动目标。",
         "description": "无线户外云台摄像机，支持 355° 水平旋转和 140° 俯仰，可对人员和车辆进行 4K 自动追踪。高容量可拆卸电池，支持太阳能充电，覆盖宽阔庭院或大门，不留盲区。",
-        "highlights": ["355° 水平旋转与 140° 俯仰", "4K 自动追踪人员与车辆", "ColorX 彩色夜视", "6500 毫安可拆卸电池，支持太阳能"],
-        "inTheBox": ["Argus PT Ultra 摄像机", "安装支架", "USB-C 充电线", "可拆卸电池", "快速入门指南"]
+        "highlights": [
+          "355° 水平旋转与 140° 俯仰",
+          "4K 自动追踪人员与车辆",
+          "ColorX 彩色夜视",
+          "6500 毫安可拆卸电池，支持太阳能"
+        ],
+        "inTheBox": [
+          "Argus PT Ultra 摄像机",
+          "安装支架",
+          "USB-C 充电线",
+          "可拆卸电池",
+          "快速入门指南"
+        ]
       }
     },
-    "attributes": { "protocol": ["wifi"], "placement": "exterieur", "power": ["batterie", "solaire"], "compat": ["alexa", "google", "app-marque", "safer-platform"], "resolution": "4k" },
+    "attributes": {
+      "protocol": [
+        "wifi"
+      ],
+      "placement": "exterieur",
+      "power": [
+        "batterie",
+        "solaire"
+      ],
+      "compat": [
+        "alexa",
+        "google",
+        "app-marque",
+        "safer-platform"
+      ],
+      "resolution": "4k"
+    },
     "specs": [
-      { "key": "resolution", "value": "4K UHD (8 MP)" },
-      { "key": "ptz", "value": "Panoramique 355°, inclinaison 140°, suivi auto" },
-      { "key": "nightVision", "value": { "fr": "ColorX couleur + IR 15 m", "en": "ColorX colour + 15 m IR", "es": "ColorX en color + IR 15 m", "ar": "ColorX ملوّن + أشعة تحت حمراء 15 م", "zh": "ColorX 彩色 + 15 米红外" } },
-      { "key": "ai", "value": { "fr": "Personnes, véhicules, animaux, suivi automatique", "en": "People, vehicles, animals, auto-tracking", "es": "Personas, vehículos, animales, seguimiento automático", "ar": "أشخاص، مركبات، حيوانات، تتبع تلقائي", "zh": "人员、车辆、动物，自动追踪" } },
-      { "key": "connectivity", "value": "Wi-Fi 6 double bande" },
-      { "key": "battery", "value": "6 500 mAh amovible" },
-      { "key": "storage", "value": "microSD ≤ 256 Go, Reolink Cloud" },
-      { "key": "weatherproof", "value": "IP65" },
-      { "key": "operatingTemp", "value": "-20 °C … 60 °C" }
+      {
+        "key": "resolution",
+        "value": "4K UHD (8 MP)"
+      },
+      {
+        "key": "ptz",
+        "value": "Panoramique 355°, inclinaison 140°, suivi auto"
+      },
+      {
+        "key": "nightVision",
+        "value": {
+          "fr": "ColorX couleur + IR 15 m",
+          "en": "ColorX colour + 15 m IR",
+          "es": "ColorX en color + IR 15 m",
+          "ar": "ColorX ملوّن + أشعة تحت حمراء 15 م",
+          "zh": "ColorX 彩色 + 15 米红外"
+        }
+      },
+      {
+        "key": "ai",
+        "value": {
+          "fr": "Personnes, véhicules, animaux, suivi automatique",
+          "en": "People, vehicles, animals, auto-tracking",
+          "es": "Personas, vehículos, animales, seguimiento automático",
+          "ar": "أشخاص، مركبات، حيوانات، تتبع تلقائي",
+          "zh": "人员、车辆、动物，自动追踪"
+        }
+      },
+      {
+        "key": "connectivity",
+        "value": "Wi-Fi 6 double bande"
+      },
+      {
+        "key": "battery",
+        "value": "6 500 mAh amovible"
+      },
+      {
+        "key": "storage",
+        "value": "microSD ≤ 256 Go, Reolink Cloud"
+      },
+      {
+        "key": "weatherproof",
+        "value": "IP65"
+      },
+      {
+        "key": "operatingTemp",
+        "value": "-20 °C … 60 °C"
+      }
     ],
-    "pricing": { "sourcePrice": 219.99, "sourceCurrency": "USD" },
+    "pricing": {
+      "sourcePrice": 134.99,
+      "sourceCurrency": "USD"
+    },
     "availability": "sur-commande",
-    "install": { "level": "standard", "duration": "45 min", "prerequisites": { "fr": "Wi-Fi 2,4 ou 5 GHz couvrant l’emplacement ; dégagement pour la rotation du support.", "en": "2.4 or 5 GHz Wi-Fi coverage at the location; clearance for the mount to rotate.", "es": "Cobertura Wi-Fi de 2,4 o 5 GHz en el lugar; espacio libre para la rotación del soporte.", "ar": "تغطية Wi-Fi بتردد 2.4 أو 5 جيجاهرتز في الموقع؛ مساحة كافية لدوران الحامل.", "zh": "安装位置需有 2.4 或 5 GHz Wi-Fi 覆盖；支架旋转需预留空间。" } },
+    "install": {
+      "level": "standard",
+      "duration": "45 min",
+      "prerequisites": {
+        "fr": "Wi-Fi 2,4 ou 5 GHz couvrant l’emplacement ; dégagement pour la rotation du support.",
+        "en": "2.4 or 5 GHz Wi-Fi coverage at the location; clearance for the mount to rotate.",
+        "es": "Cobertura Wi-Fi de 2,4 o 5 GHz en el lugar; espacio libre para la rotación del soporte.",
+        "ar": "تغطية Wi-Fi بتردد 2.4 أو 5 جيجاهرتز في الموقع؛ مساحة كافية لدوران الحامل.",
+        "zh": "安装位置需有 2.4 或 5 GHz Wi-Fi 覆盖；支架旋转需预留空间。"
+      }
+    },
     "sourceUrl": "https://reolink.com/product/argus-pt-ultra/",
     "accent": "#0ea5e9",
     "symbol": "↗",
-    "solutions": ["video-intelligente/cameras-exterieures", "video-intelligente/verification-video"],
-    "related": ["reolink-solar-panel-2", "reolink-trackmix-wifi"]
+    "solutions": [
+      "video-intelligente/cameras-exterieures",
+      "video-intelligente/verification-video"
+    ],
+    "related": [
+      "reolink-solar-panel-2",
+      "reolink-trackmix-wifi"
+    ],
+    "crawl": {
+      "status": "ok",
+      "lastChecked": "2026-09-02T03:40:30.333Z",
+      "sourceTitle": "Argus PT Ultra",
+      "sourceAvailability": "in-stock",
+      "sourcePrice": "134.99",
+      "sourceCurrency": "USD",
+      "imageUrl": "https://home-cdn.reolink.us/wp-content/uploads/2026/01/Argus-PT-ultra-white-1pack-PC.png.webp"
+    },
+    "imageUrl": "https://home-cdn.reolink.us/wp-content/uploads/2026/01/Argus-PT-ultra-white-1pack-PC.png.webp"
   },
   {
     "id": "reolink-argus-3-pro",
@@ -145,58 +423,197 @@
         "name": "Reolink Argus 3 Pro",
         "tagline": "La caméra sans fil compacte pour un premier point de contrôle.",
         "description": "Caméra extérieure sans fil 2K avec vision nocturne couleur intégrée et spotlight, détection intelligente des personnes, véhicules et animaux. Batterie longue durée rechargeable par panneau solaire, installation simple sans câblage sur un mur ou un auvent.",
-        "highlights": ["Image 2K QHD nette de jour comme de nuit", "Vision nocturne couleur avec spotlight intégré", "Détection IA personnes / véhicules / animaux", "Installation sans fil en quelques minutes"],
-        "inTheBox": ["Caméra Argus 3 Pro", "Support mural et visserie", "Câble de charge USB-C", "Guide de démarrage"]
+        "highlights": [
+          "Image 2K QHD nette de jour comme de nuit",
+          "Vision nocturne couleur avec spotlight intégré",
+          "Détection IA personnes / véhicules / animaux",
+          "Installation sans fil en quelques minutes"
+        ],
+        "inTheBox": [
+          "Caméra Argus 3 Pro",
+          "Support mural et visserie",
+          "Câble de charge USB-C",
+          "Guide de démarrage"
+        ]
       },
       "en": {
         "name": "Reolink Argus 3 Pro",
         "tagline": "A compact wireless camera for a first checkpoint.",
         "description": "2K wireless outdoor camera with built-in colour night vision and spotlight, smart detection of people, vehicles and animals. Long-life battery, solar rechargeable, simple cable-free installation on a wall or eave.",
-        "highlights": ["Sharp 2K QHD image day and night", "Colour night vision with built-in spotlight", "AI detection of people / vehicles / animals", "Cable-free installation in minutes"],
-        "inTheBox": ["Argus 3 Pro camera", "Wall mount and screws", "USB-C charging cable", "Quick start guide"]
+        "highlights": [
+          "Sharp 2K QHD image day and night",
+          "Colour night vision with built-in spotlight",
+          "AI detection of people / vehicles / animals",
+          "Cable-free installation in minutes"
+        ],
+        "inTheBox": [
+          "Argus 3 Pro camera",
+          "Wall mount and screws",
+          "USB-C charging cable",
+          "Quick start guide"
+        ]
       },
       "es": {
         "name": "Reolink Argus 3 Pro",
         "tagline": "La cámara inalámbrica compacta para un primer punto de control.",
         "description": "Cámara exterior inalámbrica 2K con visión nocturna en color integrada y foco, detección inteligente de personas, vehículos y animales. Batería de larga duración recargable con panel solar, instalación sencilla sin cableado en pared o alero.",
-        "highlights": ["Imagen nítida 2K QHD de día y de noche", "Visión nocturna en color con foco integrado", "Detección IA de personas / vehículos / animales", "Instalación inalámbrica en pocos minutos"],
-        "inTheBox": ["Cámara Argus 3 Pro", "Soporte de pared y tornillos", "Cable de carga USB-C", "Guía de inicio rápido"]
+        "highlights": [
+          "Imagen nítida 2K QHD de día y de noche",
+          "Visión nocturna en color con foco integrado",
+          "Detección IA de personas / vehículos / animales",
+          "Instalación inalámbrica en pocos minutos"
+        ],
+        "inTheBox": [
+          "Cámara Argus 3 Pro",
+          "Soporte de pared y tornillos",
+          "Cable de carga USB-C",
+          "Guía de inicio rápido"
+        ]
       },
       "ar": {
         "name": "Reolink Argus 3 Pro",
         "tagline": "كاميرا لاسلكية مدمجة لنقطة مراقبة أولى.",
         "description": "كاميرا خارجية لاسلكية بدقة 2K مع رؤية ليلية ملوّنة مدمجة وكشّاف، وكشف ذكي للأشخاص والمركبات والحيوانات. بطارية طويلة العمر تُشحن بلوحة شمسية، وتركيب بسيط دون أسلاك على حائط أو مظلة.",
-        "highlights": ["صورة 2K QHD واضحة نهاراً وليلاً", "رؤية ليلية ملوّنة مع كشّاف مدمج", "كشف ذكي للأشخاص والمركبات والحيوانات", "تركيب لاسلكي في دقائق"],
-        "inTheBox": ["كاميرا Argus 3 Pro", "حامل جداري وبراغي", "كابل شحن USB-C", "دليل البدء السريع"]
+        "highlights": [
+          "صورة 2K QHD واضحة نهاراً وليلاً",
+          "رؤية ليلية ملوّنة مع كشّاف مدمج",
+          "كشف ذكي للأشخاص والمركبات والحيوانات",
+          "تركيب لاسلكي في دقائق"
+        ],
+        "inTheBox": [
+          "كاميرا Argus 3 Pro",
+          "حامل جداري وبراغي",
+          "كابل شحن USB-C",
+          "دليل البدء السريع"
+        ]
       },
       "zh": {
         "name": "Reolink Argus 3 Pro",
         "tagline": "紧凑无线摄像机，打造第一道监控防线。",
         "description": "2K 无线户外摄像机，内置彩色夜视与补光灯，可智能检测人员、车辆和动物。长效电池支持太阳能充电，无需布线即可轻松安装于墙面或屋檐下。",
-        "highlights": ["2K QHD 画质清晰，全天候可用", "内置补光灯的彩色夜视", "AI 检测人员 / 车辆 / 动物", "无线安装，几分钟完成"],
-        "inTheBox": ["Argus 3 Pro 摄像机", "壁挂支架与螺丝", "USB-C 充电线", "快速入门指南"]
+        "highlights": [
+          "2K QHD 画质清晰，全天候可用",
+          "内置补光灯的彩色夜视",
+          "AI 检测人员 / 车辆 / 动物",
+          "无线安装，几分钟完成"
+        ],
+        "inTheBox": [
+          "Argus 3 Pro 摄像机",
+          "壁挂支架与螺丝",
+          "USB-C 充电线",
+          "快速入门指南"
+        ]
       }
     },
-    "attributes": { "protocol": ["wifi"], "placement": "exterieur", "power": ["batterie", "solaire"], "compat": ["alexa", "google", "app-marque", "safer-platform"], "resolution": "3k" },
+    "attributes": {
+      "protocol": [
+        "wifi"
+      ],
+      "placement": "exterieur",
+      "power": [
+        "batterie",
+        "solaire"
+      ],
+      "compat": [
+        "alexa",
+        "google",
+        "app-marque",
+        "safer-platform"
+      ],
+      "resolution": "3k"
+    },
     "specs": [
-      { "key": "resolution", "value": "2K QHD (2560 × 1920, 5 MP)" },
-      { "key": "fieldOfView", "value": "130° horizontal" },
-      { "key": "nightVision", "value": { "fr": "Couleur avec spotlight intégré", "en": "Colour with built-in spotlight", "es": "Color con foco integrado", "ar": "ملوّن مع كشّاف مدمج", "zh": "彩色，内置补光灯" } },
-      { "key": "ai", "value": { "fr": "Personnes, véhicules, animaux", "en": "People, vehicles, animals", "es": "Personas, vehículos, animales", "ar": "أشخاص، مركبات، حيوانات", "zh": "人员、车辆、动物" } },
-      { "key": "connectivity", "value": "Wi-Fi 2,4 / 5 GHz" },
-      { "key": "battery", "value": { "fr": "6 700 mAh, solaire en option", "en": "6,700 mAh, solar optional", "es": "6.700 mAh, solar opcional", "ar": "6700 مللي أمبير، طاقة شمسية اختيارية", "zh": "6700 毫安，太阳能可选" } },
-      { "key": "storage", "value": "microSD ≤ 128 Go, Reolink Cloud" },
-      { "key": "weatherproof", "value": "IP65" },
-      { "key": "operatingTemp", "value": "-20 °C … 50 °C" }
+      {
+        "key": "resolution",
+        "value": "2K QHD (2560 × 1920, 5 MP)"
+      },
+      {
+        "key": "fieldOfView",
+        "value": "130° horizontal"
+      },
+      {
+        "key": "nightVision",
+        "value": {
+          "fr": "Couleur avec spotlight intégré",
+          "en": "Colour with built-in spotlight",
+          "es": "Color con foco integrado",
+          "ar": "ملوّن مع كشّاف مدمج",
+          "zh": "彩色，内置补光灯"
+        }
+      },
+      {
+        "key": "ai",
+        "value": {
+          "fr": "Personnes, véhicules, animaux",
+          "en": "People, vehicles, animals",
+          "es": "Personas, vehículos, animales",
+          "ar": "أشخاص، مركبات، حيوانات",
+          "zh": "人员、车辆、动物"
+        }
+      },
+      {
+        "key": "connectivity",
+        "value": "Wi-Fi 2,4 / 5 GHz"
+      },
+      {
+        "key": "battery",
+        "value": {
+          "fr": "6 700 mAh, solaire en option",
+          "en": "6,700 mAh, solar optional",
+          "es": "6.700 mAh, solar opcional",
+          "ar": "6700 مللي أمبير، طاقة شمسية اختيارية",
+          "zh": "6700 毫安，太阳能可选"
+        }
+      },
+      {
+        "key": "storage",
+        "value": "microSD ≤ 128 Go, Reolink Cloud"
+      },
+      {
+        "key": "weatherproof",
+        "value": "IP65"
+      },
+      {
+        "key": "operatingTemp",
+        "value": "-20 °C … 50 °C"
+      }
     ],
-    "pricing": { "sourcePrice": 99.99, "sourceCurrency": "USD" },
+    "pricing": {
+      "sourcePrice": 99.99,
+      "sourceCurrency": "USD"
+    },
     "availability": "en-stock",
-    "install": { "level": "simple", "duration": "30 min", "prerequisites": { "fr": "Wi-Fi 2,4 ou 5 GHz couvrant l’emplacement.", "en": "2.4 or 5 GHz Wi-Fi coverage at the location.", "es": "Cobertura Wi-Fi de 2,4 o 5 GHz en el lugar.", "ar": "تغطية Wi-Fi بتردد 2.4 أو 5 جيجاهرتز في الموقع.", "zh": "安装位置需有 2.4 或 5 GHz Wi-Fi 覆盖。" } },
+    "install": {
+      "level": "simple",
+      "duration": "30 min",
+      "prerequisites": {
+        "fr": "Wi-Fi 2,4 ou 5 GHz couvrant l’emplacement.",
+        "en": "2.4 or 5 GHz Wi-Fi coverage at the location.",
+        "es": "Cobertura Wi-Fi de 2,4 o 5 GHz en el lugar.",
+        "ar": "تغطية Wi-Fi بتردد 2.4 أو 5 جيجاهرتز في الموقع.",
+        "zh": "安装位置需有 2.4 或 5 GHz Wi-Fi 覆盖。"
+      }
+    },
     "sourceUrl": "https://reolink.com/product/argus-3-pro/",
     "accent": "#0ea5e9",
     "symbol": "◉",
-    "solutions": ["video-intelligente/cameras-exterieures", "video-intelligente/verification-video"],
-    "related": ["reolink-solar-panel-2"]
+    "solutions": [
+      "video-intelligente/cameras-exterieures",
+      "video-intelligente/verification-video"
+    ],
+    "related": [
+      "reolink-solar-panel-2"
+    ],
+    "crawl": {
+      "status": "ok",
+      "lastChecked": "2026-09-02T03:40:30.333Z",
+      "sourceTitle": "Argus 3 Pro",
+      "sourceAvailability": "in-stock",
+      "sourcePrice": "99.99",
+      "sourceCurrency": "USD",
+      "imageUrl": "https://home-cdn.reolink.us/wp-content/uploads/2021/03/240613101616566390.8154.png.webp"
+    },
+    "imageUrl": "https://home-cdn.reolink.us/wp-content/uploads/2021/03/240613101616566390.8154.png.webp"
   },
   {
     "id": "reolink-duo-3-poe",
@@ -211,57 +628,186 @@
         "name": "Reolink Duo 3 PoE",
         "tagline": "Double objectif, panorama 4K sans couture, alimentée par PoE.",
         "description": "Caméra extérieure filaire PoE à double capteur offrant un panorama 4K de 180° sans couture, une vision nocturne couleur sans projecteur et une détection intelligente par zones. Idéale en surveillance permanente sur portail, façade ou parking grâce à son alimentation réseau stable.",
-        "highlights": ["Panorama 4K 180° sans couture, double capteur", "Vision nocturne couleur sans projecteur", "Détection IA par zones personnalisables", "Alimentation et données par câble PoE unique"],
-        "inTheBox": ["Caméra Duo 3 PoE", "Support de fixation", "Câble Ethernet 18 m", "Guide de démarrage"]
+        "highlights": [
+          "Panorama 4K 180° sans couture, double capteur",
+          "Vision nocturne couleur sans projecteur",
+          "Détection IA par zones personnalisables",
+          "Alimentation et données par câble PoE unique"
+        ],
+        "inTheBox": [
+          "Caméra Duo 3 PoE",
+          "Support de fixation",
+          "Câble Ethernet 18 m",
+          "Guide de démarrage"
+        ]
       },
       "en": {
         "name": "Reolink Duo 3 PoE",
         "tagline": "Dual lens, seamless 4K panorama, PoE powered.",
         "description": "Wired PoE outdoor dual-sensor camera delivering a seamless 180° 4K panorama, spotlight-free colour night vision and smart zone-based detection. Ideal for round-the-clock coverage of a gate, façade or car park thanks to stable network power.",
-        "highlights": ["Seamless 180° 4K dual-sensor panorama", "Colour night vision without spotlight", "AI detection with custom zones", "Power and data over a single PoE cable"],
-        "inTheBox": ["Duo 3 PoE camera", "Mounting bracket", "18 m Ethernet cable", "Quick start guide"]
+        "highlights": [
+          "Seamless 180° 4K dual-sensor panorama",
+          "Colour night vision without spotlight",
+          "AI detection with custom zones",
+          "Power and data over a single PoE cable"
+        ],
+        "inTheBox": [
+          "Duo 3 PoE camera",
+          "Mounting bracket",
+          "18 m Ethernet cable",
+          "Quick start guide"
+        ]
       },
       "es": {
         "name": "Reolink Duo 3 PoE",
         "tagline": "Doble lente, panorámica 4K sin costuras, alimentada por PoE.",
         "description": "Cámara exterior cableada PoE de doble sensor con panorámica 4K de 180° sin costuras, visión nocturna en color sin foco y detección inteligente por zonas. Ideal para vigilancia permanente de un portón, fachada o aparcamiento gracias a su alimentación de red estable.",
-        "highlights": ["Panorámica 4K de 180° sin costuras, doble sensor", "Visión nocturna en color sin foco", "Detección IA por zonas personalizables", "Alimentación y datos por un único cable PoE"],
-        "inTheBox": ["Cámara Duo 3 PoE", "Soporte de fijación", "Cable Ethernet de 18 m", "Guía de inicio rápido"]
+        "highlights": [
+          "Panorámica 4K de 180° sin costuras, doble sensor",
+          "Visión nocturna en color sin foco",
+          "Detección IA por zonas personalizables",
+          "Alimentación y datos por un único cable PoE"
+        ],
+        "inTheBox": [
+          "Cámara Duo 3 PoE",
+          "Soporte de fijación",
+          "Cable Ethernet de 18 m",
+          "Guía de inicio rápido"
+        ]
       },
       "ar": {
         "name": "Reolink Duo 3 PoE",
         "tagline": "عدسة مزدوجة، بانوراما 4K متصلة، بتغذية PoE.",
         "description": "كاميرا خارجية سلكية PoE بحساسين مزدوجين توفر بانوراما 4K بزاوية 180° دون فواصل، ورؤية ليلية ملوّنة دون كشّاف، وكشفاً ذكياً حسب المناطق. مثالية للمراقبة الدائمة لبوابة أو واجهة أو موقف سيارات بفضل تغذيتها الشبكية الثابتة.",
-        "highlights": ["بانوراما 4K بزاوية 180° متصلة بحساسين", "رؤية ليلية ملوّنة دون كشّاف", "كشف ذكي حسب مناطق مخصصة", "تغذية وبيانات عبر كابل PoE واحد"],
-        "inTheBox": ["كاميرا Duo 3 PoE", "حامل تثبيت", "كابل إيثرنت 18 م", "دليل البدء السريع"]
+        "highlights": [
+          "بانوراما 4K بزاوية 180° متصلة بحساسين",
+          "رؤية ليلية ملوّنة دون كشّاف",
+          "كشف ذكي حسب مناطق مخصصة",
+          "تغذية وبيانات عبر كابل PoE واحد"
+        ],
+        "inTheBox": [
+          "كاميرا Duo 3 PoE",
+          "حامل تثبيت",
+          "كابل إيثرنت 18 م",
+          "دليل البدء السريع"
+        ]
       },
       "zh": {
         "name": "Reolink Duo 3 PoE",
         "tagline": "双镜头，无缝 4K 全景，PoE 供电。",
         "description": "有线 PoE 户外双传感器摄像机，提供无缝 180° 4K 全景画面、无需聚光灯的彩色夜视，以及智能区域检测。凭借稳定的网络供电，非常适合大门、外墙或停车场的全天候监控。",
-        "highlights": ["双传感器无缝 180° 4K 全景", "无需聚光灯的彩色夜视", "可自定义区域的 AI 检测", "单根 PoE 线缆供电与传输数据"],
-        "inTheBox": ["Duo 3 PoE 摄像机", "安装支架", "18 米以太网线", "快速入门指南"]
+        "highlights": [
+          "双传感器无缝 180° 4K 全景",
+          "无需聚光灯的彩色夜视",
+          "可自定义区域的 AI 检测",
+          "单根 PoE 线缆供电与传输数据"
+        ],
+        "inTheBox": [
+          "Duo 3 PoE 摄像机",
+          "安装支架",
+          "18 米以太网线",
+          "快速入门指南"
+        ]
       }
     },
-    "attributes": { "protocol": ["filaire-poe"], "placement": "exterieur", "power": ["poe"], "compat": ["app-marque", "safer-platform"], "resolution": "4k" },
+    "attributes": {
+      "protocol": [
+        "filaire-poe"
+      ],
+      "placement": "exterieur",
+      "power": [
+        "poe"
+      ],
+      "compat": [
+        "app-marque",
+        "safer-platform"
+      ],
+      "resolution": "4k"
+    },
     "specs": [
-      { "key": "resolution", "value": "4K UHD panoramique (2 × 4 MP)" },
-      { "key": "fieldOfView", "value": { "fr": "180° horizontal sans couture", "en": "180° horizontal, seamless", "es": "180° horizontal, sin costuras", "ar": "180° أفقي دون فواصل", "zh": "180° 水平，无缝拼接" } },
-      { "key": "nightVision", "value": { "fr": "Couleur sans projecteur", "en": "Colour, no spotlight", "es": "Color, sin foco", "ar": "ملوّن دون كشّاف", "zh": "彩色，无需补光灯" } },
-      { "key": "ai", "value": { "fr": "Personnes, véhicules, animaux, zones intelligentes", "en": "People, vehicles, animals, smart zones", "es": "Personas, vehículos, animales, zonas inteligentes", "ar": "أشخاص، مركبات، حيوانات، مناطق ذكية", "zh": "人员、车辆、动物，智能区域" } },
-      { "key": "connectivity", "value": "PoE 802.3af, Ethernet RJ45" },
-      { "key": "storage", "value": "microSD ≤ 256 Go, NVR / Reolink Cloud" },
-      { "key": "weatherproof", "value": "IP66" },
-      { "key": "operatingTemp", "value": "-30 °C … 60 °C" }
+      {
+        "key": "resolution",
+        "value": "4K UHD panoramique (2 × 4 MP)"
+      },
+      {
+        "key": "fieldOfView",
+        "value": {
+          "fr": "180° horizontal sans couture",
+          "en": "180° horizontal, seamless",
+          "es": "180° horizontal, sin costuras",
+          "ar": "180° أفقي دون فواصل",
+          "zh": "180° 水平，无缝拼接"
+        }
+      },
+      {
+        "key": "nightVision",
+        "value": {
+          "fr": "Couleur sans projecteur",
+          "en": "Colour, no spotlight",
+          "es": "Color, sin foco",
+          "ar": "ملوّن دون كشّاف",
+          "zh": "彩色，无需补光灯"
+        }
+      },
+      {
+        "key": "ai",
+        "value": {
+          "fr": "Personnes, véhicules, animaux, zones intelligentes",
+          "en": "People, vehicles, animals, smart zones",
+          "es": "Personas, vehículos, animales, zonas inteligentes",
+          "ar": "أشخاص، مركبات، حيوانات، مناطق ذكية",
+          "zh": "人员、车辆、动物，智能区域"
+        }
+      },
+      {
+        "key": "connectivity",
+        "value": "PoE 802.3af, Ethernet RJ45"
+      },
+      {
+        "key": "storage",
+        "value": "microSD ≤ 256 Go, NVR / Reolink Cloud"
+      },
+      {
+        "key": "weatherproof",
+        "value": "IP66"
+      },
+      {
+        "key": "operatingTemp",
+        "value": "-30 °C … 60 °C"
+      }
     ],
-    "pricing": { "sourcePrice": 139.99, "sourceCurrency": "USD" },
+    "pricing": {
+      "sourcePrice": 139.99,
+      "sourceCurrency": "USD"
+    },
     "availability": "sur-commande",
-    "install": { "level": "expert", "duration": "1 h 30", "prerequisites": { "fr": "Câble Ethernet PoE tiré jusqu’à l’emplacement ou injecteur PoE disponible.", "en": "PoE Ethernet cable run to the location, or a PoE injector available.", "es": "Cable Ethernet PoE tendido hasta el lugar o inyector PoE disponible.", "ar": "كابل إيثرنت PoE ممتد إلى الموقع أو توفر حاقن PoE.", "zh": "需将 PoE 以太网线布至安装位置，或备有 PoE 注入器。" } },
+    "install": {
+      "level": "expert",
+      "duration": "1 h 30",
+      "prerequisites": {
+        "fr": "Câble Ethernet PoE tiré jusqu’à l’emplacement ou injecteur PoE disponible.",
+        "en": "PoE Ethernet cable run to the location, or a PoE injector available.",
+        "es": "Cable Ethernet PoE tendido hasta el lugar o inyector PoE disponible.",
+        "ar": "كابل إيثرنت PoE ممتد إلى الموقع أو توفر حاقن PoE.",
+        "zh": "需将 PoE 以太网线布至安装位置，或备有 PoE 注入器。"
+      }
+    },
     "sourceUrl": "https://reolink.com/product/duo-3-poe/",
     "accent": "#0ea5e9",
     "symbol": "◈",
-    "solutions": ["video-intelligente/cameras-exterieures", "video-intelligente/verification-video"],
-    "related": ["reolink-rlk8-810b4-a"]
+    "solutions": [
+      "video-intelligente/cameras-exterieures",
+      "video-intelligente/verification-video"
+    ],
+    "related": [
+      "reolink-rlk8-810b4-a"
+    ],
+    "crawl": {
+      "status": "ok-no-price",
+      "lastChecked": "2026-09-02T03:40:30.333Z",
+      "sourceTitle": "Page Not Found – Reolink",
+      "sourceCurrency": "USD"
+    }
   },
   {
     "id": "reolink-rlc-1224a",
@@ -276,57 +822,183 @@
         "name": "Reolink RLC-1224A",
         "tagline": "12 MP filaire PoE, la définition la plus fine du catalogue.",
         "description": "Caméra extérieure filaire PoE 12 MP à très haute définition, avec vision nocturne couleur intégrée et détection intelligente des personnes, véhicules et animaux. Alimentation et données par un seul câble réseau, pensée pour une surveillance permanente d’entrée ou de façade.",
-        "highlights": ["Définition 12 MP (4000 × 3000)", "Vision nocturne couleur avec spotlight intégré", "Détection IA personnes / véhicules / animaux", "PoE : alimentation et données sur un seul câble"],
-        "inTheBox": ["Caméra RLC-1224A", "Support de fixation", "Câble Ethernet 18 m", "Guide de démarrage"]
+        "highlights": [
+          "Définition 12 MP (4000 × 3000)",
+          "Vision nocturne couleur avec spotlight intégré",
+          "Détection IA personnes / véhicules / animaux",
+          "PoE : alimentation et données sur un seul câble"
+        ],
+        "inTheBox": [
+          "Caméra RLC-1224A",
+          "Support de fixation",
+          "Câble Ethernet 18 m",
+          "Guide de démarrage"
+        ]
       },
       "en": {
         "name": "Reolink RLC-1224A",
         "tagline": "Wired PoE 12 MP, the sharpest resolution in the range.",
         "description": "Wired PoE outdoor camera at ultra-high 12 MP resolution, with built-in colour night vision and smart detection of people, vehicles and animals. Power and data over a single network cable, built for round-the-clock coverage of an entrance or façade.",
-        "highlights": ["12 MP resolution (4000 × 3000)", "Colour night vision with built-in spotlight", "AI detection of people / vehicles / animals", "PoE: power and data over one cable"],
-        "inTheBox": ["RLC-1224A camera", "Mounting bracket", "18 m Ethernet cable", "Quick start guide"]
+        "highlights": [
+          "12 MP resolution (4000 × 3000)",
+          "Colour night vision with built-in spotlight",
+          "AI detection of people / vehicles / animals",
+          "PoE: power and data over one cable"
+        ],
+        "inTheBox": [
+          "RLC-1224A camera",
+          "Mounting bracket",
+          "18 m Ethernet cable",
+          "Quick start guide"
+        ]
       },
       "es": {
         "name": "Reolink RLC-1224A",
         "tagline": "PoE cableada de 12 MP, la máxima definición del catálogo.",
         "description": "Cámara exterior cableada PoE de altísima resolución 12 MP, con visión nocturna en color integrada y detección inteligente de personas, vehículos y animales. Alimentación y datos por un solo cable de red, pensada para vigilancia permanente de una entrada o fachada.",
-        "highlights": ["Resolución 12 MP (4000 × 3000)", "Visión nocturna en color con foco integrado", "Detección IA de personas / vehículos / animales", "PoE: alimentación y datos por un solo cable"],
-        "inTheBox": ["Cámara RLC-1224A", "Soporte de fijación", "Cable Ethernet de 18 m", "Guía de inicio rápido"]
+        "highlights": [
+          "Resolución 12 MP (4000 × 3000)",
+          "Visión nocturna en color con foco integrado",
+          "Detección IA de personas / vehículos / animales",
+          "PoE: alimentación y datos por un solo cable"
+        ],
+        "inTheBox": [
+          "Cámara RLC-1224A",
+          "Soporte de fijación",
+          "Cable Ethernet de 18 m",
+          "Guía de inicio rápido"
+        ]
       },
       "ar": {
         "name": "Reolink RLC-1224A",
         "tagline": "PoE سلكية بدقة 12 ميجابكسل، الأوضح في الكتالوج.",
         "description": "كاميرا خارجية سلكية PoE بدقة فائقة 12 ميجابكسل، مع رؤية ليلية ملوّنة مدمجة وكشف ذكي للأشخاص والمركبات والحيوانات. تغذية وبيانات عبر كابل شبكة واحد، مصممة لمراقبة دائمة لمدخل أو واجهة.",
-        "highlights": ["دقة 12 ميجابكسل (4000 × 3000)", "رؤية ليلية ملوّنة مع كشّاف مدمج", "كشف ذكي للأشخاص والمركبات والحيوانات", "PoE: تغذية وبيانات عبر كابل واحد"],
-        "inTheBox": ["كاميرا RLC-1224A", "حامل تثبيت", "كابل إيثرنت 18 م", "دليل البدء السريع"]
+        "highlights": [
+          "دقة 12 ميجابكسل (4000 × 3000)",
+          "رؤية ليلية ملوّنة مع كشّاف مدمج",
+          "كشف ذكي للأشخاص والمركبات والحيوانات",
+          "PoE: تغذية وبيانات عبر كابل واحد"
+        ],
+        "inTheBox": [
+          "كاميرا RLC-1224A",
+          "حامل تثبيت",
+          "كابل إيثرنت 18 م",
+          "دليل البدء السريع"
+        ]
       },
       "zh": {
         "name": "Reolink RLC-1224A",
         "tagline": "有线 PoE 12MP，系列中最清晰的分辨率。",
         "description": "有线 PoE 户外摄像机，配备超高 1200 万像素分辨率、内置彩色夜视，可智能检测人员、车辆和动物。仅需一根网线即可供电与传输数据，专为入口或外墙的全天候监控而设计。",
-        "highlights": ["1200 万像素分辨率 (4000 × 3000)", "内置补光灯的彩色夜视", "AI 检测人员 / 车辆 / 动物", "PoE：单线供电与数据传输"],
-        "inTheBox": ["RLC-1224A 摄像机", "安装支架", "18 米以太网线", "快速入门指南"]
+        "highlights": [
+          "1200 万像素分辨率 (4000 × 3000)",
+          "内置补光灯的彩色夜视",
+          "AI 检测人员 / 车辆 / 动物",
+          "PoE：单线供电与数据传输"
+        ],
+        "inTheBox": [
+          "RLC-1224A 摄像机",
+          "安装支架",
+          "18 米以太网线",
+          "快速入门指南"
+        ]
       }
     },
-    "attributes": { "protocol": ["filaire-poe"], "placement": "exterieur", "power": ["poe"], "compat": ["app-marque", "safer-platform"] },
+    "attributes": {
+      "protocol": [
+        "filaire-poe"
+      ],
+      "placement": "exterieur",
+      "power": [
+        "poe"
+      ],
+      "compat": [
+        "app-marque",
+        "safer-platform"
+      ]
+    },
     "specs": [
-      { "key": "resolution", "value": "12 MP (4000 × 3000)" },
-      { "key": "fieldOfView", "value": "89° horizontal" },
-      { "key": "nightVision", "value": { "fr": "ColorX couleur, spotlight intégré", "en": "ColorX colour, built-in spotlight", "es": "ColorX en color, foco integrado", "ar": "ColorX ملوّن، كشّاف مدمج", "zh": "ColorX 彩色，内置补光灯" } },
-      { "key": "ai", "value": { "fr": "Personnes, véhicules, animaux", "en": "People, vehicles, animals", "es": "Personas, vehículos, animales", "ar": "أشخاص، مركبات، حيوانات", "zh": "人员、车辆、动物" } },
-      { "key": "connectivity", "value": "PoE 802.3af, Ethernet RJ45" },
-      { "key": "storage", "value": "microSD ≤ 256 Go, NVR / Reolink Cloud" },
-      { "key": "weatherproof", "value": "IP66" },
-      { "key": "operatingTemp", "value": "-30 °C … 60 °C" }
+      {
+        "key": "resolution",
+        "value": "12 MP (4000 × 3000)"
+      },
+      {
+        "key": "fieldOfView",
+        "value": "89° horizontal"
+      },
+      {
+        "key": "nightVision",
+        "value": {
+          "fr": "ColorX couleur, spotlight intégré",
+          "en": "ColorX colour, built-in spotlight",
+          "es": "ColorX en color, foco integrado",
+          "ar": "ColorX ملوّن، كشّاف مدمج",
+          "zh": "ColorX 彩色，内置补光灯"
+        }
+      },
+      {
+        "key": "ai",
+        "value": {
+          "fr": "Personnes, véhicules, animaux",
+          "en": "People, vehicles, animals",
+          "es": "Personas, vehículos, animales",
+          "ar": "أشخاص، مركبات، حيوانات",
+          "zh": "人员、车辆、动物"
+        }
+      },
+      {
+        "key": "connectivity",
+        "value": "PoE 802.3af, Ethernet RJ45"
+      },
+      {
+        "key": "storage",
+        "value": "microSD ≤ 256 Go, NVR / Reolink Cloud"
+      },
+      {
+        "key": "weatherproof",
+        "value": "IP66"
+      },
+      {
+        "key": "operatingTemp",
+        "value": "-30 °C … 60 °C"
+      }
     ],
-    "pricing": { "sourcePrice": 139.99, "sourceCurrency": "USD" },
+    "pricing": {
+      "sourcePrice": 129.99,
+      "sourceCurrency": "USD"
+    },
     "availability": "sur-commande",
-    "install": { "level": "standard", "duration": "45 min", "prerequisites": { "fr": "Prise réseau PoE disponible à l’emplacement (switch ou injecteur PoE).", "en": "PoE network point available at the location (switch or PoE injector).", "es": "Toma de red PoE disponible en el lugar (switch o inyector PoE).", "ar": "منفذ شبكة PoE متاح في الموقع (سويتش أو حاقن PoE).", "zh": "安装位置需有可用的 PoE 网络接口（交换机或 PoE 注入器）。" } },
+    "install": {
+      "level": "standard",
+      "duration": "45 min",
+      "prerequisites": {
+        "fr": "Prise réseau PoE disponible à l’emplacement (switch ou injecteur PoE).",
+        "en": "PoE network point available at the location (switch or PoE injector).",
+        "es": "Toma de red PoE disponible en el lugar (switch o inyector PoE).",
+        "ar": "منفذ شبكة PoE متاح في الموقع (سويتش أو حاقن PoE).",
+        "zh": "安装位置需有可用的 PoE 网络接口（交换机或 PoE 注入器）。"
+      }
+    },
     "sourceUrl": "https://reolink.com/product/rlc-1224a/",
     "accent": "#0ea5e9",
     "symbol": "▣",
-    "solutions": ["video-intelligente/cameras-exterieures", "video-intelligente/verification-video"],
-    "related": ["reolink-rlk8-810b4-a"]
+    "solutions": [
+      "video-intelligente/cameras-exterieures",
+      "video-intelligente/verification-video"
+    ],
+    "related": [
+      "reolink-rlk8-810b4-a"
+    ],
+    "crawl": {
+      "status": "ok",
+      "lastChecked": "2026-09-02T03:40:30.333Z",
+      "sourceTitle": "RLC-1224A",
+      "sourceAvailability": "in-stock",
+      "sourcePrice": "129.99",
+      "sourceCurrency": "USD",
+      "imageUrl": "https://home-cdn.reolink.us/wp-content/uploads/2022/01/210404571642737897.3887.png.webp"
+    },
+    "imageUrl": "https://home-cdn.reolink.us/wp-content/uploads/2022/01/210404571642737897.3887.png.webp"
   },
   {
     "id": "reolink-trackmix-wifi",
@@ -341,57 +1013,201 @@
         "name": "Reolink TrackMix WiFi",
         "tagline": "Deux objectifs, un large plan et un zoom net, en suivi automatique.",
         "description": "Caméra motorisée sans fil à double objectif combinant une vue grand-angle et un téléobjectif pour garder à la fois le contexte et le détail. Le suivi automatique 4K verrouille personnes, véhicules et animaux en mouvement sur une cour ou un jardin étendu.",
-        "highlights": ["Double objectif : grand-angle + téléobjectif zoom 3x", "Suivi automatique 4K des sujets en mouvement", "Vision nocturne couleur ColorX", "Rotation 340° et inclinaison 90° motorisées"],
-        "inTheBox": ["Caméra TrackMix WiFi", "Support de fixation", "Câble de charge USB-C", "Batterie amovible", "Guide de démarrage"]
+        "highlights": [
+          "Double objectif : grand-angle + téléobjectif zoom 3x",
+          "Suivi automatique 4K des sujets en mouvement",
+          "Vision nocturne couleur ColorX",
+          "Rotation 340° et inclinaison 90° motorisées"
+        ],
+        "inTheBox": [
+          "Caméra TrackMix WiFi",
+          "Support de fixation",
+          "Câble de charge USB-C",
+          "Batterie amovible",
+          "Guide de démarrage"
+        ]
       },
       "en": {
         "name": "Reolink TrackMix WiFi",
         "tagline": "Two lenses, one wide view and a sharp zoom, auto-tracking.",
         "description": "Wireless motorised dual-lens camera combining a wide-angle view with a telephoto lens to keep both context and detail. 4K auto-tracking locks onto moving people, vehicles and animals across a wide yard or garden.",
-        "highlights": ["Dual lens: wide-angle + 3x zoom telephoto", "4K auto-tracking of moving subjects", "ColorX colour night vision", "Motorised 340° pan and 90° tilt"],
-        "inTheBox": ["TrackMix WiFi camera", "Mounting bracket", "USB-C charging cable", "Removable battery", "Quick start guide"]
+        "highlights": [
+          "Dual lens: wide-angle + 3x zoom telephoto",
+          "4K auto-tracking of moving subjects",
+          "ColorX colour night vision",
+          "Motorised 340° pan and 90° tilt"
+        ],
+        "inTheBox": [
+          "TrackMix WiFi camera",
+          "Mounting bracket",
+          "USB-C charging cable",
+          "Removable battery",
+          "Quick start guide"
+        ]
       },
       "es": {
         "name": "Reolink TrackMix WiFi",
         "tagline": "Dos lentes, una vista amplia y un zoom nítido, con seguimiento automático.",
         "description": "Cámara motorizada inalámbrica de doble lente que combina una vista gran angular con un teleobjetivo para conservar contexto y detalle a la vez. El seguimiento automático 4K bloquea personas, vehículos y animales en movimiento en un patio o jardín amplio.",
-        "highlights": ["Doble lente: gran angular + teleobjetivo con zoom 3x", "Seguimiento automático 4K de sujetos en movimiento", "Visión nocturna en color ColorX", "Rotación 340° e inclinación 90° motorizadas"],
-        "inTheBox": ["Cámara TrackMix WiFi", "Soporte de fijación", "Cable de carga USB-C", "Batería extraíble", "Guía de inicio rápido"]
+        "highlights": [
+          "Doble lente: gran angular + teleobjetivo con zoom 3x",
+          "Seguimiento automático 4K de sujetos en movimiento",
+          "Visión nocturna en color ColorX",
+          "Rotación 340° e inclinación 90° motorizadas"
+        ],
+        "inTheBox": [
+          "Cámara TrackMix WiFi",
+          "Soporte de fijación",
+          "Cable de carga USB-C",
+          "Batería extraíble",
+          "Guía de inicio rápido"
+        ]
       },
       "ar": {
         "name": "Reolink TrackMix WiFi",
         "tagline": "عدستان، رؤية واسعة وتكبير حاد، مع تتبع تلقائي.",
         "description": "كاميرا محورية لاسلكية بعدستين تجمع بين رؤية بزاوية واسعة وعدسة تقريب للحفاظ على السياق والتفاصيل معاً. يقفل التتبع التلقائي بدقة 4K على الأشخاص والمركبات والحيوانات المتحركة في فناء أو حديقة واسعة.",
-        "highlights": ["عدستان: زاوية واسعة + تقريب 3x", "تتبع تلقائي 4K للأهداف المتحركة", "رؤية ليلية ملوّنة ColorX", "دوران محوري 340° وإمالة 90°"],
-        "inTheBox": ["كاميرا TrackMix WiFi", "حامل تثبيت", "كابل شحن USB-C", "بطارية قابلة للإزالة", "دليل البدء السريع"]
+        "highlights": [
+          "عدستان: زاوية واسعة + تقريب 3x",
+          "تتبع تلقائي 4K للأهداف المتحركة",
+          "رؤية ليلية ملوّنة ColorX",
+          "دوران محوري 340° وإمالة 90°"
+        ],
+        "inTheBox": [
+          "كاميرا TrackMix WiFi",
+          "حامل تثبيت",
+          "كابل شحن USB-C",
+          "بطارية قابلة للإزالة",
+          "دليل البدء السريع"
+        ]
       },
       "zh": {
         "name": "Reolink TrackMix WiFi",
         "tagline": "双镜头，广角加变焦，自动追踪目标。",
         "description": "无线云台双镜头摄像机，结合广角视野与长焦镜头，兼顾全局与细节。4K 自动追踪功能可锁定在宽阔庭院或花园中移动的人员、车辆和动物。",
-        "highlights": ["双镜头：广角 + 3 倍变焦长焦", "4K 自动追踪移动目标", "ColorX 彩色夜视", "340° 水平旋转与 90° 俯仰"],
-        "inTheBox": ["TrackMix WiFi 摄像机", "安装支架", "USB-C 充电线", "可拆卸电池", "快速入门指南"]
+        "highlights": [
+          "双镜头：广角 + 3 倍变焦长焦",
+          "4K 自动追踪移动目标",
+          "ColorX 彩色夜视",
+          "340° 水平旋转与 90° 俯仰"
+        ],
+        "inTheBox": [
+          "TrackMix WiFi 摄像机",
+          "安装支架",
+          "USB-C 充电线",
+          "可拆卸电池",
+          "快速入门指南"
+        ]
       }
     },
-    "attributes": { "protocol": ["wifi"], "placement": "exterieur", "power": ["batterie", "solaire"], "compat": ["alexa", "google", "app-marque", "safer-platform"], "resolution": "4k" },
+    "attributes": {
+      "protocol": [
+        "wifi"
+      ],
+      "placement": "exterieur",
+      "power": [
+        "batterie",
+        "solaire"
+      ],
+      "compat": [
+        "alexa",
+        "google",
+        "app-marque",
+        "safer-platform"
+      ],
+      "resolution": "4k"
+    },
     "specs": [
-      { "key": "resolution", "value": { "fr": "4K UHD (grand-angle 4 MP + téléobjectif 4 MP)", "en": "4K UHD (4 MP wide-angle + 4 MP telephoto)", "es": "4K UHD (gran angular 4 MP + teleobjetivo 4 MP)", "ar": "4K UHD (زاوية واسعة 4 ميجابكسل + تقريب 4 ميجابكسل)", "zh": "4K UHD（4MP 广角 + 4MP 长焦）" } },
-      { "key": "ptz", "value": "Panoramique 340°, inclinaison 90°, zoom 3x" },
-      { "key": "ai", "value": { "fr": "Suivi automatique personnes / véhicules / animaux", "en": "Auto-tracking of people / vehicles / animals", "es": "Seguimiento automático de personas / vehículos / animales", "ar": "تتبع تلقائي للأشخاص / المركبات / الحيوانات", "zh": "自动追踪人员 / 车辆 / 动物" } },
-      { "key": "nightVision", "value": { "fr": "ColorX couleur + spotlight", "en": "ColorX colour + spotlight", "es": "ColorX en color + foco", "ar": "ColorX ملوّن + كشّاف", "zh": "ColorX 彩色 + 补光灯" } },
-      { "key": "connectivity", "value": "Wi-Fi 6 double bande" },
-      { "key": "battery", "value": { "fr": "6 700 mAh, solaire en option", "en": "6,700 mAh, solar optional", "es": "6.700 mAh, solar opcional", "ar": "6700 مللي أمبير، طاقة شمسية اختيارية", "zh": "6700 毫安，太阳能可选" } },
-      { "key": "storage", "value": "microSD ≤ 256 Go, Reolink Cloud" },
-      { "key": "weatherproof", "value": "IP65" }
+      {
+        "key": "resolution",
+        "value": {
+          "fr": "4K UHD (grand-angle 4 MP + téléobjectif 4 MP)",
+          "en": "4K UHD (4 MP wide-angle + 4 MP telephoto)",
+          "es": "4K UHD (gran angular 4 MP + teleobjetivo 4 MP)",
+          "ar": "4K UHD (زاوية واسعة 4 ميجابكسل + تقريب 4 ميجابكسل)",
+          "zh": "4K UHD（4MP 广角 + 4MP 长焦）"
+        }
+      },
+      {
+        "key": "ptz",
+        "value": "Panoramique 340°, inclinaison 90°, zoom 3x"
+      },
+      {
+        "key": "ai",
+        "value": {
+          "fr": "Suivi automatique personnes / véhicules / animaux",
+          "en": "Auto-tracking of people / vehicles / animals",
+          "es": "Seguimiento automático de personas / vehículos / animales",
+          "ar": "تتبع تلقائي للأشخاص / المركبات / الحيوانات",
+          "zh": "自动追踪人员 / 车辆 / 动物"
+        }
+      },
+      {
+        "key": "nightVision",
+        "value": {
+          "fr": "ColorX couleur + spotlight",
+          "en": "ColorX colour + spotlight",
+          "es": "ColorX en color + foco",
+          "ar": "ColorX ملوّن + كشّاف",
+          "zh": "ColorX 彩色 + 补光灯"
+        }
+      },
+      {
+        "key": "connectivity",
+        "value": "Wi-Fi 6 double bande"
+      },
+      {
+        "key": "battery",
+        "value": {
+          "fr": "6 700 mAh, solaire en option",
+          "en": "6,700 mAh, solar optional",
+          "es": "6.700 mAh, solar opcional",
+          "ar": "6700 مللي أمبير، طاقة شمسية اختيارية",
+          "zh": "6700 毫安，太阳能可选"
+        }
+      },
+      {
+        "key": "storage",
+        "value": "microSD ≤ 256 Go, Reolink Cloud"
+      },
+      {
+        "key": "weatherproof",
+        "value": "IP65"
+      }
     ],
-    "pricing": { "sourcePrice": 159.99, "sourceCurrency": "USD" },
+    "pricing": {
+      "sourcePrice": 159.99,
+      "sourceCurrency": "USD"
+    },
     "availability": "sur-commande",
-    "install": { "level": "simple", "duration": "30 min", "prerequisites": { "fr": "Wi-Fi 2,4 ou 5 GHz couvrant l’emplacement.", "en": "2.4 or 5 GHz Wi-Fi coverage at the location.", "es": "Cobertura Wi-Fi de 2,4 o 5 GHz en el lugar.", "ar": "تغطية Wi-Fi بتردد 2.4 أو 5 جيجاهرتز في الموقع.", "zh": "安装位置需有 2.4 或 5 GHz Wi-Fi 覆盖。" } },
+    "install": {
+      "level": "simple",
+      "duration": "30 min",
+      "prerequisites": {
+        "fr": "Wi-Fi 2,4 ou 5 GHz couvrant l’emplacement.",
+        "en": "2.4 or 5 GHz Wi-Fi coverage at the location.",
+        "es": "Cobertura Wi-Fi de 2,4 o 5 GHz en el lugar.",
+        "ar": "تغطية Wi-Fi بتردد 2.4 أو 5 جيجاهرتز في الموقع.",
+        "zh": "安装位置需有 2.4 或 5 GHz Wi-Fi 覆盖。"
+      }
+    },
     "sourceUrl": "https://reolink.com/product/trackmix-wifi/",
     "accent": "#0ea5e9",
     "symbol": "↗",
-    "solutions": ["video-intelligente/cameras-exterieures", "video-intelligente/verification-video"],
-    "related": ["reolink-solar-panel-2", "reolink-argus-pt-ultra"]
+    "solutions": [
+      "video-intelligente/cameras-exterieures",
+      "video-intelligente/verification-video"
+    ],
+    "related": [
+      "reolink-solar-panel-2",
+      "reolink-argus-pt-ultra"
+    ],
+    "crawl": {
+      "status": "ok-no-price",
+      "lastChecked": "2026-09-02T03:40:30.333Z",
+      "sourceTitle": "Page Not Found – Reolink",
+      "sourceCurrency": "USD"
+    }
   },
   {
     "id": "reolink-e1-pro",
@@ -406,56 +1222,187 @@
         "name": "Reolink E1 Pro",
         "tagline": "La caméra intérieure motorisée qui balaie toute la pièce.",
         "description": "Caméra intérieure Wi-Fi avec rotation 355° et inclinaison 50°, image 2K+ nette et audio bidirectionnel pour parler à distance. Détection intelligente des personnes et suivi automatique pour surveiller un salon, une entrée ou une chambre d’enfant.",
-        "highlights": ["Rotation 355° et inclinaison 50° motorisées", "Image 2K+ (4 MP) nette de jour comme de nuit", "Audio bidirectionnel avec micro et haut-parleur", "Détection de personnes et suivi automatique"],
-        "inTheBox": ["Caméra E1 Pro", "Socle de pose", "Câble d’alimentation USB-C", "Guide de démarrage"]
+        "highlights": [
+          "Rotation 355° et inclinaison 50° motorisées",
+          "Image 2K+ (4 MP) nette de jour comme de nuit",
+          "Audio bidirectionnel avec micro et haut-parleur",
+          "Détection de personnes et suivi automatique"
+        ],
+        "inTheBox": [
+          "Caméra E1 Pro",
+          "Socle de pose",
+          "Câble d’alimentation USB-C",
+          "Guide de démarrage"
+        ]
       },
       "en": {
         "name": "Reolink E1 Pro",
         "tagline": "The motorised indoor camera that sweeps the whole room.",
         "description": "Indoor Wi-Fi camera with 355° pan and 50° tilt, sharp 2K+ image and two-way audio to talk remotely. Smart people detection and auto-tracking to watch over a living room, entrance or child's bedroom.",
-        "highlights": ["Motorised 355° pan and 50° tilt", "Sharp 2K+ (4 MP) image day and night", "Two-way audio with mic and speaker", "People detection with auto-tracking"],
-        "inTheBox": ["E1 Pro camera", "Tabletop stand", "USB-C power cable", "Quick start guide"]
+        "highlights": [
+          "Motorised 355° pan and 50° tilt",
+          "Sharp 2K+ (4 MP) image day and night",
+          "Two-way audio with mic and speaker",
+          "People detection with auto-tracking"
+        ],
+        "inTheBox": [
+          "E1 Pro camera",
+          "Tabletop stand",
+          "USB-C power cable",
+          "Quick start guide"
+        ]
       },
       "es": {
         "name": "Reolink E1 Pro",
         "tagline": "La cámara interior motorizada que recorre toda la habitación.",
         "description": "Cámara interior Wi-Fi con rotación de 355° e inclinación de 50°, imagen 2K+ nítida y audio bidireccional para hablar a distancia. Detección inteligente de personas y seguimiento automático para vigilar un salón, una entrada o el cuarto de un niño.",
-        "highlights": ["Rotación 355° e inclinación 50° motorizadas", "Imagen nítida 2K+ (4 MP) de día y de noche", "Audio bidireccional con micrófono y altavoz", "Detección de personas con seguimiento automático"],
-        "inTheBox": ["Cámara E1 Pro", "Soporte de mesa", "Cable de alimentación USB-C", "Guía de inicio rápido"]
+        "highlights": [
+          "Rotación 355° e inclinación 50° motorizadas",
+          "Imagen nítida 2K+ (4 MP) de día y de noche",
+          "Audio bidireccional con micrófono y altavoz",
+          "Detección de personas con seguimiento automático"
+        ],
+        "inTheBox": [
+          "Cámara E1 Pro",
+          "Soporte de mesa",
+          "Cable de alimentación USB-C",
+          "Guía de inicio rápido"
+        ]
       },
       "ar": {
         "name": "Reolink E1 Pro",
         "tagline": "كاميرا داخلية محورية تمسح الغرفة بالكامل.",
         "description": "كاميرا داخلية Wi-Fi بدوران 355° وإمالة 50°، وصورة 2K+ واضحة وصوت ثنائي الاتجاه للتحدث عن بُعد. كشف ذكي للأشخاص وتتبع تلقائي لمراقبة صالة أو مدخل أو غرفة طفل.",
-        "highlights": ["دوران محوري 355° وإمالة 50°", "صورة واضحة 2K+ (4 ميجابكسل) نهاراً وليلاً", "صوت ثنائي الاتجاه بميكروفون ومكبر صوت", "كشف الأشخاص مع تتبع تلقائي"],
-        "inTheBox": ["كاميرا E1 Pro", "قاعدة تثبيت", "كابل تغذية USB-C", "دليل البدء السريع"]
+        "highlights": [
+          "دوران محوري 355° وإمالة 50°",
+          "صورة واضحة 2K+ (4 ميجابكسل) نهاراً وليلاً",
+          "صوت ثنائي الاتجاه بميكروفون ومكبر صوت",
+          "كشف الأشخاص مع تتبع تلقائي"
+        ],
+        "inTheBox": [
+          "كاميرا E1 Pro",
+          "قاعدة تثبيت",
+          "كابل تغذية USB-C",
+          "دليل البدء السريع"
+        ]
       },
       "zh": {
         "name": "Reolink E1 Pro",
         "tagline": "云台室内摄像机，全屋无死角覆盖。",
         "description": "室内 Wi-Fi 摄像机，支持 355° 水平旋转和 50° 俯仰，画质清晰 2K+，并支持双向语音对讲。智能人形检测与自动追踪，适合监控客厅、玄关或儿童房。",
-        "highlights": ["355° 水平旋转与 50° 俯仰", "清晰 2K+ (4MP) 画质，全天候可用", "内置麦克风与扬声器双向对讲", "人形检测与自动追踪"],
-        "inTheBox": ["E1 Pro 摄像机", "桌面底座", "USB-C 电源线", "快速入门指南"]
+        "highlights": [
+          "355° 水平旋转与 50° 俯仰",
+          "清晰 2K+ (4MP) 画质，全天候可用",
+          "内置麦克风与扬声器双向对讲",
+          "人形检测与自动追踪"
+        ],
+        "inTheBox": [
+          "E1 Pro 摄像机",
+          "桌面底座",
+          "USB-C 电源线",
+          "快速入门指南"
+        ]
       }
     },
-    "attributes": { "protocol": ["wifi"], "placement": "interieur", "power": ["secteur"], "compat": ["alexa", "google", "app-marque", "safer-platform"], "resolution": "2k" },
+    "attributes": {
+      "protocol": [
+        "wifi"
+      ],
+      "placement": "interieur",
+      "power": [
+        "secteur"
+      ],
+      "compat": [
+        "alexa",
+        "google",
+        "app-marque",
+        "safer-platform"
+      ],
+      "resolution": "2k"
+    },
     "specs": [
-      { "key": "resolution", "value": "2K+ (4 MP)" },
-      { "key": "ptz", "value": "Panoramique 355°, inclinaison 50°" },
-      { "key": "nightVision", "value": { "fr": "Noir et blanc, IR 9 m", "en": "Black and white, 9 m IR", "es": "Blanco y negro, IR 9 m", "ar": "أبيض وأسود، أشعة تحت حمراء 9 م", "zh": "黑白，9 米红外" } },
-      { "key": "twoWayAudio", "value": { "fr": "Microphone et haut-parleur intégrés", "en": "Built-in microphone and speaker", "es": "Micrófono y altavoz integrados", "ar": "ميكروفون ومكبر صوت مدمجان", "zh": "内置麦克风与扬声器" } },
-      { "key": "ai", "value": { "fr": "Détection de personnes, suivi automatique", "en": "People detection, auto-tracking", "es": "Detección de personas, seguimiento automático", "ar": "كشف الأشخاص، تتبع تلقائي", "zh": "人形检测，自动追踪" } },
-      { "key": "connectivity", "value": "Wi-Fi 2,4 / 5 GHz" },
-      { "key": "storage", "value": "microSD ≤ 128 Go, Reolink Cloud" }
+      {
+        "key": "resolution",
+        "value": "2K+ (4 MP)"
+      },
+      {
+        "key": "ptz",
+        "value": "Panoramique 355°, inclinaison 50°"
+      },
+      {
+        "key": "nightVision",
+        "value": {
+          "fr": "Noir et blanc, IR 9 m",
+          "en": "Black and white, 9 m IR",
+          "es": "Blanco y negro, IR 9 m",
+          "ar": "أبيض وأسود، أشعة تحت حمراء 9 م",
+          "zh": "黑白，9 米红外"
+        }
+      },
+      {
+        "key": "twoWayAudio",
+        "value": {
+          "fr": "Microphone et haut-parleur intégrés",
+          "en": "Built-in microphone and speaker",
+          "es": "Micrófono y altavoz integrados",
+          "ar": "ميكروفون ومكبر صوت مدمجان",
+          "zh": "内置麦克风与扬声器"
+        }
+      },
+      {
+        "key": "ai",
+        "value": {
+          "fr": "Détection de personnes, suivi automatique",
+          "en": "People detection, auto-tracking",
+          "es": "Detección de personas, seguimiento automático",
+          "ar": "كشف الأشخاص، تتبع تلقائي",
+          "zh": "人形检测，自动追踪"
+        }
+      },
+      {
+        "key": "connectivity",
+        "value": "Wi-Fi 2,4 / 5 GHz"
+      },
+      {
+        "key": "storage",
+        "value": "microSD ≤ 128 Go, Reolink Cloud"
+      }
     ],
-    "pricing": { "sourcePrice": 45.99, "sourceCurrency": "USD" },
+    "pricing": {
+      "sourcePrice": 69.99,
+      "sourceCurrency": "USD"
+    },
     "availability": "en-stock",
-    "install": { "level": "simple", "duration": "15 min", "prerequisites": { "fr": "Prise secteur et Wi-Fi 2,4 ou 5 GHz à proximité.", "en": "Mains socket and 2.4 or 5 GHz Wi-Fi nearby.", "es": "Toma de corriente y Wi-Fi de 2,4 o 5 GHz cerca.", "ar": "مأخذ كهربائي وشبكة Wi-Fi بتردد 2.4 أو 5 جيجاهرتز قريبة.", "zh": "附近需有电源插座及 2.4 或 5 GHz Wi-Fi。" } },
+    "install": {
+      "level": "simple",
+      "duration": "15 min",
+      "prerequisites": {
+        "fr": "Prise secteur et Wi-Fi 2,4 ou 5 GHz à proximité.",
+        "en": "Mains socket and 2.4 or 5 GHz Wi-Fi nearby.",
+        "es": "Toma de corriente y Wi-Fi de 2,4 o 5 GHz cerca.",
+        "ar": "مأخذ كهربائي وشبكة Wi-Fi بتردد 2.4 أو 5 جيجاهرتز قريبة.",
+        "zh": "附近需有电源插座及 2.4 或 5 GHz Wi-Fi。"
+      }
+    },
     "sourceUrl": "https://reolink.com/product/e1-pro/",
     "accent": "#0ea5e9",
     "symbol": "◎",
-    "solutions": ["video-intelligente/verification-video"],
-    "related": ["reolink-video-doorbell-wifi"]
+    "solutions": [
+      "video-intelligente/verification-video"
+    ],
+    "related": [
+      "reolink-video-doorbell-wifi"
+    ],
+    "crawl": {
+      "status": "ok",
+      "lastChecked": "2026-09-02T03:40:30.333Z",
+      "sourceTitle": "E1 Pro",
+      "sourceAvailability": "in-stock",
+      "sourcePrice": "69.99",
+      "sourceCurrency": "USD",
+      "imageUrl": "https://home-cdn.reolink.us/wp-content/uploads/2024/10/E1-PRO.png.webp"
+    },
+    "imageUrl": "https://home-cdn.reolink.us/wp-content/uploads/2024/10/E1-PRO.png.webp"
   },
   {
     "id": "reolink-video-doorbell-wifi",
@@ -470,57 +1417,205 @@
         "name": "Reolink Video Doorbell WiFi",
         "tagline": "Voyez et parlez à qui sonne, où que vous soyez.",
         "description": "Sonnette vidéo Wi-Fi filaire en Full HD avec vision grand-angle 180° verticale, vision nocturne couleur et audio bidirectionnel pour accueillir un visiteur ou surveiller un colis à distance. Se raccorde au carillon existant ou fonctionne avec un carillon Wi-Fi en option.",
-        "highlights": ["Image Full HD avec vue grand-angle 180°", "Vision nocturne couleur", "Détection de personnes et alertes de colis", "Compatible carillon filaire existant"],
-        "inTheBox": ["Sonnette Video Doorbell WiFi", "Plaque de montage inclinée", "Câble de raccordement", "Visserie et chevilles", "Guide de démarrage"]
+        "highlights": [
+          "Image Full HD avec vue grand-angle 180°",
+          "Vision nocturne couleur",
+          "Détection de personnes et alertes de colis",
+          "Compatible carillon filaire existant"
+        ],
+        "inTheBox": [
+          "Sonnette Video Doorbell WiFi",
+          "Plaque de montage inclinée",
+          "Câble de raccordement",
+          "Visserie et chevilles",
+          "Guide de démarrage"
+        ]
       },
       "en": {
         "name": "Reolink Video Doorbell WiFi",
         "tagline": "See and talk to whoever's at the door, wherever you are.",
         "description": "Wired Wi-Fi Full HD video doorbell with a 180° vertical wide-angle view, colour night vision and two-way audio to greet a visitor or watch over a delivery remotely. Connects to an existing chime or works with an optional Wi-Fi chime.",
-        "highlights": ["Full HD image with 180° wide-angle view", "Colour night vision", "People detection and package alerts", "Works with an existing wired chime"],
-        "inTheBox": ["Video Doorbell WiFi", "Angled mounting plate", "Wiring cable", "Screws and wall plugs", "Quick start guide"]
+        "highlights": [
+          "Full HD image with 180° wide-angle view",
+          "Colour night vision",
+          "People detection and package alerts",
+          "Works with an existing wired chime"
+        ],
+        "inTheBox": [
+          "Video Doorbell WiFi",
+          "Angled mounting plate",
+          "Wiring cable",
+          "Screws and wall plugs",
+          "Quick start guide"
+        ]
       },
       "es": {
         "name": "Reolink Video Doorbell WiFi",
         "tagline": "Vea y hable con quien llame, esté donde esté.",
         "description": "Timbre con vídeo Wi-Fi cableado en Full HD con vista gran angular vertical de 180°, visión nocturna en color y audio bidireccional para recibir a un visitante o vigilar un paquete a distancia. Se conecta al timbre existente o funciona con un carillón Wi-Fi opcional.",
-        "highlights": ["Imagen Full HD con vista gran angular de 180°", "Visión nocturna en color", "Detección de personas y alertas de paquetes", "Compatible con carillón cableado existente"],
-        "inTheBox": ["Timbre Video Doorbell WiFi", "Placa de montaje inclinada", "Cable de conexión", "Tornillos y tacos", "Guía de inicio rápido"]
+        "highlights": [
+          "Imagen Full HD con vista gran angular de 180°",
+          "Visión nocturna en color",
+          "Detección de personas y alertas de paquetes",
+          "Compatible con carillón cableado existente"
+        ],
+        "inTheBox": [
+          "Timbre Video Doorbell WiFi",
+          "Placa de montaje inclinada",
+          "Cable de conexión",
+          "Tornillos y tacos",
+          "Guía de inicio rápido"
+        ]
       },
       "ar": {
         "name": "Reolink Video Doorbell WiFi",
         "tagline": "شاهد وتحدث مع من يطرق الباب أينما كنت.",
         "description": "جرس باب فيديو سلكي Wi-Fi بدقة Full HD ورؤية عمودية بزاوية واسعة 180°، ورؤية ليلية ملوّنة وصوت ثنائي الاتجاه لاستقبال زائر أو مراقبة طرد عن بُعد. يتصل بجرس سلكي موجود أو يعمل مع جرس Wi-Fi اختياري.",
-        "highlights": ["صورة Full HD برؤية واسعة 180°", "رؤية ليلية ملوّنة", "كشف الأشخاص وتنبيهات الطرود", "متوافق مع جرس سلكي موجود"],
-        "inTheBox": ["جرس Video Doorbell WiFi", "لوحة تثبيت مائلة", "كابل توصيل", "براغي وقواعد تثبيت", "دليل البدء السريع"]
+        "highlights": [
+          "صورة Full HD برؤية واسعة 180°",
+          "رؤية ليلية ملوّنة",
+          "كشف الأشخاص وتنبيهات الطرود",
+          "متوافق مع جرس سلكي موجود"
+        ],
+        "inTheBox": [
+          "جرس Video Doorbell WiFi",
+          "لوحة تثبيت مائلة",
+          "كابل توصيل",
+          "براغي وقواعد تثبيت",
+          "دليل البدء السريع"
+        ]
       },
       "zh": {
         "name": "Reolink Video Doorbell WiFi",
         "tagline": "无论身在何处，都能看到并回应来访者。",
         "description": "有线 Wi-Fi 全高清视频门铃，具备 180° 垂直广角视野、彩色夜视和双向语音对讲，可远程迎接访客或查看快递。可连接现有门铃线路，也可选配 Wi-Fi 门铃提示器。",
-        "highlights": ["全高清画质，180° 广角视野", "彩色夜视", "人形检测与包裹提醒", "兼容现有有线门铃"],
-        "inTheBox": ["Video Doorbell WiFi 门铃", "倾角安装板", "接线电缆", "螺丝与膨胀塞", "快速入门指南"]
+        "highlights": [
+          "全高清画质，180° 广角视野",
+          "彩色夜视",
+          "人形检测与包裹提醒",
+          "兼容现有有线门铃"
+        ],
+        "inTheBox": [
+          "Video Doorbell WiFi 门铃",
+          "倾角安装板",
+          "接线电缆",
+          "螺丝与膨胀塞",
+          "快速入门指南"
+        ]
       }
     },
-    "attributes": { "protocol": ["wifi"], "placement": "exterieur", "power": ["secteur"], "compat": ["alexa", "google", "app-marque", "safer-platform"], "resolution": "1080p" },
+    "attributes": {
+      "protocol": [
+        "wifi"
+      ],
+      "placement": "exterieur",
+      "power": [
+        "secteur"
+      ],
+      "compat": [
+        "alexa",
+        "google",
+        "app-marque",
+        "safer-platform"
+      ],
+      "resolution": "1080p"
+    },
     "specs": [
-      { "key": "resolution", "value": "1080p Full HD (2 MP)" },
-      { "key": "fieldOfView", "value": "180° vertical" },
-      { "key": "nightVision", "value": { "fr": "Couleur, IR 5 m", "en": "Colour, 5 m IR", "es": "Color, IR 5 m", "ar": "ملوّن، أشعة تحت حمراء 5 م", "zh": "彩色，5 米红外" } },
-      { "key": "ai", "value": { "fr": "Détection de personnes, alertes de colis", "en": "People detection, package alerts", "es": "Detección de personas, alertas de paquetes", "ar": "كشف الأشخاص، تنبيهات الطرود", "zh": "人形检测，包裹提醒" } },
-      { "key": "twoWayAudio", "value": { "fr": "Audio bidirectionnel avec réduction de bruit", "en": "Two-way audio with noise reduction", "es": "Audio bidireccional con reducción de ruido", "ar": "صوت ثنائي الاتجاه مع تقليل الضوضاء", "zh": "双向语音，带降噪" } },
-      { "key": "chime", "value": { "fr": "Compatible carillon filaire existant, carillon Wi-Fi en option", "en": "Works with existing wired chime, Wi-Fi chime optional", "es": "Compatible con carillón cableado existente, carillón Wi-Fi opcional", "ar": "متوافق مع جرس سلكي موجود، جرس Wi-Fi اختياري", "zh": "兼容现有有线门铃，Wi-Fi 门铃提示器可选" } },
-      { "key": "storage", "value": "microSD ≤ 128 Go, Reolink Cloud" },
-      { "key": "power", "value": { "fr": "Secteur 12-24 V ou transformateur existant", "en": "12-24 V mains or existing transformer", "es": "Red 12-24 V o transformador existente", "ar": "تيار كهربائي 12-24 فولت أو محول موجود", "zh": "12-24V 市电或现有变压器" } }
+      {
+        "key": "resolution",
+        "value": "1080p Full HD (2 MP)"
+      },
+      {
+        "key": "fieldOfView",
+        "value": "180° vertical"
+      },
+      {
+        "key": "nightVision",
+        "value": {
+          "fr": "Couleur, IR 5 m",
+          "en": "Colour, 5 m IR",
+          "es": "Color, IR 5 m",
+          "ar": "ملوّن، أشعة تحت حمراء 5 م",
+          "zh": "彩色，5 米红外"
+        }
+      },
+      {
+        "key": "ai",
+        "value": {
+          "fr": "Détection de personnes, alertes de colis",
+          "en": "People detection, package alerts",
+          "es": "Detección de personas, alertas de paquetes",
+          "ar": "كشف الأشخاص، تنبيهات الطرود",
+          "zh": "人形检测，包裹提醒"
+        }
+      },
+      {
+        "key": "twoWayAudio",
+        "value": {
+          "fr": "Audio bidirectionnel avec réduction de bruit",
+          "en": "Two-way audio with noise reduction",
+          "es": "Audio bidireccional con reducción de ruido",
+          "ar": "صوت ثنائي الاتجاه مع تقليل الضوضاء",
+          "zh": "双向语音，带降噪"
+        }
+      },
+      {
+        "key": "chime",
+        "value": {
+          "fr": "Compatible carillon filaire existant, carillon Wi-Fi en option",
+          "en": "Works with existing wired chime, Wi-Fi chime optional",
+          "es": "Compatible con carillón cableado existente, carillón Wi-Fi opcional",
+          "ar": "متوافق مع جرس سلكي موجود، جرس Wi-Fi اختياري",
+          "zh": "兼容现有有线门铃，Wi-Fi 门铃提示器可选"
+        }
+      },
+      {
+        "key": "storage",
+        "value": "microSD ≤ 128 Go, Reolink Cloud"
+      },
+      {
+        "key": "power",
+        "value": {
+          "fr": "Secteur 12-24 V ou transformateur existant",
+          "en": "12-24 V mains or existing transformer",
+          "es": "Red 12-24 V o transformador existente",
+          "ar": "تيار كهربائي 12-24 فولت أو محول موجود",
+          "zh": "12-24V 市电或现有变压器"
+        }
+      }
     ],
-    "pricing": { "sourcePrice": 99.99, "sourceCurrency": "USD" },
+    "pricing": {
+      "sourcePrice": 99.99,
+      "sourceCurrency": "USD"
+    },
     "availability": "en-stock",
-    "install": { "level": "standard", "duration": "1 h", "prerequisites": { "fr": "Câblage basse tension existant (sonnette) ou transformateur 12-24 V, Wi-Fi à proximité.", "en": "Existing low-voltage doorbell wiring or a 12-24 V transformer, Wi-Fi nearby.", "es": "Cableado de baja tensión existente (timbre) o transformador de 12-24 V, Wi-Fi cerca.", "ar": "أسلاك جرس منخفضة الجهد موجودة أو محول 12-24 فولت، وشبكة Wi-Fi قريبة.", "zh": "需有现有门铃低压线路或 12-24V 变压器，附近需有 Wi-Fi。" } },
+    "install": {
+      "level": "standard",
+      "duration": "1 h",
+      "prerequisites": {
+        "fr": "Câblage basse tension existant (sonnette) ou transformateur 12-24 V, Wi-Fi à proximité.",
+        "en": "Existing low-voltage doorbell wiring or a 12-24 V transformer, Wi-Fi nearby.",
+        "es": "Cableado de baja tensión existente (timbre) o transformador de 12-24 V, Wi-Fi cerca.",
+        "ar": "أسلاك جرس منخفضة الجهد موجودة أو محول 12-24 فولت، وشبكة Wi-Fi قريبة.",
+        "zh": "需有现有门铃低压线路或 12-24V 变压器，附近需有 Wi-Fi。"
+      }
+    },
     "sourceUrl": "https://reolink.com/product/video-doorbell-wifi/",
     "accent": "#0ea5e9",
     "symbol": "⌇",
-    "solutions": ["video-intelligente/sonnette-video", "controle-acces/gestion-visiteurs"],
-    "related": ["reolink-e1-pro"]
+    "solutions": [
+      "video-intelligente/sonnette-video",
+      "controle-acces/gestion-visiteurs"
+    ],
+    "related": [
+      "reolink-e1-pro"
+    ],
+    "crawl": {
+      "status": "ok-no-price",
+      "lastChecked": "2026-09-02T03:40:30.333Z",
+      "sourceTitle": "Page Not Found – Reolink",
+      "sourceCurrency": "USD"
+    }
   },
   {
     "id": "reolink-rlk8-810b4-a",
@@ -535,57 +1630,208 @@
         "name": "Reolink RLK8-810B4-A",
         "tagline": "Kit complet 4 caméras 4K et enregistreur 8 canaux PoE.",
         "description": "Kit de vidéosurveillance filaire clé en main : enregistreur NVR 8 canaux avec disque dur intégré et 4 caméras 4K PoE avec vision nocturne couleur et détection intelligente. Alimentation et données par câbles PoE uniques, pensé pour couvrir l’ensemble d’une propriété ou d’un commerce.",
-        "highlights": ["4 caméras 4K PoE avec détection IA", "Enregistreur 8 canaux, disque dur 2 To inclus", "Alimentation et données par câble PoE unique", "Consultation à distance et alertes en temps réel"],
-        "inTheBox": ["Enregistreur NVR 8 canaux", "4 caméras 4K PoE", "4 câbles Ethernet 18 m", "Souris USB et câble HDMI", "Guide d’installation"]
+        "highlights": [
+          "4 caméras 4K PoE avec détection IA",
+          "Enregistreur 8 canaux, disque dur 2 To inclus",
+          "Alimentation et données par câble PoE unique",
+          "Consultation à distance et alertes en temps réel"
+        ],
+        "inTheBox": [
+          "Enregistreur NVR 8 canaux",
+          "4 caméras 4K PoE",
+          "4 câbles Ethernet 18 m",
+          "Souris USB et câble HDMI",
+          "Guide d’installation"
+        ]
       },
       "en": {
         "name": "Reolink RLK8-810B4-A",
         "tagline": "Complete kit: four 4K cameras and an 8-channel PoE NVR.",
         "description": "Turnkey wired video surveillance kit: an 8-channel NVR with built-in hard drive and four 4K PoE cameras with colour night vision and smart detection. Power and data over single PoE cables, built to cover an entire property or small business.",
-        "highlights": ["Four 4K PoE cameras with AI detection", "8-channel recorder with 2 TB drive included", "Power and data over a single PoE cable", "Remote viewing and real-time alerts"],
-        "inTheBox": ["8-channel NVR", "Four 4K PoE cameras", "Four 18 m Ethernet cables", "USB mouse and HDMI cable", "Installation guide"]
+        "highlights": [
+          "Four 4K PoE cameras with AI detection",
+          "8-channel recorder with 2 TB drive included",
+          "Power and data over a single PoE cable",
+          "Remote viewing and real-time alerts"
+        ],
+        "inTheBox": [
+          "8-channel NVR",
+          "Four 4K PoE cameras",
+          "Four 18 m Ethernet cables",
+          "USB mouse and HDMI cable",
+          "Installation guide"
+        ]
       },
       "es": {
         "name": "Reolink RLK8-810B4-A",
         "tagline": "Kit completo de 4 cámaras 4K y grabador de 8 canales PoE.",
         "description": "Kit de videovigilancia cableada llave en mano: grabador NVR de 8 canales con disco duro integrado y 4 cámaras 4K PoE con visión nocturna en color y detección inteligente. Alimentación y datos por un único cable PoE, pensado para cubrir toda una propiedad o comercio.",
-        "highlights": ["4 cámaras 4K PoE con detección IA", "Grabador de 8 canales, disco de 2 TB incluido", "Alimentación y datos por un único cable PoE", "Visualización remota y alertas en tiempo real"],
-        "inTheBox": ["Grabador NVR de 8 canales", "4 cámaras 4K PoE", "4 cables Ethernet de 18 m", "Ratón USB y cable HDMI", "Guía de instalación"]
+        "highlights": [
+          "4 cámaras 4K PoE con detección IA",
+          "Grabador de 8 canales, disco de 2 TB incluido",
+          "Alimentación y datos por un único cable PoE",
+          "Visualización remota y alertas en tiempo real"
+        ],
+        "inTheBox": [
+          "Grabador NVR de 8 canales",
+          "4 cámaras 4K PoE",
+          "4 cables Ethernet de 18 m",
+          "Ratón USB y cable HDMI",
+          "Guía de instalación"
+        ]
       },
       "ar": {
         "name": "Reolink RLK8-810B4-A",
         "tagline": "طقم كامل من 4 كاميرات 4K ومسجل 8 قنوات PoE.",
         "description": "طقم مراقبة فيديو سلكي جاهز للاستخدام: مسجل NVR بـ 8 قنوات مع قرص صلب مدمج و4 كاميرات 4K PoE برؤية ليلية ملوّنة وكشف ذكي. تغذية وبيانات عبر كابلات PoE فردية، مصمم لتغطية عقار كامل أو منشأة تجارية.",
-        "highlights": ["4 كاميرات 4K PoE بكشف ذكي", "مسجل 8 قنوات مع قرص 2 تيرابايت مضمن", "تغذية وبيانات عبر كابل PoE واحد", "عرض عن بُعد وتنبيهات فورية"],
-        "inTheBox": ["مسجل NVR بـ 8 قنوات", "4 كاميرات 4K PoE", "4 كابلات إيثرنت 18 م", "فأرة USB وكابل HDMI", "دليل التركيب"]
+        "highlights": [
+          "4 كاميرات 4K PoE بكشف ذكي",
+          "مسجل 8 قنوات مع قرص 2 تيرابايت مضمن",
+          "تغذية وبيانات عبر كابل PoE واحد",
+          "عرض عن بُعد وتنبيهات فورية"
+        ],
+        "inTheBox": [
+          "مسجل NVR بـ 8 قنوات",
+          "4 كاميرات 4K PoE",
+          "4 كابلات إيثرنت 18 م",
+          "فأرة USB وكابل HDMI",
+          "دليل التركيب"
+        ]
       },
       "zh": {
         "name": "Reolink RLK8-810B4-A",
         "tagline": "四路 4K 摄像机搭配 8 通道 PoE 录像机的完整套装。",
         "description": "即装即用的有线视频监控套装：内置硬盘的 8 通道 NVR 录像机，搭配 4 台具备彩色夜视和智能检测的 4K PoE 摄像机。单根 PoE 线缆供电与传输数据，可覆盖整个住宅或小型商铺。",
-        "highlights": ["4 台 4K PoE 摄像机，具备 AI 检测", "8 通道录像机，含 2TB 硬盘", "单根 PoE 线缆供电与数据传输", "远程查看与实时提醒"],
-        "inTheBox": ["8 通道 NVR 录像机", "4 台 4K PoE 摄像机", "4 根 18 米以太网线", "USB 鼠标与 HDMI 线", "安装指南"]
+        "highlights": [
+          "4 台 4K PoE 摄像机，具备 AI 检测",
+          "8 通道录像机，含 2TB 硬盘",
+          "单根 PoE 线缆供电与数据传输",
+          "远程查看与实时提醒"
+        ],
+        "inTheBox": [
+          "8 通道 NVR 录像机",
+          "4 台 4K PoE 摄像机",
+          "4 根 18 米以太网线",
+          "USB 鼠标与 HDMI 线",
+          "安装指南"
+        ]
       }
     },
-    "attributes": { "protocol": ["filaire-poe"], "placement": "interieur-exterieur", "power": ["poe", "secteur"], "compat": ["app-marque", "safer-platform"], "resolution": "4k" },
+    "attributes": {
+      "protocol": [
+        "filaire-poe"
+      ],
+      "placement": "interieur-exterieur",
+      "power": [
+        "poe",
+        "secteur"
+      ],
+      "compat": [
+        "app-marque",
+        "safer-platform"
+      ],
+      "resolution": "4k"
+    },
     "specs": [
-      { "key": "channels", "value": { "fr": "8 canaux, 4 caméras incluses", "en": "8 channels, 4 cameras included", "es": "8 canales, 4 cámaras incluidas", "ar": "8 قنوات، 4 كاميرات مضمنة", "zh": "8 通道，含 4 台摄像机" } },
-      { "key": "resolution", "value": { "fr": "4K UHD (8 MP) par caméra", "en": "4K UHD (8 MP) per camera", "es": "4K UHD (8 MP) por cámara", "ar": "4K UHD (8 ميجابكسل) لكل كاميرا", "zh": "4K UHD（8MP）每台摄像机" } },
-      { "key": "storage", "value": "Disque dur 2 To inclus, extensible 8 To" },
-      { "key": "ai", "value": { "fr": "Détection personnes / véhicules sur les 4 caméras", "en": "People / vehicle detection on all 4 cameras", "es": "Detección de personas / vehículos en las 4 cámaras", "ar": "كشف الأشخاص / المركبات على الكاميرات الأربع", "zh": "4 台摄像机均支持人员 / 车辆检测" } },
-      { "key": "connectivity", "value": { "fr": "PoE intégré, sortie HDMI / VGA", "en": "Built-in PoE, HDMI / VGA output", "es": "PoE integrado, salida HDMI / VGA", "ar": "PoE مدمج، مخرج HDMI / VGA", "zh": "内置 PoE，HDMI / VGA 输出" } },
-      { "key": "nightVision", "value": "IR 30 m" },
-      { "key": "weatherproof", "value": { "fr": "IP66 (caméras)", "en": "IP66 (cameras)", "es": "IP66 (cámaras)", "ar": "IP66 (الكاميرات)", "zh": "IP66（摄像机）" } },
-      { "key": "ports", "value": "8 ports PoE, 1 HDMI, 1 VGA" }
+      {
+        "key": "channels",
+        "value": {
+          "fr": "8 canaux, 4 caméras incluses",
+          "en": "8 channels, 4 cameras included",
+          "es": "8 canales, 4 cámaras incluidas",
+          "ar": "8 قنوات، 4 كاميرات مضمنة",
+          "zh": "8 通道，含 4 台摄像机"
+        }
+      },
+      {
+        "key": "resolution",
+        "value": {
+          "fr": "4K UHD (8 MP) par caméra",
+          "en": "4K UHD (8 MP) per camera",
+          "es": "4K UHD (8 MP) por cámara",
+          "ar": "4K UHD (8 ميجابكسل) لكل كاميرا",
+          "zh": "4K UHD（8MP）每台摄像机"
+        }
+      },
+      {
+        "key": "storage",
+        "value": "Disque dur 2 To inclus, extensible 8 To"
+      },
+      {
+        "key": "ai",
+        "value": {
+          "fr": "Détection personnes / véhicules sur les 4 caméras",
+          "en": "People / vehicle detection on all 4 cameras",
+          "es": "Detección de personas / vehículos en las 4 cámaras",
+          "ar": "كشف الأشخاص / المركبات على الكاميرات الأربع",
+          "zh": "4 台摄像机均支持人员 / 车辆检测"
+        }
+      },
+      {
+        "key": "connectivity",
+        "value": {
+          "fr": "PoE intégré, sortie HDMI / VGA",
+          "en": "Built-in PoE, HDMI / VGA output",
+          "es": "PoE integrado, salida HDMI / VGA",
+          "ar": "PoE مدمج، مخرج HDMI / VGA",
+          "zh": "内置 PoE，HDMI / VGA 输出"
+        }
+      },
+      {
+        "key": "nightVision",
+        "value": "IR 30 m"
+      },
+      {
+        "key": "weatherproof",
+        "value": {
+          "fr": "IP66 (caméras)",
+          "en": "IP66 (cameras)",
+          "es": "IP66 (cámaras)",
+          "ar": "IP66 (الكاميرات)",
+          "zh": "IP66（摄像机）"
+        }
+      },
+      {
+        "key": "ports",
+        "value": "8 ports PoE, 1 HDMI, 1 VGA"
+      }
     ],
-    "pricing": { "sourcePrice": 799.99, "sourceCurrency": "USD" },
+    "pricing": {
+      "sourcePrice": 799.99,
+      "sourceCurrency": "USD"
+    },
     "availability": "sur-devis",
-    "install": { "level": "expert", "duration": "3-4 h", "prerequisites": { "fr": "Câblage PoE vers chaque caméra, emplacement sécurisé pour l’enregistreur, écran ou moniteur pour la configuration.", "en": "PoE cabling to each camera, a secure location for the recorder, a screen or monitor for setup.", "es": "Cableado PoE hasta cada cámara, ubicación segura para el grabador, pantalla o monitor para la configuración.", "ar": "توصيل كابلات PoE إلى كل كاميرا، وموقع آمن للمسجل، وشاشة للإعداد.", "zh": "需为每台摄像机布设 PoE 线缆，录像机需放置于安全位置，并需要显示器进行配置。" } },
+    "install": {
+      "level": "expert",
+      "duration": "3-4 h",
+      "prerequisites": {
+        "fr": "Câblage PoE vers chaque caméra, emplacement sécurisé pour l’enregistreur, écran ou moniteur pour la configuration.",
+        "en": "PoE cabling to each camera, a secure location for the recorder, a screen or monitor for setup.",
+        "es": "Cableado PoE hasta cada cámara, ubicación segura para el grabador, pantalla o monitor para la configuración.",
+        "ar": "توصيل كابلات PoE إلى كل كاميرا، وموقع آمن للمسجل، وشاشة للإعداد.",
+        "zh": "需为每台摄像机布设 PoE 线缆，录像机需放置于安全位置，并需要显示器进行配置。"
+      }
+    },
     "sourceUrl": "https://reolink.com/product/rlk8-810b4-a/",
     "accent": "#0ea5e9",
     "symbol": "▦",
-    "solutions": ["video-intelligente/cameras-exterieures", "video-intelligente/verification-video"],
-    "related": ["reolink-rlc-1224a", "reolink-duo-3-poe"]
+    "solutions": [
+      "video-intelligente/cameras-exterieures",
+      "video-intelligente/verification-video"
+    ],
+    "related": [
+      "reolink-rlc-1224a",
+      "reolink-duo-3-poe"
+    ],
+    "crawl": {
+      "status": "ok-no-price",
+      "lastChecked": "2026-09-02T03:40:30.333Z",
+      "sourceTitle": "RLK8-810B4-A",
+      "sourceAvailability": "out-of-stock",
+      "sourceCurrency": "USD",
+      "imageUrl": "https://home-cdn.reolink.us/wp-content/uploads/2023/11/200710541700464254.1699.png.webp"
+    },
+    "imageUrl": "https://home-cdn.reolink.us/wp-content/uploads/2023/11/200710541700464254.1699.png.webp"
   },
   {
     "id": "reolink-solar-panel-2",
@@ -600,54 +1846,168 @@
         "name": "Reolink Solar Panel 2",
         "tagline": "Une charge solaire continue pour vos caméras à batterie.",
         "description": "Panneau solaire monocristallin compact conçu pour recharger en continu les caméras Reolink à batterie, même par ciel voilé. Résistant aux intempéries, il s’installe avec un support orientable pour capter un maximum de lumière, et supprime les recharges manuelles régulières.",
-        "highlights": ["Recharge continue par énergie solaire", "Panneau monocristallin 4 W haute efficacité", "Support orientable et étanche IP65", "Câble de 4 m inclus pour un positionnement flexible"],
-        "inTheBox": ["Panneau solaire Solar Panel 2", "Support de fixation orientable", "Câble de 4 m", "Visserie", "Guide de démarrage"]
+        "highlights": [
+          "Recharge continue par énergie solaire",
+          "Panneau monocristallin 4 W haute efficacité",
+          "Support orientable et étanche IP65",
+          "Câble de 4 m inclus pour un positionnement flexible"
+        ],
+        "inTheBox": [
+          "Panneau solaire Solar Panel 2",
+          "Support de fixation orientable",
+          "Câble de 4 m",
+          "Visserie",
+          "Guide de démarrage"
+        ]
       },
       "en": {
         "name": "Reolink Solar Panel 2",
         "tagline": "Continuous solar charging for your battery cameras.",
         "description": "Compact monocrystalline solar panel designed to continuously charge Reolink battery cameras, even under overcast skies. Weatherproof, it mounts on an adjustable bracket to capture maximum light and removes the need for regular manual recharging.",
-        "highlights": ["Continuous solar charging", "High-efficiency 4 W monocrystalline panel", "Adjustable bracket, IP65 weatherproof", "4 m cable included for flexible positioning"],
-        "inTheBox": ["Solar Panel 2", "Adjustable mounting bracket", "4 m cable", "Screws", "Quick start guide"]
+        "highlights": [
+          "Continuous solar charging",
+          "High-efficiency 4 W monocrystalline panel",
+          "Adjustable bracket, IP65 weatherproof",
+          "4 m cable included for flexible positioning"
+        ],
+        "inTheBox": [
+          "Solar Panel 2",
+          "Adjustable mounting bracket",
+          "4 m cable",
+          "Screws",
+          "Quick start guide"
+        ]
       },
       "es": {
         "name": "Reolink Solar Panel 2",
         "tagline": "Carga solar continua para sus cámaras con batería.",
         "description": "Panel solar monocristalino compacto diseñado para cargar de forma continua las cámaras con batería Reolink, incluso con cielo nublado. Resistente a la intemperie, se instala con un soporte orientable para captar la máxima luz y elimina las recargas manuales frecuentes.",
-        "highlights": ["Carga solar continua", "Panel monocristalino de 4 W de alta eficiencia", "Soporte orientable, resistente IP65", "Cable de 4 m incluido para una colocación flexible"],
-        "inTheBox": ["Panel solar Solar Panel 2", "Soporte de fijación orientable", "Cable de 4 m", "Tornillería", "Guía de inicio rápido"]
+        "highlights": [
+          "Carga solar continua",
+          "Panel monocristalino de 4 W de alta eficiencia",
+          "Soporte orientable, resistente IP65",
+          "Cable de 4 m incluido para una colocación flexible"
+        ],
+        "inTheBox": [
+          "Panel solar Solar Panel 2",
+          "Soporte de fijación orientable",
+          "Cable de 4 m",
+          "Tornillería",
+          "Guía de inicio rápido"
+        ]
       },
       "ar": {
         "name": "Reolink Solar Panel 2",
         "tagline": "شحن شمسي مستمر لكاميراتكم العاملة بالبطارية.",
         "description": "لوحة شمسية أحادية البلورة مدمجة مصممة لشحن كاميرات Reolink العاملة بالبطارية باستمرار، حتى في الأجواء الغائمة. مقاومة للعوامل الجوية، تُركَّب بحامل قابل للتوجيه لالتقاط أقصى قدر من الضوء، وتغني عن إعادة الشحن اليدوي المتكرر.",
-        "highlights": ["شحن شمسي مستمر", "لوحة أحادية البلورة 4 واط عالية الكفاءة", "حامل قابل للتوجيه ومقاوم للماء IP65", "كابل بطول 4 أمتار للتموضع المرن"],
-        "inTheBox": ["لوحة Solar Panel 2", "حامل تثبيت قابل للتوجيه", "كابل 4 أمتار", "براغي", "دليل البدء السريع"]
+        "highlights": [
+          "شحن شمسي مستمر",
+          "لوحة أحادية البلورة 4 واط عالية الكفاءة",
+          "حامل قابل للتوجيه ومقاوم للماء IP65",
+          "كابل بطول 4 أمتار للتموضع المرن"
+        ],
+        "inTheBox": [
+          "لوحة Solar Panel 2",
+          "حامل تثبيت قابل للتوجيه",
+          "كابل 4 أمتار",
+          "براغي",
+          "دليل البدء السريع"
+        ]
       },
       "zh": {
         "name": "Reolink Solar Panel 2",
         "tagline": "为电池摄像机提供持续太阳能充电。",
         "description": "紧凑型单晶硅太阳能板，专为持续为 Reolink 电池摄像机充电而设计，即使在多云天气也能工作。防风雨设计，配备可调节支架以捕获最大光照，免去频繁手动充电的麻烦。",
-        "highlights": ["持续太阳能充电", "高效 4 瓦单晶硅面板", "可调节支架，IP65 防水", "配备 4 米线缆，安装位置更灵活"],
-        "inTheBox": ["Solar Panel 2 太阳能板", "可调节安装支架", "4 米线缆", "螺丝", "快速入门指南"]
+        "highlights": [
+          "持续太阳能充电",
+          "高效 4 瓦单晶硅面板",
+          "可调节支架，IP65 防水",
+          "配备 4 米线缆，安装位置更灵活"
+        ],
+        "inTheBox": [
+          "Solar Panel 2 太阳能板",
+          "可调节安装支架",
+          "4 米线缆",
+          "螺丝",
+          "快速入门指南"
+        ]
       }
     },
-    "attributes": { "protocol": ["wifi"], "placement": "exterieur", "power": ["solaire"], "compat": ["app-marque"] },
+    "attributes": {
+      "protocol": [
+        "wifi"
+      ],
+      "placement": "exterieur",
+      "power": [
+        "solaire"
+      ],
+      "compat": [
+        "app-marque"
+      ]
+    },
     "specs": [
-      { "key": "panelPower", "value": "4 W monocristallin" },
-      { "key": "outputPower", "value": "5 V ⎓ 1 A (USB-C)" },
-      { "key": "weatherproof", "value": "IP65" },
-      { "key": "operatingTemp", "value": "-20 °C … 60 °C" },
-      { "key": "dimensions", "value": "185 × 130 × 22 mm" },
-      { "key": "compatibility", "value": { "fr": "Caméras Reolink à batterie (Argus, TrackMix, série PT)", "en": "Battery-powered Reolink cameras (Argus, TrackMix, PT series)", "es": "Cámaras Reolink con batería (Argus, TrackMix, serie PT)", "ar": "كاميرات Reolink بالبطارية (Argus، TrackMix، سلسلة PT)", "zh": "Reolink 电池摄像机（Argus、TrackMix、PT 系列）" } }
+      {
+        "key": "panelPower",
+        "value": "4 W monocristallin"
+      },
+      {
+        "key": "outputPower",
+        "value": "5 V ⎓ 1 A (USB-C)"
+      },
+      {
+        "key": "weatherproof",
+        "value": "IP65"
+      },
+      {
+        "key": "operatingTemp",
+        "value": "-20 °C … 60 °C"
+      },
+      {
+        "key": "dimensions",
+        "value": "185 × 130 × 22 mm"
+      },
+      {
+        "key": "compatibility",
+        "value": {
+          "fr": "Caméras Reolink à batterie (Argus, TrackMix, série PT)",
+          "en": "Battery-powered Reolink cameras (Argus, TrackMix, PT series)",
+          "es": "Cámaras Reolink con batería (Argus, TrackMix, serie PT)",
+          "ar": "كاميرات Reolink بالبطارية (Argus، TrackMix، سلسلة PT)",
+          "zh": "Reolink 电池摄像机（Argus、TrackMix、PT 系列）"
+        }
+      }
     ],
-    "pricing": { "sourcePrice": 39.99, "sourceCurrency": "USD" },
+    "pricing": {
+      "sourcePrice": 39.99,
+      "sourceCurrency": "USD"
+    },
     "availability": "sur-commande",
     "warrantyMonths": 24,
-    "install": { "level": "simple", "duration": "20 min", "prerequisites": { "fr": "Exposition solaire directe, caméra Reolink à batterie compatible à moins de 4 m.", "en": "Direct sun exposure, a compatible Reolink battery camera within 4 m.", "es": "Exposición solar directa, cámara Reolink con batería compatible a menos de 4 m.", "ar": "تعرّض مباشر لأشعة الشمس، وكاميرا Reolink بطارية متوافقة على بُعد أقل من 4 أمتار.", "zh": "需有充足日照，兼容的 Reolink 电池摄像机需在 4 米范围内。" } },
+    "install": {
+      "level": "simple",
+      "duration": "20 min",
+      "prerequisites": {
+        "fr": "Exposition solaire directe, caméra Reolink à batterie compatible à moins de 4 m.",
+        "en": "Direct sun exposure, a compatible Reolink battery camera within 4 m.",
+        "es": "Exposición solar directa, cámara Reolink con batería compatible a menos de 4 m.",
+        "ar": "تعرّض مباشر لأشعة الشمس، وكاميرا Reolink بطارية متوافقة على بُعد أقل من 4 أمتار.",
+        "zh": "需有充足日照，兼容的 Reolink 电池摄像机需在 4 米范围内。"
+      }
+    },
     "sourceUrl": "https://reolink.com/product/solar-panel-2/",
     "accent": "#f59e0b",
     "symbol": "☼",
-    "related": ["reolink-argus-4-pro", "reolink-argus-pt-ultra", "reolink-argus-3-pro", "reolink-trackmix-wifi"]
+    "related": [
+      "reolink-argus-4-pro",
+      "reolink-argus-pt-ultra",
+      "reolink-argus-3-pro",
+      "reolink-trackmix-wifi"
+    ],
+    "crawl": {
+      "status": "ok-no-price",
+      "lastChecked": "2026-09-02T03:40:30.333Z",
+      "sourceTitle": "Page Not Found – Reolink",
+      "sourceCurrency": "USD"
+    }
   }
 ]

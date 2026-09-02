@@ -185,7 +185,18 @@
     "related": [
       "hikvision-ds-2cd2t47g2-l",
       "hikvision-ds-7608nxi-k2-8p"
-    ]
+    ],
+    "crawl": {
+      "status": "ok",
+      "lastChecked": "2026-09-02T03:40:30.333Z",
+      "sourceTitle": "4 MP AcuSense Fixed Dome Network Camera",
+      "sourceAvailability": "in-stock",
+      "sourcePrice": "0",
+      "sourceCurrency": "USD",
+      "imageUrl": "https://assets.hikvision.com/prd/normal/all/image/m000037851/DS-2CD2123G2-IS-半球18-产品图-基线-主图.png",
+      "note": "out-of-range 129.99→0"
+    },
+    "imageUrl": "https://assets.hikvision.com/prd/normal/all/image/m000037851/DS-2CD2123G2-IS-半球18-产品图-基线-主图.png"
   },
   {
     "id": "hikvision-ds-2cd2t47g2-l",
@@ -388,7 +399,18 @@
     "related": [
       "hikvision-ds-2cd2143g2-i",
       "hikvision-ds-2cd2347g2-lu"
-    ]
+    ],
+    "crawl": {
+      "status": "ok",
+      "lastChecked": "2026-09-02T03:40:30.333Z",
+      "sourceTitle": "4 MP ColorVu Fixed Bullet Network Camera",
+      "sourceAvailability": "in-stock",
+      "sourcePrice": "0",
+      "sourceCurrency": "USD",
+      "imageUrl": "https://assets.hikvision.com/prd/normal/all/image/m000032057/筒机45-基线-4K-4mp-右侧-.png",
+      "note": "out-of-range 159.99→0"
+    },
+    "imageUrl": "https://assets.hikvision.com/prd/normal/all/image/m000032057/筒机45-基线-4K-4mp-右侧-.png"
   },
   {
     "id": "hikvision-ds-2cd2347g2-lu",
@@ -587,7 +609,18 @@
     "related": [
       "hikvision-ds-2cd2t47g2-l",
       "hikvision-ds-7104ni-q1-4p"
-    ]
+    ],
+    "crawl": {
+      "status": "ok",
+      "lastChecked": "2026-09-02T03:40:30.333Z",
+      "sourceTitle": "4 MP ColorVu Fixed Turret Network Camera",
+      "sourceAvailability": "in-stock",
+      "sourcePrice": "0",
+      "sourceCurrency": "USD",
+      "imageUrl": "https://assets.hikvision.com/prd/normal/all/image/m000032055/海螺25-基线-黑白两色-加mic-右侧.png",
+      "note": "out-of-range 149.99→0"
+    },
+    "imageUrl": "https://assets.hikvision.com/prd/normal/all/image/m000032055/海螺25-基线-黑白两色-加mic-右侧.png"
   },
   {
     "id": "hikvision-ds-2de2a404iw-de3",
@@ -773,7 +806,18 @@
     ],
     "related": [
       "hikvision-ds-7608nxi-k2-8p"
-    ]
+    ],
+    "crawl": {
+      "status": "ok",
+      "lastChecked": "2026-09-02T03:40:30.333Z",
+      "sourceTitle": "4 MP 4X Outdoor IR Mini Dome PTZ Network Camera",
+      "sourceAvailability": "in-stock",
+      "sourcePrice": "0",
+      "sourceCurrency": "USD",
+      "imageUrl": "https://assets.hikvision.com/prd/normal/all/image/m000045324/PT12.png",
+      "note": "out-of-range 299.99→0"
+    },
+    "imageUrl": "https://assets.hikvision.com/prd/normal/all/image/m000045324/PT12.png"
   },
   {
     "id": "hikvision-ds-7608nxi-k2-8p",
@@ -965,7 +1009,14 @@
     "related": [
       "hikvision-ds-2cd2143g2-i",
       "hikvision-ds-2cd2t47g2-l"
-    ]
+    ],
+    "crawl": {
+      "status": "ok-no-price",
+      "lastChecked": "2026-09-02T03:40:30.333Z",
+      "sourceTitle": "404",
+      "sourceCurrency": "USD",
+      "note": "browser"
+    }
   },
   {
     "id": "hikvision-ds-7104ni-q1-4p",
@@ -1142,7 +1193,18 @@
     ],
     "related": [
       "hikvision-ds-2cd2347g2-lu"
-    ]
+    ],
+    "crawl": {
+      "status": "ok",
+      "lastChecked": "2026-09-02T03:40:30.333Z",
+      "sourceTitle": "4-ch Mini 4 PoE 1U NVR",
+      "sourceAvailability": "in-stock",
+      "sourcePrice": "0",
+      "sourceCurrency": "USD",
+      "imageUrl": "https://assets.hikvision.com/prd/normal/all/image/m000000615/渲染图.png",
+      "note": "out-of-range 99.99→0"
+    },
+    "imageUrl": "https://assets.hikvision.com/prd/normal/all/image/m000000615/渲染图.png"
   },
   {
     "id": "hikvision-ds-kv6113-wpe1",
@@ -1328,7 +1390,14 @@
     ],
     "related": [
       "hikvision-ds-k1t341am"
-    ]
+    ],
+    "crawl": {
+      "status": "ok-no-price",
+      "lastChecked": "2026-09-02T03:40:30.333Z",
+      "sourceTitle": "404",
+      "sourceCurrency": "USD",
+      "note": "browser"
+    }
   },
   {
     "id": "hikvision-ds-k1t341am",
@@ -1519,7 +1588,18 @@
     ],
     "related": [
       "hikvision-ds-kv6113-wpe1"
-    ]
+    ],
+    "crawl": {
+      "status": "ok",
+      "lastChecked": "2026-09-02T03:40:30.333Z",
+      "sourceTitle": "Value Series Face Access Terminal",
+      "sourceAvailability": "in-stock",
+      "sourcePrice": "0",
+      "sourceCurrency": "USD",
+      "imageUrl": "https://assets.hikvision.com/prd/normal/all/image/m000039877/DS-K1T341AM(1).png",
+      "note": "out-of-range 329.99→0"
+    },
+    "imageUrl": "https://assets.hikvision.com/prd/normal/all/image/m000039877/DS-K1T341AM(1).png"
   },
   {
     "id": "hikvision-ds-pwa64-l-we",
@@ -1732,7 +1812,18 @@
     ],
     "related": [
       "hikvision-ds-pdp15p-eg2-we"
-    ]
+    ],
+    "crawl": {
+      "status": "ok",
+      "lastChecked": "2026-09-02T03:40:30.333Z",
+      "sourceTitle": "AX PRO (868MHz)",
+      "sourceAvailability": "in-stock",
+      "sourcePrice": "0",
+      "sourceCurrency": "USD",
+      "imageUrl": "https://assets.hikvision.com/prd/normal/all/image/m000034327/AX-PRO-正视图（L款）.png",
+      "note": "out-of-range 189.99→0"
+    },
+    "imageUrl": "https://assets.hikvision.com/prd/normal/all/image/m000034327/AX-PRO-正视图（L款）.png"
   },
   {
     "id": "hikvision-ds-pdp15p-eg2-we",
@@ -1924,6 +2015,13 @@
     ],
     "related": [
       "hikvision-ds-pwa64-l-we"
-    ]
+    ],
+    "crawl": {
+      "status": "ok-no-price",
+      "lastChecked": "2026-09-02T03:40:30.333Z",
+      "sourceTitle": "404",
+      "sourceCurrency": "USD",
+      "note": "browser"
+    }
   }
 ]

@@ -204,7 +204,14 @@
     "related": [
       "yale-smart-keypad",
       "yale-smart-cabinet-lock"
-    ]
+    ],
+    "crawl": {
+      "status": "ok-no-price",
+      "lastChecked": "2026-09-02T03:40:30.333Z",
+      "sourceTitle": "404",
+      "sourceCurrency": "EUR",
+      "note": "browser"
+    }
   },
   {
     "id": "yale-smart-keypad",
@@ -390,7 +397,14 @@
     ],
     "related": [
       "yale-linus-smart-lock-l2"
-    ]
+    ],
+    "crawl": {
+      "status": "ok-no-price",
+      "lastChecked": "2026-09-02T03:40:30.333Z",
+      "sourceTitle": "404",
+      "sourceCurrency": "EUR",
+      "note": "browser"
+    }
   },
   {
     "id": "yale-smart-cabinet-lock",
@@ -575,7 +589,14 @@
     ],
     "related": [
       "yale-linus-smart-lock-l2"
-    ]
+    ],
+    "crawl": {
+      "status": "ok-no-price",
+      "lastChecked": "2026-09-02T03:40:30.333Z",
+      "sourceTitle": "404",
+      "sourceCurrency": "EUR",
+      "note": "browser"
+    }
   },
   {
     "id": "yale-smart-opener",
@@ -761,6 +782,13 @@
     ],
     "related": [
       "yale-linus-smart-lock-l2"
-    ]
+    ],
+    "crawl": {
+      "status": "ok-no-price",
+      "lastChecked": "2026-09-02T03:40:30.333Z",
+      "sourceTitle": "404",
+      "sourceCurrency": "EUR",
+      "note": "browser"
+    }
   }
 ]

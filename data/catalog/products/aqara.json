@@ -197,7 +197,15 @@
       "aqara-hub-m2",
       "aqara-motion-sensor-p1",
       "aqara-door-window-sensor-p2"
-    ]
+    ],
+    "crawl": {
+      "status": "ok-no-price",
+      "lastChecked": "2026-09-02T03:40:30.333Z",
+      "sourceTitle": "Hub-M3 - Aqara",
+      "sourceCurrency": "USD",
+      "imageUrl": "https://www.aqara.com/wp-content/uploads/2024/05/2560-Hub-M3_01-815x1024.jpg"
+    },
+    "imageUrl": "https://www.aqara.com/wp-content/uploads/2024/05/2560-Hub-M3_01-815x1024.jpg"
   },
   {
     "id": "aqara-hub-m2",
@@ -392,7 +400,15 @@
     "related": [
       "aqara-hub-m3",
       "aqara-temperature-humidity-sensor-t1"
-    ]
+    ],
+    "crawl": {
+      "status": "ok-no-price",
+      "lastChecked": "2026-09-02T03:40:30.333Z",
+      "sourceTitle": "Hub M2 - Aqara",
+      "sourceCurrency": "USD",
+      "imageUrl": "https://www.aqara.com/wp-content/uploads/2023/04/Hub-M2-Zigbee-supported.jpg"
+    },
+    "imageUrl": "https://www.aqara.com/wp-content/uploads/2023/04/Hub-M2-Zigbee-supported.jpg"
   },
   {
     "id": "aqara-camera-hub-g3",
@@ -609,7 +625,15 @@
       "aqara-hub-m3",
       "aqara-video-doorbell-g4",
       "aqara-motion-sensor-p1"
-    ]
+    ],
+    "crawl": {
+      "status": "ok-no-price",
+      "lastChecked": "2026-09-02T03:40:30.333Z",
+      "sourceTitle": "Camera Hub G3 - Aqara",
+      "sourceCurrency": "USD",
+      "imageUrl": "https://www.aqara.com/wp-content/uploads/2023/04/camera-hub-g3.png"
+    },
+    "imageUrl": "https://www.aqara.com/wp-content/uploads/2023/04/camera-hub-g3.png"
   },
   {
     "id": "aqara-video-doorbell-g4",
@@ -824,7 +848,14 @@
     "related": [
       "aqara-smart-lock-u200",
       "aqara-camera-hub-g3"
-    ]
+    ],
+    "crawl": {
+      "status": "ok-no-price",
+      "lastChecked": "2026-09-02T03:40:30.333Z",
+      "sourceTitle": "Page Not Found - Aqara",
+      "sourceCurrency": "USD",
+      "note": "browser"
+    }
   },
   {
     "id": "aqara-door-window-sensor-p2",
@@ -1033,7 +1064,15 @@
       "aqara-hub-m3",
       "aqara-motion-sensor-p1",
       "aqara-smart-lock-u200"
-    ]
+    ],
+    "crawl": {
+      "status": "ok-no-price",
+      "lastChecked": "2026-09-02T03:40:30.333Z",
+      "sourceTitle": "Door and Window Sensor P2 - Aqara",
+      "sourceCurrency": "USD",
+      "imageUrl": "https://www.aqara.com/wp-content/uploads/2023/07/Door-and-Window-Sensor-P2.png"
+    },
+    "imageUrl": "https://www.aqara.com/wp-content/uploads/2023/07/Door-and-Window-Sensor-P2.png"
   },
   {
     "id": "aqara-motion-sensor-p1",
@@ -1229,7 +1268,15 @@
       "aqara-hub-m3",
       "aqara-door-window-sensor-p2",
       "aqara-camera-hub-g3"
-    ]
+    ],
+    "crawl": {
+      "status": "ok-no-price",
+      "lastChecked": "2026-09-02T03:40:30.333Z",
+      "sourceTitle": "Motion Sensor P1 - Aqara",
+      "sourceCurrency": "USD",
+      "imageUrl": "https://www.aqara.com/wp-content/uploads/2023/05/motion-sensor-p1.png"
+    },
+    "imageUrl": "https://www.aqara.com/wp-content/uploads/2023/05/motion-sensor-p1.png"
   },
   {
     "id": "aqara-water-leak-sensor",
@@ -1404,7 +1451,14 @@
     "related": [
       "aqara-hub-m3",
       "aqara-temperature-humidity-sensor-t1"
-    ]
+    ],
+    "crawl": {
+      "status": "ok-no-price",
+      "lastChecked": "2026-09-02T03:40:30.333Z",
+      "sourceTitle": "Page Not Found - Aqara",
+      "sourceCurrency": "USD",
+      "note": "browser"
+    }
   },
   {
     "id": "aqara-temperature-humidity-sensor-t1",
@@ -1584,7 +1638,15 @@
     "related": [
       "aqara-hub-m2",
       "aqara-water-leak-sensor"
-    ]
+    ],
+    "crawl": {
+      "status": "ok-no-price",
+      "lastChecked": "2026-09-02T03:40:30.333Z",
+      "sourceTitle": "Temperature and Humidity Sensor T1 - Aqara",
+      "sourceCurrency": "USD",
+      "imageUrl": "https://www.aqara.com/wp-content/uploads/2023/10/BrowserPreview_tmp_01-1024x1004.jpg"
+    },
+    "imageUrl": "https://www.aqara.com/wp-content/uploads/2023/10/BrowserPreview_tmp_01-1024x1004.jpg"
   },
   {
     "id": "aqara-smart-lock-u200",
@@ -1798,7 +1860,15 @@
     "related": [
       "aqara-video-doorbell-g4",
       "aqara-door-window-sensor-p2"
-    ]
+    ],
+    "crawl": {
+      "status": "ok-no-price",
+      "lastChecked": "2026-09-02T03:40:30.333Z",
+      "sourceTitle": "Smart Lock U200 - Aqara",
+      "sourceCurrency": "USD",
+      "imageUrl": "https://www.aqara.com/wp-content/uploads/2024/07/2560-smart-lock-U200_01-scaled.jpg"
+    },
+    "imageUrl": "https://www.aqara.com/wp-content/uploads/2024/07/2560-smart-lock-U200_01-scaled.jpg"
   },
   {
     "id": "aqara-curtain-driver-e1",
@@ -2002,6 +2072,14 @@
     "related": [
       "aqara-hub-m3",
       "aqara-temperature-humidity-sensor-t1"
-    ]
+    ],
+    "crawl": {
+      "status": "ok-no-price",
+      "lastChecked": "2026-09-02T03:40:30.333Z",
+      "sourceTitle": "Curtain Driver E1 (Track Version) - Aqara",
+      "sourceCurrency": "USD",
+      "imageUrl": "https://www.aqara.com/wp-content/uploads/2023/05/Aqara-Curtain-Driver-E1-track-version.png"
+    },
+    "imageUrl": "https://www.aqara.com/wp-content/uploads/2023/05/Aqara-Curtain-Driver-E1-track-version.png"
   }
 ]

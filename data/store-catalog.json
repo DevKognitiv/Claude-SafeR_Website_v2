@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-01T23:21:13.716Z",
+  "generatedAt": "2026-09-02T03:50:03.064Z",
   "lastCatalogSync": "2026-08-31T17:55:48.785Z",
   "schedule": "00:00 UTC",
   "pricing": {
@@ -479,14 +479,20 @@
         "ajax-homesiren",
         "ajax-keypad-plus"
       ],
+      "crawl": {
+        "status": "ok-no-price",
+        "lastChecked": "2026-09-02T03:40:30.333Z",
+        "sourceTitle": "Ajax Systems | Official website",
+        "sourceCurrency": "EUR",
+        "imageUrl": "https://ajax.systems/cdn/og-image/ajax-share.jpg?1746109193",
+        "note": "browser"
+      },
+      "imageUrl": "https://ajax.systems/cdn/og-image/ajax-share.jpg?1746109193",
       "priceXof": 306000,
       "priceRange": "plus-300k",
       "monthlyXof": 14900,
       "brandName": "Ajax Systems",
-      "sourceFile": "ajax.json",
-      "crawl": {
-        "status": "never"
-      }
+      "sourceFile": "ajax.json"
     },
     {
       "id": "aqara-hub-m3",
@@ -687,15 +693,20 @@
         "aqara-motion-sensor-p1",
         "aqara-door-window-sensor-p2"
       ],
+      "crawl": {
+        "status": "ok-no-price",
+        "lastChecked": "2026-09-02T03:40:30.333Z",
+        "sourceTitle": "Hub-M3 - Aqara",
+        "sourceCurrency": "USD",
+        "imageUrl": "https://www.aqara.com/wp-content/uploads/2024/05/2560-Hub-M3_01-815x1024.jpg"
+      },
+      "imageUrl": "https://www.aqara.com/wp-content/uploads/2024/05/2560-Hub-M3_01-815x1024.jpg",
       "priceXof": 68500,
       "priceRange": "50k-150k",
       "monthlyXof": 4900,
       "warrantyMonths": 24,
       "brandName": "Aqara",
-      "sourceFile": "aqara.json",
-      "crawl": {
-        "status": "never"
-      }
+      "sourceFile": "aqara.json"
     },
     {
       "id": "dahua-ipc-hdw2441t-s",
@@ -884,15 +895,21 @@
         "dahua-ipc-hfw2441s-s",
         "dahua-nvr4108hs-8p-4ks2"
       ],
+      "crawl": {
+        "status": "ok-no-price",
+        "lastChecked": "2026-09-02T03:40:30.333Z",
+        "sourceTitle": "IPC-HDW2441T-S",
+        "sourceCurrency": "USD",
+        "imageUrl": "https://material.dahuasecurity.com/uploads/image/20230922/open_graph_logo.jpg",
+        "note": "browser"
+      },
+      "imageUrl": "https://material.dahuasecurity.com/uploads/image/20230922/open_graph_logo.jpg",
       "priceXof": 122500,
       "priceRange": "50k-150k",
       "monthlyXof": 4900,
       "warrantyMonths": 24,
       "brandName": "Dahua",
-      "sourceFile": "dahua.json",
-      "crawl": {
-        "status": "never"
-      }
+      "sourceFile": "dahua.json"
     },
     {
       "id": "ecoflow-river-2",
@@ -1067,15 +1084,20 @@
         "ecoflow-delta-2",
         "ecoflow-110w-solar-panel"
       ],
+      "crawl": {
+        "status": "ok",
+        "lastChecked": "2026-09-02T03:40:30.333Z",
+        "sourceTitle": "EcoFlow RIVER 2 Portable Power Station | EcoFlow US | EcoFlow US",
+        "sourcePrice": "11999",
+        "sourceCurrency": "USD",
+        "note": "out-of-range 199→11999"
+      },
       "priceXof": 215000,
       "priceRange": "150k-300k",
       "monthlyXof": 1900,
       "warrantyMonths": 12,
       "brandName": "EcoFlow",
-      "sourceFile": "ecoflow.json",
-      "crawl": {
-        "status": "never"
-      }
+      "sourceFile": "ecoflow.json"
     },
     {
       "id": "eufy-video-doorbell-e340",
@@ -1291,15 +1313,19 @@
         "eufy-eufycam-3-s330",
         "eufy-smart-lock-c33"
       ],
+      "crawl": {
+        "status": "ok-no-price",
+        "lastChecked": "2026-09-02T03:40:30.333Z",
+        "sourceTitle": "eufy | Smart Home Simplified",
+        "sourceCurrency": "USD",
+        "note": "browser"
+      },
       "priceXof": 237500,
       "priceRange": "150k-300k",
       "monthlyXof": 4900,
       "warrantyMonths": 24,
       "brandName": "eufy Security",
-      "sourceFile": "eufy.json",
-      "crawl": {
-        "status": "never"
-      }
+      "sourceFile": "eufy.json"
     },
     {
       "id": "ezviz-eb8-4g",
@@ -1497,15 +1523,19 @@
         "ezviz-ty1",
         "ezviz-cb3"
       ],
+      "crawl": {
+        "status": "ok-no-price",
+        "lastChecked": "2026-09-02T03:40:30.333Z",
+        "sourceTitle": "EZVIZ - Creating Easy Smart Homes",
+        "sourceCurrency": "EUR",
+        "note": "browser"
+      },
       "priceXof": 189000,
       "priceRange": "150k-300k",
       "monthlyXof": 4900,
       "warrantyMonths": 24,
       "brandName": "EZVIZ",
-      "sourceFile": "ezviz.json",
-      "crawl": {
-        "status": "never"
-      }
+      "sourceFile": "ezviz.json"
     },
     {
       "id": "hikvision-ds-2cd2143g2-i",
@@ -1694,15 +1724,23 @@
         "hikvision-ds-2cd2t47g2-l",
         "hikvision-ds-7608nxi-k2-8p"
       ],
+      "crawl": {
+        "status": "ok",
+        "lastChecked": "2026-09-02T03:40:30.333Z",
+        "sourceTitle": "4 MP AcuSense Fixed Dome Network Camera",
+        "sourceAvailability": "in-stock",
+        "sourcePrice": "0",
+        "sourceCurrency": "USD",
+        "imageUrl": "https://assets.hikvision.com/prd/normal/all/image/m000037851/DS-2CD2123G2-IS-半球18-产品图-基线-主图.png",
+        "note": "out-of-range 129.99→0"
+      },
+      "imageUrl": "https://assets.hikvision.com/prd/normal/all/image/m000037851/DS-2CD2123G2-IS-半球18-产品图-基线-主图.png",
       "priceXof": 132500,
       "priceRange": "50k-150k",
       "monthlyXof": 4900,
       "warrantyMonths": 24,
       "brandName": "Hikvision",
-      "sourceFile": "hikvision.json",
-      "crawl": {
-        "status": "never"
-      }
+      "sourceFile": "hikvision.json"
     },
     {
       "id": "hikvision-ds-pwa64-l-we",
@@ -1916,15 +1954,23 @@
       "related": [
         "hikvision-ds-pdp15p-eg2-we"
       ],
+      "crawl": {
+        "status": "ok",
+        "lastChecked": "2026-09-02T03:40:30.333Z",
+        "sourceTitle": "AX PRO (868MHz)",
+        "sourceAvailability": "in-stock",
+        "sourcePrice": "0",
+        "sourceCurrency": "USD",
+        "imageUrl": "https://assets.hikvision.com/prd/normal/all/image/m000034327/AX-PRO-正视图（L款）.png",
+        "note": "out-of-range 189.99→0"
+      },
+      "imageUrl": "https://assets.hikvision.com/prd/normal/all/image/m000034327/AX-PRO-正视图（L款）.png",
       "priceXof": 194000,
       "priceRange": "150k-300k",
       "monthlyXof": 14900,
       "warrantyMonths": 24,
       "brandName": "Hikvision",
-      "sourceFile": "hikvision.json",
-      "crawl": {
-        "status": "never"
-      }
+      "sourceFile": "hikvision.json"
     },
     {
       "id": "reolink-argus-4-pro",
@@ -2121,15 +2167,22 @@
       "related": [
         "reolink-solar-panel-2"
       ],
+      "crawl": {
+        "status": "ok",
+        "lastChecked": "2026-09-02T03:40:30.333Z",
+        "sourceTitle": "Argus 4 Pro",
+        "sourceAvailability": "in-stock",
+        "sourcePrice": "169.99",
+        "sourceCurrency": "USD",
+        "imageUrl": "https://home-cdn.reolink.us/wp-content/uploads/2024/06/argus-4-pro-white-1pack.png.webp"
+      },
+      "imageUrl": "https://home-cdn.reolink.us/wp-content/uploads/2024/06/argus-4-pro-white-1pack.png.webp",
       "priceXof": 183500,
       "priceRange": "150k-300k",
       "monthlyXof": 4900,
       "warrantyMonths": 24,
       "brandName": "Reolink",
-      "sourceFile": "reolink.json",
-      "crawl": {
-        "status": "never"
-      }
+      "sourceFile": "reolink.json"
     },
     {
       "id": "safer-cam-bullet-4k",
@@ -2329,16 +2382,19 @@
         "safer-cam-ptz-3mp",
         "safer-link-gz3"
       ],
+      "crawl": {
+        "status": "ok-no-price",
+        "lastChecked": "2026-09-02T03:40:30.333Z",
+        "sourceCurrency": "USD",
+        "note": "browser"
+      },
       "sourceSku": "WF-CAM-BLT4K",
       "priceXof": 76500,
       "priceRange": "50k-150k",
       "monthlyXof": 4900,
       "warrantyMonths": 24,
       "brandName": "SafeR",
-      "sourceFile": "safer.json",
-      "crawl": {
-        "status": "never"
-      }
+      "sourceFile": "safer.json"
     },
     {
       "id": "safer-link-gz3",
@@ -2533,16 +2589,19 @@
         "safer-contact-d1",
         "safer-plug-16a"
       ],
+      "crawl": {
+        "status": "ok-no-price",
+        "lastChecked": "2026-09-02T03:40:30.333Z",
+        "sourceCurrency": "USD",
+        "note": "browser"
+      },
       "sourceSku": "ZB3-GW01",
       "priceXof": 90000,
       "priceRange": "50k-150k",
       "monthlyXof": 4900,
       "warrantyMonths": 24,
       "brandName": "SafeR",
-      "sourceFile": "safer.json",
-      "crawl": {
-        "status": "never"
-      }
+      "sourceFile": "safer.json"
     },
     {
       "id": "somfy-tahoma-switch",
@@ -2722,14 +2781,20 @@
         "somfy-oximo-io",
         "somfy-outdoor-camera"
       ],
+      "crawl": {
+        "status": "ok-no-price",
+        "lastChecked": "2026-09-02T03:40:30.333Z",
+        "sourceTitle": "Box domotique TaHoma switch : Pilotez volets & équipements connectés | Somfy",
+        "sourceCurrency": "EUR",
+        "imageUrl": "https://www.somfy.fr/common/img/library//tahoma-switch.png",
+        "note": "browser"
+      },
+      "imageUrl": "https://www.somfy.fr/common/img/library//tahoma-switch.png",
       "priceXof": 176000,
       "priceRange": "150k-300k",
       "monthlyXof": 4900,
       "brandName": "Somfy",
-      "sourceFile": "somfy.json",
-      "crawl": {
-        "status": "never"
-      }
+      "sourceFile": "somfy.json"
     },
     {
       "id": "sonoff-zbbridge-p",
@@ -2912,15 +2977,21 @@
         "sonoff-snzb-04p",
         "sonoff-ihost"
       ],
+      "crawl": {
+        "status": "ok-no-price",
+        "lastChecked": "2026-09-02T03:40:30.333Z",
+        "sourceTitle": "404 Not Found",
+        "sourceCurrency": "USD",
+        "imageUrl": "http://sonoff.tech/cdn/shop/files/SONOFF-LOGO_8df6f51e-0c8f-46c0-9b92-720dffa82413.png?v=1751266209&width=2048",
+        "note": "browser"
+      },
+      "imageUrl": "http://sonoff.tech/cdn/shop/files/SONOFF-LOGO_8df6f51e-0c8f-46c0-9b92-720dffa82413.png?v=1751266209&width=2048",
       "priceXof": 24000,
       "priceRange": "moins-50k",
       "monthlyXof": 4900,
       "warrantyMonths": 24,
       "brandName": "SONOFF",
-      "sourceFile": "sonoff.json",
-      "crawl": {
-        "status": "never"
-      }
+      "sourceFile": "sonoff.json"
     },
     {
       "id": "teltonika-rut241",
@@ -3105,15 +3176,21 @@
         "teltonika-rut956",
         "teltonika-rutx11"
       ],
+      "crawl": {
+        "status": "ok-no-price",
+        "lastChecked": "2026-09-02T03:40:30.333Z",
+        "sourceTitle": "RUT241",
+        "sourceAvailability": "in-stock",
+        "sourceCurrency": "USD",
+        "imageUrl": "https://static.wixstatic.com/media/814ec4_0e7216b7d68a469c8ddd34e1147312d2~mv2.jpg/v1/fill/w_1920,h_1008,al_c,q_85/social-social-product-461.jpg"
+      },
+      "imageUrl": "https://static.wixstatic.com/media/814ec4_0e7216b7d68a469c8ddd34e1147312d2~mv2.jpg/v1/fill/w_1920,h_1008,al_c,q_85/social-social-product-461.jpg",
       "priceXof": 164000,
       "priceRange": "150k-300k",
       "monthlyXof": 1900,
       "warrantyMonths": 24,
       "brandName": "Teltonika Networks",
-      "sourceFile": "teltonika.json",
-      "crawl": {
-        "status": "never"
-      }
+      "sourceFile": "teltonika.json"
     },
     {
       "id": "yale-linus-smart-lock-l2",
@@ -3321,14 +3398,18 @@
         "yale-smart-keypad",
         "yale-smart-cabinet-lock"
       ],
+      "crawl": {
+        "status": "ok-no-price",
+        "lastChecked": "2026-09-02T03:40:30.333Z",
+        "sourceTitle": "404",
+        "sourceCurrency": "EUR",
+        "note": "browser"
+      },
       "priceXof": 329500,
       "priceRange": "plus-300k",
       "monthlyXof": 3900,
       "brandName": "Yale",
-      "sourceFile": "yale.json",
-      "crawl": {
-        "status": "never"
-      }
+      "sourceFile": "yale.json"
     },
     {
       "id": "ajax-button",
@@ -3515,14 +3596,19 @@
         "ajax-hub-2-4g",
         "ajax-keypad-plus"
       ],
+      "crawl": {
+        "status": "ok-no-price",
+        "lastChecked": "2026-09-02T03:40:30.333Z",
+        "sourceTitle": "Wireless panic button with control mode | Ajax Systems",
+        "sourceCurrency": "EUR",
+        "imageUrl": "https://ajax.systems/cdn/upload/button_j_share_611dc53474.jpg?1785145696"
+      },
+      "imageUrl": "https://ajax.systems/cdn/upload/button_j_share_611dc53474.jpg?1785145696",
       "priceXof": 41500,
       "priceRange": "moins-50k",
       "monthlyXof": 6900,
       "brandName": "Ajax Systems",
-      "sourceFile": "ajax.json",
-      "crawl": {
-        "status": "never"
-      }
+      "sourceFile": "ajax.json"
     },
     {
       "id": "ajax-doorprotect",
@@ -3719,14 +3805,19 @@
         "ajax-motionprotect",
         "ajax-homesiren"
       ],
+      "crawl": {
+        "status": "ok-no-price",
+        "lastChecked": "2026-09-02T03:40:30.333Z",
+        "sourceTitle": "DoorProtect — Wireless magnetic opening detector | Ajax Systems",
+        "sourceCurrency": "EUR",
+        "imageUrl": "https://ajax.systems/cdn/upload/dp_p_j_share_d047b9c564.jpg?1785340349"
+      },
+      "imageUrl": "https://ajax.systems/cdn/upload/dp_p_j_share_d047b9c564.jpg?1785340349",
       "priceXof": 38000,
       "priceRange": "moins-50k",
       "monthlyXof": 6900,
       "brandName": "Ajax Systems",
-      "sourceFile": "ajax.json",
-      "crawl": {
-        "status": "never"
-      }
+      "sourceFile": "ajax.json"
     },
     {
       "id": "ajax-doorprotect-plus",
@@ -3929,14 +4020,20 @@
         "ajax-motionprotect-plus",
         "ajax-streetsiren"
       ],
+      "crawl": {
+        "status": "ok-no-price",
+        "lastChecked": "2026-09-02T03:40:30.333Z",
+        "sourceTitle": "Ajax Systems | Official website",
+        "sourceCurrency": "EUR",
+        "imageUrl": "https://ajax.systems/cdn/og-image/ajax-share.jpg?1746109193",
+        "note": "browser"
+      },
+      "imageUrl": "https://ajax.systems/cdn/og-image/ajax-share.jpg?1746109193",
       "priceXof": 47000,
       "priceRange": "moins-50k",
       "monthlyXof": 6900,
       "brandName": "Ajax Systems",
-      "sourceFile": "ajax.json",
-      "crawl": {
-        "status": "never"
-      }
+      "sourceFile": "ajax.json"
     },
     {
       "id": "ajax-fireprotect-2-hsc",
@@ -4127,14 +4224,20 @@
         "ajax-hub-2-4g",
         "ajax-homesiren"
       ],
+      "crawl": {
+        "status": "ok-no-price",
+        "lastChecked": "2026-09-02T03:40:30.333Z",
+        "sourceTitle": "Ajax Systems | Official website",
+        "sourceCurrency": "EUR",
+        "imageUrl": "https://ajax.systems/cdn/og-image/ajax-share.jpg?1746109193",
+        "note": "browser"
+      },
+      "imageUrl": "https://ajax.systems/cdn/og-image/ajax-share.jpg?1746109193",
       "priceXof": 100500,
       "priceRange": "50k-150k",
       "monthlyXof": 6900,
       "brandName": "Ajax Systems",
-      "sourceFile": "ajax.json",
-      "crawl": {
-        "status": "never"
-      }
+      "sourceFile": "ajax.json"
     },
     {
       "id": "ajax-homesiren",
@@ -4322,14 +4425,19 @@
         "ajax-motionprotect",
         "ajax-doorprotect"
       ],
+      "crawl": {
+        "status": "ok-no-price",
+        "lastChecked": "2026-09-02T03:40:30.333Z",
+        "sourceTitle": "HomeSiren — Wireless indoor siren | Ajax Systems",
+        "sourceCurrency": "EUR",
+        "imageUrl": "https://ajax.systems/cdn/upload/hs_share_7df35aa239.jpg?1785496932"
+      },
+      "imageUrl": "https://ajax.systems/cdn/upload/hs_share_7df35aa239.jpg?1785496932",
       "priceXof": 76500,
       "priceRange": "50k-150k",
       "monthlyXof": 6900,
       "brandName": "Ajax Systems",
-      "sourceFile": "ajax.json",
-      "crawl": {
-        "status": "never"
-      }
+      "sourceFile": "ajax.json"
     },
     {
       "id": "ajax-hub-2-plus",
@@ -4545,14 +4653,20 @@
         "ajax-streetsiren",
         "ajax-keypad-plus"
       ],
+      "crawl": {
+        "status": "ok-no-price",
+        "lastChecked": "2026-09-02T03:40:30.333Z",
+        "sourceTitle": "Ajax Systems | Official website",
+        "sourceCurrency": "EUR",
+        "imageUrl": "https://ajax.systems/cdn/og-image/ajax-share.jpg?1746109193",
+        "note": "browser"
+      },
+      "imageUrl": "https://ajax.systems/cdn/og-image/ajax-share.jpg?1746109193",
       "priceXof": 353000,
       "priceRange": "plus-300k",
       "monthlyXof": 14900,
       "brandName": "Ajax Systems",
-      "sourceFile": "ajax.json",
-      "crawl": {
-        "status": "never"
-      }
+      "sourceFile": "ajax.json"
     },
     {
       "id": "ajax-keypad-plus",
@@ -4758,14 +4872,19 @@
         "ajax-button",
         "ajax-spacecontrol"
       ],
+      "crawl": {
+        "status": "ok-no-price",
+        "lastChecked": "2026-09-02T03:40:30.333Z",
+        "sourceTitle": "KeyPad Plus — Security keypad with support for contactless chips",
+        "sourceCurrency": "EUR",
+        "imageUrl": "https://ajax.systems/cdn/upload/keypad_plus_j_share_1d4db77d40.jpg?1785858406"
+      },
+      "imageUrl": "https://ajax.systems/cdn/upload/keypad_plus_j_share_1d4db77d40.jpg?1785858406",
       "priceXof": 82500,
       "priceRange": "50k-150k",
       "monthlyXof": 6900,
       "brandName": "Ajax Systems",
-      "sourceFile": "ajax.json",
-      "crawl": {
-        "status": "never"
-      }
+      "sourceFile": "ajax.json"
     },
     {
       "id": "ajax-leaksprotect",
@@ -4952,14 +5071,19 @@
         "ajax-hub-2-4g",
         "ajax-hub-2-plus"
       ],
+      "crawl": {
+        "status": "ok-no-price",
+        "lastChecked": "2026-09-02T03:40:30.333Z",
+        "sourceTitle": "LeaksProtect — Wireless flood detector | Ajax Systems",
+        "sourceCurrency": "EUR",
+        "imageUrl": "https://ajax.systems/cdn/upload/leaksprotect_share_031575d130.jpg?1783424607"
+      },
+      "imageUrl": "https://ajax.systems/cdn/upload/leaksprotect_share_031575d130.jpg?1783424607",
       "priceXof": 47000,
       "priceRange": "moins-50k",
       "monthlyXof": 6900,
       "brandName": "Ajax Systems",
-      "sourceFile": "ajax.json",
-      "crawl": {
-        "status": "never"
-      }
+      "sourceFile": "ajax.json"
     },
     {
       "id": "ajax-motionprotect",
@@ -5150,14 +5274,19 @@
         "ajax-doorprotect",
         "ajax-homesiren"
       ],
+      "crawl": {
+        "status": "ok-no-price",
+        "lastChecked": "2026-09-02T03:40:30.333Z",
+        "sourceTitle": "MotionProtect — Wireless motion sensor with immunity to animals",
+        "sourceCurrency": "EUR",
+        "imageUrl": "https://ajax.systems/cdn/upload/mp_share_2e20cd258f.jpg?1714488101"
+      },
+      "imageUrl": "https://ajax.systems/cdn/upload/mp_share_2e20cd258f.jpg?1714488101",
       "priceXof": 53000,
       "priceRange": "50k-150k",
       "monthlyXof": 6900,
       "brandName": "Ajax Systems",
-      "sourceFile": "ajax.json",
-      "crawl": {
-        "status": "never"
-      }
+      "sourceFile": "ajax.json"
     },
     {
       "id": "ajax-motionprotect-plus",
@@ -5347,14 +5476,20 @@
         "ajax-hub-2-plus",
         "ajax-doorprotect-plus"
       ],
+      "crawl": {
+        "status": "ok-no-price",
+        "lastChecked": "2026-09-02T03:40:30.333Z",
+        "sourceTitle": "Ajax Systems | Official website",
+        "sourceCurrency": "EUR",
+        "imageUrl": "https://ajax.systems/cdn/og-image/ajax-share.jpg?1746109193",
+        "note": "browser"
+      },
+      "imageUrl": "https://ajax.systems/cdn/og-image/ajax-share.jpg?1746109193",
       "priceXof": 69500,
       "priceRange": "50k-150k",
       "monthlyXof": 6900,
       "brandName": "Ajax Systems",
-      "sourceFile": "ajax.json",
-      "crawl": {
-        "status": "never"
-      }
+      "sourceFile": "ajax.json"
     },
     {
       "id": "ajax-spacecontrol",
@@ -5529,14 +5664,19 @@
         "ajax-hub-2-4g",
         "ajax-keypad-plus"
       ],
+      "crawl": {
+        "status": "ok-no-price",
+        "lastChecked": "2026-09-02T03:40:30.333Z",
+        "sourceTitle": "Ajax SpaceControl — security system key fob | Ajax Systems",
+        "sourceCurrency": "EUR",
+        "imageUrl": "https://ajax.systems/cdn/upload/share_space_control_5c4b2007ae.jpg?1785143627"
+      },
+      "imageUrl": "https://ajax.systems/cdn/upload/share_space_control_5c4b2007ae.jpg?1785143627",
       "priceXof": 59000,
       "priceRange": "50k-150k",
       "monthlyXof": 6900,
       "brandName": "Ajax Systems",
-      "sourceFile": "ajax.json",
-      "crawl": {
-        "status": "never"
-      }
+      "sourceFile": "ajax.json"
     },
     {
       "id": "ajax-streetsiren",
@@ -5717,14 +5857,19 @@
         "ajax-hub-2-plus",
         "ajax-doorprotect-plus"
       ],
+      "crawl": {
+        "status": "ok-no-price",
+        "lastChecked": "2026-09-02T03:40:30.333Z",
+        "sourceTitle": "StreetSiren — Wireless outdoor siren | Ajax Systems",
+        "sourceCurrency": "EUR",
+        "imageUrl": "https://ajax.systems/cdn/upload/ss_j_share_f84b385cbd.jpg?1733488934"
+      },
+      "imageUrl": "https://ajax.systems/cdn/upload/ss_j_share_f84b385cbd.jpg?1733488934",
       "priceXof": 124000,
       "priceRange": "50k-150k",
       "monthlyXof": 6900,
       "brandName": "Ajax Systems",
-      "sourceFile": "ajax.json",
-      "crawl": {
-        "status": "never"
-      }
+      "sourceFile": "ajax.json"
     },
     {
       "id": "aqara-camera-hub-g3",
@@ -5942,15 +6087,20 @@
         "aqara-video-doorbell-g4",
         "aqara-motion-sensor-p1"
       ],
+      "crawl": {
+        "status": "ok-no-price",
+        "lastChecked": "2026-09-02T03:40:30.333Z",
+        "sourceTitle": "Camera Hub G3 - Aqara",
+        "sourceCurrency": "USD",
+        "imageUrl": "https://www.aqara.com/wp-content/uploads/2023/04/camera-hub-g3.png"
+      },
+      "imageUrl": "https://www.aqara.com/wp-content/uploads/2023/04/camera-hub-g3.png",
       "priceXof": 114000,
       "priceRange": "50k-150k",
       "monthlyXof": 4900,
       "warrantyMonths": 24,
       "brandName": "Aqara",
-      "sourceFile": "aqara.json",
-      "crawl": {
-        "status": "never"
-      }
+      "sourceFile": "aqara.json"
     },
     {
       "id": "aqara-curtain-driver-e1",
@@ -6155,15 +6305,20 @@
         "aqara-hub-m3",
         "aqara-temperature-humidity-sensor-t1"
       ],
+      "crawl": {
+        "status": "ok-no-price",
+        "lastChecked": "2026-09-02T03:40:30.333Z",
+        "sourceTitle": "Curtain Driver E1 (Track Version) - Aqara",
+        "sourceCurrency": "USD",
+        "imageUrl": "https://www.aqara.com/wp-content/uploads/2023/05/Aqara-Curtain-Driver-E1-track-version.png"
+      },
+      "imageUrl": "https://www.aqara.com/wp-content/uploads/2023/05/Aqara-Curtain-Driver-E1-track-version.png",
       "priceXof": 80000,
       "priceRange": "50k-150k",
       "monthlyXof": 2900,
       "warrantyMonths": 24,
       "brandName": "Aqara",
-      "sourceFile": "aqara.json",
-      "crawl": {
-        "status": "never"
-      }
+      "sourceFile": "aqara.json"
     },
     {
       "id": "aqara-door-window-sensor-p2",
@@ -6373,15 +6528,20 @@
         "aqara-motion-sensor-p1",
         "aqara-smart-lock-u200"
       ],
+      "crawl": {
+        "status": "ok-no-price",
+        "lastChecked": "2026-09-02T03:40:30.333Z",
+        "sourceTitle": "Door and Window Sensor P2 - Aqara",
+        "sourceCurrency": "USD",
+        "imageUrl": "https://www.aqara.com/wp-content/uploads/2023/07/Door-and-Window-Sensor-P2.png"
+      },
+      "imageUrl": "https://www.aqara.com/wp-content/uploads/2023/07/Door-and-Window-Sensor-P2.png",
       "priceXof": 23000,
       "priceRange": "moins-50k",
       "monthlyXof": 6900,
       "warrantyMonths": 24,
       "brandName": "Aqara",
-      "sourceFile": "aqara.json",
-      "crawl": {
-        "status": "never"
-      }
+      "sourceFile": "aqara.json"
     },
     {
       "id": "aqara-hub-m2",
@@ -6577,15 +6737,20 @@
         "aqara-hub-m3",
         "aqara-temperature-humidity-sensor-t1"
       ],
+      "crawl": {
+        "status": "ok-no-price",
+        "lastChecked": "2026-09-02T03:40:30.333Z",
+        "sourceTitle": "Hub M2 - Aqara",
+        "sourceCurrency": "USD",
+        "imageUrl": "https://www.aqara.com/wp-content/uploads/2023/04/Hub-M2-Zigbee-supported.jpg"
+      },
+      "imageUrl": "https://www.aqara.com/wp-content/uploads/2023/04/Hub-M2-Zigbee-supported.jpg",
       "priceXof": 62500,
       "priceRange": "50k-150k",
       "monthlyXof": 4900,
       "warrantyMonths": 24,
       "brandName": "Aqara",
-      "sourceFile": "aqara.json",
-      "crawl": {
-        "status": "never"
-      }
+      "sourceFile": "aqara.json"
     },
     {
       "id": "aqara-motion-sensor-p1",
@@ -6782,15 +6947,20 @@
         "aqara-door-window-sensor-p2",
         "aqara-camera-hub-g3"
       ],
+      "crawl": {
+        "status": "ok-no-price",
+        "lastChecked": "2026-09-02T03:40:30.333Z",
+        "sourceTitle": "Motion Sensor P1 - Aqara",
+        "sourceCurrency": "USD",
+        "imageUrl": "https://www.aqara.com/wp-content/uploads/2023/05/motion-sensor-p1.png"
+      },
+      "imageUrl": "https://www.aqara.com/wp-content/uploads/2023/05/motion-sensor-p1.png",
       "priceXof": 23000,
       "priceRange": "moins-50k",
       "monthlyXof": 6900,
       "warrantyMonths": 24,
       "brandName": "Aqara",
-      "sourceFile": "aqara.json",
-      "crawl": {
-        "status": "never"
-      }
+      "sourceFile": "aqara.json"
     },
     {
       "id": "aqara-smart-lock-u200",
@@ -7005,15 +7175,20 @@
         "aqara-video-doorbell-g4",
         "aqara-door-window-sensor-p2"
       ],
+      "crawl": {
+        "status": "ok-no-price",
+        "lastChecked": "2026-09-02T03:40:30.333Z",
+        "sourceTitle": "Smart Lock U200 - Aqara",
+        "sourceCurrency": "USD",
+        "imageUrl": "https://www.aqara.com/wp-content/uploads/2024/07/2560-smart-lock-U200_01-scaled.jpg"
+      },
+      "imageUrl": "https://www.aqara.com/wp-content/uploads/2024/07/2560-smart-lock-U200_01-scaled.jpg",
       "priceXof": 296500,
       "priceRange": "150k-300k",
       "monthlyXof": 3900,
       "warrantyMonths": 24,
       "brandName": "Aqara",
-      "sourceFile": "aqara.json",
-      "crawl": {
-        "status": "never"
-      }
+      "sourceFile": "aqara.json"
     },
     {
       "id": "aqara-temperature-humidity-sensor-t1",
@@ -7194,15 +7369,20 @@
         "aqara-hub-m2",
         "aqara-water-leak-sensor"
       ],
+      "crawl": {
+        "status": "ok-no-price",
+        "lastChecked": "2026-09-02T03:40:30.333Z",
+        "sourceTitle": "Temperature and Humidity Sensor T1 - Aqara",
+        "sourceCurrency": "USD",
+        "imageUrl": "https://www.aqara.com/wp-content/uploads/2023/10/BrowserPreview_tmp_01-1024x1004.jpg"
+      },
+      "imageUrl": "https://www.aqara.com/wp-content/uploads/2023/10/BrowserPreview_tmp_01-1024x1004.jpg",
       "priceXof": 18000,
       "priceRange": "moins-50k",
       "monthlyXof": 2900,
       "warrantyMonths": 24,
       "brandName": "Aqara",
-      "sourceFile": "aqara.json",
-      "crawl": {
-        "status": "never"
-      }
+      "sourceFile": "aqara.json"
     },
     {
       "id": "aqara-video-doorbell-g4",
@@ -7418,15 +7598,19 @@
         "aqara-smart-lock-u200",
         "aqara-camera-hub-g3"
       ],
+      "crawl": {
+        "status": "ok-no-price",
+        "lastChecked": "2026-09-02T03:40:30.333Z",
+        "sourceTitle": "Page Not Found - Aqara",
+        "sourceCurrency": "USD",
+        "note": "browser"
+      },
       "priceXof": 228000,
       "priceRange": "150k-300k",
       "monthlyXof": 4900,
       "warrantyMonths": 24,
       "brandName": "Aqara",
-      "sourceFile": "aqara.json",
-      "crawl": {
-        "status": "never"
-      }
+      "sourceFile": "aqara.json"
     },
     {
       "id": "aqara-water-leak-sensor",
@@ -7602,15 +7786,19 @@
         "aqara-hub-m3",
         "aqara-temperature-humidity-sensor-t1"
       ],
+      "crawl": {
+        "status": "ok-no-price",
+        "lastChecked": "2026-09-02T03:40:30.333Z",
+        "sourceTitle": "Page Not Found - Aqara",
+        "sourceCurrency": "USD",
+        "note": "browser"
+      },
       "priceXof": 23000,
       "priceRange": "moins-50k",
       "monthlyXof": 6900,
       "warrantyMonths": 24,
       "brandName": "Aqara",
-      "sourceFile": "aqara.json",
-      "crawl": {
-        "status": "never"
-      }
+      "sourceFile": "aqara.json"
     },
     {
       "id": "dahua-h4c",
@@ -7804,15 +7992,21 @@
       "related": [
         "dahua-vto2202f-p"
       ],
+      "crawl": {
+        "status": "ok-no-price",
+        "lastChecked": "2026-09-02T03:40:30.333Z",
+        "sourceTitle": "H4C",
+        "sourceCurrency": "USD",
+        "imageUrl": "https://material.dahuasecurity.com/uploads/image/20230922/open_graph_logo.jpg",
+        "note": "browser"
+      },
+      "imageUrl": "https://material.dahuasecurity.com/uploads/image/20230922/open_graph_logo.jpg",
       "priceXof": 61000,
       "priceRange": "50k-150k",
       "monthlyXof": 4900,
       "warrantyMonths": 24,
       "brandName": "Dahua",
-      "sourceFile": "dahua.json",
-      "crawl": {
-        "status": "never"
-      }
+      "sourceFile": "dahua.json"
     },
     {
       "id": "dahua-ipc-hfw2441s-s",
@@ -8000,15 +8194,21 @@
         "dahua-ipc-hdw2441t-s",
         "dahua-sd2a500-gn-a-pv"
       ],
+      "crawl": {
+        "status": "ok-no-price",
+        "lastChecked": "2026-09-02T03:40:30.333Z",
+        "sourceTitle": "IPC-HFW2441S-S",
+        "sourceCurrency": "USD",
+        "imageUrl": "https://material.dahuasecurity.com/uploads/image/20230922/open_graph_logo.jpg",
+        "note": "browser"
+      },
+      "imageUrl": "https://material.dahuasecurity.com/uploads/image/20230922/open_graph_logo.jpg",
       "priceXof": 102000,
       "priceRange": "50k-150k",
       "monthlyXof": 4900,
       "warrantyMonths": 24,
       "brandName": "Dahua",
-      "sourceFile": "dahua.json",
-      "crawl": {
-        "status": "never"
-      }
+      "sourceFile": "dahua.json"
     },
     {
       "id": "dahua-nvr4108hs-8p-4ks2",
@@ -8197,15 +8397,21 @@
         "dahua-ipc-hdw2441t-s",
         "dahua-ipc-hfw2441s-s"
       ],
+      "crawl": {
+        "status": "ok-no-price",
+        "lastChecked": "2026-09-02T03:40:30.333Z",
+        "sourceTitle": "Dahua Technology - World Leading Video-Centric AIoT Solution & Service Provider",
+        "sourceCurrency": "USD",
+        "imageUrl": "https://material.dahuasecurity.com/uploads/image/20230922/open_graph_logo.jpg",
+        "note": "browser"
+      },
+      "imageUrl": "https://material.dahuasecurity.com/uploads/image/20230922/open_graph_logo.jpg",
       "priceXof": 265000,
       "priceRange": "150k-300k",
       "monthlyXof": 9900,
       "warrantyMonths": 24,
       "brandName": "Dahua",
-      "sourceFile": "dahua.json",
-      "crawl": {
-        "status": "never"
-      }
+      "sourceFile": "dahua.json"
     },
     {
       "id": "dahua-sd2a500-gn-a-pv",
@@ -8400,15 +8606,21 @@
         "dahua-ipc-hdw2441t-s",
         "dahua-nvr4108hs-8p-4ks2"
       ],
+      "crawl": {
+        "status": "ok-no-price",
+        "lastChecked": "2026-09-02T03:40:30.333Z",
+        "sourceTitle": "Dahua Technology - World Leading Video-Centric AIoT Solution & Service Provider",
+        "sourceCurrency": "USD",
+        "imageUrl": "https://material.dahuasecurity.com/uploads/image/20230922/open_graph_logo.jpg",
+        "note": "browser"
+      },
+      "imageUrl": "https://material.dahuasecurity.com/uploads/image/20230922/open_graph_logo.jpg",
       "priceXof": 265000,
       "priceRange": "150k-300k",
       "monthlyXof": 4900,
       "warrantyMonths": 24,
       "brandName": "Dahua",
-      "sourceFile": "dahua.json",
-      "crawl": {
-        "status": "never"
-      }
+      "sourceFile": "dahua.json"
     },
     {
       "id": "dahua-vto2202f-p",
@@ -8595,15 +8807,21 @@
       "related": [
         "dahua-h4c"
       ],
+      "crawl": {
+        "status": "ok-no-price",
+        "lastChecked": "2026-09-02T03:40:30.333Z",
+        "sourceTitle": "Video Intercoms",
+        "sourceCurrency": "USD",
+        "imageUrl": "https://material.dahuasecurity.com/uploads/image/20230922/open_graph_logo.jpg",
+        "note": "browser"
+      },
+      "imageUrl": "https://material.dahuasecurity.com/uploads/image/20230922/open_graph_logo.jpg",
       "priceXof": 153000,
       "priceRange": "150k-300k",
       "monthlyXof": 3900,
       "warrantyMonths": 24,
       "brandName": "Dahua",
-      "sourceFile": "dahua.json",
-      "crawl": {
-        "status": "never"
-      }
+      "sourceFile": "dahua.json"
     },
     {
       "id": "ecoflow-110w-solar-panel",
@@ -8790,15 +9008,18 @@
         "ecoflow-river-2",
         "ecoflow-delta-2"
       ],
+      "crawl": {
+        "status": "ok-no-price",
+        "lastChecked": "2026-09-02T03:40:30.333Z",
+        "sourceTitle": "EcoFlow 110W Solar Panel | Clean Energy | Solar Panels | EcoFlow US",
+        "sourceCurrency": "USD"
+      },
       "priceXof": 236500,
       "priceRange": "150k-300k",
       "monthlyXof": 1900,
       "warrantyMonths": 24,
       "brandName": "EcoFlow",
-      "sourceFile": "ecoflow.json",
-      "crawl": {
-        "status": "never"
-      }
+      "sourceFile": "ecoflow.json"
     },
     {
       "id": "ecoflow-delta-2",
@@ -8978,15 +9199,18 @@
         "ecoflow-river-2",
         "ecoflow-110w-solar-panel"
       ],
+      "crawl": {
+        "status": "ok-no-price",
+        "lastChecked": "2026-09-02T03:40:30.333Z",
+        "sourceTitle": "New EcoFlow DELTA 2 Portable Power Station | EcoFlow US",
+        "sourceCurrency": "USD"
+      },
       "priceXof": 1079000,
       "priceRange": "plus-300k",
       "monthlyXof": 1900,
       "warrantyMonths": 12,
       "brandName": "EcoFlow",
-      "sourceFile": "ecoflow.json",
-      "crawl": {
-        "status": "never"
-      }
+      "sourceFile": "ecoflow.json"
     },
     {
       "id": "eufy-eufycam-3-s330",
@@ -9198,15 +9422,19 @@
         "eufy-eufycam-s3-pro",
         "eufy-solar-panel"
       ],
+      "crawl": {
+        "status": "ok-no-price",
+        "lastChecked": "2026-09-02T03:40:30.333Z",
+        "sourceTitle": "eufy | Smart Home Simplified",
+        "sourceCurrency": "USD",
+        "note": "browser"
+      },
       "priceXof": 648000,
       "priceRange": "plus-300k",
       "monthlyXof": 9900,
       "warrantyMonths": 24,
       "brandName": "eufy Security",
-      "sourceFile": "eufy.json",
-      "crawl": {
-        "status": "never"
-      }
+      "sourceFile": "eufy.json"
     },
     {
       "id": "eufy-eufycam-s3-pro",
@@ -9422,15 +9650,19 @@
         "eufy-eufycam-3-s330",
         "eufy-solar-panel"
       ],
+      "crawl": {
+        "status": "ok-no-price",
+        "lastChecked": "2026-09-02T03:40:30.333Z",
+        "sourceTitle": "eufy | Smart Home Simplified",
+        "sourceCurrency": "USD",
+        "note": "browser"
+      },
       "priceXof": 237500,
       "priceRange": "150k-300k",
       "monthlyXof": 4900,
       "warrantyMonths": 24,
       "brandName": "eufy Security",
-      "sourceFile": "eufy.json",
-      "crawl": {
-        "status": "never"
-      }
+      "sourceFile": "eufy.json"
     },
     {
       "id": "eufy-floodlight-cam-e340",
@@ -9639,15 +9871,19 @@
         "eufy-solocam-s340",
         "eufy-eufycam-s3-pro"
       ],
+      "crawl": {
+        "status": "ok-no-price",
+        "lastChecked": "2026-09-02T03:40:30.333Z",
+        "sourceTitle": "eufy | Smart Home Simplified",
+        "sourceCurrency": "USD",
+        "note": "browser"
+      },
       "priceXof": 237500,
       "priceRange": "150k-300k",
       "monthlyXof": 4900,
       "warrantyMonths": 24,
       "brandName": "eufy Security",
-      "sourceFile": "eufy.json",
-      "crawl": {
-        "status": "never"
-      }
+      "sourceFile": "eufy.json"
     },
     {
       "id": "eufy-indoor-cam-e220",
@@ -9815,7 +10051,7 @@
         }
       ],
       "pricing": {
-        "sourcePrice": 39.99,
+        "sourcePrice": 54.99,
         "sourceCurrency": "USD"
       },
       "availability": "en-stock",
@@ -9839,15 +10075,22 @@
       "related": [
         "eufy-video-doorbell-e340"
       ],
-      "priceXof": 43000,
-      "priceRange": "moins-50k",
+      "crawl": {
+        "status": "ok",
+        "lastChecked": "2026-09-02T03:40:30.333Z",
+        "sourceTitle": "Indoor Cam E220",
+        "sourceAvailability": "in-stock",
+        "sourcePrice": "54.99",
+        "sourceCurrency": "USD",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0504/7094/4954/files/Indoor_Cam_E220_d63583c9-a6dd-45ef-842a-c0afe2e059d5.png?v=1786955303"
+      },
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0504/7094/4954/files/Indoor_Cam_E220_d63583c9-a6dd-45ef-842a-c0afe2e059d5.png?v=1786955303",
+      "priceXof": 59500,
+      "priceRange": "50k-150k",
       "monthlyXof": 4900,
       "warrantyMonths": 24,
       "brandName": "eufy Security",
-      "sourceFile": "eufy.json",
-      "crawl": {
-        "status": "never"
-      }
+      "sourceFile": "eufy.json"
     },
     {
       "id": "eufy-smart-lock-c33",
@@ -10058,14 +10301,18 @@
       "related": [
         "eufy-video-doorbell-e340"
       ],
+      "crawl": {
+        "status": "ok-no-price",
+        "lastChecked": "2026-09-02T03:40:30.333Z",
+        "sourceTitle": "eufy | Smart Home Simplified",
+        "sourceCurrency": "USD",
+        "note": "browser"
+      },
       "priceXof": 183500,
       "priceRange": "150k-300k",
       "monthlyXof": 3900,
       "brandName": "eufy Security",
-      "sourceFile": "eufy.json",
-      "crawl": {
-        "status": "never"
-      }
+      "sourceFile": "eufy.json"
     },
     {
       "id": "eufy-solar-panel",
@@ -10236,14 +10483,18 @@
         "eufy-eufycam-s3-pro",
         "eufy-solocam-s340"
       ],
+      "crawl": {
+        "status": "ok-no-price",
+        "lastChecked": "2026-09-02T03:40:30.333Z",
+        "sourceTitle": "eufy | Smart Home Simplified",
+        "sourceCurrency": "USD",
+        "note": "browser"
+      },
       "priceXof": 65000,
       "priceRange": "50k-150k",
       "monthlyXof": 1900,
       "brandName": "eufy Security",
-      "sourceFile": "eufy.json",
-      "crawl": {
-        "status": "never"
-      }
+      "sourceFile": "eufy.json"
     },
     {
       "id": "eufy-solocam-s340",
@@ -10453,15 +10704,19 @@
         "eufy-solar-panel",
         "eufy-floodlight-cam-e340"
       ],
+      "crawl": {
+        "status": "ok-no-price",
+        "lastChecked": "2026-09-02T03:40:30.333Z",
+        "sourceTitle": "eufy | Smart Home Simplified",
+        "sourceCurrency": "USD",
+        "note": "browser"
+      },
       "priceXof": 205000,
       "priceRange": "150k-300k",
       "monthlyXof": 4900,
       "warrantyMonths": 24,
       "brandName": "eufy Security",
-      "sourceFile": "eufy.json",
-      "crawl": {
-        "status": "never"
-      }
+      "sourceFile": "eufy.json"
     },
     {
       "id": "ezviz-c6n",
@@ -10648,15 +10903,19 @@
         "ezviz-db2",
         "ezviz-t31"
       ],
+      "crawl": {
+        "status": "ok-no-price",
+        "lastChecked": "2026-09-02T03:40:30.333Z",
+        "sourceTitle": "EZVIZ - Creating Easy Smart Homes",
+        "sourceCurrency": "EUR",
+        "note": "browser"
+      },
       "priceXof": 47000,
       "priceRange": "moins-50k",
       "monthlyXof": 4900,
       "warrantyMonths": 24,
       "brandName": "EZVIZ",
-      "sourceFile": "ezviz.json",
-      "crawl": {
-        "status": "never"
-      }
+      "sourceFile": "ezviz.json"
     },
     {
       "id": "ezviz-c8w-pro",
@@ -10847,15 +11106,19 @@
         "ezviz-h8c",
         "ezviz-eb8-4g"
       ],
+      "crawl": {
+        "status": "ok-no-price",
+        "lastChecked": "2026-09-02T03:40:30.333Z",
+        "sourceTitle": "EZVIZ - Creating Easy Smart Homes",
+        "sourceCurrency": "EUR",
+        "note": "browser"
+      },
       "priceXof": 106500,
       "priceRange": "50k-150k",
       "monthlyXof": 4900,
       "warrantyMonths": 24,
       "brandName": "EZVIZ",
-      "sourceFile": "ezviz.json",
-      "crawl": {
-        "status": "never"
-      }
+      "sourceFile": "ezviz.json"
     },
     {
       "id": "ezviz-cb3",
@@ -11048,15 +11311,19 @@
         "ezviz-ty1",
         "ezviz-eb8-4g"
       ],
+      "crawl": {
+        "status": "ok-no-price",
+        "lastChecked": "2026-09-02T03:40:30.333Z",
+        "sourceTitle": "EZVIZ - Creating Easy Smart Homes",
+        "sourceCurrency": "EUR",
+        "note": "browser"
+      },
       "priceXof": 82500,
       "priceRange": "50k-150k",
       "monthlyXof": 4900,
       "warrantyMonths": 24,
       "brandName": "EZVIZ",
-      "sourceFile": "ezviz.json",
-      "crawl": {
-        "status": "never"
-      }
+      "sourceFile": "ezviz.json"
     },
     {
       "id": "ezviz-db2",
@@ -11259,15 +11526,19 @@
         "ezviz-c6n",
         "ezviz-dl05"
       ],
+      "crawl": {
+        "status": "ok-no-price",
+        "lastChecked": "2026-09-02T03:40:30.333Z",
+        "sourceTitle": "EZVIZ - Creating Easy Smart Homes",
+        "sourceCurrency": "EUR",
+        "note": "browser"
+      },
       "priceXof": 118000,
       "priceRange": "50k-150k",
       "monthlyXof": 4900,
       "warrantyMonths": 24,
       "brandName": "EZVIZ",
-      "sourceFile": "ezviz.json",
-      "crawl": {
-        "status": "never"
-      }
+      "sourceFile": "ezviz.json"
     },
     {
       "id": "ezviz-dl05",
@@ -11484,14 +11755,18 @@
       "related": [
         "ezviz-db2"
       ],
+      "crawl": {
+        "status": "ok-no-price",
+        "lastChecked": "2026-09-02T03:40:30.333Z",
+        "sourceTitle": "EZVIZ - Creating Easy Smart Homes",
+        "sourceCurrency": "EUR",
+        "note": "browser"
+      },
       "priceXof": 236000,
       "priceRange": "150k-300k",
       "monthlyXof": 3900,
       "brandName": "EZVIZ",
-      "sourceFile": "ezviz.json",
-      "crawl": {
-        "status": "never"
-      }
+      "sourceFile": "ezviz.json"
     },
     {
       "id": "ezviz-h8c",
@@ -11688,15 +11963,19 @@
         "ezviz-c8w-pro",
         "ezviz-cb3"
       ],
+      "crawl": {
+        "status": "ok-no-price",
+        "lastChecked": "2026-09-02T03:40:30.333Z",
+        "sourceTitle": "EZVIZ - Creating Easy Smart Homes",
+        "sourceCurrency": "EUR",
+        "note": "browser"
+      },
       "priceXof": 71000,
       "priceRange": "50k-150k",
       "monthlyXof": 4900,
       "warrantyMonths": 24,
       "brandName": "EZVIZ",
-      "sourceFile": "ezviz.json",
-      "crawl": {
-        "status": "never"
-      }
+      "sourceFile": "ezviz.json"
     },
     {
       "id": "ezviz-t31",
@@ -11857,14 +12136,18 @@
       "related": [
         "ezviz-c6n"
       ],
+      "crawl": {
+        "status": "ok-no-price",
+        "lastChecked": "2026-09-02T03:40:30.333Z",
+        "sourceTitle": "EZVIZ - Creating Easy Smart Homes",
+        "sourceCurrency": "EUR",
+        "note": "browser"
+      },
       "priceXof": 17500,
       "priceRange": "moins-50k",
       "monthlyXof": 2900,
       "brandName": "EZVIZ",
-      "sourceFile": "ezviz.json",
-      "crawl": {
-        "status": "never"
-      }
+      "sourceFile": "ezviz.json"
     },
     {
       "id": "ezviz-ty1",
@@ -12051,15 +12334,18 @@
         "ezviz-eb8-4g",
         "ezviz-cb3"
       ],
+      "crawl": {
+        "status": "ok-no-price",
+        "lastChecked": "2026-09-02T03:40:30.333Z",
+        "sourceTitle": "EZVIZ - Creating Easy Smart Homes",
+        "sourceCurrency": "EUR"
+      },
       "priceXof": 59000,
       "priceRange": "50k-150k",
       "monthlyXof": 4900,
       "warrantyMonths": 24,
       "brandName": "EZVIZ",
-      "sourceFile": "ezviz.json",
-      "crawl": {
-        "status": "never"
-      }
+      "sourceFile": "ezviz.json"
     },
     {
       "id": "hikvision-ds-2cd2347g2-lu",
@@ -12259,15 +12545,23 @@
         "hikvision-ds-2cd2t47g2-l",
         "hikvision-ds-7104ni-q1-4p"
       ],
+      "crawl": {
+        "status": "ok",
+        "lastChecked": "2026-09-02T03:40:30.333Z",
+        "sourceTitle": "4 MP ColorVu Fixed Turret Network Camera",
+        "sourceAvailability": "in-stock",
+        "sourcePrice": "0",
+        "sourceCurrency": "USD",
+        "imageUrl": "https://assets.hikvision.com/prd/normal/all/image/m000032055/海螺25-基线-黑白两色-加mic-右侧.png",
+        "note": "out-of-range 149.99→0"
+      },
+      "imageUrl": "https://assets.hikvision.com/prd/normal/all/image/m000032055/海螺25-基线-黑白两色-加mic-右侧.png",
       "priceXof": 153000,
       "priceRange": "150k-300k",
       "monthlyXof": 4900,
       "warrantyMonths": 24,
       "brandName": "Hikvision",
-      "sourceFile": "hikvision.json",
-      "crawl": {
-        "status": "never"
-      }
+      "sourceFile": "hikvision.json"
     },
     {
       "id": "hikvision-ds-2cd2t47g2-l",
@@ -12471,15 +12765,23 @@
         "hikvision-ds-2cd2143g2-i",
         "hikvision-ds-2cd2347g2-lu"
       ],
+      "crawl": {
+        "status": "ok",
+        "lastChecked": "2026-09-02T03:40:30.333Z",
+        "sourceTitle": "4 MP ColorVu Fixed Bullet Network Camera",
+        "sourceAvailability": "in-stock",
+        "sourcePrice": "0",
+        "sourceCurrency": "USD",
+        "imageUrl": "https://assets.hikvision.com/prd/normal/all/image/m000032057/筒机45-基线-4K-4mp-右侧-.png",
+        "note": "out-of-range 159.99→0"
+      },
+      "imageUrl": "https://assets.hikvision.com/prd/normal/all/image/m000032057/筒机45-基线-4K-4mp-右侧-.png",
       "priceXof": 163000,
       "priceRange": "150k-300k",
       "monthlyXof": 4900,
       "warrantyMonths": 24,
       "brandName": "Hikvision",
-      "sourceFile": "hikvision.json",
-      "crawl": {
-        "status": "never"
-      }
+      "sourceFile": "hikvision.json"
     },
     {
       "id": "hikvision-ds-2de2a404iw-de3",
@@ -12666,15 +12968,23 @@
       "related": [
         "hikvision-ds-7608nxi-k2-8p"
       ],
+      "crawl": {
+        "status": "ok",
+        "lastChecked": "2026-09-02T03:40:30.333Z",
+        "sourceTitle": "4 MP 4X Outdoor IR Mini Dome PTZ Network Camera",
+        "sourceAvailability": "in-stock",
+        "sourcePrice": "0",
+        "sourceCurrency": "USD",
+        "imageUrl": "https://assets.hikvision.com/prd/normal/all/image/m000045324/PT12.png",
+        "note": "out-of-range 299.99→0"
+      },
+      "imageUrl": "https://assets.hikvision.com/prd/normal/all/image/m000045324/PT12.png",
       "priceXof": 306000,
       "priceRange": "plus-300k",
       "monthlyXof": 4900,
       "warrantyMonths": 24,
       "brandName": "Hikvision",
-      "sourceFile": "hikvision.json",
-      "crawl": {
-        "status": "never"
-      }
+      "sourceFile": "hikvision.json"
     },
     {
       "id": "hikvision-ds-7104ni-q1-4p",
@@ -12852,15 +13162,23 @@
       "related": [
         "hikvision-ds-2cd2347g2-lu"
       ],
+      "crawl": {
+        "status": "ok",
+        "lastChecked": "2026-09-02T03:40:30.333Z",
+        "sourceTitle": "4-ch Mini 4 PoE 1U NVR",
+        "sourceAvailability": "in-stock",
+        "sourcePrice": "0",
+        "sourceCurrency": "USD",
+        "imageUrl": "https://assets.hikvision.com/prd/normal/all/image/m000000615/渲染图.png",
+        "note": "out-of-range 99.99→0"
+      },
+      "imageUrl": "https://assets.hikvision.com/prd/normal/all/image/m000000615/渲染图.png",
       "priceXof": 102000,
       "priceRange": "50k-150k",
       "monthlyXof": 9900,
       "warrantyMonths": 24,
       "brandName": "Hikvision",
-      "sourceFile": "hikvision.json",
-      "crawl": {
-        "status": "never"
-      }
+      "sourceFile": "hikvision.json"
     },
     {
       "id": "hikvision-ds-7608nxi-k2-8p",
@@ -13053,15 +13371,19 @@
         "hikvision-ds-2cd2143g2-i",
         "hikvision-ds-2cd2t47g2-l"
       ],
+      "crawl": {
+        "status": "ok-no-price",
+        "lastChecked": "2026-09-02T03:40:30.333Z",
+        "sourceTitle": "404",
+        "sourceCurrency": "USD",
+        "note": "browser"
+      },
       "priceXof": 357000,
       "priceRange": "plus-300k",
       "monthlyXof": 9900,
       "warrantyMonths": 24,
       "brandName": "Hikvision",
-      "sourceFile": "hikvision.json",
-      "crawl": {
-        "status": "never"
-      }
+      "sourceFile": "hikvision.json"
     },
     {
       "id": "hikvision-ds-k1t341am",
@@ -13253,15 +13575,23 @@
       "related": [
         "hikvision-ds-kv6113-wpe1"
       ],
+      "crawl": {
+        "status": "ok",
+        "lastChecked": "2026-09-02T03:40:30.333Z",
+        "sourceTitle": "Value Series Face Access Terminal",
+        "sourceAvailability": "in-stock",
+        "sourcePrice": "0",
+        "sourceCurrency": "USD",
+        "imageUrl": "https://assets.hikvision.com/prd/normal/all/image/m000039877/DS-K1T341AM(1).png",
+        "note": "out-of-range 329.99→0"
+      },
+      "imageUrl": "https://assets.hikvision.com/prd/normal/all/image/m000039877/DS-K1T341AM(1).png",
       "priceXof": 336500,
       "priceRange": "plus-300k",
       "monthlyXof": 3900,
       "warrantyMonths": 24,
       "brandName": "Hikvision",
-      "sourceFile": "hikvision.json",
-      "crawl": {
-        "status": "never"
-      }
+      "sourceFile": "hikvision.json"
     },
     {
       "id": "hikvision-ds-kv6113-wpe1",
@@ -13448,15 +13778,19 @@
       "related": [
         "hikvision-ds-k1t341am"
       ],
+      "crawl": {
+        "status": "ok-no-price",
+        "lastChecked": "2026-09-02T03:40:30.333Z",
+        "sourceTitle": "404",
+        "sourceCurrency": "USD",
+        "note": "browser"
+      },
       "priceXof": 224500,
       "priceRange": "150k-300k",
       "monthlyXof": 3900,
       "warrantyMonths": 24,
       "brandName": "Hikvision",
-      "sourceFile": "hikvision.json",
-      "crawl": {
-        "status": "never"
-      }
+      "sourceFile": "hikvision.json"
     },
     {
       "id": "hikvision-ds-pdp15p-eg2-we",
@@ -13649,15 +13983,19 @@
       "related": [
         "hikvision-ds-pwa64-l-we"
       ],
+      "crawl": {
+        "status": "ok-no-price",
+        "lastChecked": "2026-09-02T03:40:30.333Z",
+        "sourceTitle": "404",
+        "sourceCurrency": "USD",
+        "note": "browser"
+      },
       "priceXof": 35500,
       "priceRange": "moins-50k",
       "monthlyXof": 6900,
       "warrantyMonths": 24,
       "brandName": "Hikvision",
-      "sourceFile": "hikvision.json",
-      "crawl": {
-        "status": "never"
-      }
+      "sourceFile": "hikvision.json"
     },
     {
       "id": "reolink-argus-3-pro",
@@ -13853,15 +14191,22 @@
       "related": [
         "reolink-solar-panel-2"
       ],
+      "crawl": {
+        "status": "ok",
+        "lastChecked": "2026-09-02T03:40:30.333Z",
+        "sourceTitle": "Argus 3 Pro",
+        "sourceAvailability": "in-stock",
+        "sourcePrice": "99.99",
+        "sourceCurrency": "USD",
+        "imageUrl": "https://home-cdn.reolink.us/wp-content/uploads/2021/03/240613101616566390.8154.png.webp"
+      },
+      "imageUrl": "https://home-cdn.reolink.us/wp-content/uploads/2021/03/240613101616566390.8154.png.webp",
       "priceXof": 108000,
       "priceRange": "50k-150k",
       "monthlyXof": 4900,
       "warrantyMonths": 24,
       "brandName": "Reolink",
-      "sourceFile": "reolink.json",
-      "crawl": {
-        "status": "never"
-      }
+      "sourceFile": "reolink.json"
     },
     {
       "id": "reolink-argus-pt-ultra",
@@ -14031,7 +14376,7 @@
         }
       ],
       "pricing": {
-        "sourcePrice": 219.99,
+        "sourcePrice": 134.99,
         "sourceCurrency": "USD"
       },
       "availability": "sur-commande",
@@ -14057,15 +14402,22 @@
         "reolink-solar-panel-2",
         "reolink-trackmix-wifi"
       ],
-      "priceXof": 237500,
-      "priceRange": "150k-300k",
+      "crawl": {
+        "status": "ok",
+        "lastChecked": "2026-09-02T03:40:30.333Z",
+        "sourceTitle": "Argus PT Ultra",
+        "sourceAvailability": "in-stock",
+        "sourcePrice": "134.99",
+        "sourceCurrency": "USD",
+        "imageUrl": "https://home-cdn.reolink.us/wp-content/uploads/2026/01/Argus-PT-ultra-white-1pack-PC.png.webp"
+      },
+      "imageUrl": "https://home-cdn.reolink.us/wp-content/uploads/2026/01/Argus-PT-ultra-white-1pack-PC.png.webp",
+      "priceXof": 146000,
+      "priceRange": "50k-150k",
       "monthlyXof": 4900,
       "warrantyMonths": 24,
       "brandName": "Reolink",
-      "sourceFile": "reolink.json",
-      "crawl": {
-        "status": "never"
-      }
+      "sourceFile": "reolink.json"
     },
     {
       "id": "reolink-duo-3-poe",
@@ -14254,15 +14606,18 @@
       "related": [
         "reolink-rlk8-810b4-a"
       ],
+      "crawl": {
+        "status": "ok-no-price",
+        "lastChecked": "2026-09-02T03:40:30.333Z",
+        "sourceTitle": "Page Not Found – Reolink",
+        "sourceCurrency": "USD"
+      },
       "priceXof": 151000,
       "priceRange": "150k-300k",
       "monthlyXof": 4900,
       "warrantyMonths": 24,
       "brandName": "Reolink",
-      "sourceFile": "reolink.json",
-      "crawl": {
-        "status": "never"
-      }
+      "sourceFile": "reolink.json"
     },
     {
       "id": "reolink-e1-pro",
@@ -14424,7 +14779,7 @@
         }
       ],
       "pricing": {
-        "sourcePrice": 45.99,
+        "sourcePrice": 69.99,
         "sourceCurrency": "USD"
       },
       "availability": "en-stock",
@@ -14448,15 +14803,22 @@
       "related": [
         "reolink-video-doorbell-wifi"
       ],
-      "priceXof": 49500,
-      "priceRange": "moins-50k",
+      "crawl": {
+        "status": "ok",
+        "lastChecked": "2026-09-02T03:40:30.333Z",
+        "sourceTitle": "E1 Pro",
+        "sourceAvailability": "in-stock",
+        "sourcePrice": "69.99",
+        "sourceCurrency": "USD",
+        "imageUrl": "https://home-cdn.reolink.us/wp-content/uploads/2024/10/E1-PRO.png.webp"
+      },
+      "imageUrl": "https://home-cdn.reolink.us/wp-content/uploads/2024/10/E1-PRO.png.webp",
+      "priceXof": 75500,
+      "priceRange": "50k-150k",
       "monthlyXof": 4900,
       "warrantyMonths": 24,
       "brandName": "Reolink",
-      "sourceFile": "reolink.json",
-      "crawl": {
-        "status": "never"
-      }
+      "sourceFile": "reolink.json"
     },
     {
       "id": "reolink-rlc-1224a",
@@ -14613,7 +14975,7 @@
         }
       ],
       "pricing": {
-        "sourcePrice": 139.99,
+        "sourcePrice": 129.99,
         "sourceCurrency": "USD"
       },
       "availability": "sur-commande",
@@ -14638,15 +15000,22 @@
       "related": [
         "reolink-rlk8-810b4-a"
       ],
-      "priceXof": 151000,
-      "priceRange": "150k-300k",
+      "crawl": {
+        "status": "ok",
+        "lastChecked": "2026-09-02T03:40:30.333Z",
+        "sourceTitle": "RLC-1224A",
+        "sourceAvailability": "in-stock",
+        "sourcePrice": "129.99",
+        "sourceCurrency": "USD",
+        "imageUrl": "https://home-cdn.reolink.us/wp-content/uploads/2022/01/210404571642737897.3887.png.webp"
+      },
+      "imageUrl": "https://home-cdn.reolink.us/wp-content/uploads/2022/01/210404571642737897.3887.png.webp",
+      "priceXof": 140500,
+      "priceRange": "50k-150k",
       "monthlyXof": 4900,
       "warrantyMonths": 24,
       "brandName": "Reolink",
-      "sourceFile": "reolink.json",
-      "crawl": {
-        "status": "never"
-      }
+      "sourceFile": "reolink.json"
     },
     {
       "id": "reolink-rlk8-810b4-a",
@@ -14854,15 +15223,21 @@
         "reolink-rlc-1224a",
         "reolink-duo-3-poe"
       ],
+      "crawl": {
+        "status": "ok-no-price",
+        "lastChecked": "2026-09-02T03:40:30.333Z",
+        "sourceTitle": "RLK8-810B4-A",
+        "sourceAvailability": "out-of-stock",
+        "sourceCurrency": "USD",
+        "imageUrl": "https://home-cdn.reolink.us/wp-content/uploads/2023/11/200710541700464254.1699.png.webp"
+      },
+      "imageUrl": "https://home-cdn.reolink.us/wp-content/uploads/2023/11/200710541700464254.1699.png.webp",
       "priceXof": 864000,
       "priceRange": "plus-300k",
       "monthlyXof": 9900,
       "warrantyMonths": 24,
       "brandName": "Reolink",
-      "sourceFile": "reolink.json",
-      "crawl": {
-        "status": "never"
-      }
+      "sourceFile": "reolink.json"
     },
     {
       "id": "reolink-solar-panel-2",
@@ -15034,14 +15409,17 @@
         "reolink-argus-3-pro",
         "reolink-trackmix-wifi"
       ],
+      "crawl": {
+        "status": "ok-no-price",
+        "lastChecked": "2026-09-02T03:40:30.333Z",
+        "sourceTitle": "Page Not Found – Reolink",
+        "sourceCurrency": "USD"
+      },
       "priceXof": 43000,
       "priceRange": "moins-50k",
       "monthlyXof": 1900,
       "brandName": "Reolink",
-      "sourceFile": "reolink.json",
-      "crawl": {
-        "status": "never"
-      }
+      "sourceFile": "reolink.json"
     },
     {
       "id": "reolink-trackmix-wifi",
@@ -15245,15 +15623,18 @@
         "reolink-solar-panel-2",
         "reolink-argus-pt-ultra"
       ],
+      "crawl": {
+        "status": "ok-no-price",
+        "lastChecked": "2026-09-02T03:40:30.333Z",
+        "sourceTitle": "Page Not Found – Reolink",
+        "sourceCurrency": "USD"
+      },
       "priceXof": 173000,
       "priceRange": "150k-300k",
       "monthlyXof": 4900,
       "warrantyMonths": 24,
       "brandName": "Reolink",
-      "sourceFile": "reolink.json",
-      "crawl": {
-        "status": "never"
-      }
+      "sourceFile": "reolink.json"
     },
     {
       "id": "reolink-video-doorbell-wifi",
@@ -15461,15 +15842,18 @@
       "related": [
         "reolink-e1-pro"
       ],
+      "crawl": {
+        "status": "ok-no-price",
+        "lastChecked": "2026-09-02T03:40:30.333Z",
+        "sourceTitle": "Page Not Found – Reolink",
+        "sourceCurrency": "USD"
+      },
       "priceXof": 108000,
       "priceRange": "50k-150k",
       "monthlyXof": 4900,
       "warrantyMonths": 24,
       "brandName": "Reolink",
-      "sourceFile": "reolink.json",
-      "crawl": {
-        "status": "never"
-      }
+      "sourceFile": "reolink.json"
     },
     {
       "id": "safer-ac-ir1",
@@ -15651,16 +16035,20 @@
         "safer-climate-t1",
         "safer-link-gz3"
       ],
+      "crawl": {
+        "status": "ok-no-price",
+        "lastChecked": "2026-09-02T03:40:30.333Z",
+        "sourceTitle": "Smart Air Conditioner Mate – AC Control Converters | Indoor Outlets | Expo Powered by Tuya",
+        "sourceCurrency": "USD",
+        "note": "browser"
+      },
       "sourceSku": "WF-IRAC-01",
       "priceXof": 25000,
       "priceRange": "moins-50k",
       "monthlyXof": 2900,
       "warrantyMonths": 24,
       "brandName": "SafeR",
-      "sourceFile": "safer.json",
-      "crawl": {
-        "status": "never"
-      }
+      "sourceFile": "safer.json"
     },
     {
       "id": "safer-bell-2k",
@@ -15853,16 +16241,20 @@
         "safer-lock-d1",
         "safer-cam-bullet-4k"
       ],
+      "crawl": {
+        "status": "ok-no-price",
+        "lastChecked": "2026-09-02T03:40:30.333Z",
+        "sourceTitle": "Smart Video Doorbells |Smart Cameras | IP Camera&Lock | Expo Powered by Tuya",
+        "sourceCurrency": "USD",
+        "note": "browser"
+      },
       "sourceSku": "WF-DB-2K",
       "priceXof": 59500,
       "priceRange": "50k-150k",
       "monthlyXof": 4900,
       "warrantyMonths": 24,
       "brandName": "SafeR",
-      "sourceFile": "safer.json",
-      "crawl": {
-        "status": "never"
-      }
+      "sourceFile": "safer.json"
     },
     {
       "id": "safer-bulb-e27",
@@ -16026,16 +16418,20 @@
         "safer-switch-w1",
         "safer-link-gz3"
       ],
+      "crawl": {
+        "status": "ok-no-price",
+        "lastChecked": "2026-09-02T03:40:30.333Z",
+        "sourceTitle": "Smart Light Bulbs | Light Bulbs | Lighting | Expo Powered by Tuya",
+        "sourceCurrency": "USD",
+        "note": "browser"
+      },
       "sourceSku": "TS0505B",
       "priceXof": 17000,
       "priceRange": "moins-50k",
       "monthlyXof": 2900,
       "warrantyMonths": 24,
       "brandName": "SafeR",
-      "sourceFile": "safer.json",
-      "crawl": {
-        "status": "never"
-      }
+      "sourceFile": "safer.json"
     },
     {
       "id": "safer-cam-dome-2k",
@@ -16227,16 +16623,20 @@
         "safer-cam-mini-1080",
         "safer-link-gz3"
       ],
+      "crawl": {
+        "status": "ok-no-price",
+        "lastChecked": "2026-09-02T03:40:30.333Z",
+        "sourceTitle": "Smart Indoor Pan - Tilt Cameras|Smart Cameras | IP Camera&Lock| Expo Powered by Tuya",
+        "sourceCurrency": "USD",
+        "note": "browser"
+      },
       "sourceSku": "WF-CAM-D2K",
       "priceXof": 42000,
       "priceRange": "moins-50k",
       "monthlyXof": 4900,
       "warrantyMonths": 24,
       "brandName": "SafeR",
-      "sourceFile": "safer.json",
-      "crawl": {
-        "status": "never"
-      }
+      "sourceFile": "safer.json"
     },
     {
       "id": "safer-cam-mini-1080",
@@ -16422,16 +16822,19 @@
         "safer-cam-dome-2k",
         "safer-link-gz3"
       ],
+      "crawl": {
+        "status": "ok-no-price",
+        "lastChecked": "2026-09-02T03:40:30.333Z",
+        "sourceCurrency": "USD",
+        "note": "browser"
+      },
       "sourceSku": "WF-CAM-MINI1K",
       "priceXof": 34500,
       "priceRange": "moins-50k",
       "monthlyXof": 4900,
       "warrantyMonths": 24,
       "brandName": "SafeR",
-      "sourceFile": "safer.json",
-      "crawl": {
-        "status": "never"
-      }
+      "sourceFile": "safer.json"
     },
     {
       "id": "safer-cam-ptz-3mp",
@@ -16634,16 +17037,19 @@
         "safer-cam-bullet-4k",
         "safer-hub-alarm-4g"
       ],
+      "crawl": {
+        "status": "ok-no-price",
+        "lastChecked": "2026-09-02T03:40:30.333Z",
+        "sourceCurrency": "USD",
+        "note": "browser"
+      },
       "sourceSku": "WF-PTZ-3MP",
       "priceXof": 103000,
       "priceRange": "50k-150k",
       "monthlyXof": 4900,
       "warrantyMonths": 24,
       "brandName": "SafeR",
-      "sourceFile": "safer.json",
-      "crawl": {
-        "status": "never"
-      }
+      "sourceFile": "safer.json"
     },
     {
       "id": "safer-cam-solar-2k",
@@ -16848,16 +17254,20 @@
         "safer-cam-bullet-4k",
         "safer-link-gz3"
       ],
+      "crawl": {
+        "status": "ok-no-price",
+        "lastChecked": "2026-09-02T03:40:30.333Z",
+        "sourceTitle": "Smart Battery Powered Cameras |Smart Cameras | IP Camera&Lock | Expo Powered by Tuya",
+        "sourceCurrency": "USD",
+        "note": "browser"
+      },
       "sourceSku": "WF-CAM-SOLAR2K",
       "priceXof": 86000,
       "priceRange": "50k-150k",
       "monthlyXof": 4900,
       "warrantyMonths": 24,
       "brandName": "SafeR",
-      "sourceFile": "safer.json",
-      "crawl": {
-        "status": "never"
-      }
+      "sourceFile": "safer.json"
     },
     {
       "id": "safer-climate-t1",
@@ -17037,16 +17447,18 @@
         "safer-ac-ir1",
         "safer-link-gz3"
       ],
+      "crawl": {
+        "status": "unreachable",
+        "lastChecked": "2026-09-02T03:40:30.333Z",
+        "note": "no result"
+      },
       "sourceSku": "TS0201",
       "priceXof": 20000,
       "priceRange": "moins-50k",
       "monthlyXof": 2900,
       "warrantyMonths": 24,
       "brandName": "SafeR",
-      "sourceFile": "safer.json",
-      "crawl": {
-        "status": "never"
-      }
+      "sourceFile": "safer.json"
     },
     {
       "id": "safer-contact-d1",
@@ -17243,16 +17655,20 @@
         "safer-link-gz3",
         "safer-lock-d1"
       ],
+      "crawl": {
+        "status": "ok-no-price",
+        "lastChecked": "2026-09-02T03:40:30.333Z",
+        "sourceTitle": "Smart Door & Window Sensor |Security Sensor |Sensors | Expo Powered by Tuya",
+        "sourceCurrency": "USD",
+        "note": "browser"
+      },
       "sourceSku": "TS0203",
       "priceXof": 14500,
       "priceRange": "moins-50k",
       "monthlyXof": 6900,
       "warrantyMonths": 24,
       "brandName": "SafeR",
-      "sourceFile": "safer.json",
-      "crawl": {
-        "status": "never"
-      }
+      "sourceFile": "safer.json"
     },
     {
       "id": "safer-curtain-m1",
@@ -17444,16 +17860,20 @@
         "safer-link-gz3",
         "safer-switch-w1"
       ],
+      "crawl": {
+        "status": "ok-no-price",
+        "lastChecked": "2026-09-02T03:40:30.333Z",
+        "sourceTitle": "Smart Curtain Switches | Switches | Electrical | Expo Powered by Tuya",
+        "sourceCurrency": "USD",
+        "note": "browser"
+      },
       "sourceSku": "TS130F",
       "priceXof": 82000,
       "priceRange": "50k-150k",
       "monthlyXof": 2900,
       "warrantyMonths": 24,
       "brandName": "SafeR",
-      "sourceFile": "safer.json",
-      "crawl": {
-        "status": "never"
-      }
+      "sourceFile": "safer.json"
     },
     {
       "id": "safer-gas-g1",
@@ -17649,16 +18069,20 @@
         "safer-hub-alarm-4g",
         "safer-smoke-s1"
       ],
+      "crawl": {
+        "status": "ok-no-price",
+        "lastChecked": "2026-09-02T03:40:30.333Z",
+        "sourceTitle": "Smart Gas Alarm- Detector | Fire Fighting |Sensors | Expo Powered by Tuya",
+        "sourceCurrency": "USD",
+        "note": "browser"
+      },
       "sourceSku": "TS0601",
       "priceXof": 29000,
       "priceRange": "moins-50k",
       "monthlyXof": 6900,
       "warrantyMonths": 24,
       "brandName": "SafeR",
-      "sourceFile": "safer.json",
-      "crawl": {
-        "status": "never"
-      }
+      "sourceFile": "safer.json"
     },
     {
       "id": "safer-hub-alarm-4g",
@@ -17863,16 +18287,20 @@
         "safer-remote-r4",
         "safer-sos-b1"
       ],
+      "crawl": {
+        "status": "ok-no-price",
+        "lastChecked": "2026-09-02T03:40:30.333Z",
+        "sourceTitle": "Smart Alarm (System) Hub  |  Sensors | Expo Powered by Tuya",
+        "sourceCurrency": "USD",
+        "note": "browser"
+      },
       "sourceSku": "WF-ALM-4G",
       "priceXof": 170500,
       "priceRange": "150k-300k",
       "monthlyXof": 14900,
       "warrantyMonths": 24,
       "brandName": "SafeR",
-      "sourceFile": "safer.json",
-      "crawl": {
-        "status": "never"
-      }
+      "sourceFile": "safer.json"
     },
     {
       "id": "safer-leak-l1",
@@ -18056,16 +18484,18 @@
         "safer-link-gz3",
         "safer-hub-alarm-4g"
       ],
+      "crawl": {
+        "status": "unreachable",
+        "lastChecked": "2026-09-02T03:40:30.333Z",
+        "note": "no result"
+      },
       "sourceSku": "TS0207",
       "priceXof": 17000,
       "priceRange": "moins-50k",
       "monthlyXof": 6900,
       "warrantyMonths": 24,
       "brandName": "SafeR",
-      "sourceFile": "safer.json",
-      "crawl": {
-        "status": "never"
-      }
+      "sourceFile": "safer.json"
     },
     {
       "id": "safer-link-bz",
@@ -18253,16 +18683,18 @@
         "safer-sos-b1",
         "safer-remote-r4"
       ],
+      "crawl": {
+        "status": "unreachable",
+        "lastChecked": "2026-09-02T03:40:30.333Z",
+        "note": "no result"
+      },
       "sourceSku": "ZB-BLE-GW02",
       "priceXof": 82000,
       "priceRange": "50k-150k",
       "monthlyXof": 4900,
       "warrantyMonths": 24,
       "brandName": "SafeR",
-      "sourceFile": "safer.json",
-      "crawl": {
-        "status": "never"
-      }
+      "sourceFile": "safer.json"
     },
     {
       "id": "safer-lock-d1",
@@ -18463,16 +18895,20 @@
         "safer-bell-2k",
         "safer-contact-d1"
       ],
+      "crawl": {
+        "status": "ok-no-price",
+        "lastChecked": "2026-09-02T03:40:30.333Z",
+        "sourceTitle": "Smart Locks | IP Camera&Lock | Expo Powered by Tuya",
+        "sourceCurrency": "USD",
+        "note": "browser"
+      },
       "sourceSku": "WF-LOCK-01",
       "priceXof": 196500,
       "priceRange": "150k-300k",
       "monthlyXof": 3900,
       "warrantyMonths": 24,
       "brandName": "SafeR",
-      "sourceFile": "safer.json",
-      "crawl": {
-        "status": "never"
-      }
+      "sourceFile": "safer.json"
     },
     {
       "id": "safer-motion-p1",
@@ -18657,16 +19093,20 @@
         "safer-link-gz3",
         "safer-siren-s2"
       ],
+      "crawl": {
+        "status": "ok-no-price",
+        "lastChecked": "2026-09-02T03:40:30.333Z",
+        "sourceTitle": "Smart PIR Motion Detector |Security Sensor |Sensors | Expo Powered by Tuya",
+        "sourceCurrency": "USD",
+        "note": "browser"
+      },
       "sourceSku": "TS0202",
       "priceXof": 18500,
       "priceRange": "moins-50k",
       "monthlyXof": 6900,
       "warrantyMonths": 24,
       "brandName": "SafeR",
-      "sourceFile": "safer.json",
-      "crawl": {
-        "status": "never"
-      }
+      "sourceFile": "safer.json"
     },
     {
       "id": "safer-plug-16a",
@@ -18825,16 +19265,20 @@
         "safer-switch-w1",
         "safer-link-gz3"
       ],
+      "crawl": {
+        "status": "ok-no-price",
+        "lastChecked": "2026-09-02T03:40:30.333Z",
+        "sourceTitle": "2026 Global IoT Online Exposition | Home Automation Solutions | Smart Home - Tuya Smart",
+        "sourceCurrency": "USD",
+        "note": "browser"
+      },
       "sourceSku": "TS011F",
       "priceXof": 16000,
       "priceRange": "moins-50k",
       "monthlyXof": 2900,
       "warrantyMonths": 24,
       "brandName": "SafeR",
-      "sourceFile": "safer.json",
-      "crawl": {
-        "status": "never"
-      }
+      "sourceFile": "safer.json"
     },
     {
       "id": "safer-remote-r4",
@@ -19031,16 +19475,20 @@
         "safer-hub-alarm-4g",
         "safer-link-gz3"
       ],
+      "crawl": {
+        "status": "ok-no-price",
+        "lastChecked": "2026-09-02T03:40:30.333Z",
+        "sourceTitle": "Smart Light Switch Scene Controllers | Switches | Electrical | Expo Powered by Tuya",
+        "sourceCurrency": "USD",
+        "note": "browser"
+      },
       "sourceSku": "TS0044",
       "priceXof": 21000,
       "priceRange": "moins-50k",
       "monthlyXof": 6900,
       "warrantyMonths": 24,
       "brandName": "SafeR",
-      "sourceFile": "safer.json",
-      "crawl": {
-        "status": "never"
-      }
+      "sourceFile": "safer.json"
     },
     {
       "id": "safer-siren-s2",
@@ -19235,16 +19683,20 @@
         "safer-hub-alarm-4g",
         "safer-motion-p1"
       ],
+      "crawl": {
+        "status": "ok-no-price",
+        "lastChecked": "2026-09-02T03:40:30.333Z",
+        "sourceTitle": "Smart Strobe Siren |Security Sensor |Sensors | Expo Powered by Tuya",
+        "sourceCurrency": "USD",
+        "note": "browser"
+      },
       "sourceSku": "WF-SIR-105DB",
       "priceXof": 45000,
       "priceRange": "moins-50k",
       "monthlyXof": 6900,
       "warrantyMonths": 24,
       "brandName": "SafeR",
-      "sourceFile": "safer.json",
-      "crawl": {
-        "status": "never"
-      }
+      "sourceFile": "safer.json"
     },
     {
       "id": "safer-smoke-s1",
@@ -19440,16 +19892,20 @@
         "safer-hub-alarm-4g",
         "safer-gas-g1"
       ],
+      "crawl": {
+        "status": "ok-no-price",
+        "lastChecked": "2026-09-02T03:40:30.333Z",
+        "sourceTitle": "Smart Smoke Alarm - Detector | Fire Fighting |Sensors | Expo Powered by Tuya",
+        "sourceCurrency": "USD",
+        "note": "browser"
+      },
       "sourceSku": "TS0205",
       "priceXof": 24000,
       "priceRange": "moins-50k",
       "monthlyXof": 6900,
       "warrantyMonths": 24,
       "brandName": "SafeR",
-      "sourceFile": "safer.json",
-      "crawl": {
-        "status": "never"
-      }
+      "sourceFile": "safer.json"
     },
     {
       "id": "safer-sos-b1",
@@ -19642,16 +20098,20 @@
         "safer-hub-alarm-4g",
         "safer-remote-r4"
       ],
+      "crawl": {
+        "status": "ok-no-price",
+        "lastChecked": "2026-09-02T03:40:30.333Z",
+        "sourceTitle": "Smart Security Sensor | Sensors | Expo Powered by Tuya",
+        "sourceCurrency": "USD",
+        "note": "browser"
+      },
       "sourceSku": "TS0215A",
       "priceXof": 20000,
       "priceRange": "moins-50k",
       "monthlyXof": 6900,
       "warrantyMonths": 24,
       "brandName": "SafeR",
-      "sourceFile": "safer.json",
-      "crawl": {
-        "status": "never"
-      }
+      "sourceFile": "safer.json"
     },
     {
       "id": "safer-switch-w1",
@@ -19833,16 +20293,20 @@
         "safer-plug-16a",
         "safer-bulb-e27"
       ],
+      "crawl": {
+        "status": "ok-no-price",
+        "lastChecked": "2026-09-02T03:40:30.333Z",
+        "sourceTitle": "Smart Light Switches | Switches | Electrical | Expo Powered by Tuya",
+        "sourceCurrency": "USD",
+        "note": "browser"
+      },
       "sourceSku": "TS0011",
       "priceXof": 20000,
       "priceRange": "moins-50k",
       "monthlyXof": 2900,
       "warrantyMonths": 24,
       "brandName": "SafeR",
-      "sourceFile": "safer.json",
-      "crawl": {
-        "status": "never"
-      }
+      "sourceFile": "safer.json"
     },
     {
       "id": "somfy-door-keeper",
@@ -20029,14 +20493,21 @@
         "somfy-tahoma-switch",
         "somfy-intellitag"
       ],
+      "crawl": {
+        "status": "ok",
+        "lastChecked": "2026-09-02T03:40:30.333Z",
+        "sourceTitle": "Pack de 5 détecteurs IntelliTAG® pour gamme Home Alarm et One+  | Somfy",
+        "sourcePrice": "259",
+        "sourceCurrency": "EUR",
+        "imageUrl": "https://www.somfy.fr/common/img/library//tahoma-switch.png",
+        "note": "out-of-range 55→259"
+      },
+      "imageUrl": "https://www.somfy.fr/common/img/library//tahoma-switch.png",
       "priceXof": 65000,
       "priceRange": "50k-150k",
       "monthlyXof": 3900,
       "brandName": "Somfy",
-      "sourceFile": "somfy.json",
-      "crawl": {
-        "status": "never"
-      }
+      "sourceFile": "somfy.json"
     },
     {
       "id": "somfy-elixo-500-3s-io",
@@ -20221,14 +20692,20 @@
         "somfy-tahoma-switch",
         "somfy-freevia-600"
       ],
+      "crawl": {
+        "status": "ok-no-price",
+        "lastChecked": "2026-09-02T03:40:30.333Z",
+        "sourceTitle": "Box domotique TaHoma switch : Pilotez volets & équipements connectés | Somfy",
+        "sourceCurrency": "EUR",
+        "imageUrl": "https://www.somfy.fr/common/img/library//tahoma-switch.png",
+        "note": "browser"
+      },
+      "imageUrl": "https://www.somfy.fr/common/img/library//tahoma-switch.png",
       "priceXof": 649500,
       "priceRange": "plus-300k",
       "monthlyXof": 3900,
       "brandName": "Somfy",
-      "sourceFile": "somfy.json",
-      "crawl": {
-        "status": "never"
-      }
+      "sourceFile": "somfy.json"
     },
     {
       "id": "somfy-freevia-600",
@@ -20407,14 +20884,20 @@
         "somfy-tahoma-switch",
         "somfy-elixo-500-3s-io"
       ],
+      "crawl": {
+        "status": "ok-no-price",
+        "lastChecked": "2026-09-02T03:40:30.333Z",
+        "sourceTitle": "Box domotique TaHoma switch : Pilotez volets & équipements connectés | Somfy",
+        "sourceCurrency": "EUR",
+        "imageUrl": "https://www.somfy.fr/common/img/library//tahoma-switch.png",
+        "note": "browser"
+      },
+      "imageUrl": "https://www.somfy.fr/common/img/library//tahoma-switch.png",
       "priceXof": 566500,
       "priceRange": "plus-300k",
       "monthlyXof": 3900,
       "brandName": "Somfy",
-      "sourceFile": "somfy.json",
-      "crawl": {
-        "status": "never"
-      }
+      "sourceFile": "somfy.json"
     },
     {
       "id": "somfy-home-alarm-advanced",
@@ -20603,14 +21086,19 @@
         "somfy-intellitag",
         "somfy-outdoor-camera"
       ],
+      "crawl": {
+        "status": "ok-no-price",
+        "lastChecked": "2026-09-02T03:40:30.333Z",
+        "sourceTitle": "Thermostat connecté radio  | Somfy",
+        "sourceCurrency": "EUR",
+        "imageUrl": "https://www.somfy.fr/common/img/library//tahoma-switch.png"
+      },
+      "imageUrl": "https://www.somfy.fr/common/img/library//tahoma-switch.png",
       "priceXof": 471000,
       "priceRange": "plus-300k",
       "monthlyXof": 14900,
       "brandName": "Somfy",
-      "sourceFile": "somfy.json",
-      "crawl": {
-        "status": "never"
-      }
+      "sourceFile": "somfy.json"
     },
     {
       "id": "somfy-indoor-camera",
@@ -20766,7 +21254,7 @@
         }
       ],
       "pricing": {
-        "sourcePrice": 179,
+        "sourcePrice": 194.99,
         "sourceCurrency": "EUR"
       },
       "availability": "en-stock",
@@ -20792,14 +21280,20 @@
         "somfy-tahoma-switch",
         "somfy-home-alarm-advanced"
       ],
-      "priceXof": 211500,
+      "crawl": {
+        "status": "ok",
+        "lastChecked": "2026-09-02T03:40:30.333Z",
+        "sourceTitle": "Sirène extérieure pour gamme Home Alarm et One+  | Somfy",
+        "sourcePrice": "194.99",
+        "sourceCurrency": "EUR",
+        "imageUrl": "https://www.somfy.fr/common/img/library//tahoma-switch.png"
+      },
+      "imageUrl": "https://www.somfy.fr/common/img/library//tahoma-switch.png",
+      "priceXof": 230000,
       "priceRange": "150k-300k",
       "monthlyXof": 4900,
       "brandName": "Somfy",
-      "sourceFile": "somfy.json",
-      "crawl": {
-        "status": "never"
-      }
+      "sourceFile": "somfy.json"
     },
     {
       "id": "somfy-intellitag",
@@ -20974,14 +21468,20 @@
         "somfy-home-alarm-advanced",
         "somfy-door-keeper"
       ],
+      "crawl": {
+        "status": "ok-no-price",
+        "lastChecked": "2026-09-02T03:40:30.333Z",
+        "sourceTitle": "Box domotique TaHoma switch : Pilotez volets & équipements connectés | Somfy",
+        "sourceCurrency": "EUR",
+        "imageUrl": "https://www.somfy.fr/common/img/library//tahoma-switch.png",
+        "note": "browser"
+      },
+      "imageUrl": "https://www.somfy.fr/common/img/library//tahoma-switch.png",
       "priceXof": 53000,
       "priceRange": "50k-150k",
       "monthlyXof": 6900,
       "brandName": "Somfy",
-      "sourceFile": "somfy.json",
-      "crawl": {
-        "status": "never"
-      }
+      "sourceFile": "somfy.json"
     },
     {
       "id": "somfy-outdoor-camera",
@@ -21141,7 +21641,7 @@
         }
       ],
       "pricing": {
-        "sourcePrice": 299,
+        "sourcePrice": 396.55,
         "sourceCurrency": "EUR"
       },
       "availability": "sur-commande",
@@ -21168,14 +21668,20 @@
         "somfy-tahoma-switch",
         "somfy-home-alarm-advanced"
       ],
-      "priceXof": 353000,
+      "crawl": {
+        "status": "ok",
+        "lastChecked": "2026-09-02T03:40:30.333Z",
+        "sourceTitle": "Système d'alarme avec caméra intégrée - Somfy One+ │ Somfy",
+        "sourcePrice": "396.55",
+        "sourceCurrency": "EUR",
+        "imageUrl": "https://www.somfy.fr/common/img/library//tahoma-switch.png"
+      },
+      "imageUrl": "https://www.somfy.fr/common/img/library//tahoma-switch.png",
+      "priceXof": 468000,
       "priceRange": "plus-300k",
       "monthlyXof": 4900,
       "brandName": "Somfy",
-      "sourceFile": "somfy.json",
-      "crawl": {
-        "status": "never"
-      }
+      "sourceFile": "somfy.json"
     },
     {
       "id": "somfy-oximo-io",
@@ -21344,14 +21850,20 @@
       "related": [
         "somfy-tahoma-switch"
       ],
+      "crawl": {
+        "status": "ok-no-price",
+        "lastChecked": "2026-09-02T03:40:30.333Z",
+        "sourceTitle": "Box domotique TaHoma switch : Pilotez volets & équipements connectés | Somfy",
+        "sourceCurrency": "EUR",
+        "imageUrl": "https://www.somfy.fr/common/img/library//tahoma-switch.png",
+        "note": "browser"
+      },
+      "imageUrl": "https://www.somfy.fr/common/img/library//tahoma-switch.png",
       "priceXof": 211500,
       "priceRange": "150k-300k",
       "monthlyXof": 2900,
       "brandName": "Somfy",
-      "sourceFile": "somfy.json",
-      "crawl": {
-        "status": "never"
-      }
+      "sourceFile": "somfy.json"
     },
     {
       "id": "sonoff-ihost",
@@ -21539,15 +22051,21 @@
         "sonoff-zbbridge-p",
         "sonoff-minir4m"
       ],
+      "crawl": {
+        "status": "ok-no-price",
+        "lastChecked": "2026-09-02T03:40:30.333Z",
+        "sourceTitle": "404 Not Found",
+        "sourceCurrency": "USD",
+        "imageUrl": "http://sonoff.tech/cdn/shop/files/SONOFF-LOGO_8df6f51e-0c8f-46c0-9b92-720dffa82413.png?v=1751266209&width=2048",
+        "note": "browser"
+      },
+      "imageUrl": "http://sonoff.tech/cdn/shop/files/SONOFF-LOGO_8df6f51e-0c8f-46c0-9b92-720dffa82413.png?v=1751266209&width=2048",
       "priceXof": 72000,
       "priceRange": "50k-150k",
       "monthlyXof": 4900,
       "warrantyMonths": 24,
       "brandName": "SONOFF",
-      "sourceFile": "sonoff.json",
-      "crawl": {
-        "status": "never"
-      }
+      "sourceFile": "sonoff.json"
     },
     {
       "id": "sonoff-minir4m",
@@ -21723,15 +22241,21 @@
         "sonoff-tx-ultimate",
         "sonoff-powr320d"
       ],
+      "crawl": {
+        "status": "ok-no-price",
+        "lastChecked": "2026-09-02T03:40:30.333Z",
+        "sourceTitle": "404 Not Found",
+        "sourceCurrency": "USD",
+        "imageUrl": "http://sonoff.tech/cdn/shop/files/SONOFF-LOGO_8df6f51e-0c8f-46c0-9b92-720dffa82413.png?v=1751266209&width=2048",
+        "note": "browser"
+      },
+      "imageUrl": "http://sonoff.tech/cdn/shop/files/SONOFF-LOGO_8df6f51e-0c8f-46c0-9b92-720dffa82413.png?v=1751266209&width=2048",
       "priceXof": 18000,
       "priceRange": "moins-50k",
       "monthlyXof": 2900,
       "warrantyMonths": 24,
       "brandName": "SONOFF",
-      "sourceFile": "sonoff.json",
-      "crawl": {
-        "status": "never"
-      }
+      "sourceFile": "sonoff.json"
     },
     {
       "id": "sonoff-powr320d",
@@ -21910,15 +22434,21 @@
         "sonoff-s60tpf",
         "sonoff-minir4m"
       ],
+      "crawl": {
+        "status": "ok-no-price",
+        "lastChecked": "2026-09-02T03:40:30.333Z",
+        "sourceTitle": "404 Not Found",
+        "sourceCurrency": "USD",
+        "imageUrl": "http://sonoff.tech/cdn/shop/files/SONOFF-LOGO_8df6f51e-0c8f-46c0-9b92-720dffa82413.png?v=1751266209&width=2048",
+        "note": "browser"
+      },
+      "imageUrl": "http://sonoff.tech/cdn/shop/files/SONOFF-LOGO_8df6f51e-0c8f-46c0-9b92-720dffa82413.png?v=1751266209&width=2048",
       "priceXof": 31000,
       "priceRange": "moins-50k",
       "monthlyXof": 2900,
       "warrantyMonths": 24,
       "brandName": "SONOFF",
-      "sourceFile": "sonoff.json",
-      "crawl": {
-        "status": "never"
-      }
+      "sourceFile": "sonoff.json"
     },
     {
       "id": "sonoff-s60tpf",
@@ -22083,15 +22613,21 @@
         "sonoff-minir4m",
         "sonoff-powr320d"
       ],
+      "crawl": {
+        "status": "ok-no-price",
+        "lastChecked": "2026-09-02T03:40:30.333Z",
+        "sourceTitle": "404 Not Found",
+        "sourceCurrency": "USD",
+        "imageUrl": "http://sonoff.tech/cdn/shop/files/SONOFF-LOGO_8df6f51e-0c8f-46c0-9b92-720dffa82413.png?v=1751266209&width=2048",
+        "note": "browser"
+      },
+      "imageUrl": "http://sonoff.tech/cdn/shop/files/SONOFF-LOGO_8df6f51e-0c8f-46c0-9b92-720dffa82413.png?v=1751266209&width=2048",
       "priceXof": 20500,
       "priceRange": "moins-50k",
       "monthlyXof": 2900,
       "warrantyMonths": 24,
       "brandName": "SONOFF",
-      "sourceFile": "sonoff.json",
-      "crawl": {
-        "status": "never"
-      }
+      "sourceFile": "sonoff.json"
     },
     {
       "id": "sonoff-snzb-02d",
@@ -22277,15 +22813,21 @@
         "sonoff-zbbridge-p",
         "sonoff-snzb-04p"
       ],
+      "crawl": {
+        "status": "ok-no-price",
+        "lastChecked": "2026-09-02T03:40:30.333Z",
+        "sourceTitle": "404 Not Found",
+        "sourceCurrency": "USD",
+        "imageUrl": "http://sonoff.tech/cdn/shop/files/SONOFF-LOGO_8df6f51e-0c8f-46c0-9b92-720dffa82413.png?v=1751266209&width=2048",
+        "note": "browser"
+      },
+      "imageUrl": "http://sonoff.tech/cdn/shop/files/SONOFF-LOGO_8df6f51e-0c8f-46c0-9b92-720dffa82413.png?v=1751266209&width=2048",
       "priceXof": 15500,
       "priceRange": "moins-50k",
       "monthlyXof": 2900,
       "warrantyMonths": 24,
       "brandName": "SONOFF",
-      "sourceFile": "sonoff.json",
-      "crawl": {
-        "status": "never"
-      }
+      "sourceFile": "sonoff.json"
     },
     {
       "id": "sonoff-snzb-04p",
@@ -22482,15 +23024,21 @@
         "sonoff-zbbridge-p",
         "sonoff-snzb-02d"
       ],
+      "crawl": {
+        "status": "ok-no-price",
+        "lastChecked": "2026-09-02T03:40:30.333Z",
+        "sourceTitle": "404 Not Found",
+        "sourceCurrency": "USD",
+        "imageUrl": "http://sonoff.tech/cdn/shop/files/SONOFF-LOGO_8df6f51e-0c8f-46c0-9b92-720dffa82413.png?v=1751266209&width=2048",
+        "note": "browser"
+      },
+      "imageUrl": "http://sonoff.tech/cdn/shop/files/SONOFF-LOGO_8df6f51e-0c8f-46c0-9b92-720dffa82413.png?v=1751266209&width=2048",
       "priceXof": 13000,
       "priceRange": "moins-50k",
       "monthlyXof": 6900,
       "warrantyMonths": 24,
       "brandName": "SONOFF",
-      "sourceFile": "sonoff.json",
-      "crawl": {
-        "status": "never"
-      }
+      "sourceFile": "sonoff.json"
     },
     {
       "id": "sonoff-tx-ultimate",
@@ -22680,15 +23228,21 @@
         "sonoff-minir4m",
         "sonoff-s60tpf"
       ],
+      "crawl": {
+        "status": "ok-no-price",
+        "lastChecked": "2026-09-02T03:40:30.333Z",
+        "sourceTitle": "404 Not Found",
+        "sourceCurrency": "USD",
+        "imageUrl": "http://sonoff.tech/cdn/shop/files/SONOFF-LOGO_8df6f51e-0c8f-46c0-9b92-720dffa82413.png?v=1751266209&width=2048",
+        "note": "browser"
+      },
+      "imageUrl": "http://sonoff.tech/cdn/shop/files/SONOFF-LOGO_8df6f51e-0c8f-46c0-9b92-720dffa82413.png?v=1751266209&width=2048",
       "priceXof": 31000,
       "priceRange": "moins-50k",
       "monthlyXof": 2900,
       "warrantyMonths": 24,
       "brandName": "SONOFF",
-      "sourceFile": "sonoff.json",
-      "crawl": {
-        "status": "never"
-      }
+      "sourceFile": "sonoff.json"
     },
     {
       "id": "teltonika-rut956",
@@ -22878,15 +23432,21 @@
         "teltonika-rut241",
         "teltonika-rutx11"
       ],
+      "crawl": {
+        "status": "ok-no-price",
+        "lastChecked": "2026-09-02T03:40:30.333Z",
+        "sourceTitle": "RUT956",
+        "sourceAvailability": "in-stock",
+        "sourceCurrency": "USD",
+        "imageUrl": "https://static.wixstatic.com/media/814ec4_301620fa362641499b60078954ade8fd~mv2.jpg/v1/fill/w_1920,h_1008,al_c,q_85/social-social-product-19.jpg"
+      },
+      "imageUrl": "https://static.wixstatic.com/media/814ec4_301620fa362641499b60078954ade8fd~mv2.jpg/v1/fill/w_1920,h_1008,al_c,q_85/social-social-product-19.jpg",
       "priceXof": 317500,
       "priceRange": "plus-300k",
       "monthlyXof": 1900,
       "warrantyMonths": 24,
       "brandName": "Teltonika Networks",
-      "sourceFile": "teltonika.json",
-      "crawl": {
-        "status": "never"
-      }
+      "sourceFile": "teltonika.json"
     },
     {
       "id": "teltonika-rutx11",
@@ -23067,15 +23627,21 @@
         "teltonika-rut241",
         "teltonika-rut956"
       ],
+      "crawl": {
+        "status": "ok-no-price",
+        "lastChecked": "2026-09-02T03:40:30.333Z",
+        "sourceTitle": "RUTX11",
+        "sourceAvailability": "in-stock",
+        "sourceCurrency": "USD",
+        "imageUrl": "https://static.wixstatic.com/media/57c734_01b8346ac1ab4f7fb219c76678ddedb1~mv2.jpg/v1/fill/w_1920,h_760,al_c,q_85/RUTX11_1920x760-hero.jpg"
+      },
+      "imageUrl": "https://static.wixstatic.com/media/57c734_01b8346ac1ab4f7fb219c76678ddedb1~mv2.jpg/v1/fill/w_1920,h_760,al_c,q_85/RUTX11_1920x760-hero.jpg",
       "priceXof": 270500,
       "priceRange": "150k-300k",
       "monthlyXof": 1900,
       "warrantyMonths": 24,
       "brandName": "Teltonika Networks",
-      "sourceFile": "teltonika.json",
-      "crawl": {
-        "status": "never"
-      }
+      "sourceFile": "teltonika.json"
     },
     {
       "id": "yale-smart-cabinet-lock",
@@ -23261,14 +23827,18 @@
       "related": [
         "yale-linus-smart-lock-l2"
       ],
+      "crawl": {
+        "status": "ok-no-price",
+        "lastChecked": "2026-09-02T03:40:30.333Z",
+        "sourceTitle": "404",
+        "sourceCurrency": "EUR",
+        "note": "browser"
+      },
       "priceXof": 65000,
       "priceRange": "50k-150k",
       "monthlyXof": 3900,
       "brandName": "Yale",
-      "sourceFile": "yale.json",
-      "crawl": {
-        "status": "never"
-      }
+      "sourceFile": "yale.json"
     },
     {
       "id": "yale-smart-keypad",
@@ -23455,14 +24025,18 @@
       "related": [
         "yale-linus-smart-lock-l2"
       ],
+      "crawl": {
+        "status": "ok-no-price",
+        "lastChecked": "2026-09-02T03:40:30.333Z",
+        "sourceTitle": "404",
+        "sourceCurrency": "EUR",
+        "note": "browser"
+      },
       "priceXof": 76500,
       "priceRange": "50k-150k",
       "monthlyXof": 3900,
       "brandName": "Yale",
-      "sourceFile": "yale.json",
-      "crawl": {
-        "status": "never"
-      }
+      "sourceFile": "yale.json"
     },
     {
       "id": "yale-smart-opener",
@@ -23649,14 +24223,18 @@
       "related": [
         "yale-linus-smart-lock-l2"
       ],
+      "crawl": {
+        "status": "ok-no-price",
+        "lastChecked": "2026-09-02T03:40:30.333Z",
+        "sourceTitle": "404",
+        "sourceCurrency": "EUR",
+        "note": "browser"
+      },
       "priceXof": 117000,
       "priceRange": "50k-150k",
       "monthlyXof": 3900,
       "brandName": "Yale",
-      "sourceFile": "yale.json",
-      "crawl": {
-        "status": "never"
-      }
+      "sourceFile": "yale.json"
     }
   ]
 }

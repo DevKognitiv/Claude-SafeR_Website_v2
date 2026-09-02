@@ -176,7 +176,16 @@
       "somfy-home-alarm-advanced",
       "somfy-oximo-io",
       "somfy-outdoor-camera"
-    ]
+    ],
+    "crawl": {
+      "status": "ok-no-price",
+      "lastChecked": "2026-09-02T03:40:30.333Z",
+      "sourceTitle": "Box domotique TaHoma switch : Pilotez volets & équipements connectés | Somfy",
+      "sourceCurrency": "EUR",
+      "imageUrl": "https://www.somfy.fr/common/img/library//tahoma-switch.png",
+      "note": "browser"
+    },
+    "imageUrl": "https://www.somfy.fr/common/img/library//tahoma-switch.png"
   },
   {
     "id": "somfy-home-alarm-advanced",
@@ -364,7 +373,15 @@
       "somfy-tahoma-switch",
       "somfy-intellitag",
       "somfy-outdoor-camera"
-    ]
+    ],
+    "crawl": {
+      "status": "ok-no-price",
+      "lastChecked": "2026-09-02T03:40:30.333Z",
+      "sourceTitle": "Thermostat connecté radio  | Somfy",
+      "sourceCurrency": "EUR",
+      "imageUrl": "https://www.somfy.fr/common/img/library//tahoma-switch.png"
+    },
+    "imageUrl": "https://www.somfy.fr/common/img/library//tahoma-switch.png"
   },
   {
     "id": "somfy-intellitag",
@@ -538,7 +555,16 @@
     "related": [
       "somfy-home-alarm-advanced",
       "somfy-door-keeper"
-    ]
+    ],
+    "crawl": {
+      "status": "ok-no-price",
+      "lastChecked": "2026-09-02T03:40:30.333Z",
+      "sourceTitle": "Box domotique TaHoma switch : Pilotez volets & équipements connectés | Somfy",
+      "sourceCurrency": "EUR",
+      "imageUrl": "https://www.somfy.fr/common/img/library//tahoma-switch.png",
+      "note": "browser"
+    },
+    "imageUrl": "https://www.somfy.fr/common/img/library//tahoma-switch.png"
   },
   {
     "id": "somfy-outdoor-camera",
@@ -698,7 +724,7 @@
       }
     ],
     "pricing": {
-      "sourcePrice": 299,
+      "sourcePrice": 396.55,
       "sourceCurrency": "EUR"
     },
     "availability": "sur-commande",
@@ -724,7 +750,16 @@
     "related": [
       "somfy-tahoma-switch",
       "somfy-home-alarm-advanced"
-    ]
+    ],
+    "crawl": {
+      "status": "ok",
+      "lastChecked": "2026-09-02T03:40:30.333Z",
+      "sourceTitle": "Système d'alarme avec caméra intégrée - Somfy One+ │ Somfy",
+      "sourcePrice": "396.55",
+      "sourceCurrency": "EUR",
+      "imageUrl": "https://www.somfy.fr/common/img/library//tahoma-switch.png"
+    },
+    "imageUrl": "https://www.somfy.fr/common/img/library//tahoma-switch.png"
   },
   {
     "id": "somfy-indoor-camera",
@@ -880,7 +915,7 @@
       }
     ],
     "pricing": {
-      "sourcePrice": 179,
+      "sourcePrice": 194.99,
       "sourceCurrency": "EUR"
     },
     "availability": "en-stock",
@@ -905,7 +940,16 @@
     "related": [
       "somfy-tahoma-switch",
       "somfy-home-alarm-advanced"
-    ]
+    ],
+    "crawl": {
+      "status": "ok",
+      "lastChecked": "2026-09-02T03:40:30.333Z",
+      "sourceTitle": "Sirène extérieure pour gamme Home Alarm et One+  | Somfy",
+      "sourcePrice": "194.99",
+      "sourceCurrency": "EUR",
+      "imageUrl": "https://www.somfy.fr/common/img/library//tahoma-switch.png"
+    },
+    "imageUrl": "https://www.somfy.fr/common/img/library//tahoma-switch.png"
   },
   {
     "id": "somfy-door-keeper",
@@ -1091,7 +1135,17 @@
     "related": [
       "somfy-tahoma-switch",
       "somfy-intellitag"
-    ]
+    ],
+    "crawl": {
+      "status": "ok",
+      "lastChecked": "2026-09-02T03:40:30.333Z",
+      "sourceTitle": "Pack de 5 détecteurs IntelliTAG® pour gamme Home Alarm et One+  | Somfy",
+      "sourcePrice": "259",
+      "sourceCurrency": "EUR",
+      "imageUrl": "https://www.somfy.fr/common/img/library//tahoma-switch.png",
+      "note": "out-of-range 55→259"
+    },
+    "imageUrl": "https://www.somfy.fr/common/img/library//tahoma-switch.png"
   },
   {
     "id": "somfy-elixo-500-3s-io",
@@ -1275,7 +1329,16 @@
     "related": [
       "somfy-tahoma-switch",
       "somfy-freevia-600"
-    ]
+    ],
+    "crawl": {
+      "status": "ok-no-price",
+      "lastChecked": "2026-09-02T03:40:30.333Z",
+      "sourceTitle": "Box domotique TaHoma switch : Pilotez volets & équipements connectés | Somfy",
+      "sourceCurrency": "EUR",
+      "imageUrl": "https://www.somfy.fr/common/img/library//tahoma-switch.png",
+      "note": "browser"
+    },
+    "imageUrl": "https://www.somfy.fr/common/img/library//tahoma-switch.png"
   },
   {
     "id": "somfy-freevia-600",
@@ -1453,7 +1516,16 @@
     "related": [
       "somfy-tahoma-switch",
       "somfy-elixo-500-3s-io"
-    ]
+    ],
+    "crawl": {
+      "status": "ok-no-price",
+      "lastChecked": "2026-09-02T03:40:30.333Z",
+      "sourceTitle": "Box domotique TaHoma switch : Pilotez volets & équipements connectés | Somfy",
+      "sourceCurrency": "EUR",
+      "imageUrl": "https://www.somfy.fr/common/img/library//tahoma-switch.png",
+      "note": "browser"
+    },
+    "imageUrl": "https://www.somfy.fr/common/img/library//tahoma-switch.png"
   },
   {
     "id": "somfy-oximo-io",
@@ -1621,6 +1693,15 @@
     ],
     "related": [
       "somfy-tahoma-switch"
-    ]
+    ],
+    "crawl": {
+      "status": "ok-no-price",
+      "lastChecked": "2026-09-02T03:40:30.333Z",
+      "sourceTitle": "Box domotique TaHoma switch : Pilotez volets & équipements connectés | Somfy",
+      "sourceCurrency": "EUR",
+      "imageUrl": "https://www.somfy.fr/common/img/library//tahoma-switch.png",
+      "note": "browser"
+    },
+    "imageUrl": "https://www.somfy.fr/common/img/library//tahoma-switch.png"
   }
 ]

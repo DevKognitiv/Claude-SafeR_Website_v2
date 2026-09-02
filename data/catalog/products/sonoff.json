@@ -179,7 +179,16 @@
       "sonoff-snzb-02d",
       "sonoff-snzb-04p",
       "sonoff-ihost"
-    ]
+    ],
+    "crawl": {
+      "status": "ok-no-price",
+      "lastChecked": "2026-09-02T03:40:30.333Z",
+      "sourceTitle": "404 Not Found",
+      "sourceCurrency": "USD",
+      "imageUrl": "http://sonoff.tech/cdn/shop/files/SONOFF-LOGO_8df6f51e-0c8f-46c0-9b92-720dffa82413.png?v=1751266209&width=2048",
+      "note": "browser"
+    },
+    "imageUrl": "http://sonoff.tech/cdn/shop/files/SONOFF-LOGO_8df6f51e-0c8f-46c0-9b92-720dffa82413.png?v=1751266209&width=2048"
   },
   {
     "id": "sonoff-ihost",
@@ -366,7 +375,16 @@
     "related": [
       "sonoff-zbbridge-p",
       "sonoff-minir4m"
-    ]
+    ],
+    "crawl": {
+      "status": "ok-no-price",
+      "lastChecked": "2026-09-02T03:40:30.333Z",
+      "sourceTitle": "404 Not Found",
+      "sourceCurrency": "USD",
+      "imageUrl": "http://sonoff.tech/cdn/shop/files/SONOFF-LOGO_8df6f51e-0c8f-46c0-9b92-720dffa82413.png?v=1751266209&width=2048",
+      "note": "browser"
+    },
+    "imageUrl": "http://sonoff.tech/cdn/shop/files/SONOFF-LOGO_8df6f51e-0c8f-46c0-9b92-720dffa82413.png?v=1751266209&width=2048"
   },
   {
     "id": "sonoff-minir4m",
@@ -541,7 +559,16 @@
       "sonoff-s60tpf",
       "sonoff-tx-ultimate",
       "sonoff-powr320d"
-    ]
+    ],
+    "crawl": {
+      "status": "ok-no-price",
+      "lastChecked": "2026-09-02T03:40:30.333Z",
+      "sourceTitle": "404 Not Found",
+      "sourceCurrency": "USD",
+      "imageUrl": "http://sonoff.tech/cdn/shop/files/SONOFF-LOGO_8df6f51e-0c8f-46c0-9b92-720dffa82413.png?v=1751266209&width=2048",
+      "note": "browser"
+    },
+    "imageUrl": "http://sonoff.tech/cdn/shop/files/SONOFF-LOGO_8df6f51e-0c8f-46c0-9b92-720dffa82413.png?v=1751266209&width=2048"
   },
   {
     "id": "sonoff-s60tpf",
@@ -705,7 +732,16 @@
     "related": [
       "sonoff-minir4m",
       "sonoff-powr320d"
-    ]
+    ],
+    "crawl": {
+      "status": "ok-no-price",
+      "lastChecked": "2026-09-02T03:40:30.333Z",
+      "sourceTitle": "404 Not Found",
+      "sourceCurrency": "USD",
+      "imageUrl": "http://sonoff.tech/cdn/shop/files/SONOFF-LOGO_8df6f51e-0c8f-46c0-9b92-720dffa82413.png?v=1751266209&width=2048",
+      "note": "browser"
+    },
+    "imageUrl": "http://sonoff.tech/cdn/shop/files/SONOFF-LOGO_8df6f51e-0c8f-46c0-9b92-720dffa82413.png?v=1751266209&width=2048"
   },
   {
     "id": "sonoff-tx-ultimate",
@@ -894,7 +930,16 @@
     "related": [
       "sonoff-minir4m",
       "sonoff-s60tpf"
-    ]
+    ],
+    "crawl": {
+      "status": "ok-no-price",
+      "lastChecked": "2026-09-02T03:40:30.333Z",
+      "sourceTitle": "404 Not Found",
+      "sourceCurrency": "USD",
+      "imageUrl": "http://sonoff.tech/cdn/shop/files/SONOFF-LOGO_8df6f51e-0c8f-46c0-9b92-720dffa82413.png?v=1751266209&width=2048",
+      "note": "browser"
+    },
+    "imageUrl": "http://sonoff.tech/cdn/shop/files/SONOFF-LOGO_8df6f51e-0c8f-46c0-9b92-720dffa82413.png?v=1751266209&width=2048"
   },
   {
     "id": "sonoff-snzb-02d",
@@ -1079,7 +1124,16 @@
     "related": [
       "sonoff-zbbridge-p",
       "sonoff-snzb-04p"
-    ]
+    ],
+    "crawl": {
+      "status": "ok-no-price",
+      "lastChecked": "2026-09-02T03:40:30.333Z",
+      "sourceTitle": "404 Not Found",
+      "sourceCurrency": "USD",
+      "imageUrl": "http://sonoff.tech/cdn/shop/files/SONOFF-LOGO_8df6f51e-0c8f-46c0-9b92-720dffa82413.png?v=1751266209&width=2048",
+      "note": "browser"
+    },
+    "imageUrl": "http://sonoff.tech/cdn/shop/files/SONOFF-LOGO_8df6f51e-0c8f-46c0-9b92-720dffa82413.png?v=1751266209&width=2048"
   },
   {
     "id": "sonoff-snzb-04p",
@@ -1275,7 +1329,16 @@
     "related": [
       "sonoff-zbbridge-p",
       "sonoff-snzb-02d"
-    ]
+    ],
+    "crawl": {
+      "status": "ok-no-price",
+      "lastChecked": "2026-09-02T03:40:30.333Z",
+      "sourceTitle": "404 Not Found",
+      "sourceCurrency": "USD",
+      "imageUrl": "http://sonoff.tech/cdn/shop/files/SONOFF-LOGO_8df6f51e-0c8f-46c0-9b92-720dffa82413.png?v=1751266209&width=2048",
+      "note": "browser"
+    },
+    "imageUrl": "http://sonoff.tech/cdn/shop/files/SONOFF-LOGO_8df6f51e-0c8f-46c0-9b92-720dffa82413.png?v=1751266209&width=2048"
   },
   {
     "id": "sonoff-powr320d",
@@ -1453,6 +1516,15 @@
     "related": [
       "sonoff-s60tpf",
       "sonoff-minir4m"
-    ]
+    ],
+    "crawl": {
+      "status": "ok-no-price",
+      "lastChecked": "2026-09-02T03:40:30.333Z",
+      "sourceTitle": "404 Not Found",
+      "sourceCurrency": "USD",
+      "imageUrl": "http://sonoff.tech/cdn/shop/files/SONOFF-LOGO_8df6f51e-0c8f-46c0-9b92-720dffa82413.png?v=1751266209&width=2048",
+      "note": "browser"
+    },
+    "imageUrl": "http://sonoff.tech/cdn/shop/files/SONOFF-LOGO_8df6f51e-0c8f-46c0-9b92-720dffa82413.png?v=1751266209&width=2048"
   }
 ]
