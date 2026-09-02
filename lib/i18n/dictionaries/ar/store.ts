@@ -53,6 +53,8 @@ export const store = {
     priceRanges: { 'moins-50k': 'أقل من 50 000 FCFA', '50k-150k': '50 000 – 150 000 FCFA', '150k-300k': '150 000 – 300 000 FCFA', 'plus-300k': 'أكثر من 300 000 FCFA' },
     showMore: 'عرض المزيد',
     showLess: 'عرض أقل',
+    loadMore: 'عرض المزيد من الأجهزة',
+    showingCount: 'عرض {shown} من أصل {total} جهاز',
   },
   card: {
     add: 'إضافة',

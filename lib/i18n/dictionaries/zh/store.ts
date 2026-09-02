@@ -53,6 +53,8 @@ export const store = {
     priceRanges: { 'moins-50k': '50 000 FCFA 以下', '50k-150k': '50 000 – 150 000 FCFA', '150k-300k': '150 000 – 300 000 FCFA', 'plus-300k': '300 000 FCFA 以上' },
     showMore: '显示更多',
     showLess: '收起',
+    loadMore: '显示更多产品',
+    showingCount: '已显示 {total} 件产品中的 {shown} 件',
   },
   card: {
     add: '加入清单',

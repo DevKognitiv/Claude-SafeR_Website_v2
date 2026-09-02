@@ -21,6 +21,8 @@ type Props = {
 
 const facetOrder: FacetKey[] = ['brand', 'protocol', 'placement', 'power', 'compat', 'resolution', 'availability', 'price'];
 const priceOrder = ['moins-50k', '50k-150k', '150k-300k', 'plus-300k', 'sur-devis'];
+/** Cards rendered per batch: keeps the DOM small as the catalogue grows to hundreds of references. */
+const PAGE_SIZE = 24;
 
 function valuesOf(item: StoreItem, key: FacetKey): string[] {
   switch (key) {
@@ -109,6 +111,16 @@ function Catalog({ items, brands, lock, showCategoryFacet = false }: Props) {
   };
 
   const visible = useMemo(() => sortItems(items.filter((item) => matches(item, state)), state.sort ?? 'featured'), [items, state]);
+
+  const [shown, setShown] = useState(PAGE_SIZE);
+  const [syncedFilters, setSyncedFilters] = useState(() => serializeFilters(state));
+  const filterKey = serializeFilters(state);
+  if (syncedFilters !== filterKey) {
+    // Filters or sort changed: collapse back to the first batch without an effect.
+    setSyncedFilters(filterKey);
+    setShown(PAGE_SIZE);
+  }
+  const page = useMemo(() => visible.slice(0, shown), [visible, shown]);
 
   const counts = useMemo(() => {
     const result = {} as Record<FacetKey, Record<string, number>>;
@@ -243,11 +255,19 @@ function Catalog({ items, brands, lock, showCategoryFacet = false }: Props) {
               </div>
             </div>
           ) : (
-            <div className="grid gap-5 md:grid-cols-2 2xl:grid-cols-3">
-              {visible.map((item) => (
-                <ProductCard key={item.id} item={item} inCart={selection.cart[item.id] ?? 0} comparing={selection.compare.includes(item.id)} compareDisabled={selection.compare.length >= COMPARE_MAX} onAdd={selection.addToCart} onCompare={selection.toggleCompare} />
-              ))}
-            </div>
+            <>
+              <div className="grid gap-5 md:grid-cols-2 2xl:grid-cols-3">
+                {page.map((item) => (
+                  <ProductCard key={item.id} item={item} inCart={selection.cart[item.id] ?? 0} comparing={selection.compare.includes(item.id)} compareDisabled={selection.compare.length >= COMPARE_MAX} onAdd={selection.addToCart} onCompare={selection.toggleCompare} />
+                ))}
+              </div>
+              {shown < visible.length && (
+                <div className="mt-10 flex flex-col items-center gap-3">
+                  <p className="text-xs font-semibold text-black/45">{fmt(s.filters.showingCount, { shown: page.length, total: visible.length })}</p>
+                  <button type="button" onClick={() => setShown((current) => current + PAGE_SIZE)} className="rounded-full bg-black px-7 py-3.5 text-sm font-bold text-white">{s.filters.loadMore}</button>
+                </div>
+              )}
+            </>
           )}
         </div>
       </div>
