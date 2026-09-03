@@ -182,7 +182,7 @@
     ],
     "crawl": {
       "status": "ok-no-price",
-      "lastChecked": "2026-09-02T03:40:30.333Z",
+      "lastChecked": "2026-09-03T03:39:44.764Z",
       "sourceTitle": "404 Not Found",
       "sourceCurrency": "USD",
       "imageUrl": "http://sonoff.tech/cdn/shop/files/SONOFF-LOGO_8df6f51e-0c8f-46c0-9b92-720dffa82413.png?v=1751266209&width=2048",
@@ -378,7 +378,7 @@
     ],
     "crawl": {
       "status": "ok-no-price",
-      "lastChecked": "2026-09-02T03:40:30.333Z",
+      "lastChecked": "2026-09-03T03:39:44.764Z",
       "sourceTitle": "404 Not Found",
       "sourceCurrency": "USD",
       "imageUrl": "http://sonoff.tech/cdn/shop/files/SONOFF-LOGO_8df6f51e-0c8f-46c0-9b92-720dffa82413.png?v=1751266209&width=2048",
@@ -562,7 +562,7 @@
     ],
     "crawl": {
       "status": "ok-no-price",
-      "lastChecked": "2026-09-02T03:40:30.333Z",
+      "lastChecked": "2026-09-03T03:39:44.764Z",
       "sourceTitle": "404 Not Found",
       "sourceCurrency": "USD",
       "imageUrl": "http://sonoff.tech/cdn/shop/files/SONOFF-LOGO_8df6f51e-0c8f-46c0-9b92-720dffa82413.png?v=1751266209&width=2048",
@@ -735,7 +735,7 @@
     ],
     "crawl": {
       "status": "ok-no-price",
-      "lastChecked": "2026-09-02T03:40:30.333Z",
+      "lastChecked": "2026-09-03T03:39:44.764Z",
       "sourceTitle": "404 Not Found",
       "sourceCurrency": "USD",
       "imageUrl": "http://sonoff.tech/cdn/shop/files/SONOFF-LOGO_8df6f51e-0c8f-46c0-9b92-720dffa82413.png?v=1751266209&width=2048",
@@ -933,7 +933,7 @@
     ],
     "crawl": {
       "status": "ok-no-price",
-      "lastChecked": "2026-09-02T03:40:30.333Z",
+      "lastChecked": "2026-09-03T03:39:44.764Z",
       "sourceTitle": "404 Not Found",
       "sourceCurrency": "USD",
       "imageUrl": "http://sonoff.tech/cdn/shop/files/SONOFF-LOGO_8df6f51e-0c8f-46c0-9b92-720dffa82413.png?v=1751266209&width=2048",
@@ -1127,7 +1127,7 @@
     ],
     "crawl": {
       "status": "ok-no-price",
-      "lastChecked": "2026-09-02T03:40:30.333Z",
+      "lastChecked": "2026-09-03T03:39:44.764Z",
       "sourceTitle": "404 Not Found",
       "sourceCurrency": "USD",
       "imageUrl": "http://sonoff.tech/cdn/shop/files/SONOFF-LOGO_8df6f51e-0c8f-46c0-9b92-720dffa82413.png?v=1751266209&width=2048",
@@ -1332,7 +1332,7 @@
     ],
     "crawl": {
       "status": "ok-no-price",
-      "lastChecked": "2026-09-02T03:40:30.333Z",
+      "lastChecked": "2026-09-03T03:39:44.764Z",
       "sourceTitle": "404 Not Found",
       "sourceCurrency": "USD",
       "imageUrl": "http://sonoff.tech/cdn/shop/files/SONOFF-LOGO_8df6f51e-0c8f-46c0-9b92-720dffa82413.png?v=1751266209&width=2048",
@@ -1518,12 +1518,9 @@
       "sonoff-minir4m"
     ],
     "crawl": {
-      "status": "ok-no-price",
-      "lastChecked": "2026-09-02T03:40:30.333Z",
-      "sourceTitle": "404 Not Found",
-      "sourceCurrency": "USD",
-      "imageUrl": "http://sonoff.tech/cdn/shop/files/SONOFF-LOGO_8df6f51e-0c8f-46c0-9b92-720dffa82413.png?v=1751266209&width=2048",
-      "note": "browser"
+      "status": "unreachable",
+      "lastChecked": "2026-09-03T03:39:44.764Z",
+      "note": "Request blocked - received 429 status code."
     },
     "imageUrl": "http://sonoff.tech/cdn/shop/files/SONOFF-LOGO_8df6f51e-0c8f-46c0-9b92-720dffa82413.png?v=1751266209&width=2048"
   }
