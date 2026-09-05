@@ -188,7 +188,7 @@
     ],
     "crawl": {
       "status": "ok",
-      "lastChecked": "2026-09-04T03:45:47.672Z",
+      "lastChecked": "2026-09-05T03:40:52.143Z",
       "sourceTitle": "4 MP AcuSense Fixed Dome Network Camera",
       "sourceAvailability": "in-stock",
       "sourcePrice": "0",
@@ -402,7 +402,7 @@
     ],
     "crawl": {
       "status": "ok",
-      "lastChecked": "2026-09-04T03:45:47.672Z",
+      "lastChecked": "2026-09-05T03:40:52.143Z",
       "sourceTitle": "4 MP ColorVu Fixed Bullet Network Camera",
       "sourceAvailability": "in-stock",
       "sourcePrice": "0",
@@ -612,7 +612,7 @@
     ],
     "crawl": {
       "status": "ok",
-      "lastChecked": "2026-09-04T03:45:47.672Z",
+      "lastChecked": "2026-09-05T03:40:52.143Z",
       "sourceTitle": "4 MP ColorVu Fixed Turret Network Camera",
       "sourceAvailability": "in-stock",
       "sourcePrice": "0",
@@ -809,7 +809,7 @@
     ],
     "crawl": {
       "status": "ok",
-      "lastChecked": "2026-09-04T03:45:47.672Z",
+      "lastChecked": "2026-09-05T03:40:52.143Z",
       "sourceTitle": "4 MP 4X Outdoor IR Mini Dome PTZ Network Camera",
       "sourceAvailability": "in-stock",
       "sourcePrice": "0",
@@ -1012,7 +1012,7 @@
     ],
     "crawl": {
       "status": "ok-no-price",
-      "lastChecked": "2026-09-04T03:45:47.672Z",
+      "lastChecked": "2026-09-05T03:40:52.143Z",
       "sourceTitle": "404",
       "sourceCurrency": "USD",
       "note": "browser"
@@ -1196,7 +1196,7 @@
     ],
     "crawl": {
       "status": "ok",
-      "lastChecked": "2026-09-04T03:45:47.672Z",
+      "lastChecked": "2026-09-05T03:40:52.143Z",
       "sourceTitle": "4-ch Mini 4 PoE 1U NVR",
       "sourceAvailability": "in-stock",
       "sourcePrice": "0",
@@ -1393,7 +1393,7 @@
     ],
     "crawl": {
       "status": "ok-no-price",
-      "lastChecked": "2026-09-04T03:45:47.672Z",
+      "lastChecked": "2026-09-05T03:40:52.143Z",
       "sourceTitle": "404",
       "sourceCurrency": "USD",
       "note": "browser"
@@ -1591,7 +1591,7 @@
     ],
     "crawl": {
       "status": "ok",
-      "lastChecked": "2026-09-04T03:45:47.672Z",
+      "lastChecked": "2026-09-05T03:40:52.143Z",
       "sourceTitle": "Value Series Face Access Terminal",
       "sourceAvailability": "in-stock",
       "sourcePrice": "0",
@@ -1815,7 +1815,7 @@
     ],
     "crawl": {
       "status": "ok",
-      "lastChecked": "2026-09-04T03:45:47.672Z",
+      "lastChecked": "2026-09-05T03:40:52.143Z",
       "sourceTitle": "AX PRO (868MHz)",
       "sourceAvailability": "in-stock",
       "sourcePrice": "0",
@@ -2017,11 +2017,15 @@
       "hikvision-ds-pwa64-l-we"
     ],
     "crawl": {
-      "status": "ok-no-price",
-      "lastChecked": "2026-09-04T03:45:47.672Z",
-      "sourceTitle": "404",
+      "status": "ok",
+      "lastChecked": "2026-09-05T03:40:52.143Z",
+      "sourceTitle": "PIR",
+      "sourceAvailability": "in-stock",
+      "sourcePrice": "0",
       "sourceCurrency": "USD",
-      "note": "browser"
-    }
+      "imageUrl": "https://assets.hikvision.com/prd/normal/all/image/m000109201/PIR探测器-正视图.png",
+      "note": "out-of-range 34.99→0"
+    },
+    "imageUrl": "https://assets.hikvision.com/prd/normal/all/image/m000109201/PIR探测器-正视图.png"
   }
 ]
