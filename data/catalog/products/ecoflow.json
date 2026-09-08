@@ -174,8 +174,7 @@
     ],
     "crawl": {
       "status": "ok",
-      "lastChecked": "2026-09-07T03:42:12.570Z",
-      "sourceTitle": "EcoFlow RIVER 2 Portable Power Station | EcoFlow US | EcoFlow US",
+      "lastChecked": "2026-09-08T03:47:09.264Z",
       "sourcePrice": "11999",
       "sourceCurrency": "USD",
       "note": "out-of-range 199→11999"
@@ -361,8 +360,7 @@
     ],
     "crawl": {
       "status": "ok-no-price",
-      "lastChecked": "2026-09-07T03:42:12.570Z",
-      "sourceTitle": "New EcoFlow DELTA 2 Portable Power Station | EcoFlow US",
+      "lastChecked": "2026-09-08T03:47:09.264Z",
       "sourceCurrency": "USD"
     }
   },
@@ -553,8 +551,7 @@
     ],
     "crawl": {
       "status": "ok-no-price",
-      "lastChecked": "2026-09-07T03:42:12.570Z",
-      "sourceTitle": "EcoFlow 110W Solar Panel | Clean Energy | Solar Panels | EcoFlow US",
+      "lastChecked": "2026-09-08T03:47:09.264Z",
       "sourceCurrency": "USD"
     }
   }
