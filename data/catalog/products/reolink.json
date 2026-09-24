@@ -196,7 +196,7 @@
     ],
     "crawl": {
       "status": "ok",
-      "lastChecked": "2026-09-23T03:59:29.037Z",
+      "lastChecked": "2026-09-24T03:54:26.574Z",
       "sourceTitle": "Argus 4 Pro",
       "sourceAvailability": "in-stock",
       "sourcePrice": "194.99",
@@ -401,7 +401,7 @@
     ],
     "crawl": {
       "status": "ok",
-      "lastChecked": "2026-09-23T03:59:29.037Z",
+      "lastChecked": "2026-09-24T03:54:26.574Z",
       "sourceTitle": "Argus PT Ultra",
       "sourceAvailability": "in-stock",
       "sourcePrice": "126.99",
@@ -606,7 +606,7 @@
     ],
     "crawl": {
       "status": "ok",
-      "lastChecked": "2026-09-23T03:59:29.037Z",
+      "lastChecked": "2026-09-24T03:54:26.574Z",
       "sourceTitle": "Argus 3 Pro",
       "sourceAvailability": "in-stock",
       "sourcePrice": "99.99",
@@ -804,7 +804,7 @@
     ],
     "crawl": {
       "status": "ok-no-price",
-      "lastChecked": "2026-09-23T03:59:29.037Z",
+      "lastChecked": "2026-09-24T03:54:26.574Z",
       "sourceTitle": "Page Not Found – Reolink",
       "sourceCurrency": "USD"
     }
@@ -964,7 +964,7 @@
       }
     ],
     "pricing": {
-      "sourcePrice": 110.49,
+      "sourcePrice": 129.99,
       "sourceCurrency": "USD"
     },
     "availability": "sur-commande",
@@ -991,10 +991,10 @@
     ],
     "crawl": {
       "status": "ok",
-      "lastChecked": "2026-09-23T03:59:29.037Z",
+      "lastChecked": "2026-09-24T03:54:26.574Z",
       "sourceTitle": "RLC-1224A",
       "sourceAvailability": "in-stock",
-      "sourcePrice": "110.49",
+      "sourcePrice": "129.99",
       "sourceCurrency": "USD",
       "imageUrl": "https://home-cdn.reolink.us/wp-content/uploads/2022/01/210404571642737897.3887.png.webp"
     },
@@ -1204,7 +1204,7 @@
     ],
     "crawl": {
       "status": "ok-no-price",
-      "lastChecked": "2026-09-23T03:59:29.037Z",
+      "lastChecked": "2026-09-24T03:54:26.574Z",
       "sourceTitle": "Page Not Found – Reolink",
       "sourceCurrency": "USD"
     }
@@ -1395,7 +1395,7 @@
     ],
     "crawl": {
       "status": "ok",
-      "lastChecked": "2026-09-23T03:59:29.037Z",
+      "lastChecked": "2026-09-24T03:54:26.574Z",
       "sourceTitle": "E1 Pro",
       "sourceAvailability": "in-stock",
       "sourcePrice": "69.99",
@@ -1612,7 +1612,7 @@
     ],
     "crawl": {
       "status": "ok-no-price",
-      "lastChecked": "2026-09-23T03:59:29.037Z",
+      "lastChecked": "2026-09-24T03:54:26.574Z",
       "sourceTitle": "Page Not Found – Reolink",
       "sourceCurrency": "USD"
     }
@@ -1825,7 +1825,7 @@
     ],
     "crawl": {
       "status": "ok-no-price",
-      "lastChecked": "2026-09-23T03:59:29.037Z",
+      "lastChecked": "2026-09-24T03:54:26.574Z",
       "sourceTitle": "RLK8-810B4-A",
       "sourceAvailability": "out-of-stock",
       "sourceCurrency": "USD",
@@ -2005,7 +2005,7 @@
     ],
     "crawl": {
       "status": "ok-no-price",
-      "lastChecked": "2026-09-23T03:59:29.037Z",
+      "lastChecked": "2026-09-24T03:54:26.574Z",
       "sourceTitle": "Page Not Found – Reolink",
       "sourceCurrency": "USD"
     }
