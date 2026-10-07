@@ -168,7 +168,7 @@
       }
     ],
     "pricing": {
-      "sourcePrice": 194.99,
+      "sourcePrice": 159.99,
       "sourceCurrency": "USD"
     },
     "availability": "sur-commande",
@@ -196,12 +196,12 @@
     ],
     "crawl": {
       "status": "ok",
-      "lastChecked": "2026-10-06T05:35:30.832Z",
+      "lastChecked": "2026-10-07T05:05:49.345Z",
       "sourceTitle": "Argus 4 Pro",
       "sourceAvailability": "in-stock",
-      "sourcePrice": "194.99",
+      "sourcePrice": "159.99",
       "sourceCurrency": "USD",
-      "imageUrl": "https://home-cdn.reolink.us/wp-content/uploads/2024/06/argus-4-pro-white-1pack.png"
+      "imageUrl": "https://home-cdn.reolink.us/wp-content/uploads/2024/06/argus-4-pro-white-1pack.png.webp"
     },
     "imageUrl": "https://home-cdn.reolink.us/wp-content/uploads/2024/06/argus-4-pro-white-1pack.png.webp"
   },
@@ -373,7 +373,7 @@
       }
     ],
     "pricing": {
-      "sourcePrice": 139.99,
+      "sourcePrice": 104.99,
       "sourceCurrency": "USD"
     },
     "availability": "sur-commande",
@@ -401,12 +401,12 @@
     ],
     "crawl": {
       "status": "ok",
-      "lastChecked": "2026-10-06T05:35:30.832Z",
+      "lastChecked": "2026-10-07T05:05:49.345Z",
       "sourceTitle": "Argus PT Ultra",
       "sourceAvailability": "in-stock",
-      "sourcePrice": "139.99",
+      "sourcePrice": "104.99",
       "sourceCurrency": "USD",
-      "imageUrl": "https://home-cdn.reolink.us/wp-content/uploads/2026/01/Argus-PT-ultra-white-1pack-PC.png"
+      "imageUrl": "https://home-cdn.reolink.us/wp-content/uploads/2026/01/Argus-PT-ultra-white-1pack-PC.png.webp"
     },
     "imageUrl": "https://home-cdn.reolink.us/wp-content/uploads/2026/01/Argus-PT-ultra-white-1pack-PC.png.webp"
   },
@@ -606,7 +606,7 @@
     ],
     "crawl": {
       "status": "ok",
-      "lastChecked": "2026-10-06T05:35:30.832Z",
+      "lastChecked": "2026-10-07T05:05:49.345Z",
       "sourceTitle": "Argus 3 Pro",
       "sourceAvailability": "in-stock",
       "sourcePrice": "99.99",
@@ -804,7 +804,7 @@
     ],
     "crawl": {
       "status": "ok-no-price",
-      "lastChecked": "2026-10-06T05:35:30.832Z",
+      "lastChecked": "2026-10-07T05:05:49.345Z",
       "sourceTitle": "Page Not Found – Reolink",
       "sourceCurrency": "USD"
     }
@@ -964,7 +964,7 @@
       }
     ],
     "pricing": {
-      "sourcePrice": 129.99,
+      "sourcePrice": 97.99,
       "sourceCurrency": "USD"
     },
     "availability": "sur-commande",
@@ -991,10 +991,10 @@
     ],
     "crawl": {
       "status": "ok",
-      "lastChecked": "2026-10-06T05:35:30.832Z",
+      "lastChecked": "2026-10-07T05:05:49.345Z",
       "sourceTitle": "RLC-1224A",
       "sourceAvailability": "in-stock",
-      "sourcePrice": "129.99",
+      "sourcePrice": "97.99",
       "sourceCurrency": "USD",
       "imageUrl": "https://home-cdn.reolink.us/wp-content/uploads/2022/01/210404571642737897.3887.png.webp"
     },
@@ -1204,7 +1204,7 @@
     ],
     "crawl": {
       "status": "ok-no-price",
-      "lastChecked": "2026-10-06T05:35:30.832Z",
+      "lastChecked": "2026-10-07T05:05:49.345Z",
       "sourceTitle": "Page Not Found – Reolink",
       "sourceCurrency": "USD"
     }
@@ -1369,7 +1369,7 @@
       }
     ],
     "pricing": {
-      "sourcePrice": 69.99,
+      "sourcePrice": 51.99,
       "sourceCurrency": "USD"
     },
     "availability": "en-stock",
@@ -1395,10 +1395,10 @@
     ],
     "crawl": {
       "status": "ok",
-      "lastChecked": "2026-10-06T05:35:30.832Z",
+      "lastChecked": "2026-10-07T05:05:49.345Z",
       "sourceTitle": "E1 Pro",
       "sourceAvailability": "in-stock",
-      "sourcePrice": "69.99",
+      "sourcePrice": "51.99",
       "sourceCurrency": "USD",
       "imageUrl": "https://home-cdn.reolink.us/wp-content/uploads/2024/10/E1-PRO.png.webp"
     },
@@ -1612,7 +1612,7 @@
     ],
     "crawl": {
       "status": "ok-no-price",
-      "lastChecked": "2026-10-06T05:35:30.832Z",
+      "lastChecked": "2026-10-07T05:05:49.345Z",
       "sourceTitle": "Page Not Found – Reolink",
       "sourceCurrency": "USD"
     }
@@ -1825,11 +1825,11 @@
     ],
     "crawl": {
       "status": "ok-no-price",
-      "lastChecked": "2026-10-06T05:35:30.832Z",
+      "lastChecked": "2026-10-07T05:05:49.345Z",
       "sourceTitle": "RLK8-810B4-A",
       "sourceAvailability": "out-of-stock",
       "sourceCurrency": "USD",
-      "imageUrl": "https://home-cdn.reolink.us/wp-content/uploads/2023/11/200710541700464254.1699.png"
+      "imageUrl": "https://home-cdn.reolink.us/wp-content/uploads/2023/11/200710541700464254.1699.png.webp"
     },
     "imageUrl": "https://home-cdn.reolink.us/wp-content/uploads/2023/11/200710541700464254.1699.png.webp"
   },
@@ -2005,7 +2005,7 @@
     ],
     "crawl": {
       "status": "ok-no-price",
-      "lastChecked": "2026-10-06T05:35:30.832Z",
+      "lastChecked": "2026-10-07T05:05:49.345Z",
       "sourceTitle": "Page Not Found – Reolink",
       "sourceCurrency": "USD"
     }
