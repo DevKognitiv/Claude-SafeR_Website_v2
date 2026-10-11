@@ -1,0 +1,1045 @@
+{
+  "checkedAt": "2026-10-11T04:53:04.723Z",
+  "dryRun": false,
+  "browser": true,
+  "totals": {
+    "products": 117,
+    "ok": 17,
+    "okNoPrice": 97,
+    "priceUpdated": 0,
+    "priceRejected": 9,
+    "imageAdded": 0,
+    "browserRequired": 0,
+    "robotsBlocked": 0,
+    "unreachable": 3
+  },
+  "brands": {
+    "ajax": {
+      "products": 13,
+      "ok": 13,
+      "priceUpdated": 0,
+      "browserRequired": 0,
+      "blocked": 0,
+      "failed": 0
+    },
+    "aqara": {
+      "products": 10,
+      "ok": 10,
+      "priceUpdated": 0,
+      "browserRequired": 0,
+      "blocked": 0,
+      "failed": 0
+    },
+    "dahua": {
+      "products": 6,
+      "ok": 6,
+      "priceUpdated": 0,
+      "browserRequired": 0,
+      "blocked": 0,
+      "failed": 0
+    },
+    "ecoflow": {
+      "products": 3,
+      "ok": 3,
+      "priceUpdated": 0,
+      "browserRequired": 0,
+      "blocked": 0,
+      "failed": 0
+    },
+    "eufy": {
+      "products": 8,
+      "ok": 8,
+      "priceUpdated": 0,
+      "browserRequired": 0,
+      "blocked": 0,
+      "failed": 0
+    },
+    "ezviz": {
+      "products": 9,
+      "ok": 9,
+      "priceUpdated": 0,
+      "browserRequired": 0,
+      "blocked": 0,
+      "failed": 0
+    },
+    "hikvision": {
+      "products": 10,
+      "ok": 10,
+      "priceUpdated": 0,
+      "browserRequired": 0,
+      "blocked": 0,
+      "failed": 0
+    },
+    "reolink": {
+      "products": 10,
+      "ok": 10,
+      "priceUpdated": 0,
+      "browserRequired": 0,
+      "blocked": 0,
+      "failed": 0
+    },
+    "safer": {
+      "products": 24,
+      "ok": 21,
+      "priceUpdated": 0,
+      "browserRequired": 0,
+      "blocked": 0,
+      "failed": 3
+    },
+    "somfy": {
+      "products": 9,
+      "ok": 9,
+      "priceUpdated": 0,
+      "browserRequired": 0,
+      "blocked": 0,
+      "failed": 0
+    },
+    "sonoff": {
+      "products": 8,
+      "ok": 8,
+      "priceUpdated": 0,
+      "browserRequired": 0,
+      "blocked": 0,
+      "failed": 0
+    },
+    "teltonika": {
+      "products": 3,
+      "ok": 3,
+      "priceUpdated": 0,
+      "browserRequired": 0,
+      "blocked": 0,
+      "failed": 0
+    },
+    "yale": {
+      "products": 4,
+      "ok": 4,
+      "priceUpdated": 0,
+      "browserRequired": 0,
+      "blocked": 0,
+      "failed": 0
+    }
+  },
+  "items": [
+    {
+      "id": "ajax-hub-2-4g",
+      "brand": "ajax",
+      "url": "https://ajax.systems/products/hub2-4g/",
+      "status": "ok-no-price",
+      "sourceCurrency": "EUR",
+      "note": "browser"
+    },
+    {
+      "id": "ajax-hub-2-plus",
+      "brand": "ajax",
+      "url": "https://ajax.systems/products/hub2plus/",
+      "status": "ok-no-price",
+      "sourceCurrency": "EUR",
+      "note": "browser"
+    },
+    {
+      "id": "ajax-motionprotect",
+      "brand": "ajax",
+      "url": "https://ajax.systems/products/motionprotect/",
+      "status": "ok-no-price",
+      "sourceCurrency": "EUR"
+    },
+    {
+      "id": "ajax-motionprotect-plus",
+      "brand": "ajax",
+      "url": "https://ajax.systems/products/motionprotect-plus/",
+      "status": "ok-no-price",
+      "sourceCurrency": "EUR",
+      "note": "browser"
+    },
+    {
+      "id": "ajax-doorprotect",
+      "brand": "ajax",
+      "url": "https://ajax.systems/products/doorprotect/",
+      "status": "ok-no-price",
+      "sourceCurrency": "EUR"
+    },
+    {
+      "id": "ajax-doorprotect-plus",
+      "brand": "ajax",
+      "url": "https://ajax.systems/products/doorprotect-plus/",
+      "status": "ok-no-price",
+      "sourceCurrency": "EUR",
+      "note": "browser"
+    },
+    {
+      "id": "ajax-fireprotect-2-hsc",
+      "brand": "ajax",
+      "url": "https://ajax.systems/products/fireprotect2-heat-smoke-co/",
+      "status": "ok-no-price",
+      "sourceCurrency": "EUR",
+      "note": "browser"
+    },
+    {
+      "id": "ajax-leaksprotect",
+      "brand": "ajax",
+      "url": "https://ajax.systems/products/leaksprotect/",
+      "status": "ok-no-price",
+      "sourceCurrency": "EUR"
+    },
+    {
+      "id": "ajax-homesiren",
+      "brand": "ajax",
+      "url": "https://ajax.systems/products/homesiren/",
+      "status": "ok-no-price",
+      "sourceCurrency": "EUR"
+    },
+    {
+      "id": "ajax-streetsiren",
+      "brand": "ajax",
+      "url": "https://ajax.systems/products/streetsiren/",
+      "status": "ok-no-price",
+      "sourceCurrency": "EUR"
+    },
+    {
+      "id": "ajax-keypad-plus",
+      "brand": "ajax",
+      "url": "https://ajax.systems/products/keypad-plus/",
+      "status": "ok-no-price",
+      "sourceCurrency": "EUR"
+    },
+    {
+      "id": "ajax-button",
+      "brand": "ajax",
+      "url": "https://ajax.systems/products/button/",
+      "status": "ok-no-price",
+      "sourceCurrency": "EUR"
+    },
+    {
+      "id": "ajax-spacecontrol",
+      "brand": "ajax",
+      "url": "https://ajax.systems/products/spacecontrol/",
+      "status": "ok-no-price",
+      "sourceCurrency": "EUR"
+    },
+    {
+      "id": "aqara-hub-m3",
+      "brand": "aqara",
+      "url": "https://www.aqara.com/en/product/hub-m3",
+      "status": "ok-no-price",
+      "sourceCurrency": "USD"
+    },
+    {
+      "id": "aqara-hub-m2",
+      "brand": "aqara",
+      "url": "https://www.aqara.com/en/product/hub-m2",
+      "status": "ok-no-price",
+      "sourceCurrency": "USD"
+    },
+    {
+      "id": "aqara-camera-hub-g3",
+      "brand": "aqara",
+      "url": "https://www.aqara.com/en/product/camera-hub-g3",
+      "status": "ok-no-price",
+      "sourceCurrency": "USD"
+    },
+    {
+      "id": "aqara-video-doorbell-g4",
+      "brand": "aqara",
+      "url": "https://www.aqara.com/en/product/video-doorbell-g4",
+      "status": "ok-no-price",
+      "sourceCurrency": "USD",
+      "note": "browser"
+    },
+    {
+      "id": "aqara-door-window-sensor-p2",
+      "brand": "aqara",
+      "url": "https://www.aqara.com/en/product/door-and-window-sensor-p2",
+      "status": "ok-no-price",
+      "sourceCurrency": "USD"
+    },
+    {
+      "id": "aqara-motion-sensor-p1",
+      "brand": "aqara",
+      "url": "https://www.aqara.com/en/product/motion-sensor-p1",
+      "status": "ok-no-price",
+      "sourceCurrency": "USD"
+    },
+    {
+      "id": "aqara-water-leak-sensor",
+      "brand": "aqara",
+      "url": "https://www.aqara.com/en/product/water-leak-sensor",
+      "status": "ok-no-price",
+      "sourceCurrency": "USD",
+      "note": "browser"
+    },
+    {
+      "id": "aqara-temperature-humidity-sensor-t1",
+      "brand": "aqara",
+      "url": "https://www.aqara.com/en/product/temperature-and-humidity-sensor-t1",
+      "status": "ok-no-price",
+      "sourceCurrency": "USD"
+    },
+    {
+      "id": "aqara-smart-lock-u200",
+      "brand": "aqara",
+      "url": "https://www.aqara.com/en/product/smart-lock-u200",
+      "status": "ok-no-price",
+      "sourceCurrency": "USD"
+    },
+    {
+      "id": "aqara-curtain-driver-e1",
+      "brand": "aqara",
+      "url": "https://www.aqara.com/en/product/curtain-driver-e1",
+      "status": "ok-no-price",
+      "sourceCurrency": "USD"
+    },
+    {
+      "id": "dahua-ipc-hdw2441t-s",
+      "brand": "dahua",
+      "url": "https://www.dahuasecurity.com/products/All-Products/Network-Cameras/WizSense-Series/2-Series/4MP/IPC-HDW2441T-S",
+      "status": "ok-no-price",
+      "sourceCurrency": "USD",
+      "note": "browser"
+    },
+    {
+      "id": "dahua-ipc-hfw2441s-s",
+      "brand": "dahua",
+      "url": "https://www.dahuasecurity.com/products/network-products/network-cameras/WizSense-Series/2-Series/4MP/IPC-HFW2441S-S",
+      "status": "ok-no-price",
+      "sourceCurrency": "USD",
+      "note": "browser"
+    },
+    {
+      "id": "dahua-sd2a500-gn-a-pv",
+      "brand": "dahua",
+      "url": "https://www.dahuasecurity.com/es/products/All-Products/PTZ-Cameras/Lite-Series/SD2/5-MP/SD2A500-GN-A-PV",
+      "status": "ok-no-price",
+      "sourceCurrency": "USD",
+      "note": "browser"
+    },
+    {
+      "id": "dahua-nvr4108hs-8p-4ks2",
+      "brand": "dahua",
+      "url": "https://www.dahuasecurity.com/products/productDetail/8261",
+      "status": "ok-no-price",
+      "sourceCurrency": "USD",
+      "note": "browser"
+    },
+    {
+      "id": "dahua-vto2202f-p",
+      "brand": "dahua",
+      "url": "https://www.dahuasecurity.com/products/All-Products/Video-Intercoms/IP-Products/Outdoor-Stations/VTO2202F-P",
+      "status": "ok-no-price",
+      "sourceCurrency": "USD",
+      "note": "browser"
+    },
+    {
+      "id": "dahua-h4c",
+      "brand": "dahua",
+      "url": "https://www.dahuasecurity.com/products/All-Products/Network-Cameras/Wireless-Series/Indoor-Camera/Hero-Series/H4C",
+      "status": "ok-no-price",
+      "sourceCurrency": "USD",
+      "note": "browser"
+    },
+    {
+      "id": "ecoflow-river-2",
+      "brand": "ecoflow",
+      "url": "https://www.ecoflow.com/us/river-2-portable-power-station",
+      "status": "ok",
+      "sourcePrice": 11999,
+      "sourceCurrency": "USD",
+      "priceRejected": "out-of-range 199→11999"
+    },
+    {
+      "id": "ecoflow-delta-2",
+      "brand": "ecoflow",
+      "url": "https://www.ecoflow.com/us/delta-2-portable-power-station",
+      "status": "ok-no-price",
+      "sourceCurrency": "USD"
+    },
+    {
+      "id": "ecoflow-110w-solar-panel",
+      "brand": "ecoflow",
+      "url": "https://www.ecoflow.com/us/110w-solar-panel",
+      "status": "ok-no-price",
+      "sourceCurrency": "USD"
+    },
+    {
+      "id": "eufy-video-doorbell-e340",
+      "brand": "eufy",
+      "url": "https://www.eufy.com/products/t8214",
+      "status": "ok-no-price",
+      "sourceCurrency": "USD",
+      "note": "browser"
+    },
+    {
+      "id": "eufy-eufycam-3-s330",
+      "brand": "eufy",
+      "url": "https://www.eufy.com/products/t88503d1",
+      "status": "ok-no-price",
+      "sourceCurrency": "USD",
+      "note": "browser"
+    },
+    {
+      "id": "eufy-eufycam-s3-pro",
+      "brand": "eufy",
+      "url": "https://www.eufy.com/products/t81403d1",
+      "status": "ok-no-price",
+      "sourceCurrency": "USD",
+      "note": "browser"
+    },
+    {
+      "id": "eufy-solocam-s340",
+      "brand": "eufy",
+      "url": "https://www.eufy.com/products/t8172121",
+      "status": "ok-no-price",
+      "sourceCurrency": "USD",
+      "note": "browser"
+    },
+    {
+      "id": "eufy-indoor-cam-e220",
+      "brand": "eufy",
+      "url": "https://www.eufy.com/products/t8410121",
+      "status": "ok",
+      "sourcePrice": 59.99,
+      "sourceCurrency": "USD"
+    },
+    {
+      "id": "eufy-floodlight-cam-e340",
+      "brand": "eufy",
+      "url": "https://www.eufy.com/products/t84253d1",
+      "status": "ok-no-price",
+      "sourceCurrency": "USD",
+      "note": "browser"
+    },
+    {
+      "id": "eufy-smart-lock-c33",
+      "brand": "eufy",
+      "url": "https://www.eufy.com/products/t8503121",
+      "status": "ok-no-price",
+      "sourceCurrency": "USD",
+      "note": "browser"
+    },
+    {
+      "id": "eufy-solar-panel",
+      "brand": "eufy",
+      "url": "https://www.eufy.com/products/t87001d1",
+      "status": "ok-no-price",
+      "sourceCurrency": "USD",
+      "note": "browser"
+    },
+    {
+      "id": "ezviz-c6n",
+      "brand": "ezviz",
+      "url": "https://www.ezviz.com/product/c6n/38377",
+      "status": "ok-no-price",
+      "sourceCurrency": "EUR",
+      "note": "browser"
+    },
+    {
+      "id": "ezviz-ty1",
+      "brand": "ezviz",
+      "url": "https://www.ezviz.com/product/ty1/45852",
+      "status": "ok-no-price",
+      "sourceCurrency": "EUR"
+    },
+    {
+      "id": "ezviz-c8w-pro",
+      "brand": "ezviz",
+      "url": "https://www.ezviz.com/product/c8w-pro/49102",
+      "status": "ok-no-price",
+      "sourceCurrency": "EUR",
+      "note": "browser"
+    },
+    {
+      "id": "ezviz-h8c",
+      "brand": "ezviz",
+      "url": "https://www.ezviz.com/product/h8c/47210",
+      "status": "ok-no-price",
+      "sourceCurrency": "EUR",
+      "note": "browser"
+    },
+    {
+      "id": "ezviz-eb8-4g",
+      "brand": "ezviz",
+      "url": "https://www.ezviz.com/product/eb8-4g/51063",
+      "status": "ok-no-price",
+      "sourceCurrency": "EUR",
+      "note": "browser"
+    },
+    {
+      "id": "ezviz-cb3",
+      "brand": "ezviz",
+      "url": "https://www.ezviz.com/product/cb3/44980",
+      "status": "ok-no-price",
+      "sourceCurrency": "EUR",
+      "note": "browser"
+    },
+    {
+      "id": "ezviz-db2",
+      "brand": "ezviz",
+      "url": "https://www.ezviz.com/product/db2/43765",
+      "status": "ok-no-price",
+      "sourceCurrency": "EUR",
+      "note": "browser"
+    },
+    {
+      "id": "ezviz-dl05",
+      "brand": "ezviz",
+      "url": "https://www.ezviz.com/product/dl05/52140",
+      "status": "ok-no-price",
+      "sourceCurrency": "EUR",
+      "note": "browser"
+    },
+    {
+      "id": "ezviz-t31",
+      "brand": "ezviz",
+      "url": "https://www.ezviz.com/product/t31/40522",
+      "status": "ok-no-price",
+      "sourceCurrency": "EUR",
+      "note": "browser"
+    },
+    {
+      "id": "hikvision-ds-2cd2143g2-i",
+      "brand": "hikvision",
+      "url": "https://www.hikvision.com/en/products/IP-Products/Network-Cameras/Pro-Series-EasyIP-/ds-2cd2143g2-i-s-/",
+      "status": "ok",
+      "sourcePrice": 0,
+      "sourceCurrency": "USD",
+      "note": "browser",
+      "priceRejected": "out-of-range 129.99→0"
+    },
+    {
+      "id": "hikvision-ds-2cd2t47g2-l",
+      "brand": "hikvision",
+      "url": "https://www.hikvision.com/en/products/IP-Products/Network-Cameras/Pro-Series-EasyIP-/ds-2cd2t47g2-l/",
+      "status": "ok",
+      "sourcePrice": 0,
+      "sourceCurrency": "USD",
+      "note": "browser",
+      "priceRejected": "out-of-range 159.99→0"
+    },
+    {
+      "id": "hikvision-ds-2cd2347g2-lu",
+      "brand": "hikvision",
+      "url": "https://www.hikvision.com/us-en/products/network-products/network-cameras/colorvu-series/ds-2cd2347g2-lu/",
+      "status": "ok",
+      "sourcePrice": 0,
+      "sourceCurrency": "USD",
+      "note": "browser",
+      "priceRejected": "out-of-range 149.99→0"
+    },
+    {
+      "id": "hikvision-ds-2de2a404iw-de3",
+      "brand": "hikvision",
+      "url": "https://www.hikvision.com/us-en/products/network-products/ip-ptz-cameras/value-series/ds-2de2a404iw-de3/",
+      "status": "ok",
+      "sourcePrice": 0,
+      "sourceCurrency": "USD",
+      "note": "browser",
+      "priceRejected": "out-of-range 299.99→0"
+    },
+    {
+      "id": "hikvision-ds-7608nxi-k2-8p",
+      "brand": "hikvision",
+      "url": "https://www.hikvision.com/en/products/IP-Products/Network-Video-Recorders/Pro-Series/ds-7608nxi-k2-8p/",
+      "status": "ok-no-price",
+      "sourceCurrency": "USD",
+      "note": "browser"
+    },
+    {
+      "id": "hikvision-ds-7104ni-q1-4p",
+      "brand": "hikvision",
+      "url": "https://www.hikvision.com/en/products/IP-Products/Network-Video-Recorders/Value-Series/ds-7104ni-q1-4p/",
+      "status": "ok",
+      "sourcePrice": 0,
+      "sourceCurrency": "USD",
+      "note": "browser",
+      "priceRejected": "out-of-range 99.99→0"
+    },
+    {
+      "id": "hikvision-ds-kv6113-wpe1",
+      "brand": "hikvision",
+      "url": "https://www.hikvision.com/en/products/Video-Intercom-Products/IP-Series/Pro-Series/ds-kv6113-wpe1-b-/",
+      "status": "ok-no-price",
+      "sourceCurrency": "USD",
+      "note": "browser"
+    },
+    {
+      "id": "hikvision-ds-k1t341am",
+      "brand": "hikvision",
+      "url": "https://www.hikvision.com/en/products/Access-Control-Products/Face-Recognition-Terminals/Value-Series/ds-k1t341am/",
+      "status": "ok-no-price",
+      "sourceCurrency": "USD",
+      "note": "browser"
+    },
+    {
+      "id": "hikvision-ds-pwa64-l-we",
+      "brand": "hikvision",
+      "url": "https://www.hikvision.com/en/products/Alarm-Products/wireless-intrusion-alarm/ax-pro/ds-pwa64-l-we/",
+      "status": "ok",
+      "sourcePrice": 0,
+      "sourceCurrency": "USD",
+      "note": "browser",
+      "priceRejected": "out-of-range 189.99→0"
+    },
+    {
+      "id": "hikvision-ds-pdp15p-eg2-we",
+      "brand": "hikvision",
+      "url": "https://www.hikvision.com/en/products/Alarm-Products/wireless-intrusion-alarm/ax-pro/ds-pdp15p-eg2-we-b-/",
+      "status": "ok",
+      "sourcePrice": 0,
+      "sourceCurrency": "USD",
+      "note": "browser",
+      "priceRejected": "out-of-range 34.99→0"
+    },
+    {
+      "id": "reolink-argus-4-pro",
+      "brand": "reolink",
+      "url": "https://reolink.com/product/argus-4-pro/",
+      "status": "ok",
+      "sourcePrice": 194.99,
+      "sourceCurrency": "USD"
+    },
+    {
+      "id": "reolink-argus-pt-ultra",
+      "brand": "reolink",
+      "url": "https://reolink.com/product/argus-pt-ultra/",
+      "status": "ok",
+      "sourcePrice": 146.99,
+      "sourceCurrency": "USD"
+    },
+    {
+      "id": "reolink-argus-3-pro",
+      "brand": "reolink",
+      "url": "https://reolink.com/product/argus-3-pro/",
+      "status": "ok",
+      "sourcePrice": 99.99,
+      "sourceCurrency": "USD"
+    },
+    {
+      "id": "reolink-duo-3-poe",
+      "brand": "reolink",
+      "url": "https://reolink.com/product/duo-3-poe/",
+      "status": "ok-no-price",
+      "sourceCurrency": "USD"
+    },
+    {
+      "id": "reolink-rlc-1224a",
+      "brand": "reolink",
+      "url": "https://reolink.com/product/rlc-1224a/",
+      "status": "ok",
+      "sourcePrice": 129.99,
+      "sourceCurrency": "USD"
+    },
+    {
+      "id": "reolink-trackmix-wifi",
+      "brand": "reolink",
+      "url": "https://reolink.com/product/trackmix-wifi/",
+      "status": "ok-no-price",
+      "sourceCurrency": "USD"
+    },
+    {
+      "id": "reolink-e1-pro",
+      "brand": "reolink",
+      "url": "https://reolink.com/product/e1-pro/",
+      "status": "ok",
+      "sourcePrice": 69.99,
+      "sourceCurrency": "USD"
+    },
+    {
+      "id": "reolink-video-doorbell-wifi",
+      "brand": "reolink",
+      "url": "https://reolink.com/product/video-doorbell-wifi/",
+      "status": "ok-no-price",
+      "sourceCurrency": "USD"
+    },
+    {
+      "id": "reolink-rlk8-810b4-a",
+      "brand": "reolink",
+      "url": "https://reolink.com/product/rlk8-810b4-a/",
+      "status": "ok-no-price",
+      "sourceCurrency": "USD"
+    },
+    {
+      "id": "reolink-solar-panel-2",
+      "brand": "reolink",
+      "url": "https://reolink.com/product/solar-panel-2/",
+      "status": "ok-no-price",
+      "sourceCurrency": "USD"
+    },
+    {
+      "id": "safer-link-gz3",
+      "brand": "safer",
+      "url": "https://expo.tuya.com/product/1095053",
+      "status": "ok-no-price",
+      "sourceCurrency": "USD",
+      "note": "browser"
+    },
+    {
+      "id": "safer-link-bz",
+      "brand": "safer",
+      "url": "https://developer.tuya.com/en/docs/iot/Zigbee_Wi-Fi_gateway?id=Kbg4vdcz4bbpr",
+      "status": "unreachable",
+      "note": "no result"
+    },
+    {
+      "id": "safer-cam-dome-2k",
+      "brand": "safer",
+      "url": "https://www.tuyaexpo.com/smart/CT9cn946s6b494-CT9cnjtjjxorup-CT9cnjvqgc9lat",
+      "status": "ok-no-price",
+      "sourceCurrency": "USD",
+      "note": "browser"
+    },
+    {
+      "id": "safer-cam-mini-1080",
+      "brand": "safer",
+      "url": "https://expo.tuya.com/product/798055",
+      "status": "ok-no-price",
+      "sourceCurrency": "USD",
+      "note": "browser"
+    },
+    {
+      "id": "safer-cam-bullet-4k",
+      "brand": "safer",
+      "url": "https://www.tuyaexpo.com/product/461038",
+      "status": "ok-no-price",
+      "sourceCurrency": "USD",
+      "note": "browser"
+    },
+    {
+      "id": "safer-cam-solar-2k",
+      "brand": "safer",
+      "url": "https://tuyaexpo.com/mobile/smart/ip-camera-lock/smart-cameras/battery-camera/CT9cn946s6b494-CT9cnjtjjxorup-CT9cnjzwq7bi8m",
+      "status": "ok-no-price",
+      "sourceCurrency": "USD",
+      "note": "browser"
+    },
+    {
+      "id": "safer-cam-ptz-3mp",
+      "brand": "safer",
+      "url": "https://www.tuyaexpo.com/product/1132190",
+      "status": "ok-no-price",
+      "sourceCurrency": "USD",
+      "note": "browser"
+    },
+    {
+      "id": "safer-bell-2k",
+      "brand": "safer",
+      "url": "https://www.tuyaexpo.com/smart/CT9cn946s6b494-CT9cnjtjjxorup-CT9cnjxhcsofgl",
+      "status": "ok-no-price",
+      "sourceCurrency": "USD",
+      "note": "browser"
+    },
+    {
+      "id": "safer-hub-alarm-4g",
+      "brand": "safer",
+      "url": "https://www.tuyaexpo.com/smart/sensors/alarm-(system)-hub/CT9cn94ki9rh36-CT9cn9mdbn08yr",
+      "status": "ok-no-price",
+      "sourceCurrency": "USD",
+      "note": "browser"
+    },
+    {
+      "id": "safer-motion-p1",
+      "brand": "safer",
+      "url": "https://www.tuyaexpo.com/mobile/smart/sensors/protection-sensor/pir-motion-detector/CT9cn94ki9rh36-CT9cn9la1lzi8j-CT9cnds3wsj8yj",
+      "status": "ok-no-price",
+      "sourceCurrency": "USD",
+      "note": "browser"
+    },
+    {
+      "id": "safer-contact-d1",
+      "brand": "safer",
+      "url": "https://expo.tuya.com/smart/sensors/protection-sensor/door-window-sensor/CT9cn94ki9rh36-CT9cn9la1lzi8j-CT9cndqt2i2xhm",
+      "status": "ok-no-price",
+      "sourceCurrency": "USD",
+      "note": "browser"
+    },
+    {
+      "id": "safer-smoke-s1",
+      "brand": "safer",
+      "url": "https://www.tuyaexpo.com/smart/CT9cn94ki9rh36-CT9cn9lw0nshsl-CT9cne4ihx0bp1",
+      "status": "ok-no-price",
+      "sourceCurrency": "USD",
+      "note": "browser"
+    },
+    {
+      "id": "safer-gas-g1",
+      "brand": "safer",
+      "url": "https://www.tuyaexpo.com/smart/CT9cn94ki9rh36-CT9cn9lw0nshsl-CT9cne58aq7pqh",
+      "status": "ok-no-price",
+      "sourceCurrency": "USD",
+      "note": "browser"
+    },
+    {
+      "id": "safer-leak-l1",
+      "brand": "safer",
+      "url": "https://expo.tuya.com/smart/sensors/protection-sensor/CT9cn94ki9rh36-CT9cn9la1lzi8j",
+      "status": "unreachable",
+      "note": "no result"
+    },
+    {
+      "id": "safer-siren-s2",
+      "brand": "safer",
+      "url": "https://www.tuyaexpo.com/smart/CT9cn94ki9rh36-CT9cn9la1lzi8j-CT9cndtriuarli",
+      "status": "ok-no-price",
+      "sourceCurrency": "USD",
+      "note": "browser"
+    },
+    {
+      "id": "safer-remote-r4",
+      "brand": "safer",
+      "url": "https://www.tuyaexpo.com/smart/CT9cn90yyaumny-CT9cn9725j2rsc-CT9cnjpdilsdgv",
+      "status": "ok-no-price",
+      "sourceCurrency": "USD",
+      "note": "browser"
+    },
+    {
+      "id": "safer-sos-b1",
+      "brand": "safer",
+      "url": "https://expo.tuya.com/smart/sensors/protection-sensor/CT9cn94ki9rh36-CT9cn9la1lzi8j",
+      "status": "ok-no-price",
+      "sourceCurrency": "USD",
+      "note": "browser"
+    },
+    {
+      "id": "safer-lock-d1",
+      "brand": "safer",
+      "url": "https://www.tuyaexpo.com/smart/CT9cn946s6b494-CT9cn9kpzusaws",
+      "status": "ok-no-price",
+      "sourceCurrency": "USD",
+      "note": "browser"
+    },
+    {
+      "id": "safer-plug-16a",
+      "brand": "safer",
+      "url": "https://www.tuyaexpo.com/smart/CT9cn90yyaumny-CT9cn95ninmx4t-CTcnrzdcq4ceho",
+      "status": "ok-no-price",
+      "sourceCurrency": "USD",
+      "note": "browser"
+    },
+    {
+      "id": "safer-switch-w1",
+      "brand": "safer",
+      "url": "https://www.tuyaexpo.com/smart/CT9cn90yyaumny-CT9cn9725j2rsc-CT9cne88opn1hl",
+      "status": "ok-no-price",
+      "sourceCurrency": "USD",
+      "note": "browser"
+    },
+    {
+      "id": "safer-bulb-e27",
+      "brand": "safer",
+      "url": "https://www.tuyaexpo.com/smart/CT9cn91vklm6mj-CT9cn98jv8z0ad-CT9cnch8xd6xiy",
+      "status": "ok-no-price",
+      "sourceCurrency": "USD",
+      "note": "browser"
+    },
+    {
+      "id": "safer-climate-t1",
+      "brand": "safer",
+      "url": "https://developer.tuya.com/en/docs/iot/zigbee-temperature-and-humidity-sensor?id=Kaiuzli8f747i",
+      "status": "unreachable",
+      "note": "no result"
+    },
+    {
+      "id": "safer-ac-ir1",
+      "brand": "safer",
+      "url": "https://www.tuyaexpo.com/smart/CT9cn90yyaumny-CT9cn95ninmx4t-CTbj1c60izmexn",
+      "status": "ok-no-price",
+      "sourceCurrency": "USD",
+      "note": "browser"
+    },
+    {
+      "id": "safer-curtain-m1",
+      "brand": "safer",
+      "url": "https://www.tuyaexpo.com/smart/CT9cn90yyaumny-CT9cn9725j2rsc-CT9cnjv9rp55hv",
+      "status": "ok-no-price",
+      "sourceCurrency": "USD",
+      "note": "browser"
+    },
+    {
+      "id": "somfy-tahoma-switch",
+      "brand": "somfy",
+      "url": "https://www.somfy.fr/produits/1870499/tahoma-switch",
+      "status": "ok-no-price",
+      "sourceCurrency": "EUR",
+      "note": "browser"
+    },
+    {
+      "id": "somfy-home-alarm-advanced",
+      "brand": "somfy",
+      "url": "https://www.somfy.fr/produits/2401499/kit-alarme-somfy-home-alarm-advanced",
+      "status": "ok-no-price",
+      "sourceCurrency": "EUR"
+    },
+    {
+      "id": "somfy-intellitag",
+      "brand": "somfy",
+      "url": "https://www.somfy.fr/produits/2401481/detecteur-intellitag",
+      "status": "ok-no-price",
+      "sourceCurrency": "EUR",
+      "note": "browser"
+    },
+    {
+      "id": "somfy-outdoor-camera",
+      "brand": "somfy",
+      "url": "https://www.somfy.fr/produits/2401493/camera-somfy-outdoor-camera",
+      "status": "ok",
+      "sourcePrice": 396.55,
+      "sourceCurrency": "EUR"
+    },
+    {
+      "id": "somfy-indoor-camera",
+      "brand": "somfy",
+      "url": "https://www.somfy.fr/produits/2401491/camera-somfy-indoor-camera",
+      "status": "ok",
+      "sourcePrice": 194.99,
+      "sourceCurrency": "EUR"
+    },
+    {
+      "id": "somfy-door-keeper",
+      "brand": "somfy",
+      "url": "https://www.somfy.fr/produits/2401488/somfy-door-keeper",
+      "status": "ok",
+      "sourcePrice": 259,
+      "sourceCurrency": "EUR",
+      "priceRejected": "out-of-range 55→259"
+    },
+    {
+      "id": "somfy-elixo-500-3s-io",
+      "brand": "somfy",
+      "url": "https://www.somfy.fr/produits/1216349/motorisation-portail-battant-elixo-500-3s-io",
+      "status": "ok-no-price",
+      "sourceCurrency": "EUR",
+      "note": "browser"
+    },
+    {
+      "id": "somfy-freevia-600",
+      "brand": "somfy",
+      "url": "https://www.somfy.fr/produits/1216551/motorisation-portail-coulissant-freevia-600-io",
+      "status": "ok-no-price",
+      "sourceCurrency": "EUR",
+      "note": "browser"
+    },
+    {
+      "id": "somfy-oximo-io",
+      "brand": "somfy",
+      "url": "https://www.somfy.fr/produits/1035183/moteur-volet-roulant-oximo-io",
+      "status": "ok-no-price",
+      "sourceCurrency": "EUR",
+      "note": "browser"
+    },
+    {
+      "id": "sonoff-zbbridge-p",
+      "brand": "sonoff",
+      "url": "https://sonoff.tech/product/gateway-and-sensor/zbbridge-p/",
+      "status": "ok-no-price",
+      "sourceCurrency": "USD",
+      "note": "browser"
+    },
+    {
+      "id": "sonoff-ihost",
+      "brand": "sonoff",
+      "url": "https://sonoff.tech/product/smart-home-security/ihost/",
+      "status": "ok-no-price",
+      "sourceCurrency": "USD",
+      "note": "browser"
+    },
+    {
+      "id": "sonoff-minir4m",
+      "brand": "sonoff",
+      "url": "https://sonoff.tech/product/diy-smart-switch/minir4m/",
+      "status": "ok-no-price",
+      "sourceCurrency": "USD",
+      "note": "browser"
+    },
+    {
+      "id": "sonoff-s60tpf",
+      "brand": "sonoff",
+      "url": "https://sonoff.tech/product/diy-smart-switch/s60tpf/",
+      "status": "ok-no-price",
+      "sourceCurrency": "USD",
+      "note": "browser"
+    },
+    {
+      "id": "sonoff-tx-ultimate",
+      "brand": "sonoff",
+      "url": "https://sonoff.tech/product/smart-switches-and-modules/tx-ultimate/",
+      "status": "ok-no-price",
+      "sourceCurrency": "USD",
+      "note": "browser"
+    },
+    {
+      "id": "sonoff-snzb-02d",
+      "brand": "sonoff",
+      "url": "https://sonoff.tech/product/gateway-and-sensor/snzb-02d/",
+      "status": "ok-no-price",
+      "sourceCurrency": "USD",
+      "note": "browser"
+    },
+    {
+      "id": "sonoff-snzb-04p",
+      "brand": "sonoff",
+      "url": "https://sonoff.tech/product/gateway-and-sensor/snzb-04p/",
+      "status": "ok-no-price",
+      "sourceCurrency": "USD",
+      "note": "browser"
+    },
+    {
+      "id": "sonoff-powr320d",
+      "brand": "sonoff",
+      "url": "https://sonoff.tech/product/diy-smart-switch/powr320d/",
+      "status": "ok-no-price",
+      "sourceCurrency": "USD",
+      "note": "browser"
+    },
+    {
+      "id": "teltonika-rut241",
+      "brand": "teltonika",
+      "url": "https://www.teltonika-networks.com/products/routers/rut241",
+      "status": "ok-no-price",
+      "sourceCurrency": "USD"
+    },
+    {
+      "id": "teltonika-rut956",
+      "brand": "teltonika",
+      "url": "https://www.teltonika-networks.com/products/routers/rut956",
+      "status": "ok-no-price",
+      "sourceCurrency": "USD"
+    },
+    {
+      "id": "teltonika-rutx11",
+      "brand": "teltonika",
+      "url": "https://www.teltonika-networks.com/products/routers/rutx11",
+      "status": "ok-no-price",
+      "sourceCurrency": "USD"
+    },
+    {
+      "id": "yale-linus-smart-lock-l2",
+      "brand": "yale",
+      "url": "https://yalehome.com/en-us/smart-locks/linus-smart-lock/",
+      "status": "ok-no-price",
+      "sourceCurrency": "EUR",
+      "note": "browser"
+    },
+    {
+      "id": "yale-smart-keypad",
+      "brand": "yale",
+      "url": "https://yalehome.com/en-us/smart-locks/accessories/smart-keypad/",
+      "status": "ok-no-price",
+      "sourceCurrency": "EUR",
+      "note": "browser"
+    },
+    {
+      "id": "yale-smart-cabinet-lock",
+      "brand": "yale",
+      "url": "https://yalehome.com/en-us/smart-locks/smart-cabinet-lock/",
+      "status": "ok-no-price",
+      "sourceCurrency": "EUR",
+      "note": "browser"
+    },
+    {
+      "id": "yale-smart-opener",
+      "brand": "yale",
+      "url": "https://yalehome.com/en-us/smart-locks/smart-opener/",
+      "status": "ok-no-price",
+      "sourceCurrency": "EUR",
+      "note": "browser"
+    }
+  ]
+}

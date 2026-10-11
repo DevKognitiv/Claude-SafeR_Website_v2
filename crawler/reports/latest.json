@@ -1,12 +1,12 @@
 {
-  "checkedAt": "2026-10-10T05:04:07.532Z",
+  "checkedAt": "2026-10-11T04:53:04.723Z",
   "dryRun": false,
   "browser": true,
   "totals": {
     "products": 117,
     "ok": 17,
     "okNoPrice": 97,
-    "priceUpdated": 1,
+    "priceUpdated": 0,
     "priceRejected": 9,
     "imageAdded": 0,
     "browserRequired": 0,
@@ -73,7 +73,7 @@
     "reolink": {
       "products": 10,
       "ok": 10,
-      "priceUpdated": 1,
+      "priceUpdated": 0,
       "browserRequired": 0,
       "blocked": 0,
       "failed": 0
@@ -602,8 +602,7 @@
       "url": "https://reolink.com/product/argus-pt-ultra/",
       "status": "ok",
       "sourcePrice": 146.99,
-      "sourceCurrency": "USD",
-      "priceUpdated": "139.99 → 146.99"
+      "sourceCurrency": "USD"
     },
     {
       "id": "reolink-argus-3-pro",
