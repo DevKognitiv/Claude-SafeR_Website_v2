@@ -1,13 +1,13 @@
 {
-  "checkedAt": "2026-10-14T04:10:40.375Z",
+  "checkedAt": "2026-10-15T03:53:08.983Z",
   "dryRun": false,
   "browser": true,
   "totals": {
     "products": 117,
-    "ok": 17,
-    "okNoPrice": 97,
+    "ok": 10,
+    "okNoPrice": 104,
     "priceUpdated": 0,
-    "priceRejected": 9,
+    "priceRejected": 2,
     "imageAdded": 0,
     "browserRequired": 0,
     "robotsBlocked": 0,
@@ -498,41 +498,33 @@
       "id": "hikvision-ds-2cd2143g2-i",
       "brand": "hikvision",
       "url": "https://www.hikvision.com/en/products/IP-Products/Network-Cameras/Pro-Series-EasyIP-/ds-2cd2143g2-i-s-/",
-      "status": "ok",
-      "sourcePrice": 0,
+      "status": "ok-no-price",
       "sourceCurrency": "USD",
-      "note": "browser",
-      "priceRejected": "out-of-range 129.99→0"
+      "note": "browser"
     },
     {
       "id": "hikvision-ds-2cd2t47g2-l",
       "brand": "hikvision",
       "url": "https://www.hikvision.com/en/products/IP-Products/Network-Cameras/Pro-Series-EasyIP-/ds-2cd2t47g2-l/",
-      "status": "ok",
-      "sourcePrice": 0,
+      "status": "ok-no-price",
       "sourceCurrency": "USD",
-      "note": "browser",
-      "priceRejected": "out-of-range 159.99→0"
+      "note": "browser"
     },
     {
       "id": "hikvision-ds-2cd2347g2-lu",
       "brand": "hikvision",
       "url": "https://www.hikvision.com/us-en/products/network-products/network-cameras/colorvu-series/ds-2cd2347g2-lu/",
-      "status": "ok",
-      "sourcePrice": 0,
+      "status": "ok-no-price",
       "sourceCurrency": "USD",
-      "note": "browser",
-      "priceRejected": "out-of-range 149.99→0"
+      "note": "browser"
     },
     {
       "id": "hikvision-ds-2de2a404iw-de3",
       "brand": "hikvision",
       "url": "https://www.hikvision.com/us-en/products/network-products/ip-ptz-cameras/value-series/ds-2de2a404iw-de3/",
-      "status": "ok",
-      "sourcePrice": 0,
+      "status": "ok-no-price",
       "sourceCurrency": "USD",
-      "note": "browser",
-      "priceRejected": "out-of-range 299.99→0"
+      "note": "browser"
     },
     {
       "id": "hikvision-ds-7608nxi-k2-8p",
@@ -546,11 +538,9 @@
       "id": "hikvision-ds-7104ni-q1-4p",
       "brand": "hikvision",
       "url": "https://www.hikvision.com/en/products/IP-Products/Network-Video-Recorders/Value-Series/ds-7104ni-q1-4p/",
-      "status": "ok",
-      "sourcePrice": 0,
+      "status": "ok-no-price",
       "sourceCurrency": "USD",
-      "note": "browser",
-      "priceRejected": "out-of-range 99.99→0"
+      "note": "browser"
     },
     {
       "id": "hikvision-ds-kv6113-wpe1",
@@ -572,21 +562,17 @@
       "id": "hikvision-ds-pwa64-l-we",
       "brand": "hikvision",
       "url": "https://www.hikvision.com/en/products/Alarm-Products/wireless-intrusion-alarm/ax-pro/ds-pwa64-l-we/",
-      "status": "ok",
-      "sourcePrice": 0,
+      "status": "ok-no-price",
       "sourceCurrency": "USD",
-      "note": "browser",
-      "priceRejected": "out-of-range 189.99→0"
+      "note": "browser"
     },
     {
       "id": "hikvision-ds-pdp15p-eg2-we",
       "brand": "hikvision",
       "url": "https://www.hikvision.com/en/products/Alarm-Products/wireless-intrusion-alarm/ax-pro/ds-pdp15p-eg2-we-b-/",
-      "status": "ok",
-      "sourcePrice": 0,
+      "status": "ok-no-price",
       "sourceCurrency": "USD",
-      "note": "browser",
-      "priceRejected": "out-of-range 34.99→0"
+      "note": "browser"
     },
     {
       "id": "reolink-argus-4-pro",
