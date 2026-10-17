@@ -1,12 +1,12 @@
 {
-  "checkedAt": "2026-10-16T03:48:39.201Z",
+  "checkedAt": "2026-10-17T03:38:44.783Z",
   "dryRun": false,
   "browser": true,
   "totals": {
     "products": 117,
     "ok": 10,
     "okNoPrice": 104,
-    "priceUpdated": 2,
+    "priceUpdated": 1,
     "priceRejected": 2,
     "imageAdded": 0,
     "browserRequired": 0,
@@ -73,7 +73,7 @@
     "reolink": {
       "products": 10,
       "ok": 10,
-      "priceUpdated": 2,
+      "priceUpdated": 1,
       "browserRequired": 0,
       "blocked": 0,
       "failed": 0
@@ -588,8 +588,7 @@
       "url": "https://reolink.com/product/argus-pt-ultra/",
       "status": "ok",
       "sourcePrice": 134.99,
-      "sourceCurrency": "USD",
-      "priceUpdated": "166.99 → 134.99"
+      "sourceCurrency": "USD"
     },
     {
       "id": "reolink-argus-3-pro",
@@ -611,8 +610,9 @@
       "brand": "reolink",
       "url": "https://reolink.com/product/rlc-1224a/",
       "status": "ok",
-      "sourcePrice": 129.99,
-      "sourceCurrency": "USD"
+      "sourcePrice": 110.49,
+      "sourceCurrency": "USD",
+      "priceUpdated": "129.99 → 110.49"
     },
     {
       "id": "reolink-trackmix-wifi",
@@ -627,8 +627,7 @@
       "url": "https://reolink.com/product/e1-pro/",
       "status": "ok",
       "sourcePrice": 69.99,
-      "sourceCurrency": "USD",
-      "priceUpdated": "65.09 → 69.99"
+      "sourceCurrency": "USD"
     },
     {
       "id": "reolink-video-doorbell-wifi",
