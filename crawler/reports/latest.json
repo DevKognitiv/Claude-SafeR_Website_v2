@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-10-25T03:53:26.379Z",
+  "checkedAt": "2026-10-26T03:57:43.383Z",
   "dryRun": false,
   "browser": true,
   "totals": {
@@ -579,8 +579,9 @@
       "brand": "reolink",
       "url": "https://reolink.com/product/argus-4-pro/",
       "status": "ok",
-      "sourcePrice": 214.99,
-      "sourceCurrency": "USD"
+      "sourcePrice": 194.99,
+      "sourceCurrency": "USD",
+      "priceUpdated": "214.99 → 194.99"
     },
     {
       "id": "reolink-argus-pt-ultra",
@@ -626,8 +627,7 @@
       "url": "https://reolink.com/product/e1-pro/",
       "status": "ok",
       "sourcePrice": 65.09,
-      "sourceCurrency": "USD",
-      "priceUpdated": "59.49 → 65.09"
+      "sourceCurrency": "USD"
     },
     {
       "id": "reolink-video-doorbell-wifi",
