@@ -184,7 +184,7 @@
     ],
     "crawl": {
       "status": "ok-no-price",
-      "lastChecked": "2026-10-27T04:18:29.034Z",
+      "lastChecked": "2026-10-28T04:48:22.624Z",
       "sourceTitle": "RUT241",
       "sourceAvailability": "in-stock",
       "sourceCurrency": "USD",
@@ -382,7 +382,7 @@
     ],
     "crawl": {
       "status": "ok-no-price",
-      "lastChecked": "2026-10-27T04:18:29.034Z",
+      "lastChecked": "2026-10-28T04:48:22.624Z",
       "sourceTitle": "RUT956",
       "sourceAvailability": "in-stock",
       "sourceCurrency": "USD",
@@ -571,7 +571,7 @@
     ],
     "crawl": {
       "status": "ok-no-price",
-      "lastChecked": "2026-10-27T04:18:29.034Z",
+      "lastChecked": "2026-10-28T04:48:22.624Z",
       "sourceTitle": "RUTX11",
       "sourceAvailability": "in-stock",
       "sourceCurrency": "USD",
