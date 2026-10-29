@@ -196,7 +196,7 @@
     ],
     "crawl": {
       "status": "ok",
-      "lastChecked": "2026-10-28T04:48:22.624Z",
+      "lastChecked": "2026-10-29T04:59:50.189Z",
       "sourceTitle": "Argus 4 Pro",
       "sourceAvailability": "in-stock",
       "sourcePrice": "179.99",
@@ -401,7 +401,7 @@
     ],
     "crawl": {
       "status": "ok",
-      "lastChecked": "2026-10-28T04:48:22.624Z",
+      "lastChecked": "2026-10-29T04:59:50.189Z",
       "sourceTitle": "Argus PT Ultra",
       "sourceAvailability": "in-stock",
       "sourcePrice": "134.99",
@@ -606,7 +606,7 @@
     ],
     "crawl": {
       "status": "ok",
-      "lastChecked": "2026-10-28T04:48:22.624Z",
+      "lastChecked": "2026-10-29T04:59:50.189Z",
       "sourceTitle": "Argus 3 Pro",
       "sourceAvailability": "in-stock",
       "sourcePrice": "99.99",
@@ -804,7 +804,7 @@
     ],
     "crawl": {
       "status": "ok-no-price",
-      "lastChecked": "2026-10-28T04:48:22.624Z",
+      "lastChecked": "2026-10-29T04:59:50.189Z",
       "sourceTitle": "Page Not Found - Reolink",
       "sourceCurrency": "USD"
     }
@@ -991,7 +991,7 @@
     ],
     "crawl": {
       "status": "ok",
-      "lastChecked": "2026-10-28T04:48:22.624Z",
+      "lastChecked": "2026-10-29T04:59:50.189Z",
       "sourceTitle": "RLC-1224A",
       "sourceAvailability": "in-stock",
       "sourcePrice": "116.99",
@@ -1204,7 +1204,7 @@
     ],
     "crawl": {
       "status": "ok-no-price",
-      "lastChecked": "2026-10-28T04:48:22.624Z",
+      "lastChecked": "2026-10-29T04:59:50.189Z",
       "sourceTitle": "Page Not Found - Reolink",
       "sourceCurrency": "USD"
     }
@@ -1369,7 +1369,7 @@
       }
     ],
     "pricing": {
-      "sourcePrice": 124.19,
+      "sourcePrice": 66.49,
       "sourceCurrency": "USD"
     },
     "availability": "en-stock",
@@ -1395,12 +1395,12 @@
     ],
     "crawl": {
       "status": "ok",
-      "lastChecked": "2026-10-28T04:48:22.624Z",
+      "lastChecked": "2026-10-29T04:59:50.189Z",
       "sourceTitle": "E1 Pro",
       "sourceAvailability": "in-stock",
-      "sourcePrice": "124.19",
+      "sourcePrice": "66.49",
       "sourceCurrency": "USD",
-      "imageUrl": "https://home-cdn.reolink.us/wp-content/uploads/2024/12/2-Cameras-5MP-White.png"
+      "imageUrl": "https://home-cdn.reolink.us/wp-content/uploads/2024/12/1-Cameras-5MP-White.png"
     },
     "imageUrl": "https://home-cdn.reolink.us/wp-content/uploads/2024/10/E1-PRO.png.webp"
   },
@@ -1612,7 +1612,7 @@
     ],
     "crawl": {
       "status": "ok-no-price",
-      "lastChecked": "2026-10-28T04:48:22.624Z",
+      "lastChecked": "2026-10-29T04:59:50.189Z",
       "sourceTitle": "Page Not Found - Reolink",
       "sourceCurrency": "USD"
     }
@@ -1825,7 +1825,7 @@
     ],
     "crawl": {
       "status": "ok-no-price",
-      "lastChecked": "2026-10-28T04:48:22.624Z",
+      "lastChecked": "2026-10-29T04:59:50.189Z",
       "sourceTitle": "[Official] Reolink RLK8-810B4-A | Smart Detection 4K PoE Security Camera System",
       "sourceCurrency": "USD"
     },
@@ -2003,7 +2003,7 @@
     ],
     "crawl": {
       "status": "ok-no-price",
-      "lastChecked": "2026-10-28T04:48:22.624Z",
+      "lastChecked": "2026-10-29T04:59:50.189Z",
       "sourceTitle": "Page Not Found - Reolink",
       "sourceCurrency": "USD"
     }

@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-10-28T04:48:22.624Z",
+  "checkedAt": "2026-10-29T04:59:50.189Z",
   "dryRun": false,
   "browser": true,
   "totals": {
@@ -625,9 +625,9 @@
       "brand": "reolink",
       "url": "https://reolink.com/product/e1-pro/",
       "status": "ok",
-      "sourcePrice": 124.19,
+      "sourcePrice": 66.49,
       "sourceCurrency": "USD",
-      "priceUpdated": "66.49 → 124.19"
+      "priceUpdated": "124.19 → 66.49"
     },
     {
       "id": "reolink-video-doorbell-wifi",
