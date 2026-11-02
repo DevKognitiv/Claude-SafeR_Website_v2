@@ -1,12 +1,12 @@
 {
-  "checkedAt": "2026-11-01T05:08:11.645Z",
+  "checkedAt": "2026-11-02T05:08:44.945Z",
   "dryRun": false,
   "browser": true,
   "totals": {
     "products": 117,
     "ok": 10,
     "okNoPrice": 104,
-    "priceUpdated": 2,
+    "priceUpdated": 1,
     "priceRejected": 2,
     "imageAdded": 0,
     "browserRequired": 0,
@@ -73,7 +73,7 @@
     "reolink": {
       "products": 10,
       "ok": 10,
-      "priceUpdated": 2,
+      "priceUpdated": 1,
       "browserRequired": 0,
       "blocked": 0,
       "failed": 0
@@ -588,8 +588,7 @@
       "url": "https://reolink.com/product/argus-pt-ultra/",
       "status": "ok",
       "sourcePrice": 166.99,
-      "sourceCurrency": "USD",
-      "priceUpdated": "134.99 → 166.99"
+      "sourceCurrency": "USD"
     },
     {
       "id": "reolink-argus-3-pro",
@@ -611,9 +610,9 @@
       "brand": "reolink",
       "url": "https://reolink.com/product/rlc-1224a/",
       "status": "ok",
-      "sourcePrice": 110.49,
+      "sourcePrice": 129.99,
       "sourceCurrency": "USD",
-      "priceUpdated": "116.99 → 110.49"
+      "priceUpdated": "110.49 → 129.99"
     },
     {
       "id": "reolink-trackmix-wifi",
