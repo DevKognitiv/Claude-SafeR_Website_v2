@@ -1,14 +1,14 @@
 {
-  "checkedAt": "2026-11-05T05:50:26.256Z",
+  "checkedAt": "2026-11-06T05:46:11.369Z",
   "dryRun": false,
   "browser": true,
   "totals": {
     "products": 117,
     "ok": 10,
     "okNoPrice": 104,
-    "priceUpdated": 2,
+    "priceUpdated": 1,
     "priceRejected": 2,
-    "imageAdded": 2,
+    "imageAdded": 0,
     "browserRequired": 0,
     "robotsBlocked": 0,
     "unreachable": 3
@@ -73,7 +73,7 @@
     "reolink": {
       "products": 10,
       "ok": 10,
-      "priceUpdated": 2,
+      "priceUpdated": 1,
       "browserRequired": 0,
       "blocked": 0,
       "failed": 0
@@ -243,8 +243,7 @@
       "url": "https://www.aqara.com/en/product/video-doorbell-g4",
       "status": "ok-no-price",
       "sourceCurrency": "USD",
-      "note": "browser",
-      "imageAdded": true
+      "note": "browser"
     },
     {
       "id": "aqara-door-window-sensor-p2",
@@ -266,8 +265,7 @@
       "url": "https://www.aqara.com/en/product/water-leak-sensor",
       "status": "ok-no-price",
       "sourceCurrency": "USD",
-      "note": "browser",
-      "imageAdded": true
+      "note": "browser"
     },
     {
       "id": "aqara-temperature-humidity-sensor-t1",
@@ -589,9 +587,9 @@
       "brand": "reolink",
       "url": "https://reolink.com/product/argus-pt-ultra/",
       "status": "ok",
-      "sourcePrice": 262.43,
+      "sourcePrice": 134.99,
       "sourceCurrency": "USD",
-      "priceUpdated": "134.99 → 262.43"
+      "priceUpdated": "262.43 → 134.99"
     },
     {
       "id": "reolink-argus-3-pro",
@@ -629,8 +627,7 @@
       "url": "https://reolink.com/product/e1-pro/",
       "status": "ok",
       "sourcePrice": 69.99,
-      "sourceCurrency": "USD",
-      "priceUpdated": "66.49 → 69.99"
+      "sourceCurrency": "USD"
     },
     {
       "id": "reolink-video-doorbell-wifi",
