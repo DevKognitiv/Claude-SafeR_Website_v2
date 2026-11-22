@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-21T06:16:50.890Z",
+  "checkedAt": "2026-11-22T05:49:31.813Z",
   "dryRun": false,
   "browser": true,
   "totals": {
@@ -610,9 +610,9 @@
       "brand": "reolink",
       "url": "https://reolink.com/product/rlc-1224a/",
       "status": "ok",
-      "sourcePrice": 178.49,
+      "sourcePrice": 90.99,
       "sourceCurrency": "USD",
-      "priceUpdated": "90.99 → 178.49"
+      "priceUpdated": "178.49 → 90.99"
     },
     {
       "id": "reolink-trackmix-wifi",
