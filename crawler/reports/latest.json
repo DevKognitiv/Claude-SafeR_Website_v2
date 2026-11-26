@@ -1,13 +1,13 @@
 {
-  "checkedAt": "2026-11-25T07:42:06.677Z",
+  "checkedAt": "2026-11-26T07:32:24.103Z",
   "dryRun": false,
   "browser": true,
   "totals": {
     "products": 117,
-    "ok": 10,
-    "okNoPrice": 104,
+    "ok": 13,
+    "okNoPrice": 101,
     "priceUpdated": 0,
-    "priceRejected": 2,
+    "priceRejected": 5,
     "imageAdded": 0,
     "browserRequired": 0,
     "robotsBlocked": 0,
@@ -498,9 +498,11 @@
       "id": "hikvision-ds-2cd2143g2-i",
       "brand": "hikvision",
       "url": "https://www.hikvision.com/en/products/IP-Products/Network-Cameras/Pro-Series-EasyIP-/ds-2cd2143g2-i-s-/",
-      "status": "ok-no-price",
+      "status": "ok",
+      "sourcePrice": 0,
       "sourceCurrency": "USD",
-      "note": "browser"
+      "note": "browser",
+      "priceRejected": "out-of-range 129.99→0"
     },
     {
       "id": "hikvision-ds-2cd2t47g2-l",
@@ -514,17 +516,21 @@
       "id": "hikvision-ds-2cd2347g2-lu",
       "brand": "hikvision",
       "url": "https://www.hikvision.com/us-en/products/network-products/network-cameras/colorvu-series/ds-2cd2347g2-lu/",
-      "status": "ok-no-price",
+      "status": "ok",
+      "sourcePrice": 0,
       "sourceCurrency": "USD",
-      "note": "browser"
+      "note": "browser",
+      "priceRejected": "out-of-range 149.99→0"
     },
     {
       "id": "hikvision-ds-2de2a404iw-de3",
       "brand": "hikvision",
       "url": "https://www.hikvision.com/us-en/products/network-products/ip-ptz-cameras/value-series/ds-2de2a404iw-de3/",
-      "status": "ok-no-price",
+      "status": "ok",
+      "sourcePrice": 0,
       "sourceCurrency": "USD",
-      "note": "browser"
+      "note": "browser",
+      "priceRejected": "out-of-range 299.99→0"
     },
     {
       "id": "hikvision-ds-7608nxi-k2-8p",
