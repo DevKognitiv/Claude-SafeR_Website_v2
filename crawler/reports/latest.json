@@ -1,13 +1,13 @@
 {
-  "checkedAt": "2026-11-26T07:32:24.103Z",
+  "checkedAt": "2026-11-27T07:29:54.044Z",
   "dryRun": false,
   "browser": true,
   "totals": {
     "products": 117,
-    "ok": 13,
-    "okNoPrice": 101,
+    "ok": 12,
+    "okNoPrice": 102,
     "priceUpdated": 0,
-    "priceRejected": 5,
+    "priceRejected": 4,
     "imageAdded": 0,
     "browserRequired": 0,
     "robotsBlocked": 0,
@@ -498,11 +498,9 @@
       "id": "hikvision-ds-2cd2143g2-i",
       "brand": "hikvision",
       "url": "https://www.hikvision.com/en/products/IP-Products/Network-Cameras/Pro-Series-EasyIP-/ds-2cd2143g2-i-s-/",
-      "status": "ok",
-      "sourcePrice": 0,
+      "status": "ok-no-price",
       "sourceCurrency": "USD",
-      "note": "browser",
-      "priceRejected": "out-of-range 129.99→0"
+      "note": "browser"
     },
     {
       "id": "hikvision-ds-2cd2t47g2-l",

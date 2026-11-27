@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T07:48:04.968Z",
+  "generatedAt": "2026-11-27T07:46:07.446Z",
   "lastCatalogSync": "2026-08-31T17:55:48.785Z",
   "schedule": "00:00 UTC",
   "pricing": {
@@ -481,7 +481,7 @@
       ],
       "crawl": {
         "status": "ok-no-price",
-        "lastChecked": "2026-11-26T07:32:24.103Z",
+        "lastChecked": "2026-11-27T07:29:54.044Z",
         "sourceTitle": "Ajax Systems | Official website",
         "sourceCurrency": "EUR",
         "imageUrl": "https://ajax.systems/cdn/og-image/ajax-share.jpg?1746109193",
@@ -695,7 +695,7 @@
       ],
       "crawl": {
         "status": "ok-no-price",
-        "lastChecked": "2026-11-26T07:32:24.103Z",
+        "lastChecked": "2026-11-27T07:29:54.044Z",
         "sourceTitle": "Hub-M3 - Aqara",
         "sourceCurrency": "USD",
         "imageUrl": "https://www.aqara.com/wp-content/uploads/2024/05/2560-Hub-M3_01-815x1024.jpg"
@@ -897,7 +897,7 @@
       ],
       "crawl": {
         "status": "ok-no-price",
-        "lastChecked": "2026-11-26T07:32:24.103Z",
+        "lastChecked": "2026-11-27T07:29:54.044Z",
         "sourceTitle": "IPC-HDW2441T-S Dahua 4MP IR Eyeball WizSense Network Camera",
         "sourceCurrency": "USD",
         "imageUrl": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_04_38032/ProductImage/1_0_01_04_38032_387519766-Black_crop_thumb.png",
@@ -1086,7 +1086,7 @@
       ],
       "crawl": {
         "status": "ok",
-        "lastChecked": "2026-11-26T07:32:24.103Z",
+        "lastChecked": "2026-11-27T07:29:54.044Z",
         "sourceTitle": "EcoFlow RIVER 2 Portable Power Station | EcoFlow US | EcoFlow US",
         "sourcePrice": "11999",
         "sourceCurrency": "USD",
@@ -1315,7 +1315,7 @@
       ],
       "crawl": {
         "status": "ok-no-price",
-        "lastChecked": "2026-11-26T07:32:24.103Z",
+        "lastChecked": "2026-11-27T07:29:54.044Z",
         "sourceTitle": "eufy | Smart Home Simplified",
         "sourceCurrency": "USD",
         "note": "browser"
@@ -1525,7 +1525,7 @@
       ],
       "crawl": {
         "status": "ok-no-price",
-        "lastChecked": "2026-11-26T07:32:24.103Z",
+        "lastChecked": "2026-11-27T07:29:54.044Z",
         "sourceTitle": "EZVIZ - Creating Easy Smart Homes",
         "sourceCurrency": "EUR",
         "note": "browser"
@@ -1725,14 +1725,12 @@
         "hikvision-ds-7608nxi-k2-8p"
       ],
       "crawl": {
-        "status": "ok",
-        "lastChecked": "2026-11-26T07:32:24.103Z",
+        "status": "ok-no-price",
+        "lastChecked": "2026-11-27T07:29:54.044Z",
         "sourceTitle": "4 MP AcuSense Fixed Dome Network Camera",
-        "sourceAvailability": "in-stock",
-        "sourcePrice": "0",
         "sourceCurrency": "USD",
         "imageUrl": "https://assets.hikvision.com/prd/normal/all/image/m000037851/DS-2CD2123G2-IS-半球18-产品图-基线-主图.png",
-        "note": "out-of-range 129.99→0"
+        "note": "browser"
       },
       "imageUrl": "https://assets.hikvision.com/prd/normal/all/image/m000037851/DS-2CD2123G2-IS-半球18-产品图-基线-主图.png",
       "priceXof": 132500,
@@ -1956,7 +1954,7 @@
       ],
       "crawl": {
         "status": "ok-no-price",
-        "lastChecked": "2026-11-26T07:32:24.103Z",
+        "lastChecked": "2026-11-27T07:29:54.044Z",
         "sourceTitle": "AX PRO (868MHz)",
         "sourceCurrency": "USD",
         "imageUrl": "https://assets.hikvision.com/prd/normal/all/image/m000034327/AX-PRO-正视图（L款）.png",
@@ -2167,7 +2165,7 @@
       ],
       "crawl": {
         "status": "ok",
-        "lastChecked": "2026-11-26T07:32:24.103Z",
+        "lastChecked": "2026-11-27T07:29:54.044Z",
         "sourceTitle": "Argus 4 Pro",
         "sourceAvailability": "in-stock",
         "sourcePrice": "150.49",
@@ -2382,7 +2380,7 @@
       ],
       "crawl": {
         "status": "ok-no-price",
-        "lastChecked": "2026-11-26T07:32:24.103Z",
+        "lastChecked": "2026-11-27T07:29:54.044Z",
         "sourceCurrency": "USD",
         "note": "browser"
       },
@@ -2589,7 +2587,7 @@
       ],
       "crawl": {
         "status": "ok-no-price",
-        "lastChecked": "2026-11-26T07:32:24.103Z",
+        "lastChecked": "2026-11-27T07:29:54.044Z",
         "sourceCurrency": "USD",
         "note": "browser"
       },
@@ -2781,7 +2779,7 @@
       ],
       "crawl": {
         "status": "ok-no-price",
-        "lastChecked": "2026-11-26T07:32:24.103Z",
+        "lastChecked": "2026-11-27T07:29:54.044Z",
         "sourceTitle": "Box domotique TaHoma switch : Pilotez volets & équipements connectés | Somfy",
         "sourceCurrency": "EUR",
         "imageUrl": "https://www.somfy.fr/common/img/library//tahoma-switch.png",
@@ -2977,7 +2975,7 @@
       ],
       "crawl": {
         "status": "ok-no-price",
-        "lastChecked": "2026-11-26T07:32:24.103Z",
+        "lastChecked": "2026-11-27T07:29:54.044Z",
         "sourceTitle": "404 Not Found",
         "sourceCurrency": "USD",
         "imageUrl": "http://sonoff.tech/cdn/shop/files/SONOFF-LOGO_8df6f51e-0c8f-46c0-9b92-720dffa82413.png?v=1751266209&width=2048",
@@ -3176,7 +3174,7 @@
       ],
       "crawl": {
         "status": "ok-no-price",
-        "lastChecked": "2026-11-26T07:32:24.103Z",
+        "lastChecked": "2026-11-27T07:29:54.044Z",
         "sourceTitle": "RUT241",
         "sourceAvailability": "in-stock",
         "sourceCurrency": "USD",
@@ -3398,7 +3396,7 @@
       ],
       "crawl": {
         "status": "ok-no-price",
-        "lastChecked": "2026-11-26T07:32:24.103Z",
+        "lastChecked": "2026-11-27T07:29:54.044Z",
         "sourceTitle": "404",
         "sourceCurrency": "EUR",
         "note": "browser"
@@ -3596,7 +3594,7 @@
       ],
       "crawl": {
         "status": "ok-no-price",
-        "lastChecked": "2026-11-26T07:32:24.103Z",
+        "lastChecked": "2026-11-27T07:29:54.044Z",
         "sourceTitle": "Wireless panic button with control mode | Ajax Systems",
         "sourceCurrency": "EUR",
         "imageUrl": "https://ajax.systems/cdn/upload/button_j_share_611dc53474.jpg?1785145696"
@@ -3805,7 +3803,7 @@
       ],
       "crawl": {
         "status": "ok-no-price",
-        "lastChecked": "2026-11-26T07:32:24.103Z",
+        "lastChecked": "2026-11-27T07:29:54.044Z",
         "sourceTitle": "DoorProtect — Wireless magnetic opening detector | Ajax Systems",
         "sourceCurrency": "EUR",
         "imageUrl": "https://ajax.systems/cdn/upload/dp_p_j_share_d047b9c564.jpg?1785340349"
@@ -4020,7 +4018,7 @@
       ],
       "crawl": {
         "status": "ok-no-price",
-        "lastChecked": "2026-11-26T07:32:24.103Z",
+        "lastChecked": "2026-11-27T07:29:54.044Z",
         "sourceTitle": "Ajax Systems | Official website",
         "sourceCurrency": "EUR",
         "imageUrl": "https://ajax.systems/cdn/og-image/ajax-share.jpg?1746109193",
@@ -4224,7 +4222,7 @@
       ],
       "crawl": {
         "status": "ok-no-price",
-        "lastChecked": "2026-11-26T07:32:24.103Z",
+        "lastChecked": "2026-11-27T07:29:54.044Z",
         "sourceTitle": "Ajax Systems | Official website",
         "sourceCurrency": "EUR",
         "imageUrl": "https://ajax.systems/cdn/og-image/ajax-share.jpg?1746109193",
@@ -4425,7 +4423,7 @@
       ],
       "crawl": {
         "status": "ok-no-price",
-        "lastChecked": "2026-11-26T07:32:24.103Z",
+        "lastChecked": "2026-11-27T07:29:54.044Z",
         "sourceTitle": "HomeSiren — Wireless indoor siren | Ajax Systems",
         "sourceCurrency": "EUR",
         "imageUrl": "https://ajax.systems/cdn/upload/hs_share_7df35aa239.jpg?1785496932"
@@ -4653,7 +4651,7 @@
       ],
       "crawl": {
         "status": "ok-no-price",
-        "lastChecked": "2026-11-26T07:32:24.103Z",
+        "lastChecked": "2026-11-27T07:29:54.044Z",
         "sourceTitle": "Ajax Systems | Official website",
         "sourceCurrency": "EUR",
         "imageUrl": "https://ajax.systems/cdn/og-image/ajax-share.jpg?1746109193",
@@ -4872,7 +4870,7 @@
       ],
       "crawl": {
         "status": "ok-no-price",
-        "lastChecked": "2026-11-26T07:32:24.103Z",
+        "lastChecked": "2026-11-27T07:29:54.044Z",
         "sourceTitle": "KeyPad Plus — Security keypad with support for contactless chips",
         "sourceCurrency": "EUR",
         "imageUrl": "https://ajax.systems/cdn/upload/keypad_plus_j_share_1d4db77d40.jpg?1785858406"
@@ -5071,7 +5069,7 @@
       ],
       "crawl": {
         "status": "ok-no-price",
-        "lastChecked": "2026-11-26T07:32:24.103Z",
+        "lastChecked": "2026-11-27T07:29:54.044Z",
         "sourceTitle": "LeaksProtect — Wireless flood detector | Ajax Systems",
         "sourceCurrency": "EUR",
         "imageUrl": "https://ajax.systems/cdn/upload/leaksprotect_share_031575d130.jpg?1783424607"
@@ -5274,7 +5272,7 @@
       ],
       "crawl": {
         "status": "ok-no-price",
-        "lastChecked": "2026-11-26T07:32:24.103Z",
+        "lastChecked": "2026-11-27T07:29:54.044Z",
         "sourceTitle": "MotionProtect — Wireless motion sensor with immunity to animals",
         "sourceCurrency": "EUR",
         "imageUrl": "https://ajax.systems/cdn/upload/mp_share_2e20cd258f.jpg?1714488101"
@@ -5476,7 +5474,7 @@
       ],
       "crawl": {
         "status": "ok-no-price",
-        "lastChecked": "2026-11-26T07:32:24.103Z",
+        "lastChecked": "2026-11-27T07:29:54.044Z",
         "sourceTitle": "Ajax Systems | Official website",
         "sourceCurrency": "EUR",
         "imageUrl": "https://ajax.systems/cdn/og-image/ajax-share.jpg?1746109193",
@@ -5664,7 +5662,7 @@
       ],
       "crawl": {
         "status": "ok-no-price",
-        "lastChecked": "2026-11-26T07:32:24.103Z",
+        "lastChecked": "2026-11-27T07:29:54.044Z",
         "sourceTitle": "Ajax SpaceControl — security system key fob | Ajax Systems",
         "sourceCurrency": "EUR",
         "imageUrl": "https://ajax.systems/cdn/upload/share_space_control_5c4b2007ae.jpg?1785143627"
@@ -5857,7 +5855,7 @@
       ],
       "crawl": {
         "status": "ok-no-price",
-        "lastChecked": "2026-11-26T07:32:24.103Z",
+        "lastChecked": "2026-11-27T07:29:54.044Z",
         "sourceTitle": "StreetSiren — Wireless outdoor siren | Ajax Systems",
         "sourceCurrency": "EUR",
         "imageUrl": "https://ajax.systems/cdn/upload/ss_j_share_f84b385cbd.jpg?1733488934"
@@ -6087,7 +6085,7 @@
       ],
       "crawl": {
         "status": "ok-no-price",
-        "lastChecked": "2026-11-26T07:32:24.103Z",
+        "lastChecked": "2026-11-27T07:29:54.044Z",
         "sourceTitle": "Camera Hub G3 - Aqara",
         "sourceCurrency": "USD",
         "imageUrl": "https://www.aqara.com/wp-content/uploads/2023/04/camera-hub-g3.png"
@@ -6305,7 +6303,7 @@
       ],
       "crawl": {
         "status": "ok-no-price",
-        "lastChecked": "2026-11-26T07:32:24.103Z",
+        "lastChecked": "2026-11-27T07:29:54.044Z",
         "sourceTitle": "Curtain Driver E1 (Track Version) - Aqara",
         "sourceCurrency": "USD",
         "imageUrl": "https://www.aqara.com/wp-content/uploads/2023/05/Aqara-Curtain-Driver-E1-track-version.png"
@@ -6528,7 +6526,7 @@
       ],
       "crawl": {
         "status": "ok-no-price",
-        "lastChecked": "2026-11-26T07:32:24.103Z",
+        "lastChecked": "2026-11-27T07:29:54.044Z",
         "sourceTitle": "Door and Window Sensor P2 - Aqara",
         "sourceCurrency": "USD",
         "imageUrl": "https://www.aqara.com/wp-content/uploads/2023/07/Door-and-Window-Sensor-P2.png"
@@ -6737,7 +6735,7 @@
       ],
       "crawl": {
         "status": "ok-no-price",
-        "lastChecked": "2026-11-26T07:32:24.103Z",
+        "lastChecked": "2026-11-27T07:29:54.044Z",
         "sourceTitle": "Hub M2 - Aqara",
         "sourceCurrency": "USD",
         "imageUrl": "https://www.aqara.com/wp-content/uploads/2023/04/Hub-M2-Zigbee-supported.jpg"
@@ -6947,7 +6945,7 @@
       ],
       "crawl": {
         "status": "ok-no-price",
-        "lastChecked": "2026-11-26T07:32:24.103Z",
+        "lastChecked": "2026-11-27T07:29:54.044Z",
         "sourceTitle": "Motion Sensor P1 - Aqara",
         "sourceCurrency": "USD",
         "imageUrl": "https://www.aqara.com/wp-content/uploads/2023/05/motion-sensor-p1.png"
@@ -7175,7 +7173,7 @@
       ],
       "crawl": {
         "status": "ok-no-price",
-        "lastChecked": "2026-11-26T07:32:24.103Z",
+        "lastChecked": "2026-11-27T07:29:54.044Z",
         "sourceTitle": "Smart Lock U200 - Aqara",
         "sourceCurrency": "USD",
         "imageUrl": "https://www.aqara.com/wp-content/uploads/2024/07/2560-smart-lock-U200_01-scaled.jpg"
@@ -7369,7 +7367,7 @@
       ],
       "crawl": {
         "status": "ok-no-price",
-        "lastChecked": "2026-11-26T07:32:24.103Z",
+        "lastChecked": "2026-11-27T07:29:54.044Z",
         "sourceTitle": "Temperature and Humidity Sensor T1 - Aqara",
         "sourceCurrency": "USD",
         "imageUrl": "https://www.aqara.com/wp-content/uploads/2023/10/BrowserPreview_tmp_01-1024x1004.jpg"
@@ -7598,7 +7596,7 @@
       ],
       "crawl": {
         "status": "ok-no-price",
-        "lastChecked": "2026-11-26T07:32:24.103Z",
+        "lastChecked": "2026-11-27T07:29:54.044Z",
         "sourceTitle": "Page Not Found - Aqara",
         "sourceCurrency": "USD",
         "imageUrl": "https://www.aqara.com/wp-content/uploads/2026/11/1793786233187_Frame-2090060670-1.png",
@@ -7788,7 +7786,7 @@
       ],
       "crawl": {
         "status": "ok-no-price",
-        "lastChecked": "2026-11-26T07:32:24.103Z",
+        "lastChecked": "2026-11-27T07:29:54.044Z",
         "sourceTitle": "Page Not Found - Aqara",
         "sourceCurrency": "USD",
         "imageUrl": "https://www.aqara.com/wp-content/uploads/2026/11/1793786233187_Frame-2090060670-1.png",
@@ -7996,7 +7994,7 @@
       ],
       "crawl": {
         "status": "ok-no-price",
-        "lastChecked": "2026-11-26T07:32:24.103Z",
+        "lastChecked": "2026-11-27T07:29:54.044Z",
         "sourceTitle": "H4C 4MP Indoor Wi-Fi Pan & Tilt Smart Security Camera",
         "sourceCurrency": "USD",
         "imageUrl": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_07_15394/ProductImage/1_0_01_07_15394_522798254_crop_thumb.png",
@@ -8198,7 +8196,7 @@
       ],
       "crawl": {
         "status": "ok-no-price",
-        "lastChecked": "2026-11-26T07:32:24.103Z",
+        "lastChecked": "2026-11-27T07:29:54.044Z",
         "sourceTitle": "IPC-HFW2441S-S 4MP IR Fixed-focal Bullet WizSense Camera",
         "sourceCurrency": "USD",
         "imageUrl": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_04_38024/ProductImage/1_0_01_04_38024_393443946-Black_crop_thumb.png",
@@ -8401,7 +8399,7 @@
       ],
       "crawl": {
         "status": "ok-no-price",
-        "lastChecked": "2026-11-26T07:32:24.103Z",
+        "lastChecked": "2026-11-27T07:29:54.044Z",
         "sourceTitle": "Dahua Technology - World Leading Video-Centric AIoT Solution & Service Provider",
         "sourceCurrency": "USD",
         "imageUrl": "https://material.dahuasecurity.com/uploads/image/20230922/open_graph_logo.jpg",
@@ -8610,7 +8608,7 @@
       ],
       "crawl": {
         "status": "ok-no-price",
-        "lastChecked": "2026-11-26T07:32:24.103Z",
+        "lastChecked": "2026-11-27T07:29:54.044Z",
         "sourceTitle": "Dahua Technology - World Leading Video-Centric AIoT Solution & Service Provider",
         "sourceCurrency": "USD",
         "imageUrl": "https://material.dahuasecurity.com/uploads/image/20230922/open_graph_logo.jpg",
@@ -8811,7 +8809,7 @@
       ],
       "crawl": {
         "status": "ok-no-price",
-        "lastChecked": "2026-11-26T07:32:24.103Z",
+        "lastChecked": "2026-11-27T07:29:54.044Z",
         "sourceTitle": "Video Intercom Systems | Smart Home & Business Intercoms",
         "sourceCurrency": "USD",
         "imageUrl": "https://material.dahuasecurity.com/uploads/image/20230922/open_graph_logo.jpg",
@@ -9012,7 +9010,7 @@
       ],
       "crawl": {
         "status": "ok-no-price",
-        "lastChecked": "2026-11-26T07:32:24.103Z",
+        "lastChecked": "2026-11-27T07:29:54.044Z",
         "sourceTitle": "EcoFlow 110W Solar Panel | Clean Energy | Solar Panels | EcoFlow US",
         "sourceCurrency": "USD"
       },
@@ -9203,7 +9201,7 @@
       ],
       "crawl": {
         "status": "ok-no-price",
-        "lastChecked": "2026-11-26T07:32:24.103Z",
+        "lastChecked": "2026-11-27T07:29:54.044Z",
         "sourceTitle": "New EcoFlow DELTA 2 Portable Power Station | EcoFlow US",
         "sourceCurrency": "USD"
       },
@@ -9426,7 +9424,7 @@
       ],
       "crawl": {
         "status": "ok-no-price",
-        "lastChecked": "2026-11-26T07:32:24.103Z",
+        "lastChecked": "2026-11-27T07:29:54.044Z",
         "sourceTitle": "eufy | Smart Home Simplified",
         "sourceCurrency": "USD",
         "note": "browser"
@@ -9654,7 +9652,7 @@
       ],
       "crawl": {
         "status": "ok-no-price",
-        "lastChecked": "2026-11-26T07:32:24.103Z",
+        "lastChecked": "2026-11-27T07:29:54.044Z",
         "sourceTitle": "eufy | Smart Home Simplified",
         "sourceCurrency": "USD",
         "note": "browser"
@@ -9875,7 +9873,7 @@
       ],
       "crawl": {
         "status": "ok-no-price",
-        "lastChecked": "2026-11-26T07:32:24.103Z",
+        "lastChecked": "2026-11-27T07:29:54.044Z",
         "sourceTitle": "eufy | Smart Home Simplified",
         "sourceCurrency": "USD",
         "note": "browser"
@@ -10079,7 +10077,7 @@
       ],
       "crawl": {
         "status": "ok",
-        "lastChecked": "2026-11-26T07:32:24.103Z",
+        "lastChecked": "2026-11-27T07:29:54.044Z",
         "sourceTitle": "Indoor Cam E220",
         "sourceAvailability": "in-stock",
         "sourcePrice": "59.99",
@@ -10305,7 +10303,7 @@
       ],
       "crawl": {
         "status": "ok-no-price",
-        "lastChecked": "2026-11-26T07:32:24.103Z",
+        "lastChecked": "2026-11-27T07:29:54.044Z",
         "sourceTitle": "eufy | Smart Home Simplified",
         "sourceCurrency": "USD",
         "note": "browser"
@@ -10487,7 +10485,7 @@
       ],
       "crawl": {
         "status": "ok-no-price",
-        "lastChecked": "2026-11-26T07:32:24.103Z",
+        "lastChecked": "2026-11-27T07:29:54.044Z",
         "sourceTitle": "eufy | Smart Home Simplified",
         "sourceCurrency": "USD",
         "note": "browser"
@@ -10708,7 +10706,7 @@
       ],
       "crawl": {
         "status": "ok-no-price",
-        "lastChecked": "2026-11-26T07:32:24.103Z",
+        "lastChecked": "2026-11-27T07:29:54.044Z",
         "sourceTitle": "eufy | Smart Home Simplified",
         "sourceCurrency": "USD",
         "note": "browser"
@@ -10907,7 +10905,7 @@
       ],
       "crawl": {
         "status": "ok-no-price",
-        "lastChecked": "2026-11-26T07:32:24.103Z",
+        "lastChecked": "2026-11-27T07:29:54.044Z",
         "sourceTitle": "EZVIZ - Creating Easy Smart Homes",
         "sourceCurrency": "EUR",
         "note": "browser"
@@ -11110,7 +11108,7 @@
       ],
       "crawl": {
         "status": "ok-no-price",
-        "lastChecked": "2026-11-26T07:32:24.103Z",
+        "lastChecked": "2026-11-27T07:29:54.044Z",
         "sourceTitle": "EZVIZ - Creating Easy Smart Homes",
         "sourceCurrency": "EUR",
         "note": "browser"
@@ -11315,7 +11313,7 @@
       ],
       "crawl": {
         "status": "ok-no-price",
-        "lastChecked": "2026-11-26T07:32:24.103Z",
+        "lastChecked": "2026-11-27T07:29:54.044Z",
         "sourceTitle": "EZVIZ - Creating Easy Smart Homes",
         "sourceCurrency": "EUR",
         "note": "browser"
@@ -11530,7 +11528,7 @@
       ],
       "crawl": {
         "status": "ok-no-price",
-        "lastChecked": "2026-11-26T07:32:24.103Z",
+        "lastChecked": "2026-11-27T07:29:54.044Z",
         "sourceTitle": "EZVIZ - Creating Easy Smart Homes",
         "sourceCurrency": "EUR",
         "note": "browser"
@@ -11759,7 +11757,7 @@
       ],
       "crawl": {
         "status": "ok-no-price",
-        "lastChecked": "2026-11-26T07:32:24.103Z",
+        "lastChecked": "2026-11-27T07:29:54.044Z",
         "sourceTitle": "EZVIZ - Creating Easy Smart Homes",
         "sourceCurrency": "EUR",
         "note": "browser"
@@ -11967,7 +11965,7 @@
       ],
       "crawl": {
         "status": "ok-no-price",
-        "lastChecked": "2026-11-26T07:32:24.103Z",
+        "lastChecked": "2026-11-27T07:29:54.044Z",
         "sourceTitle": "EZVIZ - Creating Easy Smart Homes",
         "sourceCurrency": "EUR",
         "note": "browser"
@@ -12140,7 +12138,7 @@
       ],
       "crawl": {
         "status": "ok-no-price",
-        "lastChecked": "2026-11-26T07:32:24.103Z",
+        "lastChecked": "2026-11-27T07:29:54.044Z",
         "sourceTitle": "EZVIZ - Creating Easy Smart Homes",
         "sourceCurrency": "EUR",
         "note": "browser"
@@ -12338,7 +12336,7 @@
       ],
       "crawl": {
         "status": "ok-no-price",
-        "lastChecked": "2026-11-26T07:32:24.103Z",
+        "lastChecked": "2026-11-27T07:29:54.044Z",
         "sourceTitle": "EZVIZ - Creating Easy Smart Homes",
         "sourceCurrency": "EUR"
       },
@@ -12550,7 +12548,7 @@
       ],
       "crawl": {
         "status": "ok",
-        "lastChecked": "2026-11-26T07:32:24.103Z",
+        "lastChecked": "2026-11-27T07:29:54.044Z",
         "sourceTitle": "4 MP ColorVu Fixed Turret Network Camera",
         "sourceAvailability": "in-stock",
         "sourcePrice": "0",
@@ -12770,7 +12768,7 @@
       ],
       "crawl": {
         "status": "ok-no-price",
-        "lastChecked": "2026-11-26T07:32:24.103Z",
+        "lastChecked": "2026-11-27T07:29:54.044Z",
         "sourceTitle": "Cámara de red de bala fija ColorVu de 4 MP",
         "sourceCurrency": "USD",
         "imageUrl": "https://assets.hikvision.com/prd/normal/all/image/m000032057/筒机45-基线-4K-4mp-右侧-.png",
@@ -12971,7 +12969,7 @@
       ],
       "crawl": {
         "status": "ok",
-        "lastChecked": "2026-11-26T07:32:24.103Z",
+        "lastChecked": "2026-11-27T07:29:54.044Z",
         "sourceTitle": "4 MP 4X Outdoor IR Mini Dome PTZ Network Camera",
         "sourceAvailability": "in-stock",
         "sourcePrice": "0",
@@ -13165,7 +13163,7 @@
       ],
       "crawl": {
         "status": "ok-no-price",
-        "lastChecked": "2026-11-26T07:32:24.103Z",
+        "lastChecked": "2026-11-27T07:29:54.044Z",
         "sourceTitle": "NVR 1U PoE Mini 4 de 4 canales",
         "sourceCurrency": "USD",
         "imageUrl": "https://assets.hikvision.com/prd/normal/all/image/m000000615/渲染图.png",
@@ -13372,7 +13370,7 @@
       ],
       "crawl": {
         "status": "ok-no-price",
-        "lastChecked": "2026-11-26T07:32:24.103Z",
+        "lastChecked": "2026-11-27T07:29:54.044Z",
         "sourceTitle": "Pro Series",
         "sourceCurrency": "USD",
         "note": "browser"
@@ -13576,7 +13574,7 @@
       ],
       "crawl": {
         "status": "ok-no-price",
-        "lastChecked": "2026-11-26T07:32:24.103Z",
+        "lastChecked": "2026-11-27T07:29:54.044Z",
         "sourceTitle": "Face Recognition Terminal",
         "sourceCurrency": "USD",
         "note": "browser"
@@ -13776,7 +13774,7 @@
       ],
       "crawl": {
         "status": "ok-no-price",
-        "lastChecked": "2026-11-26T07:32:24.103Z",
+        "lastChecked": "2026-11-27T07:29:54.044Z",
         "sourceTitle": "Pro Series",
         "sourceCurrency": "USD",
         "note": "browser"
@@ -13981,7 +13979,7 @@
       ],
       "crawl": {
         "status": "ok-no-price",
-        "lastChecked": "2026-11-26T07:32:24.103Z",
+        "lastChecked": "2026-11-27T07:29:54.044Z",
         "sourceTitle": "PIR",
         "sourceCurrency": "USD",
         "imageUrl": "https://assets.hikvision.com/prd/normal/all/image/m000109201/PIR探测器-正视图.png",
@@ -14191,7 +14189,7 @@
       ],
       "crawl": {
         "status": "ok",
-        "lastChecked": "2026-11-26T07:32:24.103Z",
+        "lastChecked": "2026-11-27T07:29:54.044Z",
         "sourceTitle": "Argus 3 Pro",
         "sourceAvailability": "in-stock",
         "sourcePrice": "79.99",
@@ -14402,7 +14400,7 @@
       ],
       "crawl": {
         "status": "ok",
-        "lastChecked": "2026-11-26T07:32:24.103Z",
+        "lastChecked": "2026-11-27T07:29:54.044Z",
         "sourceTitle": "Argus PT Ultra",
         "sourceAvailability": "in-stock",
         "sourcePrice": "99.99",
@@ -14606,7 +14604,7 @@
       ],
       "crawl": {
         "status": "ok-no-price",
-        "lastChecked": "2026-11-26T07:32:24.103Z",
+        "lastChecked": "2026-11-27T07:29:54.044Z",
         "sourceTitle": "Page Not Found - Reolink",
         "sourceCurrency": "USD"
       },
@@ -14803,7 +14801,7 @@
       ],
       "crawl": {
         "status": "ok",
-        "lastChecked": "2026-11-26T07:32:24.103Z",
+        "lastChecked": "2026-11-27T07:29:54.044Z",
         "sourceTitle": "E1 Pro",
         "sourceAvailability": "in-stock",
         "sourcePrice": "52.49",
@@ -15000,7 +14998,7 @@
       ],
       "crawl": {
         "status": "ok",
-        "lastChecked": "2026-11-26T07:32:24.103Z",
+        "lastChecked": "2026-11-27T07:29:54.044Z",
         "sourceTitle": "RLC-1224A",
         "sourceAvailability": "in-stock",
         "sourcePrice": "90.99",
@@ -15223,7 +15221,7 @@
       ],
       "crawl": {
         "status": "ok-no-price",
-        "lastChecked": "2026-11-26T07:32:24.103Z",
+        "lastChecked": "2026-11-27T07:29:54.044Z",
         "sourceTitle": "[Official] Reolink RLK8-810B4-A | Smart Detection 4K PoE Security Camera System",
         "sourceCurrency": "USD"
       },
@@ -15407,7 +15405,7 @@
       ],
       "crawl": {
         "status": "ok-no-price",
-        "lastChecked": "2026-11-26T07:32:24.103Z",
+        "lastChecked": "2026-11-27T07:29:54.044Z",
         "sourceTitle": "Page Not Found - Reolink",
         "sourceCurrency": "USD"
       },
@@ -15621,7 +15619,7 @@
       ],
       "crawl": {
         "status": "ok-no-price",
-        "lastChecked": "2026-11-26T07:32:24.103Z",
+        "lastChecked": "2026-11-27T07:29:54.044Z",
         "sourceTitle": "Page Not Found - Reolink",
         "sourceCurrency": "USD"
       },
@@ -15840,7 +15838,7 @@
       ],
       "crawl": {
         "status": "ok-no-price",
-        "lastChecked": "2026-11-26T07:32:24.103Z",
+        "lastChecked": "2026-11-27T07:29:54.044Z",
         "sourceTitle": "Page Not Found - Reolink",
         "sourceCurrency": "USD"
       },
@@ -16033,7 +16031,7 @@
       ],
       "crawl": {
         "status": "ok-no-price",
-        "lastChecked": "2026-11-26T07:32:24.103Z",
+        "lastChecked": "2026-11-27T07:29:54.044Z",
         "sourceTitle": "Smart Air Conditioner Mate – AC Control Converters | Indoor Outlets | Expo Powered by Tuya",
         "sourceCurrency": "USD",
         "note": "browser"
@@ -16239,7 +16237,7 @@
       ],
       "crawl": {
         "status": "ok-no-price",
-        "lastChecked": "2026-11-26T07:32:24.103Z",
+        "lastChecked": "2026-11-27T07:29:54.044Z",
         "sourceTitle": "Smart Video Doorbells |Smart Cameras | IP Camera&Lock | Expo Powered by Tuya",
         "sourceCurrency": "USD",
         "note": "browser"
@@ -16416,7 +16414,7 @@
       ],
       "crawl": {
         "status": "ok-no-price",
-        "lastChecked": "2026-11-26T07:32:24.103Z",
+        "lastChecked": "2026-11-27T07:29:54.044Z",
         "sourceTitle": "Smart Light Bulbs | Light Bulbs | Lighting | Expo Powered by Tuya",
         "sourceCurrency": "USD",
         "note": "browser"
@@ -16621,7 +16619,7 @@
       ],
       "crawl": {
         "status": "ok-no-price",
-        "lastChecked": "2026-11-26T07:32:24.103Z",
+        "lastChecked": "2026-11-27T07:29:54.044Z",
         "sourceTitle": "Smart Indoor Pan - Tilt Cameras|Smart Cameras | IP Camera&Lock| Expo Powered by Tuya",
         "sourceCurrency": "USD",
         "note": "browser"
@@ -16820,7 +16818,7 @@
       ],
       "crawl": {
         "status": "ok-no-price",
-        "lastChecked": "2026-11-26T07:32:24.103Z",
+        "lastChecked": "2026-11-27T07:29:54.044Z",
         "sourceCurrency": "USD",
         "note": "browser"
       },
@@ -17035,7 +17033,7 @@
       ],
       "crawl": {
         "status": "ok-no-price",
-        "lastChecked": "2026-11-26T07:32:24.103Z",
+        "lastChecked": "2026-11-27T07:29:54.044Z",
         "sourceCurrency": "USD",
         "note": "browser"
       },
@@ -17252,7 +17250,7 @@
       ],
       "crawl": {
         "status": "ok-no-price",
-        "lastChecked": "2026-11-26T07:32:24.103Z",
+        "lastChecked": "2026-11-27T07:29:54.044Z",
         "sourceTitle": "Smart Battery Powered Cameras |Smart Cameras | IP Camera&Lock | Expo Powered by Tuya",
         "sourceCurrency": "USD",
         "note": "browser"
@@ -17445,7 +17443,7 @@
       ],
       "crawl": {
         "status": "unreachable",
-        "lastChecked": "2026-11-26T07:32:24.103Z",
+        "lastChecked": "2026-11-27T07:29:54.044Z",
         "note": "no result"
       },
       "sourceSku": "TS0201",
@@ -17653,7 +17651,7 @@
       ],
       "crawl": {
         "status": "ok-no-price",
-        "lastChecked": "2026-11-26T07:32:24.103Z",
+        "lastChecked": "2026-11-27T07:29:54.044Z",
         "sourceTitle": "Smart Door & Window Sensor |Security Sensor |Sensors | Expo Powered by Tuya",
         "sourceCurrency": "USD",
         "note": "browser"
@@ -17858,7 +17856,7 @@
       ],
       "crawl": {
         "status": "ok-no-price",
-        "lastChecked": "2026-11-26T07:32:24.103Z",
+        "lastChecked": "2026-11-27T07:29:54.044Z",
         "sourceTitle": "Smart Curtain Switches | Switches | Electrical | Expo Powered by Tuya",
         "sourceCurrency": "USD",
         "note": "browser"
@@ -18067,7 +18065,7 @@
       ],
       "crawl": {
         "status": "ok-no-price",
-        "lastChecked": "2026-11-26T07:32:24.103Z",
+        "lastChecked": "2026-11-27T07:29:54.044Z",
         "sourceTitle": "Smart Gas Alarm- Detector | Fire Fighting |Sensors | Expo Powered by Tuya",
         "sourceCurrency": "USD",
         "note": "browser"
@@ -18285,7 +18283,7 @@
       ],
       "crawl": {
         "status": "ok-no-price",
-        "lastChecked": "2026-11-26T07:32:24.103Z",
+        "lastChecked": "2026-11-27T07:29:54.044Z",
         "sourceTitle": "Smart Alarm (System) Hub  |  Sensors | Expo Powered by Tuya",
         "sourceCurrency": "USD",
         "note": "browser"
@@ -18482,7 +18480,7 @@
       ],
       "crawl": {
         "status": "unreachable",
-        "lastChecked": "2026-11-26T07:32:24.103Z",
+        "lastChecked": "2026-11-27T07:29:54.044Z",
         "note": "no result"
       },
       "sourceSku": "TS0207",
@@ -18681,7 +18679,7 @@
       ],
       "crawl": {
         "status": "unreachable",
-        "lastChecked": "2026-11-26T07:32:24.103Z",
+        "lastChecked": "2026-11-27T07:29:54.044Z",
         "note": "no result"
       },
       "sourceSku": "ZB-BLE-GW02",
@@ -18893,7 +18891,7 @@
       ],
       "crawl": {
         "status": "ok-no-price",
-        "lastChecked": "2026-11-26T07:32:24.103Z",
+        "lastChecked": "2026-11-27T07:29:54.044Z",
         "sourceTitle": "Smart Locks | IP Camera&Lock | Expo Powered by Tuya",
         "sourceCurrency": "USD",
         "note": "browser"
@@ -19091,7 +19089,7 @@
       ],
       "crawl": {
         "status": "ok-no-price",
-        "lastChecked": "2026-11-26T07:32:24.103Z",
+        "lastChecked": "2026-11-27T07:29:54.044Z",
         "sourceTitle": "Smart PIR Motion Detector |Security Sensor |Sensors | Expo Powered by Tuya",
         "sourceCurrency": "USD",
         "note": "browser"
@@ -19263,7 +19261,7 @@
       ],
       "crawl": {
         "status": "ok-no-price",
-        "lastChecked": "2026-11-26T07:32:24.103Z",
+        "lastChecked": "2026-11-27T07:29:54.044Z",
         "sourceTitle": "2026 Global IoT Online Exposition | Home Automation Solutions | Smart Home - Tuya Smart",
         "sourceCurrency": "USD",
         "note": "browser"
@@ -19473,7 +19471,7 @@
       ],
       "crawl": {
         "status": "ok-no-price",
-        "lastChecked": "2026-11-26T07:32:24.103Z",
+        "lastChecked": "2026-11-27T07:29:54.044Z",
         "sourceTitle": "Smart Light Switch Scene Controllers | Switches | Electrical | Expo Powered by Tuya",
         "sourceCurrency": "USD",
         "note": "browser"
@@ -19681,7 +19679,7 @@
       ],
       "crawl": {
         "status": "ok-no-price",
-        "lastChecked": "2026-11-26T07:32:24.103Z",
+        "lastChecked": "2026-11-27T07:29:54.044Z",
         "sourceTitle": "Smart Strobe Siren |Security Sensor |Sensors | Expo Powered by Tuya",
         "sourceCurrency": "USD",
         "note": "browser"
@@ -19890,7 +19888,7 @@
       ],
       "crawl": {
         "status": "ok-no-price",
-        "lastChecked": "2026-11-26T07:32:24.103Z",
+        "lastChecked": "2026-11-27T07:29:54.044Z",
         "sourceTitle": "Smart Smoke Alarm - Detector | Fire Fighting |Sensors | Expo Powered by Tuya",
         "sourceCurrency": "USD",
         "note": "browser"
@@ -20096,7 +20094,7 @@
       ],
       "crawl": {
         "status": "ok-no-price",
-        "lastChecked": "2026-11-26T07:32:24.103Z",
+        "lastChecked": "2026-11-27T07:29:54.044Z",
         "sourceTitle": "Smart Security Sensor | Sensors | Expo Powered by Tuya",
         "sourceCurrency": "USD",
         "note": "browser"
@@ -20291,7 +20289,7 @@
       ],
       "crawl": {
         "status": "ok-no-price",
-        "lastChecked": "2026-11-26T07:32:24.103Z",
+        "lastChecked": "2026-11-27T07:29:54.044Z",
         "sourceTitle": "Smart Light Switches | Switches | Electrical | Expo Powered by Tuya",
         "sourceCurrency": "USD",
         "note": "browser"
@@ -20491,7 +20489,7 @@
       ],
       "crawl": {
         "status": "ok",
-        "lastChecked": "2026-11-26T07:32:24.103Z",
+        "lastChecked": "2026-11-27T07:29:54.044Z",
         "sourceTitle": "Pack de 5 détecteurs IntelliTAG® pour gamme Home Alarm et One+  | Somfy",
         "sourcePrice": "259",
         "sourceCurrency": "EUR",
@@ -20690,7 +20688,7 @@
       ],
       "crawl": {
         "status": "ok-no-price",
-        "lastChecked": "2026-11-26T07:32:24.103Z",
+        "lastChecked": "2026-11-27T07:29:54.044Z",
         "sourceTitle": "Box domotique TaHoma switch : Pilotez volets & équipements connectés | Somfy",
         "sourceCurrency": "EUR",
         "imageUrl": "https://www.somfy.fr/common/img/library//tahoma-switch.png",
@@ -20882,7 +20880,7 @@
       ],
       "crawl": {
         "status": "ok-no-price",
-        "lastChecked": "2026-11-26T07:32:24.103Z",
+        "lastChecked": "2026-11-27T07:29:54.044Z",
         "sourceTitle": "Box domotique TaHoma switch : Pilotez volets & équipements connectés | Somfy",
         "sourceCurrency": "EUR",
         "imageUrl": "https://www.somfy.fr/common/img/library//tahoma-switch.png",
@@ -21084,7 +21082,7 @@
       ],
       "crawl": {
         "status": "ok-no-price",
-        "lastChecked": "2026-11-26T07:32:24.103Z",
+        "lastChecked": "2026-11-27T07:29:54.044Z",
         "sourceTitle": "Thermostat connecté radio  | Somfy",
         "sourceCurrency": "EUR",
         "imageUrl": "https://www.somfy.fr/common/img/library//tahoma-switch.png"
@@ -21278,7 +21276,7 @@
       ],
       "crawl": {
         "status": "ok",
-        "lastChecked": "2026-11-26T07:32:24.103Z",
+        "lastChecked": "2026-11-27T07:29:54.044Z",
         "sourceTitle": "Sirène extérieure pour gamme Home Alarm et One+  | Somfy",
         "sourcePrice": "194.99",
         "sourceCurrency": "EUR",
@@ -21466,7 +21464,7 @@
       ],
       "crawl": {
         "status": "ok-no-price",
-        "lastChecked": "2026-11-26T07:32:24.103Z",
+        "lastChecked": "2026-11-27T07:29:54.044Z",
         "sourceTitle": "Box domotique TaHoma switch : Pilotez volets & équipements connectés | Somfy",
         "sourceCurrency": "EUR",
         "imageUrl": "https://www.somfy.fr/common/img/library//tahoma-switch.png",
@@ -21666,7 +21664,7 @@
       ],
       "crawl": {
         "status": "ok",
-        "lastChecked": "2026-11-26T07:32:24.103Z",
+        "lastChecked": "2026-11-27T07:29:54.044Z",
         "sourceTitle": "Système d'alarme avec caméra intégrée - Somfy One+ │ Somfy",
         "sourcePrice": "396.55",
         "sourceCurrency": "EUR",
@@ -21848,7 +21846,7 @@
       ],
       "crawl": {
         "status": "ok-no-price",
-        "lastChecked": "2026-11-26T07:32:24.103Z",
+        "lastChecked": "2026-11-27T07:29:54.044Z",
         "sourceTitle": "Box domotique TaHoma switch : Pilotez volets & équipements connectés | Somfy",
         "sourceCurrency": "EUR",
         "imageUrl": "https://www.somfy.fr/common/img/library//tahoma-switch.png",
@@ -22049,7 +22047,7 @@
       ],
       "crawl": {
         "status": "ok-no-price",
-        "lastChecked": "2026-11-26T07:32:24.103Z",
+        "lastChecked": "2026-11-27T07:29:54.044Z",
         "sourceTitle": "404 Not Found",
         "sourceCurrency": "USD",
         "imageUrl": "http://sonoff.tech/cdn/shop/files/SONOFF-LOGO_8df6f51e-0c8f-46c0-9b92-720dffa82413.png?v=1751266209&width=2048",
@@ -22239,7 +22237,7 @@
       ],
       "crawl": {
         "status": "ok-no-price",
-        "lastChecked": "2026-11-26T07:32:24.103Z",
+        "lastChecked": "2026-11-27T07:29:54.044Z",
         "sourceTitle": "404 Not Found",
         "sourceCurrency": "USD",
         "imageUrl": "http://sonoff.tech/cdn/shop/files/SONOFF-LOGO_8df6f51e-0c8f-46c0-9b92-720dffa82413.png?v=1751266209&width=2048",
@@ -22432,7 +22430,7 @@
       ],
       "crawl": {
         "status": "ok-no-price",
-        "lastChecked": "2026-11-26T07:32:24.103Z",
+        "lastChecked": "2026-11-27T07:29:54.044Z",
         "sourceTitle": "404 Not Found",
         "sourceCurrency": "USD",
         "imageUrl": "http://sonoff.tech/cdn/shop/files/SONOFF-LOGO_8df6f51e-0c8f-46c0-9b92-720dffa82413.png?v=1751266209&width=2048",
@@ -22611,7 +22609,7 @@
       ],
       "crawl": {
         "status": "ok-no-price",
-        "lastChecked": "2026-11-26T07:32:24.103Z",
+        "lastChecked": "2026-11-27T07:29:54.044Z",
         "sourceTitle": "404 Not Found",
         "sourceCurrency": "USD",
         "imageUrl": "http://sonoff.tech/cdn/shop/files/SONOFF-LOGO_8df6f51e-0c8f-46c0-9b92-720dffa82413.png?v=1751266209&width=2048",
@@ -22811,7 +22809,7 @@
       ],
       "crawl": {
         "status": "ok-no-price",
-        "lastChecked": "2026-11-26T07:32:24.103Z",
+        "lastChecked": "2026-11-27T07:29:54.044Z",
         "sourceTitle": "404 Not Found",
         "sourceCurrency": "USD",
         "imageUrl": "http://sonoff.tech/cdn/shop/files/SONOFF-LOGO_8df6f51e-0c8f-46c0-9b92-720dffa82413.png?v=1751266209&width=2048",
@@ -23022,7 +23020,7 @@
       ],
       "crawl": {
         "status": "ok-no-price",
-        "lastChecked": "2026-11-26T07:32:24.103Z",
+        "lastChecked": "2026-11-27T07:29:54.044Z",
         "sourceTitle": "404 Not Found",
         "sourceCurrency": "USD",
         "imageUrl": "http://sonoff.tech/cdn/shop/files/SONOFF-LOGO_8df6f51e-0c8f-46c0-9b92-720dffa82413.png?v=1751266209&width=2048",
@@ -23226,7 +23224,7 @@
       ],
       "crawl": {
         "status": "ok-no-price",
-        "lastChecked": "2026-11-26T07:32:24.103Z",
+        "lastChecked": "2026-11-27T07:29:54.044Z",
         "sourceTitle": "404 Not Found",
         "sourceCurrency": "USD",
         "imageUrl": "http://sonoff.tech/cdn/shop/files/SONOFF-LOGO_8df6f51e-0c8f-46c0-9b92-720dffa82413.png?v=1751266209&width=2048",
@@ -23430,7 +23428,7 @@
       ],
       "crawl": {
         "status": "ok-no-price",
-        "lastChecked": "2026-11-26T07:32:24.103Z",
+        "lastChecked": "2026-11-27T07:29:54.044Z",
         "sourceTitle": "RUT956",
         "sourceAvailability": "in-stock",
         "sourceCurrency": "USD",
@@ -23625,7 +23623,7 @@
       ],
       "crawl": {
         "status": "ok-no-price",
-        "lastChecked": "2026-11-26T07:32:24.103Z",
+        "lastChecked": "2026-11-27T07:29:54.044Z",
         "sourceTitle": "RUTX11",
         "sourceAvailability": "in-stock",
         "sourceCurrency": "USD",
@@ -23825,7 +23823,7 @@
       ],
       "crawl": {
         "status": "ok-no-price",
-        "lastChecked": "2026-11-26T07:32:24.103Z",
+        "lastChecked": "2026-11-27T07:29:54.044Z",
         "sourceTitle": "404",
         "sourceCurrency": "EUR",
         "note": "browser"
@@ -24023,7 +24021,7 @@
       ],
       "crawl": {
         "status": "ok-no-price",
-        "lastChecked": "2026-11-26T07:32:24.103Z",
+        "lastChecked": "2026-11-27T07:29:54.044Z",
         "sourceTitle": "404",
         "sourceCurrency": "EUR",
         "note": "browser"
@@ -24221,7 +24219,7 @@
       ],
       "crawl": {
         "status": "ok-no-price",
-        "lastChecked": "2026-11-26T07:32:24.103Z",
+        "lastChecked": "2026-11-27T07:29:54.044Z",
         "sourceTitle": "404",
         "sourceCurrency": "EUR",
         "note": "browser"
