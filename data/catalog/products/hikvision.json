@@ -188,7 +188,7 @@
     ],
     "crawl": {
       "status": "ok-no-price",
-      "lastChecked": "2026-11-27T07:29:54.044Z",
+      "lastChecked": "2026-11-28T06:59:00.878Z",
       "sourceTitle": "4 MP AcuSense Fixed Dome Network Camera",
       "sourceCurrency": "USD",
       "imageUrl": "https://assets.hikvision.com/prd/normal/all/image/m000037851/DS-2CD2123G2-IS-半球18-产品图-基线-主图.png",
@@ -400,8 +400,8 @@
     ],
     "crawl": {
       "status": "ok-no-price",
-      "lastChecked": "2026-11-27T07:29:54.044Z",
-      "sourceTitle": "Cámara de red de bala fija ColorVu de 4 MP",
+      "lastChecked": "2026-11-28T06:59:00.878Z",
+      "sourceTitle": "4 MP ColorVu Fixed Bullet Network Camera",
       "sourceCurrency": "USD",
       "imageUrl": "https://assets.hikvision.com/prd/normal/all/image/m000032057/筒机45-基线-4K-4mp-右侧-.png",
       "note": "browser"
@@ -608,7 +608,7 @@
     ],
     "crawl": {
       "status": "ok",
-      "lastChecked": "2026-11-27T07:29:54.044Z",
+      "lastChecked": "2026-11-28T06:59:00.878Z",
       "sourceTitle": "4 MP ColorVu Fixed Turret Network Camera",
       "sourceAvailability": "in-stock",
       "sourcePrice": "0",
@@ -805,7 +805,7 @@
     ],
     "crawl": {
       "status": "ok",
-      "lastChecked": "2026-11-27T07:29:54.044Z",
+      "lastChecked": "2026-11-28T06:59:00.878Z",
       "sourceTitle": "4 MP 4X Outdoor IR Mini Dome PTZ Network Camera",
       "sourceAvailability": "in-stock",
       "sourcePrice": "0",
@@ -1008,7 +1008,7 @@
     ],
     "crawl": {
       "status": "ok-no-price",
-      "lastChecked": "2026-11-27T07:29:54.044Z",
+      "lastChecked": "2026-11-28T06:59:00.878Z",
       "sourceTitle": "Pro Series",
       "sourceCurrency": "USD",
       "note": "browser"
@@ -1192,8 +1192,8 @@
     ],
     "crawl": {
       "status": "ok-no-price",
-      "lastChecked": "2026-11-27T07:29:54.044Z",
-      "sourceTitle": "NVR 1U PoE Mini 4 de 4 canales",
+      "lastChecked": "2026-11-28T06:59:00.878Z",
+      "sourceTitle": "4-ch Mini 4 PoE 1U NVR",
       "sourceCurrency": "USD",
       "imageUrl": "https://assets.hikvision.com/prd/normal/all/image/m000000615/渲染图.png",
       "note": "browser"
@@ -1387,7 +1387,7 @@
     ],
     "crawl": {
       "status": "ok-no-price",
-      "lastChecked": "2026-11-27T07:29:54.044Z",
+      "lastChecked": "2026-11-28T06:59:00.878Z",
       "sourceTitle": "Pro Series",
       "sourceCurrency": "USD",
       "note": "browser"
@@ -1585,7 +1585,7 @@
     ],
     "crawl": {
       "status": "ok-no-price",
-      "lastChecked": "2026-11-27T07:29:54.044Z",
+      "lastChecked": "2026-11-28T06:59:00.878Z",
       "sourceTitle": "Face Recognition Terminal",
       "sourceCurrency": "USD",
       "note": "browser"
@@ -1806,7 +1806,7 @@
     ],
     "crawl": {
       "status": "ok-no-price",
-      "lastChecked": "2026-11-27T07:29:54.044Z",
+      "lastChecked": "2026-11-28T06:59:00.878Z",
       "sourceTitle": "AX PRO (868MHz)",
       "sourceCurrency": "USD",
       "imageUrl": "https://assets.hikvision.com/prd/normal/all/image/m000034327/AX-PRO-正视图（L款）.png",
@@ -2007,7 +2007,7 @@
     ],
     "crawl": {
       "status": "ok-no-price",
-      "lastChecked": "2026-11-27T07:29:54.044Z",
+      "lastChecked": "2026-11-28T06:59:00.878Z",
       "sourceTitle": "PIR",
       "sourceCurrency": "USD",
       "imageUrl": "https://assets.hikvision.com/prd/normal/all/image/m000109201/PIR探测器-正视图.png",
